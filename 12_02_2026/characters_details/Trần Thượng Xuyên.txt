@@ -1,0 +1,1440 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Trần Thượng Xuyên (chữ Hán: 陳上川, 1626-1720), tự là Thắng Tài (勝才), hiệu Nghĩa Lược (義略), quê ở làng Ngũ Giáp Điền Thủ, huyện Ngô Xuyên, phủ Cao Châu (Giao Châu), tỉnh Quảng Đông (Trung Quốc), nguyên là tổng binh ba châu Cao - Lôi - Liêm dưới triều Minh. Ông được coi là người đầu tiên có công khai kh...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Trần Thượng Xuyên - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"7bf096e2b48224fc9dbd5e5837adbb9b"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Trần Thượng Xuyên" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Trần Thượng Xuyên (chữ Hán: 陳上川, 1626-1720), tự là Thắng Tài (勝才), hiệu Nghĩa Lược (義略), quê ở làng Ngũ Giáp .." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/tran-thuong-xuyen" />
+	<meta property="og:image" content="https://nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Trần Thượng Xuyên", "item": "https://nguoikesu.com/nhan-vat/tran-thuong-xuyen" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/tran-thuong-xuyen" }, "headline": "Trần Thượng Xuyên", "description": "Trần Thượng Xuyên (chữ Hán: 陳上川, 1626-1720), tự là Thắng Tài (勝才), hiệu Nghĩa Lược (義略), quê ở làng Ngũ Giáp Điền Thủ, huyện Ngô Xuyên, phủ Cao Châu (Giao Châu), tỉnh Quảng Đông (Trung Quốc), nguyên là tổng binh ba châu Cao - Lôi - Liêm dưới triều Minh. Ông được coi là người đầu tiên có công khai khẩn với quy mô lớn vùng đất Biên Hòa, là người được chúa Nguyễn ban danh hiệu cao quý Nguyễn vi vương, Trần vi tướng, đại đại công thần bất tuyệt, được vua Minh Mạng, Thiệu Trị sắc phong &quot;Thượng đẳng thần&quot;.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/tran-thuong-xuyen" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-15T19:10:43+07:00", "dateCreated": "2017-11-15T19:10:43+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Trần Thượng Xuyên</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Trần Thượng Xuyên        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#su-nghiep" title="">Sự nghiệp</a></li>
+<li class="level-2"><a href="#than-phuc-chua-nguyen" title="">Thần phục chúa Nguyễn</a></li>
+<li class="level-2"><a href="#mo-mang-cu-lao-pho" title="">Mở mang cù lao Phố</a></li>
+<li class="level-2"><a href="#giu-an-bo-coi" title="">Giữ an bờ cõi</a></li>
+<li class="level-2"><a href="#mat" title="">Mất</a></li>
+<li class="level-1"><a href="#tuong-nho" title="">Tưởng nhớ</a></li>
+<li class="level-1"><a href="#hau-due" title="">Hậu duệ</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-thuong-xuyen/7cf273ccd2005b022ea6ec7c90518478.jpg" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tr%E1%BA%A7n_Th%C6%B0%E1%BB%A3ng_Xuy%C3%AAn.jpg/300px-Tr%E1%BA%A7n_Th%C6%B0%E1%BB%A3ng_Xuy%C3%AAn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tr%E1%BA%A7n_Th%C6%B0%E1%BB%A3ng_Xuy%C3%AAn.jpg/400px-Tr%E1%BA%A7n_Th%C6%B0%E1%BB%A3ng_Xuy%C3%AAn.jpg 2x" data-file-width="2472" data-file-height="3296" /> <div class="caption"> <div class="magnify"></div> Chánh điện thờ tướng Trần Thượng Xuyên (Đình Tân Lân, Biên Hòa)</div> </div> </div>
+<p><b>Trần Thượng Xuyên</b> (chữ Hán: 陳上川, 1626-1720), tự là <b>Thắng Tài</b> (勝才), hiệu Nghĩa Lược (義略), quê ở làng Ngũ Giáp Điền Thủ, huyện Ngô Xuyên, phủ Cao Châu (Giao Châu), <a class="annotation" href="/dia-danh/tinh-quang-dong" title="Tọa độ: 23°24′B 113°30′Đ / 23,4°B 113,5°Đ / 23.4; 113.5 
+ Quảng Đông là một tỉnh nằm ven bờ biển Đông của Cộng hòa Nhân dân Trung Hoa. Quảng Đông đã vượt qua Hà Nam và Tứ Xuyên để trở thành tỉnh đông dân nhất Trung Quốc vào năm 2005, với 79 triệu cư dân thường trú có hộ khẩu và 31 triệu người nhập c..." target="_blank" >tỉnh Quảng Đông</a> (Trung Quốc)<sup class="annotation badge" title="^ http://www.dongnai.gov.vn/cong-dan/su-kien-noi-bat_CongDan/20081117.137">1</sup> , nguyên là tổng binh ba châu Cao - Lôi - Liêm dưới triều Minh. Ông được coi là người đầu tiên có công khai khẩn với quy mô lớn vùng đất Biên Hòa, là người được chúa Nguyễn ban danh hiệu cao quý <i>Nguyễn vi vương, Trần vi tướng, đại đại công thần bất tuyệt</i><sup class="annotation badge" title="^ Dịch nghĩa: Họ Nguyễn làm vua, họ Trần làm tướng, công khanh đời đời không dứt.">2</sup> , được vua Minh Mạng, Thiệu Trị sắc phong "Thượng đẳng thần".</p>
+<p></p>
+<p></p>
+<a name="than-the"></a><h2>Thân thế</h2>
+<p>Trần Thượng Xuyên quê tại thôn Điền Đầu, trấn Nam Tam, huyện Ngô Xuyên, phủ Cao Châu (nay là thôn Điền Đầu, trấn Nam Tam, khu Pha Đầu, thị Trạm Giang, <a class="annotation" href="/dia-danh/tinh-quang-dong" title="Tọa độ: 23°24′B 113°30′Đ / 23,4°B 113,5°Đ / 23.4; 113.5 
+ Quảng Đông là một tỉnh nằm ven bờ biển Đông của Cộng hòa Nhân dân Trung Hoa. Quảng Đông đã vượt qua Hà Nam và Tứ Xuyên để trở thành tỉnh đông dân nhất Trung Quốc vào năm 2005, với 79 triệu cư dân thường trú có hộ khẩu và 31 triệu người nhập c..." target="_blank" >tỉnh Quảng Đông</a>), xuất thân gia đình thương gia giàu có. Trần Thượng Xuyên vốn là dòng dõi của tướng Trần Văn Long (陳文龍) <a class="annotation" href="/nhan-vat/nha-nam-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Nam Tống</a>, người có công chống quân Nguyên.</p>
+<p>Năm 1642, gia đình Trần Thượng Xuyên đến ở phủ <a class="annotation" href="/nhan-vat/trieu-khanh" title="Triệu Khánh (肇庆) là một địa cấp thị của tỉnh Quảng Đông, Cộng hòa Nhân dân Trung Hoa. 
+ Triệu Khánh quản lý 2 quận, 4 huyện và 2 thành phố cấp huyện:..." target="_blank" >Triệu Khánh</a>. Năm 1644, quân Thanh đánh chiếm hầu hết Trung Quốc, đến tháng 10 năm 1646, Quế Vương Chu Do Lang xưng Giám Quốc, đóng đô ở&#160;<a class="annotation" href="/nhan-vat/trieu-khanh" title="Triệu Khánh (肇庆) là một địa cấp thị của tỉnh Quảng Đông, Cộng hòa Nhân dân Trung Hoa. 
+ Triệu Khánh quản lý 2 quận, 4 huyện và 2 thành phố cấp huyện:..." target="_blank" >Triệu Khánh</a>, tháng 11 lên ngôi, thành lập chính quyền Vĩnh Lịch nhà Nam Minh. Trần Thượng Xuyên liền khỏi binh hưởng ứng Vĩnh Lịch đế. Đến năm 1662 tháng 4, Ngô Tam Quế giết chết Vĩnh Lịch Đế, Trần Thượng Xuyên vẫn tiếp tục kháng Thanh, hoạt động tại bờ biển Quảng Đông, Quảng Tây. Thủ lĩnh kháng Thanh là Trịnh Thành Công sau đó phong cho Thượng Xuyên giữ chức tổng binh ba châu Cao-Lôi-Liêm (高廉雷).</p>
+<p>Năm 1673, nổ ra loạn Tam Phiên, Thượng Xuyên hưởng ứng Ngô Tam Quế, đánh chiếm Khâm Châu. Năm 1679, quân Thanh dẹp loạn Tam Phiên, Thượng Xuyên cùng gia nhân bỏ đi tị nạn.</p>
+<a name="su-nghiep"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Sự nghiệp</h2>
+<a name="than-phuc-chua-nguyen"></a><h3>Thần phục chúa Nguyễn</h3>
+<p>Sách <i>Đại Nam Thực lục (Tiền biên)</i> chép:</p>
+<dl> <dd><i>Kỷ Mùi (1679), mùa xuân tháng Giêng, tướng cũ <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> là Long Môn tổng binh <a class="annotation" href="/nhan-vat/duong-ngan-dich" title="Dương Ngạn Địch (chữ Hán: 楊彥迪,&amp;#160;?-1688), là một thủ lĩnh nông dân phản Thanh phục Minh, tổng binh của nhà Minh Trịnh ở Long Môn, Khâm Châu, Quảng Tây, Trung Quốc. Năm 1679, ông sang thần phục chúa Nguyễn và trở thành người có công trong việc phát triển vùng đất Mỹ Tho, Việt Nam...." target="_blank" >Dương Ngạn Địch</a> và phó tướng Hoàng Tiến; Cao Lôi Liêm, tổng binh Trần Thượng Xuyên và phó tướng Trần An Bình đem hơn 3000 quân và hơn 50 chiến thuyền đến các cửa biển Tư Dung (cửa Tư Hiền) và Đà Nẵng, tự trần là bồ thần (bề tôi mất nước, trốn ra nước ngoài) <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a>, không chịu làm tôi tớ <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>, nên đến xin để làm tôi tớ.</i></dd> <dd><i>Bấy giờ bàn bạc rằng phong tục, tiếng nói của họ đều khác nhau, khó bề sai đúng, nhưng họ bị thế cùng bức bách đến đây thì không nỡ cự tuyệt. Nay đất Đông phố nước Chân Lạp phì nhiêu nghìn dặm, triều đình chưa rỗi mà kinh lý, chi bằng lấy sức của họ đến khai khẩn để ở, làm một việc mà lợi ba điều. Chúa (<a class="annotation" href="/nhan-vat/nguyen-phuc-tan" title="Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu Dương Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm...." target="_blank" >Nguyễn Phúc Tần</a>) theo lời bàn, bèn sai đặt yến ủy lạo khen thưởng, trao cho quan chức đến ở đất Đông Phố.</i></dd> </dl>
+<p>Trước đó, năm&#160;1673, ở&#160;Chân Lạp&#160;đã nổ ra cuộc tranh chấp quyền lực giữa một bên là hai anh em&#160;Ang Chea&#160;(Nặc Ông Đài)-Ang Sur&#160;(Nặc Thu) và bên kia là hai bác cháu Ang Tan (Nặc Tân)-Ang Nan&#160;(Nặc Nộn). Phe Ang Tan-Ang Nan cầu cứu chúa&#160;<a class="annotation" href="/nhan-vat/nguyen-phuc-tan" title="Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu Dương Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm...." target="_blank" >Nguyễn Phúc Tần</a>. Năm&#160;1674, Ang Tan chết, ba năm sau, Ang Chea bị giết.&#160;Chúa Nguyễn&#160;giải hòa hai phe bằng cách phong cho Ang Sur làm chính vương (đóng đô ở&#160;Oudong) và Ang Nan làm phó vương (đóng đô ở Prei Nokor, nay là&#160;Sài Gòn...).</p>
+<p>Vào thời điểm nhóm người Hoa xin tị nạn, biên giới Việt chỉ mới đến bờ trái sông Phan Rang<sup class="annotation badge" title="^ Theo sách Hỏi đáp lịch sử Việt Nam (Tập 3) thì: Năm 1653, quân chúa nguyễn đã tiến đến vùng bờ trái sông Phan Rang ngày nay. Chiêm Thành khi ấy là một chư hầu, phải tuế cống. Năm 1692, vua Chiêm là Bà Tranh đem quân sang sông quấy phá. Chúa Nguyễn Phúc Chu cử thống binh Nguyễn Hữu Cảnh đem quân đánh dẹp. Năm 1693, Bà Tranh bị bắt đến năm sau thì mất. Và đến năm 1697, vùng đất cuối cùng của Chiêm Thành trên thực tế đã được sáp nhập vào lãnh thổ Đại Việt (nhiều tác giả, Nhà xuất bản Trẻ, 2007, tr. 189).">3</sup> , nên chúa <a class="annotation" href="/nhan-vat/nguyen-phuc-tan" title="Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), tước hiệu Dương Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ 4 trong của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm...." target="_blank" >Nguyễn Phúc Tần</a> đã cho người đưa thư đến Ang Nan (vị phó vương đang được chúa Nguyễn bảo vệ) yêu cầu chia cấp đất cho họ vào làm ăn sinh sống quanh vùng đất Prei Nokor (Sài Gòn) và Ang Nan đã đồng ý. Kể từ đó, nhóm Trần Thượng Xuyên đến ở vùng Kâmpéâp Srêkatrey (Biên Hòa) và nhóm <a class="annotation" href="/nhan-vat/duong-ngan-dich" title="Dương Ngạn Địch (chữ Hán: 楊彥迪,&amp;#160;?-1688), là một thủ lĩnh nông dân phản Thanh phục Minh, tổng binh của nhà Minh Trịnh ở Long Môn, Khâm Châu, Quảng Tây, Trung Quốc. Năm 1679, ông sang thần phục chúa Nguyễn và trở thành người có công trong việc phát triển vùng đất Mỹ Tho, Việt Nam...." target="_blank" >Dương Ngạn Địch</a> đến ở vùng Peam Mesar (Mỹ Tho).</p>
+<p>Cũng theo sách <i>Đại Nam Thực lục (Tiền biên)</i>, thì:</p>
+<dl> <dd><i>Binh thuyền của Ngạn Địch và Hoàng Tiến vào cửa Soài Rạp đến đóng ở Mỹ Tho, binh thuyền của Thượng Xuyên và An Bình thì vào cửa Cần Giờ, đến đóng ở Bàn Lân (Biên Hòa). Họ vỡ đất hoang, dựng phố xá, thuyền buôn của người Thanh và các nước Tây dương, Nhật Bản, Chà Và</i><sup class="annotation badge" title="^ Chà và: âm của chữ Java, Chà và là người đến từ đảo Java, về sau từ này được người Việt dùng để gọi tất cả những người có màu da ngăm ngăm như Chà Bom Bay (Bombay, Ấn Độ), Chà Ma ní (Manila, Philippines). Còn Tây dương là người đến từ phía Tây: Pháp, Hà Lan...">4</sup>  <i>đi lại tấp nập</i><sup class="annotation badge" title="^ a ă â Đại Nam Thực lục Tiền biên, soạn năm 1844, Viện Sử học phiên dịch, Nhà xuất bản Sử học, Hà Nội, 1962. tr. 136-140. Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác">5</sup> .</dd> </dl>
+<a name="mo-mang-cu-lao-pho"></a><h3>Mở mang cù lao Phố</h3>
+<p>Ban đầu nhóm Trần Thượng Xuyên đến Bàn Lân<sup class="annotation badge" title="^ Bàn Lân hay Bàng Lân, sau đổi thành Tân Lân, có nghĩa là &quot;Xóm Mới&quot;. Theo nhà văn Sơn Nam thì Bàn Lân là tiếng bằng lăng (một loại cây bản địa, trổ bông tím đẹp) nói trại ra (Cù lao Phố-Cảng biển đầu tiên ở Nam Bộ trong sách Nam Bộ xưa và nay, Nhà xuất bản TP HCM, 2005, tr. 121).">6</sup>  (ngày nay thuộc Biên Hòa) lập nghiệp. Khi đó, vùng đất này còn là rừng rú. Vốn là người ở vùng Đông Nam Trung Quốc, thạo nghề mua bán và công nghệ, họ đã phát hiện ra Cù lao Phố, một bãi sa bồi hoang sơ nằm giữa sông Hương Phước (một đoạn của <a class="annotation" href="/dia-danh/song-dong-nai" title="Sông Đồng Nai là con sông nội địa dài nhất Việt Nam, lớn thứ nhì Nam Bộ về lưu vực, chỉ sau sông Cửu Long. Sông Đồng Nai chảy qua các tỉnh Lâm Đồng, Đăk Nông, Bình Phước, Đồng Nai, Bình Dương, Thành phố Hồ Chí Minh với chiều dài 586&amp;#160;km (364 dặm) và lưu vực 38.600&amp;#160;km² (14.910&amp;#160;mi)...." target="_blank" >sông Đồng Nai</a>), trải dài trên 7 dặm, bề ngang bằng 2/3 bề dài. Tuy nằm cách biển nhưng là nơi sông sâu, nước chảy, có thể ngược lên phía Bắc khai thác nguồn hàng lâm thổ sản, và phía Nam có thể ra biển Cần Giờ hay sang tận Cao Miên.</p>
+<p>Cho nên một phần lớn nhóm người Hoa, đã chuyển từ Bàn Lân đến Cù lao Phố. Và cùng với nhóm lưu dân người Việt đến trước, Trần Thượng Xuyên và lực lượng của mình tiến hành khai khẩn quy mô lớn. Với biệt tài tổ chức, chẳng bao lâu ông đã biến vùng đất hoang sơ trở thành thương cảng, trung tâm thương mại và giao dịch quốc tế của cả vùng Gia Định, tức Nam bộ ngày nay.</p>
+<p>Từ sự phát đạt của thương nghiệp đã lôi kéo những ngành nghề thủ công khác đến như: dệt chiếu, tơ lụa, gốm, đúc đồng, nấu đường, làm bột, đồ gỗ gia dụng, chạm khắc gỗ, đóng thuyền, làm pháo v.v...</p>
+<p>Nhà văn Sơn Nam viết:</p>
+<dl> <dd><i>Vùng cù lao Phố, nòng cốt của Biên Hòa. Đây là vị trí xứng danh ải địa đầu, với đường bộ lên Cao Miên và đường thủy ăn xuống Sài Gòn. Nhóm dân Trung Hoa theo chân Trần Thượng Xuyên gây cơ sở lớn ở Cù lao Phố, chọn vị trí thuận lợi, sát mé sông. Năm măm sau khi định cư, chùa Quan đế dựng lên</i><sup class="annotation badge" title="^ Lịch sử khẩn hoang miền Nam, Nhà xuất bản Văn nghệ TP. HCM, 1994, tr.30.">7</sup> .</dd> </dl>
+<p>Sách <i>Đại Nam nhất thống chí</i> mô tả:</p>
+<dl> <dd><i>Trần Thượng Xuyên chiêu nạp được người buôn <a class="annotation" href="/dia-danh/nuoc-tau" title="Trung Quốc (tiếng Trung: 中国), tên chính thức là nước Cộng hòa Nhân dân Trung Hoa (tiếng Trung: 中华人民共和国), là một quốc gia có chủ quyền nằm tại Đông Á. Đây là quốc gia đông dân nhất trên thế giới, với số dân trên 1,382 tỷ người. Trung Quốc là quốc gia độc đảng do Đảng Cộng sản cầm quyền, chính phủ tru..." target="_blank" >nước Tàu</a>, xây dựng đường phố, lầu quá đôi từng rực rỡ trên bờ sông, liền lạc năm dặm và phân hoạch ra ba nhai lộ: nhai lớn giữa phố lót đá trắng, nhai ngang lót đá ong, nhai nhỏ lót đá xanh, đường rộng bằng phẳng, người buôn tụ tập đông đúc, tàu biển, ghe sông đến đậu chen lấn nhau, còn những nhà buôn to ở đây thì nhiều hơn hết, lập thành một đại đô hội...</i><sup class="annotation badge" title="^ Nguyễn Tạo dịch, Quyển Thượng, Biên Hòa, Nha Văn Hóa Bộ Quốc gia Giáo dục xuất bản, Sài Gòn, 1959, tờ 25.">8</sup> .</dd> </dl>
+<p>Cảnh mua bán rộn rịp cũng được Trịnh Hoài Đức ghi chép lại:</p>
+<dl> <dd><i>Các thuyền ngoại quốc tới nơi này (Cù lao Phố) bỏ neo, mướn nhà ở, rồi kê khai các số hàng trong chuyến ấy cho các hiệu buôn trên đất liền biết. Các hiệu buôn này định giá hàng, tốt lẫn xấu, rồi bao mua tất cả, không để một món hàng nào ứ đọng. Đến ngày trở buồm về, gọi là "hồi đường", chủ thuyền cần mua món hàng gì, cũng phải làm sẵn hóa đơn đặt hàng trước nhờ mua dùm. Như thế, khách chủ đều được tiện lợi và sổ sách phân minh. Khách chỉ việc đàn hát vui chơi, đã có nước ngọt đầy đủ, lại khỏi lo ván thuyền bị hà ăn, khi về lại chở đầy thứ hàng khác rất là thuận lợi...</i><sup class="annotation badge" title="^ Gia Định thành thông chí, mục Xuyên sơn chí.">9</sup> .</dd> </dl>
+<p>Tuy nhiên, sự thịnh vượng của cù lao Phố chỉ kéo dài được 97 năm (1679-1776), bởi đã xảy ra hai sự kiện lớn:</p>
+<ul> <li>Năm 1747, một nhóm khách thương người Phúc Kiến qua lại buôn bán, thấy Cù lao Phố rất giàu có nên dậy lòng tham, muốn chiếm lấy để làm chỗ dung thân lâu dài. Cuộc bạo loạn do Lý Văn Quang (tự xưng là Giản Phố Đại vương) cầm đầu bị quan quân chúa Nguyễn dẹp tan nhanh chóng, nhưng Cù lao Phố cũng đã chịu nhiều thiệt hại.</li> <li>Năm 1776, quân Tây Sơn đã đến đàn áp những người Hoa ở Cù lao Phố vì họ đã ủng hộ Nguyễn Phúc Ánh. Trịnh Hoài Đức mô tả: <i>Nơi đây biến thành gò hoang, sau khi trung hưng người ta tuy có trở về nhưng dân số không được một phần trăm lúc trước</i> (Gia Định thành thông chí). Bởi vậy, các thương gia người Hoa rủ nhau xuống vùng Chợ Lớn (nay là Quận 5 và Quận 6, thuộc <a class="annotation" href="/dia-danh/thanh-pho-ho-chi-minh" title="Thành phố Hồ Chí Minh nghe  (vẫn còn phổ biến với tên gọi cũ là Sài Gòn) là thành phố lớn nhất Việt Nam về dân số và kinh tế, đứng thứ hai về diện tích, đồng thời cũng là một trong những trung tâm kinh tế và văn hóa, giáo dục quan trọng nhất của nước này. Hiện nay, thành phố Hồ Chí Minh là thành phố..." target="_blank" >Thành phố Hồ Chí Minh</a>)<sup class="annotation badge" title="^ Trước khi xảy ra sự kiện này, rất có thể vì lý do kinh tế, một bộ phận của nhóm Trần Thượng Xuyên, từ xã Thanh Hà ở Cù lao Phố (thuộc Trấn Biên), tự tách ra để đến ở trung tâm quận 5, thuộc Thành phố Hồ Chí Minh hiện nay, và thành lập xã Minh Hương vào năm 1698, đúng như Trịnh Hoài Đức đã ghi: &quot;Từ đó, con cháu người Tàu...ở Phiên Trấn lập thành xã Minh Hương rồi ghép vào sổ hộ tịch&quot;... Năm 1885, Trương Vĩnh Ký chỉ rõ: &quot;Địa phận nằm giữa đường Marins (xưa là Đồng Khánh, nay là Trần Hưng Đạo) với mé rạch Chợ Lớn, là nơi trú ngụ của người Minh Hương. Còn đền Trần Tướng quân, thờ Trần Thượng Xuyên, là lãnh tụ người Hoa sang tị nạn ở Việt Nam từ 1679 rồi nhận chức quan với chúa Nguyễn và có công lập chợ phố ở Sài Gòn&quot;. Như vậy có thể nói, năm 1778 không phải là niên đại khai sinh của Chợ Sài Gòn tức Chợ Lớn ngày nay, mà rất có thể là thời điểm người gốc Hoa ở xã Thanh Hà tự sáp nhập với xã Minh Hương mà thôi...(Địa chí văn hóa TP. HCM phần Lịch sử, Nhà xuất bản TP. HCM, 1987, tr. 164-165).">10</sup> , sinh sống và lập những cơ sở thương mãi khác cho đến nay...</li> </ul>
+<p>Kể từ đó, Cù lao Phố đánh mất vai trò là trung tâm thương mại của Đàng Trong mà thay vào đó là Chợ Lớn và Mỹ Tho.</p>
+<a name="giu-an-bo-coi"></a><h3>Giữ an bờ cõi</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-thuong-xuyen/2eb6b4f62703647cb5d10aaf091e26bb.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%90%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg/300px-%C4%90%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%C4%90%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg/400px-%C4%90%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg 2x" data-file-width="3296" data-file-height="2472" /> <div class="caption"> <div class="magnify"></div> Đình Tân Lân, đánh dấu nơi định cư đầu tiên của nhóm Trần Thượng Xuyên ở vùng Đồng Nai.</div> </div> </div>
+<p>Năm Mậu Thìn (1688), phó tướng Hoàng Tiến giết chủ tướng là <a class="annotation" href="/nhan-vat/duong-ngan-dich" title="Dương Ngạn Địch (chữ Hán: 楊彥迪,&amp;#160;?-1688), là một thủ lĩnh nông dân phản Thanh phục Minh, tổng binh của nhà Minh Trịnh ở Long Môn, Khâm Châu, Quảng Tây, Trung Quốc. Năm 1679, ông sang thần phục chúa Nguyễn và trở thành người có công trong việc phát triển vùng đất Mỹ Tho, Việt Nam...." target="_blank" >Dương Ngạn Địch</a> ở cửa biển Mỹ Tho, dời đồn sang Nan Khê (nay là sông Vàm Nao, thuộc <a class="annotation" href="/dia-danh/tinh-an-giang" title="An Giang là tỉnh có dân số đông nhất ở miền Tây Nam Bộ (còn gọi là vùng đồng bằng sông Cửu Long), đồng thời cũng là tỉnh có dân số đứng hạng thứ 6 Việt Nam. Một phần diện tích của tỉnh An Giang nằm trong vùng tứ giác Long Xuyên. 
+ An Giang là một trong sáu tỉnh đầu tiên ở Nam Kỳ (Nam Kỳ lục tỉnh) và..." target="_blank" >tỉnh An Giang</a>), đắp lũy, đúc đại bác, đóng chiến thuyền, thả quân đi cướp bóc. Vua chính nước Chân Lạp là Nặc Thu oán giận, bỏ việc triều cống và đắp ba lũy Bích Đôi, Cầu Nam và Nam Vang, rồi chằng xích sắt ngăn cửa sông, làm kế cố thủ...<sup class="annotation badge" title="^ a ă â Đại Nam Thực lục Tiền biên, soạn năm 1844, Viện Sử học phiên dịch, Nhà xuất bản Sử học, Hà Nội, 1962. tr. 136-140. Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác">5</sup> .</p>
+<p>Vua thứ nhì Chân Lạp là Nặc Nộn (đang đóng ở Sài Gòn) báo gấp lên chúa Nguyễn. Chúa Ngãi Nguyễn Phước Trăn nổi giận, bèn cử tướng Mai Vạn Long ở Dinh Thái Khương giả hiệp quân cùng Tiến đi đánh dẹp Nặc Thu, nhưng kỳ thực cũng để hạ Hoàng Tiến.</p>
+<p>Sách <i>Đại Nam thực lục</i> chép:</p>
+<dl> <dd><i>Tháng giêng năm Kỷ Tỵ (1689), Mai Vạn Long kéo quân đến cửa biển Mỹ Tho, đóng ở Rạch Gầm (nay thuộc <a class="annotation" href="/dia-danh/huyen-chau-thanh" title="Châu Thành là một từ được sử dụng khá nhiều làm địa danh ở miền Nam Việt Nam. Trong lịch sử, danh xưng là một tên chung để gọi “lị sở” hay là “thủ phủ” của tỉnh. Sau biến thành tên riêng của cả loạt “lị sở” hay là “thủ phủ” của nhiều tỉnh ở Nam Kỳ. Ngày nay, địa danh này vẫn còn được sử dụng khá nhi..." target="_blank" >huyện Châu Thành</a>, <a class="annotation" href="/dia-danh/tinh-tien-giang" title="Tiền Giang là một tỉnh ven biển thuộc đồng bằng sông Cửu Long, miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Mỹ Tho trước đó. Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh Tiền Giang ngày nay đều thuộc tỉnh Mỹ Tho, bao gồm cả vùng Gò Công. Tiền Giang là tỉnh vừa thuộc Vùn..." target="_blank" >tỉnh Tiền Giang</a>), sai người đến Nan Khê triệu Hoàng Tiến đem quân sở bộ đến. Vạn Long phải dùng mẹo đánh lừa Tiến đến hội. Quả nhiên Tiến cưỡi thuyền ra sông đến hội. Phục binh vùng dậy, bốn mặt đánh vào, Tiến bỏ thuyền chạy, nhằm lẩn về phía cửa biển Soài Rạp. Vạn Long vào lũy, bắt được vợ con Tiến đều chém cả <sup class="annotation badge" title="^ Tiến sau đó cũng bị bắt và bị giết chết. (Sơn Nam, Gia Định xưa, Nhà xuất bản TP.HCM, 1984, tr.30).">11</sup> , chiêu tập dư chúng quân Long Môn, sai bộ tướng là Trần Thượng Xuyên quản lãnh để làm Tiền phong. Thừa thắng, Vạn Long, Trần Thượng Xuyên tiến đánh, đốt xích sắt ngang sông, liên tiếp lấy được ba luỹ Bích Đôi, Cầu Nam, Nam Vang, bắt Nặc Thu phải hàng phục….</i>.<sup class="annotation badge" title="^ a ă â Đại Nam Thực lục Tiền biên, soạn năm 1844, Viện Sử học phiên dịch, Nhà xuất bản Sử học, Hà Nội, 1962. tr. 136-140. Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác">5</sup> .</dd> </dl>
+<p>Năm 1699 và năm 1700, Trần Thượng Xuyên lại phải cầm quân đến nơi biên giới:</p>
+<dl> <dd><i>Tháng 7 năm 1699, Nặc Thu lại đắp lũy ở Bích Đôi, Nam Vang và Cầu Nam. Trần Thượng Xuyên lúc bấy giờ đang đóng quân ở Doanh Châu (Vĩnh Long), cấp báo lên triều đình. Chúa Nguyễn cử Nguyễn Hữu Cảnh đi vào Nam hiệp quân, đánh dẹp.</i></dd> <dd><i>Tháng 3 năm 1700, Trần Thượng Xuyên đích thân ra trận, giao chiến với quân Chân Lạp, rồi tiến đánh lũy Bích Đôi và Nam Vang. Quân Chân Lạp tan vỡ... Sau trận tiến công này, vùng đất Biên Trấn (Biên Hòa), Phiên Trấn (Gia Định), Định Tường, Long Hồ (Vĩnh Long), An Giang đã được sáp nhập vào Đại Việt.</i><sup class="annotation badge" title="^ Lương Văn Lựu, Biên Hòa sử lược toàn biên, Quyển 2, Sài Gòn, 1973, tr. 118-120.">12</sup> .</dd> </dl>
+<p>Và lần thứ ba... Sách <i>Việt Nam sử lược</i> chép:</p>
+<dl> <dd><i>Năm Giáp Ngọ (1714), quân của Nặc Ông Thâm đến lấy thành La Bích và vây đánh Nặc Ông Yêm nguy cấp lắm. Ông Yêm sai người sang Gia Định cầu cứu. Quan đô đốc Phiên Trấn (Gia Định) là Trần Thượng Xuyên và quan phó tướng <a class="annotation" href="/dia-danh/tran-bien" title="Trấn Biên có thể là:..." target="_blank" >Trấn Biên</a> (Biên Hòa) là Nguyễn Cửu Phú phát binh sang đánh, vây Nặc Ông Thu và Nặc Ông Thâm ở trong thành La Bích. Nặc Ông Thu và Nặc Ông Thâm sợ hãi, bỏ thành chạy sang Tiêm la (Xiêm). Bọn ông Trần Thượng Xuyên lập Nặc Ông Yêm lên làm vua Chân Lạp...…</i><sup class="annotation badge" title="^ Trần Trọng Kim, Việt Nam sử lược. Nhà xuất bản Tân Việt, Sài Gòn, 1968, tr. 331.">13</sup> .</dd> </dl>
+<a name="mat"></a><h3>Mất</h3>
+<p>Suốt 15 năm, Trần Thượng Xuyên vừa hỗ trợ các tướng chúa Nguyễn ổn định tình hình quân sự, chính trị ở Gia Định và Chân Lạp, vừa lo mở mang buôn bán ở Cù lao Phố. Vào ngày 23 tháng 10 âm lịch năm 1720, ông mất và được an táng ở làng Mỹ Lộc, xã Tân Mỹ, huyện Tân Uyên, <a class="annotation" href="/dia-danh/tinh-binh-duong" title="Bình Dương là tỉnh thuộc vùng Đông Nam Bộ Việt Nam. Tỉnh lỵ của Bình Dương hiện nay là thành phố Thủ Dầu Một, cách trung tâm Thành phố Hồ Chí Minh 30&amp;#160;km theo đường Quốc lộ 13. Đây là tỉnh có dân số đông thứ 7 trong 63 Tỉnh thành Việt Nam. 
+ Bình Dương là vùng đất chiến trường năm xưa với những ..." target="_blank" >tỉnh Bình Dương</a>.</p>
+<p>Trải qua mấy thế kỷ, mộ Trần Thượng Xuyên cùng các ngôi mộ của các gia tướng đều đã rất hoang tàn và rêu phong. Sau, nhờ ngành chức năng và một số các nhà nghiên cứu đến khảo sát mới xác định được đây là mộ của Trần Thượng Xuyên <sup class="annotation badge" title="^ Theo web Văn nghệ Cửu Long">14</sup> .</p>
+<a name="tuong-nho"></a><h2>Tưởng nhớ</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-thuong-xuyen/0bc1d0d4707ce8b9687e7fcc95baad92.jpg" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bia_%C4%91%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg/300px-Bia_%C4%91%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bia_%C4%91%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg/400px-Bia_%C4%91%C3%ACnh_T%C3%A2n_L%C3%A2n.jpg 2x" data-file-width="2472" data-file-height="3296" /> <div class="caption"> <div class="magnify"></div> Bia ghi công Trần Thượng Xuyên trước đình Tân Lân.</div> </div> </div>
+<p>Trần Thượng Xuyên được lịch sử xác định là người có công lớn trong công cuộc khai phá và xây dựng vùng đất Đồng Nai-Gia Định. Công đức to lớn của ông được nhân dân ghi tạc, tôn thờ và xem ông như vị thần đã khai sáng vùng đất này.</p>
+<p>Mặt khác, Trần Thượng Xuyên còn là một dũng tướng thao lược của chúa Nguyễn. Ông đã nhiều lần cầm binh đánh dẹp Cao Miên, giữ an bờ cõi, mở rộng biên cương <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a>. Chính vì vậy, chúa Nguyễn đã ban danh hiệu cao quý <i>Nguyễn vi vương, Trần vi tướng, đại đại công thần bất tuyệt</i>. Các vua Minh Mạng, Thiệu Trị đều phong ông làm "Thượng đẳng thần".</p>
+<p>Để tỏ lòng ngưỡng mộ và đền đáp công ơn người đã có công tổ chức khai phá, mở mang vùng đất Đồng Nai-Gia Định, nhân dân ở những nơi này gọi Trần Thượng Xuyên là "Đức Ông" và đều có lập đền thờ ông. Trong số ấy có Đình Tân Lân (Xóm Mới) ở Biên Hòa, nơi thờ chính tướng Trần Thượng Xuyên, đã được Bộ Văn hóa-Thông tin-Thể thao và Du lịch xếp hạng <i>di tích lịch sử, kiến trúc nghệ thuật cấp quốc gia</i> theo Quyết định số 457/QĐ, ngày 25 tháng 3 năm 1991. Ngoài ra, Đình Minh Hương Gia Thạnh ở quận 5, <a class="annotation" href="/dia-danh/thanh-pho-ho-chi-minh" title="Thành phố Hồ Chí Minh nghe  (vẫn còn phổ biến với tên gọi cũ là Sài Gòn) là thành phố lớn nhất Việt Nam về dân số và kinh tế, đứng thứ hai về diện tích, đồng thời cũng là một trong những trung tâm kinh tế và văn hóa, giáo dục quan trọng nhất của nước này. Hiện nay, thành phố Hồ Chí Minh là thành phố..." target="_blank" >Thành phố Hồ Chí Minh</a> cũng có gian thờ ông.</p>
+<a name="hau-due"></a><h2>Hậu duệ</h2>
+<p>Trần Thượng Xuyên có người con trai tên Trần Đại Định, cưới con gái của <a class="annotation" href="/nhan-vat/mac-cuu" title="Mạc Cửu (鄚玖), hay Mạc Kính Cửu (鄚敬玖): 1655 - 1735); là một thương gia người Hoa có công khai phá, hình thành vùng đất Hà Tiên (Kiên Giang) vào khoảng đầu thế kỷ 18 ở Việt Nam...." target="_blank" >Mạc Cửu</a>, tổng trấn Hà Tiên. Năm 1725, Đại Định nối nghiệp cha, phục vụ dưới triều chúa Nguyễn Phúc Chú, được tập phong tước Định Viễn hầu, chức tổng binh, chỉ huy cả hai đạo binh Phiên Trấn và Long Môn. Năm Nhâm Tý (1731), quân Chân Lạp do một lưu dân Lào ở làng Prea Sot (Sà Tốt) đứng đầu sang cướp phá ở Gia Định, ông đắp lũy đất ở Hoa Phong để chống cự và rồi đánh đuổi được. Tuy lập được công, nhưng ông bị Thống suất Trương Phước Vĩnh vu tội, phải chạy ra kêu oan với chúa Nguyễn. Chúa Ninh sai giam ông vào nhà lao Quảng Nam. Khi điều tra ra việc thì ông đã bị ốm chết trong ngục. Trần Đại Định được chúa Ninh truy tặng hàm Ðô Ðốc Ðồng Tri thụy là <i>Trương Mẫn</i>, còn Phước Vĩnh vì tội vu oan bị giáng xuống làm cai đội<sup class="annotation badge" title="^ Xem chi tiết trong Gia Định thành thông chí (Quyển 6: Thành trì chí, mục: Cầu Cao Miên) [1].">15</sup> .</p>
+<p>Con trai của Trần Đại Định là Trần Đại Lực (tức <a class="annotation" href="/nhan-vat/tran-hau" title="Trần Hầu hay Trần Cơ (陳機), tên thật là Trần Đại Lực (? - 1770); là cháu của đô đốc Mạc Thiên Tứ và là võ quan dưới thời chúa Nguyễn Phúc Thuần trong lịch sử Việt Nam...." target="_blank" >Trần Hầu</a>), rất được cậu ruột là Mạc Thiên Tích thương yêu và tin dùng. Họ Trần ở Biên Hòa và Họ Mạc ở Hà Tiên kết thông gia nhiều đời, như vợ Mạc Thiên Tích là người họ Trần quê ở Đồng Môn <sup class="annotation badge" title="^ Trương Minh Đạt, Nghiên cứu Hà Tiên, (Nhà xuất bản Trẻ, 2008, tr. 153-155) và [2]">16</sup> .</p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li><a class="annotation" href="/nhan-vat/duong-ngan-dich" title="Dương Ngạn Địch (chữ Hán: 楊彥迪,&amp;#160;?-1688), là một thủ lĩnh nông dân phản Thanh phục Minh, tổng binh của nhà Minh Trịnh ở Long Môn, Khâm Châu, Quảng Tây, Trung Quốc. Năm 1679, ông sang thần phục chúa Nguyễn và trở thành người có công trong việc phát triển vùng đất Mỹ Tho, Việt Nam...." target="_blank" >Dương Ngạn Địch</a></li> <li>Cù lao Phố</li> <li>Đình Tân Lân</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">http://www.dongnai.gov.vn/cong-dan/su-kien-noi-bat_CongDan/20081117.137</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Dịch nghĩa: Họ Nguyễn làm vua, họ Trần làm tướng, công khanh đời đời không dứt.</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Theo sách <i>Hỏi đáp lịch sử Việt Nam (Tập 3)</i> thì: Năm 1653, quân chúa nguyễn đã tiến đến vùng bờ trái sông Phan Rang ngày nay. Chiêm Thành khi ấy là một chư hầu, phải tuế cống. Năm 1692, vua Chiêm là Bà Tranh đem quân sang sông quấy phá. Chúa <a class="annotation" href="/nhan-vat/nguyen-phuc-chu" title="Nguyễn Phúc Chu (chữ Hán: 阮福淍, 1675 – 1725) là vị chúa Nguyễn thứ sáu của chính quyền Đàng Trong trong lịch sử Việt Nam (ở ngôi từ 1691 đến 1725), nối ngôi Nguyễn Phúc Thái. Dưới thời Nguyễn Phúc Chu, lãnh thổ Đại Việt được mở rộng đáng kể về phía Nam sau các cuộc chiến với Chiêm Thành và Chân Lạp...." target="_blank" >Nguyễn Phúc Chu</a> cử thống binh Nguyễn Hữu Cảnh đem quân đánh dẹp. Năm 1693, Bà Tranh bị bắt đến năm sau thì mất. Và đến năm 1697, vùng đất cuối cùng của Chiêm Thành trên thực tế đã được sáp nhập vào lãnh thổ Đại Việt (nhiều tác giả, Nhà xuất bản Trẻ, 2007, tr. 189).</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Chà và: âm của chữ Java, Chà và là người đến từ đảo Java, về sau từ này được người Việt dùng để gọi tất cả những người có màu da ngăm ngăm như Chà Bom Bay (Bombay, Ấn Độ), Chà Ma ní (Manila, Philippines). Còn Tây dương là người đến từ phía Tây: Pháp, Hà Lan...</span></li> <li id="cite_note-a-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Đại Nam Thực lục Tiền biên</i>, soạn năm 1844, Viện Sử học phiên dịch, Nhà xuất bản Sử học, Hà Nội, 1962. tr. 136-140. <span class="error mw-ext-cite-error" lang="vi" dir="ltr" xml:lang="vi">Lỗi chú thích: Thẻ <code>&lt;ref&gt;</code> không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác</span> <span class="error mw-ext-cite-error" lang="vi" dir="ltr" xml:lang="vi">Lỗi chú thích: Thẻ <code>&lt;ref&gt;</code> không hợp lệ: tên “a” được định rõ nhiều lần, mỗi lần có nội dung khác</span></span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Bàn Lân hay Bàng Lân, sau đổi thành Tân Lân, có nghĩa là "Xóm Mới". Theo nhà văn Sơn Nam thì Bàn Lân là tiếng bằng lăng (một loại cây bản địa, trổ bông tím đẹp) nói trại ra (<i>Cù lao Phố-Cảng biển đầu tiên ở Nam Bộ</i> trong sách <i>Nam Bộ xưa và nay</i>, Nhà xuất bản TP HCM, 2005, tr. 121).</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><i>Lịch sử khẩn hoang miền Nam</i>, Nhà xuất bản Văn nghệ TP. HCM, 1994, tr.30.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Nguyễn Tạo dịch, Quyển Thượng, Biên Hòa, Nha Văn Hóa Bộ Quốc gia Giáo dục xuất bản, Sài Gòn, 1959, tờ 25.</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text"><i>Gia Định thành thông chí</i>, mục <i>Xuyên sơn chí</i>.</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Trước khi xảy ra sự kiện này, rất có thể vì lý do kinh tế, một bộ phận của nhóm Trần Thượng Xuyên, từ xã Thanh Hà ở Cù lao Phố (thuộc <a class="annotation" href="/dia-danh/tran-bien" title="Trấn Biên có thể là:..." target="_blank" >Trấn Biên</a>), tự tách ra để đến ở trung tâm quận 5, thuộc <a class="annotation" href="/dia-danh/thanh-pho-ho-chi-minh" title="Thành phố Hồ Chí Minh nghe  (vẫn còn phổ biến với tên gọi cũ là Sài Gòn) là thành phố lớn nhất Việt Nam về dân số và kinh tế, đứng thứ hai về diện tích, đồng thời cũng là một trong những trung tâm kinh tế và văn hóa, giáo dục quan trọng nhất của nước này. Hiện nay, thành phố Hồ Chí Minh là thành phố..." target="_blank" >Thành phố Hồ Chí Minh</a> hiện nay, và thành lập xã Minh Hương vào năm 1698, đúng như Trịnh Hoài Đức đã ghi: "Từ đó, con cháu người Tàu...ở Phiên Trấn lập thành xã Minh Hương rồi ghép vào sổ hộ tịch"... Năm 1885, Trương Vĩnh Ký chỉ rõ: "Địa phận nằm giữa đường Marins (xưa là Đồng Khánh, nay là <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>) với mé rạch Chợ Lớn, là nơi trú ngụ của người Minh Hương. Còn đền Trần Tướng quân, thờ Trần Thượng Xuyên, là lãnh tụ người Hoa sang tị nạn ở Việt Nam từ 1679 rồi nhận chức quan với chúa Nguyễn và có công lập chợ phố ở Sài Gòn". Như vậy có thể nói, năm 1778 không phải là niên đại khai sinh của Chợ Sài Gòn tức Chợ Lớn ngày nay, mà rất có thể là thời điểm người gốc Hoa ở xã Thanh Hà tự sáp nhập với xã Minh Hương mà thôi...(<i>Địa chí văn hóa TP. HCM</i> phần <i>Lịch sử</i>, Nhà xuất bản TP. HCM, 1987, tr. 164-165).</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Tiến sau đó cũng bị bắt và bị giết chết. (Sơn Nam, <i>Gia Định xưa</i>, Nhà xuất bản TP.HCM, 1984, tr.30).</span></li> <li id="cite_note-b-12"><b>^</b> <span class="reference-text">Lương Văn Lựu, <i>Biên Hòa sử lược toàn biên</i>, Quyển 2, Sài Gòn, 1973, tr. 118-120.</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, <i>Việt Nam sử lược</i>. Nhà xuất bản Tân Việt, Sài Gòn, 1968, tr. 331.</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text">Theo web Văn nghệ Cửu Long</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Xem chi tiết trong Gia Định thành thông chí (Quyển 6: <i>Thành trì chí</i>, mục: <i>Cầu Cao Miên</i>) [1].</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Trương Minh Đạt, <i>Nghiên cứu Hà Tiên</i>, (Nhà xuất bản Trẻ, 2008, tr. 153-155) và [2]</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/tran-thuong" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Trần Thương            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/tran-thuyen" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Trần Thuyên            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/tran-thuong-xuyen" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-thai-binh" class="mod-articles-category-title ">Đền Trần (Thái Bình)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

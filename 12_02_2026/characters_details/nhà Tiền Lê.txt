@@ -1,0 +1,1549 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nhà Tiền Lê • Tiền Lê triều) là một triều đại trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hi...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>nhà Tiền Lê - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"4cc463717972a91c01a506c0c972f5cb"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="nhà Tiền Lê" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nh.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nha-tien-le" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nha-tien-le/dfb49320b59c3d909e5fee209a5cb2c4.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "nhà Tiền Lê", "item": "https://nguoikesu.com/nhan-vat/nha-tien-le" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nha-tien-le" }, "headline": "nhà Tiền Lê", "description": "Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nhà Tiền Lê • Tiền Lê triều) là một triều đại trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt. Triều đại này được kế tục bởi nhà Lý, được sáng lập bởi Lý Công Uẩn.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nha-tien-le/dfb49320b59c3d909e5fee209a5cb2c4.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nha-tien-le" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-31T10:28:09+07:00", "dateCreated": "2017-10-31T10:28:09+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>nhà Tiền Lê</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            nhà Tiền Lê        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#lich-su" title="">Lịch sử</a></li>
+<li class="level-2"><a href="#thanh-lap" title="">Thành lập</a></li>
+<li class="level-2"><a href="#cai-tri" title="">Cai trị</a></li>
+<li class="level-2"><a href="#noi-chien-giua-cac-hoang-tu" title="">Nội chiến giữa các Hoàng tử</a></li>
+<li class="level-2"><a href="#le-de-long-dinh-tri-vi" title="">Lê Đế Long Đĩnh trị vì</a></li>
+<li class="level-2"><a href="#su-troi-day-cua-ho-ly" title="">Sự trỗi dậy của họ Lý</a></li>
+<li class="level-1"><a href="#noi-tri" title="">Nội trị</a></li>
+<li class="level-2"><a href="#bo-may-chinh-quyen" title="">Bộ máy chính quyền</a></li>
+<li class="level-2"><a href="#danh-dep-trong-nuoc" title="">Đánh dẹp trong nước</a></li>
+<li class="level-2"><a href="#giao-thong" title="">Giao thông</a></li>
+<li class="level-2"><a href="#kinh-te" title="">Kinh tế</a></li>
+<li class="level-3"><a href="#cac-loai-thue" title="">Các loại thuế</a></li>
+<li class="level-3"><a href="#nong-nghiep" title="">Nông nghiệp</a></li>
+<li class="level-3"><a href="#thuong-mai" title="">Thương mại</a></li>
+<li class="level-2"><a href="#van-hoa" title="">Văn hóa</a></li>
+<li class="level-1"><a href="#doi-ngoai" title="">Đối ngoại</a></li>
+<li class="level-2"><a href="#voi-trung-quoc" title="">Với Trung Quốc</a></li>
+<li class="level-2"><a href="#voi-chiem-thanh" title="">Với Chiêm Thành</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#ghi-chu" title="">Ghi chú</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-2"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox geography vcard vevent" > <tr class="mergedtoprow"> <td colspan="3" class="fn org summary" ><i>Nhà Tiền Lê</i></td> </tr> <tr class="mergedbottomrow"> <td colspan="3" class="fn org summary" >Đại Cồ Việt</td> </tr> <tr> <td colspan="3" >Đế quốc</td> </tr> <tr> <td colspan="3" > <table > <tr> <td ><span >←</span> <img alt="" src="/images/wiki/nha-tien-le/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /><br /></td> <td ><b>980–1009</b></td> <td ><img alt="" src="/images/wiki/nha-tien-le/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /> <span >→</span><br /></td> </tr> </table> </td> </tr> <tr> <td colspan="3" > <div class="center"> <div class="floatnone"><img alt="" src="/images/wiki/nha-tien-le/dfb49320b59c3d909e5fee209a5cb2c4.jpg" /></div> </div> <div >Đại Cồ Việt dưới thời vua <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a></div> </td> </tr> <tr> <td colspan="2"><b>Thủ đô</b></td> <td >Hoa Lư</td> </tr> <tr> <td colspan="2"><b>Ngôn ngữ</b></td> <td>Tiếng Việt</td> </tr> <tr> <td colspan="2"><b>Tôn giáo</b></td> <td>Phật giáo, Đạo giáo,...</td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Chính quyền</b></td> <td>Quân chủ</td> </tr> <tr class="mergedrow"> <td colspan="2"><b>Hoàng đế</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >980-1005</td> <td><a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >1005</td> <td><a class="annotation" href="/nhan-vat/le-trung-tong" title="Lê Trung Tông có thể là:..." target="_blank" >Lê Trung Tông</a></td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td >1005-1009</td> <td><a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a></td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Lịch sử</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td ><a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> soán ngôi Nhà Đinh</td> <td >980 980</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Chiến tranh chống Tống</td> <td >981</td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td ><a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> soán ngôi Nhà Tiền Lê</td> <td >1008 1009</td> </tr> <tr> <td colspan="2"><b>Tiền tệ</b></td> <td>Tiền xu</td> </tr> </table></div>
+<p><b>Nhà Lê</b> (Hán-Nôm: <span lang="vi" class="Hani"  xml:lang="vi">家黎 • 黎朝</span>, <i><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a></i> • <i>Lê triều</i>), hay còn được gọi là <b>nhà Tiền Lê</b> (Hán-Nôm: <span lang="vi" class="Hani"  xml:lang="vi">家前黎 • 前黎朝</span>, <i>nhà Tiền Lê</i> • <i>Tiền Lê triều</i>)<sup class="annotation badge" title="^ để phân biệt với nhà Hậu Lê do Lê Thái Tổ Lê Lợi lập ra">8</sup>  là một triều đại trong lịch sử Việt Nam, bắt đầu khi <a class="annotation" href="/nhan-vat/dinh-phe-de" title="Đinh Phế Đế (chữ Hán: 丁廢帝; 974 – 1001) còn gọi là Đinh Đế Toàn, là vị hoàng đế thứ hai và cũng là vị hoàng đế cuối cùng của triều đại nhà Đinh, trong lịch sử Việt Nam. Khi ngôi Vua về với nhà Tiền Lê, ông trở thành Vệ Vương trong kinh thành Hoa Lư suốt 20 năm rồi hy sinh khi đi dẹp loạn ở tuổi 27...." target="_blank" >Đinh Phế Đế</a> nhường ngôi cho <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hiệu vẫn là Đại Cồ Việt.</p>
+<p>Triều đại này được kế tục bởi <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a>, được sáng lập bởi <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a>.</p>
+<p></p>
+<p></p>
+<a name="lich-su"></a><h2>Lịch sử</h2>
+<a name="thanh-lap"></a><h3>Thành lập</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-tien-le/2ab9397cf4a53128e99416304148a0f4.jpg" /> <div class="caption"> <div class="magnify"></div> châu Á vào giữa thế kỷ thứ 9 đến hết thế kỷ thứ 10, ta có thể thấy rõ lãnh thổ Đại Cồ Việt (màu vàng)</div> </div> </div>
+<p>Sau khi <a class="annotation" href="/nhan-vat/dinh-tien-hoang" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Tiên Hoàng</a> và con là <a class="annotation" href="/nhan-vat/dinh-lien" title="Đinh Liễn (chữ Hán: 丁璉;&amp;#160;? - tháng 10, 979) hay Đinh Khuông Liễn (丁匡璉), là một hoàng tử nhà Đinh, con trai của Đinh Bộ Lĩnh, vị Hoàng đế khai sáng ra triều đại nhà Đinh trong lịch sử Việt Nam. 
+ Ông từng được Đinh Bộ Lĩnh cử làm con tin ở triều đình Cổ Loa suốt 15 năm rồi theo cha đánh dẹp 12 sứ..." target="_blank" >Đinh Liễn</a> bị ám hại, Vệ Vương Toàn lên ngôi, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> làm phụ chính, xưng là <b>Phó vương</b>. Triều thần sợ <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> cướp ngôi vị Thiếu đế, nên các công thần là Định Quốc công <a class="annotation" href="/nhan-vat/nguyen-bac" title="Nguyễn Bặc (chữ Hán: 阮匐; 924 - 15 tháng 10, 979 âm lịch), hiệu Định Quốc Công (定國公), là khai quốc công thần nhà Đinh, có công giúp Đinh Tiên Hoàng đánh dẹp, chấm dứt loạn 12 sứ quân vào thế kỷ 10 trong lịch sử Việt Nam. Do lập công lớn, ông được vua Đinh phong là Định Quốc Công, vị trí như Tể tướng...." target="_blank" >Nguyễn Bặc</a> và Ngoại giáp <a class="annotation" href="/nhan-vat/dinh-dien" title="Đinh Điền (chữ Hán: 丁佃; 924 - 979) quê ở làng Đại Hữu, nay là xã Gia Phương, Gia Viễn, Ninh Bình, là một trong số những công thần khai quốc Đại Cồ Việt và là người tận trung với nhà Đinh. Dân gian xem ông như một biểu tượng của tinh thần hào hiệp, trượng nghĩa và trung thành. Ông được sử sách Trung ..." target="_blank" >Đinh Điền</a> dẫn quân về kinh đô định giết <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>. Lực lượng này thua trận và bị <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> giết.</p>
+<p>Năm 980, quân Tống nhân cơ hội đem quân sang muốn cướp nước. Khi triều đình đang bàn kế hoạch xuất quân. Phạm Cự Lạng cùng các tướng quân khác đều mặc áo trận đi thẳng vào Nội phủ, nói với mọi người: <i>"Thưởng người có công, giết kẻ trái lệnh là phép sáng để thi hành việc quân. Nay chúa thượng còn trẻ thơ, chúng ta dẫu hết sức liều chết để chặn giặc ngoài, may có chút công lao, thì có ai biết cho&#160;? Chi bằng trước hãy tôn lập ông Thập đạo làm Thiên tử, sau đó sẽ xuất quân thì hơn"</i>. Quân sĩ đều hô vạn tuế.</p>
+<p>Lúc đó, người đứng đầu triều đình là Dương Thái hậu không còn cách nào khác do mọi quân sĩ đều tôn lập <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>, bèn thuận theo, sai lấy áo long cổn khoác lên người <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>, đưa <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> lên làm Hoàng đế. Đây chính là thời khắc lập ra nhà Tiền Lê.</p>
+<a name="cai-tri"></a><h3>Cai trị</h3>
+<p>Sau khi lên ngôi, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> tiến hành chuẩn bị chống lại <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> trong Chiến tranh Tống - Việt năm 981, với chiến thắng thuộc về <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>. Sau chiến thắng, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> liền sai sứ sang <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> cống các đồ thổ sản và dâng biểu tạ lỗi nhằm giữ mối quan hệ hòa hảo không đáng đánh mất giữa Việt và Tống, đồng thời cũng thảo phạt Chiêm Thành đang rất mạnh ở phía Nam.</p>
+<p>Ngay sau bàn định ngoại trị, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> vì muốn ổn định chính trị bên trong, đã cưới Dương Thái hậu làm một trong các Hoàng hậu của mình. Theo quan điểm Nho giáo của các nhà chép sử sau này, như trong Đại Việt sử ký toàn thư đã viết, thì ông bị chê trách về đạo vợ chồng do ông đã lập Dương Thái hậu làm Hoàng hậu của mình.</p>
+<p>Tuy nhiên, điều đó cũng không cản trở ông có nhiều thành tựu xây dựng quốc gia, cũng như chứng minh được tài trị vì của mình. Trong khi cai trị, ông đã cho xây dựng nhiều công trình, đẩy mạnh sản xuất nông nghiệp và thủ công nghiệp để chấn hưng nền kinh tế. Ông là vị Hoàng đế trong lịch sử mở đầu cho lễ tịch điền nhằm khuyến khích sản xuất nông nghiệp dưới chế độ phong kiến Việt Nam. Mở đầu cho một lễ nghi trọng đại mà các vương triều sau tiếp tục noi theo để khuyến khích phát triển sản xuất nông nghiệp.</p>
+<p>Vì vậy, trong thời gian ông trị vì, tôn hiệu của ông được quần thần dâng tôn là <b>Minh Càn Ứng Vận Thần Vũ Thăng Bình Chí Nhân Quảng Hiếu hoàng đế</b>.</p>
+<a name="noi-chien-giua-cac-hoang-tu"></a><h3>Nội chiến giữa các Hoàng tử</h3>
+<p><a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> là một vị Hoàng đế có rất nhiều con trai. Con trưởng của ông là <a class="annotation" href="/nhan-vat/le-long-thau" title="Lê Long Thâu (chữ Hán: 黎龍鍮,&amp;#160;? - 1000) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam...." target="_blank" >Lê Long Thâu</a> đã được chọn làm người kế vị từ những năm đầu tiên khi ông lên ngôi, nhưng lại đột ngột qua đời sớm vào năm 1000, để lại ngôi vị Thái tử bỏ ngỏ.</p>
+<p>Vào lúc này, người con thứ 5 của ông là Khai Minh vương Lê Long Đĩnh tự ứng cử mình làm Thái tử. Theo ghi nhận của ĐVSKTT, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> rất thích Long Đĩnh và tính chọn làm Trữ quân, nhưng bị các đại thần thân cận ngăn lại vì nhiều người con lớn và tài ba hơn Long Đĩnh, trong đó có <a class="annotation" href="/nhan-vat/le-long-tich" title="Lê Long Tích (chữ Hán: 黎龍錫;&amp;#160;? - 1005) là con thứ hai của Lê Đại Hành. Sinh thời ông được nhận tước phong là Đông Thành vương (東城王). Hiện còn 2 di tích riêng thuộc cố đô Hoa Lư tỉnh Ninh Bình là nơi thờ Đông Thành Vương Lê Ngân Tích...." target="_blank" >Lê Long Tích</a>, giữ tước vị Đông Thành vương và là con trưởng nhất lúc đó của ông sau khi <a class="annotation" href="/nhan-vat/le-long-thau" title="Lê Long Thâu (chữ Hán: 黎龍鍮,&amp;#160;? - 1000) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam...." target="_blank" >Lê Long Thâu</a> qua đời. <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> bỏ ý định lập Long Đĩnh làm Thái tử, nhưng cũng không chọn trưởng tử Long Tích, mà chọn người anh cùng mẹ của Long Đĩnh là Nam Phong vương <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a>.</p>
+<p>Năm 1005, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> sau 24 năm trị vì cũng qua đời tại Trường Xuân điện.</p>
+<p>Ngay lập tức, các hoàng tử là Khai Minh vương Lê Long Đĩnh, Đông Thành vương <a class="annotation" href="/nhan-vat/le-long-tich" title="Lê Long Tích (chữ Hán: 黎龍錫;&amp;#160;? - 1005) là con thứ hai của Lê Đại Hành. Sinh thời ông được nhận tước phong là Đông Thành vương (東城王). Hiện còn 2 di tích riêng thuộc cố đô Hoa Lư tỉnh Ninh Bình là nơi thờ Đông Thành Vương Lê Ngân Tích...." target="_blank" >Lê Long Tích</a>, Trung Quốc vương <a class="annotation" href="/nhan-vat/le-long-kinh" title="Lê Long Kính (chữ Hán: 黎龍鏡,&amp;#160;?-1005) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 9 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Trung Quốc Vương(中國王) năm 993, đóng tại Càn Đà, tức vùng đất thuộc tỉnh Hưng Yên ngày nay...." target="_blank" >Lê Long Kính</a> tranh vị với Thái tử <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a>. Trong nước 8 tháng không có ai làm chủ. Tới đầu năm 1006, vào mùa đông năm 1005, Đông Thành vương <a class="annotation" href="/nhan-vat/le-long-tich" title="Lê Long Tích (chữ Hán: 黎龍錫;&amp;#160;? - 1005) là con thứ hai của Lê Đại Hành. Sinh thời ông được nhận tước phong là Đông Thành vương (東城王). Hiện còn 2 di tích riêng thuộc cố đô Hoa Lư tỉnh Ninh Bình là nơi thờ Đông Thành Vương Lê Ngân Tích...." target="_blank" >Lê Long Tích</a> bị Thái tử Long Việt đánh bại, chạy đến châu Thạch Hà (Hà Tĩnh) thì bị người bản địa giết chết. Vài tháng sau, <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a> thuận lợi lên ngôi Hoàng đế.</p>
+<p>Trước sự thắng thế của <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a>, các hoàng tử khác tạm thời án binh bất động. Tuy nhiên, <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a> lên ngôi được ba ngày thì bị em cùng mẹ là Khai Minh vương Lê Long Đĩnh giết chết lên thay.</p>
+<p>Lê Long Đĩnh lên ngôi, tôn hiệu <b>Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng đế</b></p>
+<a name="le-de-long-dinh-tri-vi"></a><h3>Lê Đế Long Đĩnh trị vì</h3>
+<p>Là một người có nhiều quân công, Lê Long Đĩnh liền sau đó hiểu rằng ông phải đích thân đi dọn dẹp các hoàng tử khác mới mong được sự trị vì vững chắc và yên ổn.</p>
+<p>Khi đó, Ngự Bắc vương <a class="annotation" href="/nhan-vat/le-long-can" title="Lê Long Cân (chữ Hán: 黎龍釿) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ sáu của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Ngự Bắc Vương(禦北王) năm 991, đóng tại Phù Lan, tức vùng đất thuộc tỉnh Hưng Yên ngày nay. Căn cứ vào nă..." target="_blank" >Lê Long Cân</a> và Trung Quốc vương <a class="annotation" href="/nhan-vat/le-long-kinh" title="Lê Long Kính (chữ Hán: 黎龍鏡,&amp;#160;?-1005) là một hoàng tử của nhà Tiền Lê trong lịch sử Việt Nam. Ông là con trai thứ 9 của Vua Lê Đại Hành. Sinh tại kinh đô Hoa Lư, Ninh Bình, Việt Nam. Ông được vua phong tước Trung Quốc Vương(中國王) năm 993, đóng tại Càn Đà, tức vùng đất thuộc tỉnh Hưng Yên ngày nay...." target="_blank" >Lê Long Kính</a> chiếm trại Phù Lan để làm phản. Lê Long Đĩnh thân đi đánh, khiến Ngự Bắc vương Long Cân phải bắt Trung Quốc vương Long Kính đem nộp và xin đại xá. Long Đĩnh tha cho Long Cân, còn Long Kính bị xử tử. Ngự Man vương Lê Long Đinh do khiếp sợ cũng đầu hàng. Từ đấy về sau các vương và giặc cướp đều hàng phục cả.</p>
+<p>Sau đó, Lê Long Đĩnh đã củng cố ngoại giao bằng những chính sách rất mềm dẻo đối với <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a>. Ông rất chuộng Phật giáo, bằng việc xin thỉnh kinh Đại Tạng về. Trong <i>"Việt Nam Phật giáo sử lược"</i>, thiền sư Thích Mật Thể viết: <i>"Niên hiệu Ứng Thiên thứ 14 (1008), sau khi nước ta đã hòa với Tống rồi, vua Đại Hành sắc ông Minh Xưởng và ông Hoàng Thành Nhã sang sứ nước Trung Hoa, cống hiến đồ thổ sản và xin vua Tống ban cho bộ "Cửu kinh" và "Đại Tạng kinh". Vua Tống trao cho những bộ ấy và cho sứ giả đưa về. Đó là lần đầu tiên nước ta cho người sang cầu kinh bên Trung Hoa vậy"</i>. Cửu kinh gồm: Kinh Dịch, Kinh Thi, Kinh Thư, Kinh Lễ, Kinh Xuân Thu, Hiếu Kinh, Luận Ngữ, Mạnh Tử và Chu Lễ; là 9 bộ sách vĩ đại nền tảng của văn minh Trung Hoa lần đầu tiên nhập vào Việt Nam là do Lê Long Đĩnh lấy về. Còn kinh Đại Tạng là một bộ sách vĩ đại được rất nhiều thế hệ các cao tăng Trung Hoa sưu tầm và dịch thuật suốt 1.000 năm, từ thế kỷ thứ nhất đến cuối thế kỷ thứ 10 mới in thành sách lần đầu tiên gồm 5.000 quyển.</p>
+<p>Ngoài ra, ông cũng chăm lo kinh tế bằng cách cho xây đắp các tuyến đường lớn, những con đường thủy bộ cho vững chắc để tiện việc giao thương. Theo Đại Việt sử ký toàn thư, năm 1009, Lê Long Đĩnh lại xin được đặt người coi việc tại chợ trao đổi hàng hóa ở Ung Châu thuộc Trung Hoa, nhưng Tống đế chỉ cho mua bán ở chợ trao đổi hàng hóa tại Liêm Châu và trấn Như Hồng, là những nơi giáp vùng biên giới thôi. Theo An Nam chí lược, vua Tống cho rằng Giao Chỉ thường cướp phá vùng bờ biển <a class="annotation" href="/dia-danh/nuoc-tong" title="Tống quốc (Phồn thể: 宋國; giản thể: 宋国) là một quốc gia chư hầu của nhà Chu thời Xuân Thu và Chiến Quốc trong lịch sử Trung Quốc, lãnh thổ quốc gia này bao gồm phần tỉnh Hà Nam hiện nay. 
+ Quốc gia này được thành lập đầu thời nhà Chu, khi Chu Vũ vương phạt Trụ Vương, nước Tống được cấp cho con cháu n..." target="_blank" >nước Tống</a>, nay cho buôn bán ở Ung Châu không tiện, cứ theo lệ cũ là trao đổi hàng hóa tại Liêm Châu và Trấn Như Hồng. Lê Đế Long Đĩnh trong 4 năm cầm quyền đã 5 lần cầm quân đánh dẹp (ở các vùng đất thuộc Hưng Yên, Phú Thọ, Tuyên Quang, Thanh Hóa, Nghệ An, Hà Tĩnh ngày nay), vì nhà nước Đại Cồ Việt vẫn là nhà nước mới và vẫn chưa thực sự mạnh để các nơi tuân phục, điều này tiếp diễn nhiều năm trong thời kỳ đầu của <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a>.</p>
+<a name="su-troi-day-cua-ho-ly"></a><h3>Sự trỗi dậy của họ Lý</h3>
+<p>Vào những năm cuối đời, sách sử đa số nhận định rằng Lê Long Đĩnh là một hôn quân.</p>
+<p>Sách ĐVSKTT nói, <a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a> tính hiếu sát thường thiêu sống, dìm nước hay dùng dao cùn mà tùng xẻo tù nhân; sư sãi vốn có thế lực rất lớn đối với chính sự nhưng Ngọa triều từng sai người róc mía trên đầu sư Quách Ngang để làm trò cười; lại nuôi nhiều bọn hề làm trò khôi hài trong triều để làm loạn lời tâu việc của các quan. Do những việc làm đó, Ngọa triều bị quan lại và dân chúng căm ghét. Sử cũng chép rằng, vì chơi bời sa đọa, nên Lê Long Đĩnh bị bệnh trĩ không ngồi được, phải nằm mà coi chầu, nên được gọi là <b><a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a></b>.</p>
+<p>Tuy nhiên, nhiều nhận định chơi bời sa đọa không phải là nguyên nhân sinh ra bệnh trĩ, mà thể Lê Long Đĩnh bị suy nhược bởi nhiều nguyên nhân nào đó. Vào lúc này, vị vua họ Lê suy nhựoc đang không biết có một người mình tin cậy lại là người có khả năng thay thế mình. Chính là vị trưởng quản lính thân vệ, <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a>.</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td >Lúc đó, ở hương Diên Uẩn, châu Cổ Pháp, có cây gạo bị sét đánh, người hương ấy xem kỹ dấu sét đánh thấy có chữ:<i>"Thụ căn điểu điểu, mộc biểu thanh thanh, hòa đao mộc lạc, thập bát tử thành, đông a nhập địa, mộc dị tái sinh, chấn cung kiến nhật, đoài cung ẩn tinh, lục thất niên gian, thiên hạ thái bình"</i> (Dịch nghĩa: Gốc cây thăm thẳm, ngọn cây xanh xanh, cây hòa đao rụng, mười tám hạt thành, cành đông xuống đất, cây khác lại sinh, đông mặt trời mọc, tây sao náu hình, khoảng sáu bảy năm, thiên hạ thái bình). <p>Sư Vạn Hạnh, một nhà sư có địa vị khi ấy tự đoán riêng rằng: <i>"Thụ căn điểu điểu", chữ căn nghĩa là gốc, gốc tức là vua, chữ điểu đồng âm với yểu, nên hiểu là yếu. "Mộc biểu thanh thanh", chữ biểu nghĩa là ngọn, ngọn tức là bề tôi, chữ thanh âm gần giống với chữ thanh nghĩa là thịnh; Hòa , đao, mộc [ghép lại] là chữ Lê; Thập, bát, tử là chữ Lý; Đông A là chữ Trần; nhập địa là phương Bắc vào cướp: "Mộc dị tái sinh" là họ Lê khác lại sinh ra. "Chấn cung kiến nhật", chấn là phương Đông, kiến là mọc ra; nhật là thiên tử. "Đoài cung ẩn tinh", "đoài" là phương tây, "ẩn" cũng như lặn, "tinh" là thứ nhân. Mấy câu này ý nói là vua thì non yểu, bề tôi thì cường thịnh, họ Lê mất, họ Lý nổi lên, thiên tửở phương đông mọc ra thì thứ nhân ở phương tây lặn mất, trải qua 6, 7 năm thì thiên hạ thái bình"</i>.</p> <p>Vạn Hạnh mới bảo Thân vệ Phó tướng <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> rằng: <i>"Mới rồi tôi thấy chữ bùa sấm kỳ lạ, biết họ Lý cường thịnh, tất dấy lên cơ nghiệp. Nay xem trong thiên hạ người họ Lý rất nhiều, nhưng không ai bằng Thân vệ là người khoan thứ nhân từ được lòng dân, lại đang nắm binh giữ quyền trong tay, đứng đầu muôn dân chẳng phải Thân vệ thì còn ai đương nỗi nữa. Tôi đã hơn 70 tuổi rồi, mong được thư thả hãy chết, để xem đức hóa của ông như thế nào, thực là cái may nghìn năm có một"</i>. <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> sợ câu nói ấy tiết lộ, bảo người anh đem Vạn Hạnh giấu ở Tiêu Sơn. Song từ ấy cũng lấy thế tự phụ mới nảy ra lòng nhòm ngó ngôi vua, mà người ta cũng quy phụ.</p> <p>Tương truyền, khi <a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a> bị giết, triều đình phải bỏ chạy, không ai dám đến gần xác vị Hoàng đế trẻ, nhưng chỉ có <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> là ôm đến gào khóc, Lê Long Đĩnh vì ấn tượng hành động này, về sau cất nhắc <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> nhiều chức vị quan trọng thân cận. Có lần, Lê Long Đĩnh ăn qủa khế lại thấy hột mận (chữ Lý nghĩa là mận), mới tin lời sấm ngữ, ngầm tìm người họ Lý giết đi, thế mà <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> ở ngay bên cạnh lại không hề bị nghi ngờ.</p> <p>Năm 1009, Lê Long Đĩnh qua đời lúc mới 24 tuổi, ở ngôi 4 năm.</p> <p>Nhân các con của Long Đĩnh còn bé, Điện tiền <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> cùng Hữu điện tiền chỉ huy sứ là <a class="annotation" href="/nhan-vat/nguyen-de" title="Nguyễn Đê (Chữ Hán: 阮低,&amp;#160;? -&amp;#160;?) là một võ quan của nhà Tiền Lê trong lịch sử Việt Nam. 
+ Chính sử chép về ông rất sơ sài, chỉ có 1 lần nhắc đến ông sau khi Lê Long Đĩnh qua đời, với chức vụ Hữu điện tiền Chỉ huy sứ:..." target="_blank" >Nguyễn Đê</a> mỗi người được đem 500 quân Tùy Long vào làm Túc vệ. Chi hậu là Đào Cam Mộc dò biết Công Uẩn có muốn nhận việc truyền ngôi, mới nhân lúc vắng nói khích rằng:<i>"Gần đây chúa thượng ngu tối bạo ngược, làm nhiều việc bất nghĩa, trời chán ghét nên không cho hết thọ, con nối thơ ấu, không kham nỗi nhiều khó khăn. Mọi việc phiền nhiễu thần linh không ưa, dân chúng nhao nhác, mong tìn chân chúa. Sao Thân vệ không nhân lúc này nghĩ ra mưu cao, quyết đoán sáng suốt, xa xem dấu cũ của Thang Vũ, gần xem việc làm của Đinh, Lê, trên thuận lòng trời, dưới theo ý dân, mà cứ muốn khư khư giữ tiểu tiết làm gì!"</i>.</p> <p><a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> trong lòng thích lời nói đó nhưng còn ngờ Cam Mộc có mưu khác, mới giả cách mắng rằng: <i>"Sao ông lại nói như thế, tôi phải bắt ông nộp quan!"</i></p> <p>Đào Cam Mộc thong thả bảo Công Uẩn rằng: <i>"Tôi thấy thiên thời nhân sự như thế, cho nên mới dám phát ngôn. Nay ông lại muốn cáo giác tôi thì tôi không phải là người sợ chết"</i>. Công Uẩn nói: <i>"Tôi đâu nở cáo giác ông, chỉ sợ lời nói tiết lộ thì chết ráo, nên răng ông đó thôi"</i>.</p> <p>Hôm sau, Đào Cam Mộc lại bảo <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a>: <i>"Người trong nước ai cũng nói họ Lý khởi nghiệp lớn, lời sấm đã hiện ra rồi, đó là cái họa không thể che dấu được nữa. Chuyển họa làm phúc, chỉ trong sớm chiều. Đây là lúc trời trao người theo, Thân vệ còn nghi ngại gì nữa?"</i>. Công Uẩn nói:<i>"Tôi đã hiểu rỏ ý ông, không khác gì ý của Vạn Hạnh, nếu thực như lời ấy thì nên tính kế thế nào?"</i>. Cam Mộc nói:<i>"Thần Vệ là người khoan thứ, nhân từ, lòng người chịu theo. Hiện nay trăm họ mỏi mệt kiệt quệ, dân không chịu nổi, Thân vệ nên nhân đó lấy ân đức mà vỗ về, thì người ta tất xô nhau kéo về như nước chảy chỗ thấp, có ai ngăn được!"</i>.</p> <p>Đào Cam Mộc biết việc cần kíp, sợ sinh biến, mới nói chuyện với khanh sĩ và các quan, ai cũng vui theo. Ngay ngày hôm ấy, điều họp cả ở trong triều, bàn rằng:<i>"Hiện nay, dân chúng ức triệu khác lòng, trên dưới lìa bỏ, mọi người chán ghét tiên đế hà khắc bạo ngược, không muốn theo về vua nối mà đều có lòng suy tôn quan Thân vệ, bọn ta không nhân lúc này cùng nhau sách lập Thân vệ làm thiên tử, lỡ bối rối có xảy ra tai biến gì, liệu chúng ta có giữ được cái đầu hay không?"</i>.</p> <p>Thế rồi cùng nhau dìu Công Uẩn lên chính điện, lập làm thiên tử, lên ngôi Hoàng đế. Trăm quan đều lạy rạp dưới sân, trong ngoài đều hô "vạn tuế", vang dậy cả trong triều. Đại xá cho thiên hạ, lấy năm sau làm niên hiệu Thuận Thiên năm đầu. Đốt giềng lưới, bãi ngục tụng, xuống chiếu từ nay ai có việc tranh kiện cho đến triều tâu bày, vua thân xét quyết.</p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Đại Việt sử ký toàn thư - <a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a> bản kỷ</cite></div> </td> </tr> </table>
+<p>Từ đây <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> chính thức thành lập.</p>
+<a name="noi-tri"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Nội trị</h2>
+<a name="bo-may-chinh-quyen"></a><h3>Bộ máy chính quyền</h3>
+<p>Nhà Tiền Lê nối tiếp và hầu như giữ nguyên mọi quy củ của <a class="annotation" href="/nhan-vat/nha-dinh" title="Nhà Đinh (chữ Hán: 丁朝, Đinh Triều) là triều đại phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường cho Lê Hoàn. 
+ Nhà Đinh là triều đại mở đầu chế độ phong kiến ..." target="_blank" >nhà Đinh</a>. Năm 980, sau khi lên ngôi, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> đặt chức quan trong triều, phong Hồng Hiến làm Thái sư, Phạm Cự Lạng làm Thái úy, Từ Mục làm Đại tổng quản, Đinh Thừa Chinh làm Nha nội đô chỉ huy sứ<sup class="annotation badge" title="^ Lê Văn Siêu, sách đã dẫn, tr 72">9</sup> .</p>
+<p>So với <a class="annotation" href="/nhan-vat/nha-dinh" title="Nhà Đinh (chữ Hán: 丁朝, Đinh Triều) là triều đại phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường cho Lê Hoàn. 
+ Nhà Đinh là triều đại mở đầu chế độ phong kiến ..." target="_blank" >nhà Đinh</a> tập trung hết quyền hành về tay hoàng đế, vua Lê đã chia trách nhiệm cho các đại thần. Chỉ riêng việc đánh dẹp thì nhà vua thường thân chinh cầm quân.</p>
+<a name="danh-dep-trong-nuoc"></a><h3>Đánh dẹp trong nước</h3>
+<p>Trong thời gian cai trị, các vua Tiền Lê vẫn gặp phải sự chống đối của các tù trưởng địa phương, nhất là những nơi xa xôi hẻo lánh.</p>
+<p>Năm 989, <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> sai viên Quảng giáp là Dương Tiến Lộc đi thu thuế hai <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a> và Ái. Tiến Lộc đem người hai châu ấy xin theo về với Chiêm Thành. Chiêm Thành không nhận. Dương Tiến Lộc lấy hai <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a>, Ái làm phản. <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> thân hành đi đánh, giết chết Tiến Lộc và rất nhiều người 2 châu đó.</p>
+<p>Năm 999, <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> lại thân đi đánh Hà Động<sup id="cite_ref-3" class="reference">[a]</sup>, dẹp được tất cả 49 động. Sau đó vua Lê lại phá được động Nhật Tắc, châu Định Biên (Cao Bằng).</p>
+<p>Người Cử Long<sup id="cite_ref-4" class="reference">[b]</sup> làm loạn không phục triều đình. Năm 1001, <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> lại thân chinh đi đẹp được loạn.</p>
+<p>Sang thời Ngọa Triều vẫn phải đối phó với sự chống đối của các địa phương. Năm 1008, Ngọa Triều thân hành đi đánh hai châu Đô Lương, Vị Long, bắt được vài trăm người bản địa. Cùng năm, vua Lê lại đi đánh <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a> và châu Thiên Liễu, bắt được tù binh về giết.</p>
+<p>Tháng 7 năm 1009, Lê Long Đĩnh lại thân đi đánh các <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a> Đường<sup id="cite_ref-5" class="reference">[c]</sup>, Thạch Hà<sup id="cite_ref-6" class="reference">[d]</sup>.</p>
+<a name="giao-thong"></a><h3>Giao thông</h3>
+<p>Sau khi đánh thắng Chiêm Thành, năm 983, <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> sai quan Phụ quốc Ngô Tử An đem 3 vạn người đi mở đường bộ từ cửa biển Nam Giới đến Châu Địa Lý.</p>
+<p>Năm 1003, vua Lê lại thân hành đi Hoan Châu, ra lệnh vét kênh Đa Cái cho Thông thẳng đến Tư Củng trường ở Ám Châu.</p>
+<p>Năm 1009, triều thần đề nghị xin đào kênh, đắp đường và dựng cột bia ở Ái Châu. <a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a> xuống chiếu cho lấy quân và dân ở <a class="annotation" href="/dia-danh/chau-ai" title="Thanh Hóa là tỉnh cực Bắc miền Trung Việt Nam và&amp;#160;là một tỉnh lớn về cả diện tích và dân số, đứng thứ 5 về diện tích và thứ 3 về dân số trong số các đơn vị hành chính tỉnh trực thuộc nhà nước, cũng là một trong những địa điểm sinh sống đầu tiên của người Việt cổ. 
+ Cách đây khoảng 6000 năm đã có..." target="_blank" >châu Ái</a> đào đắp từ cửa quan Chi Long<sup id="cite_ref-7" class="reference">[e]</sup> qua Đỉnh Sơn đến sông Vũ Lung. Sau đó Lê Long Đĩnh lại ra lệnh đóng thuyền để ở các bến sông Vũ Lung, Bạt Cừ, Động Lung bốn chỗ để chở người qua lại.</p>
+<p>Tháng 7 năm đó, nhân đi đánh <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a> Đường, hành quân đến Hoàn Giang<sup id="cite_ref-8" class="reference">[f]</sup>, Lê Long Đĩnh sai Hồ Thủ Ích đem hơn 5.000 quân của <a class="annotation" href="/dia-danh/chau-hoan" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >châu Hoan</a> Đường, sửa chữa đường từ sông Châu Giáp đến cửa biển Nam Giới để tiện cho việc hành quân về phía nam.</p>
+<a name="kinh-te"></a><h3>Kinh tế</h3>
+<a name="cac-loai-thue"></a><h4>Các loại thuế</h4>
+<p>Nhà Tiền Lê đặt ra lệ đánh thuế căn cứ vào số lượng tài sản về ruộng đất. Thuế thân chia ra hai loại:</p>
+<dl> <dd><i>Tiền công dung</i> là tiền công dịch (như lao động công ích) mà người dân phải chịu mỗi năm 10 ngày và có thể nộp tiền thay vào việc tạp dịch<sup class="annotation badge" title="^ Động Hà Man, thuộc huyện Thạch Thành, tỉnh Thanh Hóa">1</sup> </dd> <dd><i>Tiền thuế hộ</i>: là tiền mỗi gia đình phải nộp hàng năm</dd> <dd><i>Tiền thuế điệu</i>: Tiền mỗi hộ phải nộp để đóng vào việc quân</dd> </dl>
+<p>Nhà Tiền Lê đặt ra thuế thổ sản theo phép thời Tam Đại (Hạ, Thương, Chu) của Trung Quốc, chỉ lấy cống phẩm mà không thu bằng tiền. Đồng thời, triều đình có chính sách khuyến khích thương mại. Những người buôn bán không phải nộp thuế, coi như họ chỉ bán những nông phẩm sản xuất ra mà đã chịu thuế ruộng đất rồi<sup class="annotation badge" title="^ Động Hà Man, thuộc huyện Thạch Thành, tỉnh Thanh Hóa">1</sup> </p>
+<a name="nong-nghiep"></a><h4>Nông nghiệp</h4>
+<p>Nhà Tiền Lê xem trọng nông nghiệp. Vào đầu xuân năm 987 vua <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> đã thực hiện lễ cấy tịch điền, để động viên, khuyến khích nhân dân sản xuất nôg nghiệp<sup class="annotation badge" title="^ Đất thuộc vùng dân tộc Mường huyện Cẩm Thủy, tỉnh Thanh Hoá">2</sup> <sup class="annotation badge" title="^ Nay thuộc đất các huyện Nam Đàn, Anh Sơn, Đô Lương, tỉnh Nghệ An">3</sup> . Đó là lễ tịch điền đầu tiên mà một vị vua Việt Nam thân hành đi cày mà được sử sách ghi nhận lại<sup class="annotation badge" title="^ Thuộc Hà Tĩnh">4</sup> .</p>
+<a name="thuong-mai"></a><h4>Thương mại</h4>
+<p>Sử sách không chép rõ về hoạt động thương mại trong nước. Đối tác quan hệ buôn bán ngoại thương chủ yếu của Đại Cồ Việt là Trung Quốc. Hai bên lập ra những nơi giao dịch song phương gọi là <i>Bạc dịch trường</i> đặt trên đường thông lộ biên giới.</p>
+<p>Những Bạc dịch trường quan trọng trong thời kỳ này là trại Vĩnh Bình (được Lê Văn Siêu phỏng đoán là chợ Kỳ Lâm hiện nay<sup class="annotation badge" title="^ Nay là huyện Chiêm Hóa, tỉnh Tuyên Quang.">5</sup> ), tại Sách Nam Giang thuộc trại Cổ Vạn và châu Tô Hậu (Lê Văn Siêu phỏng đoán là châu Thất Khê<sup class="annotation badge" title="^ Nay là huyện Chiêm Hóa, tỉnh Tuyên Quang.">5</sup> ), trại Hoành Sơn (Na Chàm ở ải Nam Quan<sup class="annotation badge" title="^ Nay là huyện Chiêm Hóa, tỉnh Tuyên Quang.">5</sup> ). Trại Hoành Sơn tụ tập nhiều nhà buôn từ châu Quảng Nguyên của Đại Cồ Việt và châu Đặc Ma của nước Đại Lý (Vân Nam) và các lái buôn từ Quảng Châu của Tống.</p>
+<p>Bạc dịch trường lớn nhất gần biên giới là điểm giao dịch hai nước nằm ở trại Như Hồng, Khâm châu<sup class="annotation badge" title="^ Nay là huyện Chiêm Hóa, tỉnh Tuyên Quang.">5</sup> .</p>
+<p>Tác giả Chu Khứ Phi mô tả việc buôn bán giữa hai bên lúc đó trong sách <i>Lĩnh ngoại đại pháp</i> như sau<sup class="annotation badge" title="^ Cửa Sót, tức là Nam Giới">6</sup> :</p>
+<dl> <dd><i>Hai bên gặp nhau thường uống rượu làm vui rồi mới bàn chuyện buôn bán. Người Tống làm nhà ở tại chỗ lâu ngày và thường dìm giá làm người bán phải bán rẻ; nhưng phú thương người Việt cũng không chịu, cầm giữ giá lâu</i></dd> </dl>
+<p>Các quan chức địa phương biên giới cũng hỗ trợ cho quan hệ buôn bán của các thương gia hai bên. Nếu xảy ra việc kêu ca vì người bán cân thiếu thì phía Đại Cồ Việt lại cử sứ sang Khâm châu để thử lại cân để kiểm tra<sup class="annotation badge" title="^ Cửa Sót, tức là Nam Giới">6</sup> . Không những thế, chính triều đình nhà Tiền Lê cũng sai người sang giao dịch thẳng với khách buôn người Tống. Hàng bán của Đại Cồ Việt gồm có vàng, bạc, tiền đồng. Lê Văn Siêu cho rằng đây không chỉ là thị trường hàng hóa mà còn là thị trường tiền tệ mà hai bên trao đổi ngoại hối<sup class="annotation badge" title="^ Cửa Sót, tức là Nam Giới">6</sup> .</p>
+<a name="van-hoa"></a><h3>Văn hóa</h3>
+<p>Sử sách không ghi chép nhiều về những dấu ấn văn hóa thời Tiền Lê. Ảnh hưởng lớn nhất trong các tôn giáo là đạo Phật đã có từ thời thuộc Đường. Các nhà sư đã được sự tin cậy của hoàng đế, cho làm quan trong triều để bàn kế sách quốc gia.</p>
+<p>Sử sách ghi lại hai tác phẩm tiêu biểu thời kỳ này là bài thơ của nhà sư <a class="annotation" href="/nhan-vat/do-phap-thuan" title="Pháp Thuận (chữ Hán: 法順, 914-990) tên thật là Đỗ Pháp Thuận (杜法順), là thiền sư đời thứ 10, dòng Tỳ-ni-đa-lưu-chi. Sư trụ trì ở Chùa Cổ Sơn, làng Thừ, quận Ải. Không biết ông là người ở đâu. Sư họ Ðỗ, học rộng, thơ hay, có tài giúp vua, hiểu rõ việc nước. Nhỏ đã xuất gia, thờ Thiền sư Phù Trì chùa Lo..." target="_blank" >Đỗ Pháp Thuận</a> đối đáp với sứ Tống và bài từ khúc của sư Khuông Việt tiễn sứ Tống ra về năm 987. <a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a> có lời ca ngợi hai ông: "Sư Thuận thơ ca làm sứ Tống kinh sợ, Chân Lưu có từ khúc vang danh một thời"<sup class="annotation badge" title="^ a ă Lê Văn Siêu, sách đã dẫn, tr 73. Dẫn theo Lịch triều hiến chương loại chí">10</sup> .</p>
+<a name="doi-ngoai"></a><h2>Đối ngoại</h2>
+<a name="voi-trung-quoc"></a><h3>Với Trung Quốc</h3>
+<p>Thực hiện chính sách:"thuần phục giả độc lập thật". Về cơ bản, quan hệ ngoại giao giữa nhà Tiền Lê với <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> có nhiều thuận lợi. Nhà Tống tỏ ra dè dặt, mềm dẻo với các vua Lê vì luôn phải đối phó với nguy cơ từ người Khiết Đan ở phía bắc.</p>
+<p>Sau thất bại năm 981, vua Tống bằng lòng công nhận <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>, phong ông làm Tiết độ sứ và không hỏi tới dòng dõi <a class="annotation" href="/nhan-vat/nha-dinh" title="Nhà Đinh (chữ Hán: 丁朝, Đinh Triều) là triều đại phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường cho Lê Hoàn. 
+ Nhà Đinh là triều đại mở đầu chế độ phong kiến ..." target="_blank" >nhà Đinh</a> nữa.</p>
+<p>Năm 986 và 987, Tống Thái Tông sai Lý Giác đi sứ sang Đại Cồ Việt. Trong lần đi sứ năm 987, Lý Giác làm thơ tiễn có câu: "Thiên ngoại hữu thiên ưng viễn chiếu", nghĩa là: <i>Ngoài trời lại có trời soi nữa</i>. Sư Khuông Việt nói rằng thơ này có ý tôn <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> không khác gì vua Tống<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Bản kỷ quyển 1">11</sup> .</p>
+<p>Năm 990, <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> lại cử Tống Cảo đi sứ Đại Cồ Việt lần nữa. Lê Văn Siêu bình luận điều này cho rằng: thượng quốc ít khi chịu mất công vì nước nhỏ như vậy, vì <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> trong thời kỳ giao tranh với nước Liêu năm 986 và bộ lạc Thảng Cốt năm 990<sup class="annotation badge" title="^ Ngô Thì Sĩ, Đại Việt sử ký tiền biên, 2011, Nhà xuất bản Văn hóa thông tin, tr 205">12</sup> .</p>
+<p>Khi sứ Tống là Tống Cảo sang phong chức, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> nhận tờ chiếu của vua Tống mà không chịu quỳ, nói thác rằng bị ngã ngựa đau chân. Lúc đó sứ Tống im lặng không thắc mắc gì. Lê Văn Siêu cho rằng điều này hoàn toàn là do sự ngang ngạnh của vua Lê và không phải Tống Cảo không biết, nhưng đã không phản ứng. Trong sớ tâu Tống Thái Tông sau này, Tống Cảo nói rằng dù thác cớ đau chân nhưng ngay sau đó <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> lại có thể đi chân đất, cầm cần câu lội xuống nước câu cá<sup class="annotation badge" title="^ Viện Sử học, Biên niên lịch sử cổ trung đại Việt Nam, Nhà xuất bản Khoa học xã hội 1987, tr 80">13</sup> .</p>
+<p>Trong lần tiếp sứ Tống, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> còn làm những việc trêu chọc sứ phương bắc khác như sai người mang con hổ đến công quán cho sứ Tống xem; lại sai mang con trăn lớn đến công quán, hỏi sứ Tống có ăn được thì làm cơm thết đãi. Sứ Tống khước từ không nhận và không dám nổi nóng theo tư thế của sứ giả thiên triều<sup class="annotation badge" title="^ Viện Sử học, Biên niên lịch sử cổ trung đại Việt Nam, Nhà xuất bản Khoa học xã hội 1987, tr 80">13</sup> .</p>
+<p>Sau đó <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> nói với Tống Cảo về việc ngoại giao:</p>
+<dl> <dd><i>Sau này có quốc thư thì cho giao nhận ở đầu địa giới, khỏi phiền sứ thần đến tận đây nữa.</i></dd> </dl>
+<p>Tống Cảo về tâu lại, Tống Thái Tông bằng lòng với đề nghị của vua Lê.</p>
+<p>Năm 995, <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> lại phong <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> làm <i>Giao Chỉ quận vương</i>. Năm 995-996 ở biên giới hai bên đã có biến cố vì sự bạo loạn của các thổ quan vùng khe động. Tướng <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> bắt bắt hơn 100 người làm loạn trả lại cho Đại Cồ Việt. Phía <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> cũng bắt 27 người trả lại phía Tống và sai sứ sang tạ ơn. Nhà Tống lại sai Lý Nhược Chuyết mang chiếu thư và đai ngọc sang ban cho <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>. Năm 997, <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> lại gia phong vua Lê làm <i>Nam Bình vương</i>.</p>
+<p>Năm 1004, vua Lê sai hoàng tử Lê Minh Đề đi sứ Tống. Sang năm 1005, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a> mất, các con tranh ngôi, trong nước loạn lạc. Mình Đề phải ở lại trú ở Quảng Châu. Triều thần <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> xui Tống Chân Tông phát binh đánh, nhưng vua Tống cho rằng <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> giữ lệ tiến cống và sai con sang chầu, không nên đánh để giữ cho phía nam yên ổn<sup class="annotation badge" title="^ a ă â b Lê Văn Siêu, sách đã dẫn, trang 93">14</sup> .</p>
+<p>Năm 1006, Lê Long Đĩnh giết anh là Trung Tông giành được ngôi vua. Nhà Tống không can thiệp. Sang năm 1007, Tống Chân Tông sai sứ sang phong cho Long Đĩnh làm Giao Chỉ quận vương và đúc ấn đưa sang.</p>
+<p>Năm 1009, <a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a> sai sứ đem biếu <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> con tê ngưu thuần. Vua Tống cho rằng tê ngưu từ xa đến, không hợp thủy thổ muốn trả lại; nhưng sợ phật ý vua Lê, đợi cho sứ Đại Cồ Việt về rồi mới mang thả ra biển. <a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a> sau đó lại xin áo giáo mũ trụ giát vàng, vua Tống bằng lòng cho.</p>
+<a name="voi-chiem-thanh"></a><h3>Với Chiêm Thành</h3>
+<p>Năm 981, <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> sai Từ Mục, Ngô Tử Canh sang sứ Chiêm Thành, bị vua Chiêm bắt giữ. <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> nổi giận, sai đóng chiến thuyền sửa binh khí, tự làm tướng đi đánh.</p>
+<p>Năm 982, vua Lê khởi binh thân hành nam tiến. Quân Đại Cồ Việt thắng lớn, chém chết vua Chiêm là Ba Mi Thuế tại trận. Chiêm Thành thua to, nhiều quân sĩ bị bắt sống. Quân Lê bắt lính cùng là kỹ nữ trong cung trăm người và một nhà sư người Thiên Trúc, lấy các đồ quý đem về, thu được vàng bạc của báu kể hàng vạn, san phẳng thành trì, phá hủy tông miếu nước Chiêm.</p>
+<p>Một viên tướng là Quảng giáp Lưu Kế Tông trốn ở lại Chiêm Thành và sau này chiếm lấy nôi vua chiêm thành.</p>
+<p>Năm 992, vua Chiêm mới là Harivarman II sai sứ sang xin lại 360 tù binh bị bắt giữ mang về châu Ô Lý<sup id="cite_ref-20" class="reference">[g]</sup>. Harivarman II sai sứ là Chế Đông sang dâng sản vật địa phương, vua Lê trách là trái lễ, không nhận. Harivarman II sợ hãi, năm 994 lại sai cháu Chế Cai sang chầu. Từ đó quan hệ hai bên khá yên ổn không xảy ra xung đột.</p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-tien-le/0fa247717eea3e523a67727b7c498c34.png" /> <div class="caption"> <div class="magnify"></div> Sơ đồ di tích cố đô Hoa Lư</div> </div> </div>
+<ul> <li>Nhà Đinh</li> <li><a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a></li> <li><a class="annotation" href="/nhan-vat/le-long-viet" title="Lê Trung Tông (chữ Hán: 黎中宗; 983 – 1005) là vị hoàng đế thứ hai của nhà Tiền Lê, tại vị được ba ngày...." target="_blank" >Lê Long Việt</a></li> <li><a class="annotation" href="/nhan-vat/le-ngoa-trieu" title="Lê Long Đĩnh (chữ Hán: 黎龍鋌; 15 tháng 11, 986 – 19 tháng 11, 1009), còn gọi là Lê Ngọa Triều (黎臥朝), là vị hoàng đế cuối cùng của nhà Tiền Lê trong lịch sử Việt Nam. Ông trị vì 4 năm từ năm 1005 đến năm 1009. Cái chết bí ẩn của ông ở tuổi 24 dẫn đến việc chấm dứt nhà Tiền Lê, quyền lực rơi vào tay nhà..." target="_blank" >Lê Ngọa Triều</a></li> <li>Trận Bạch Đằng, 981</li> <li>Kinh đô Hoa Lư</li> <li>Đền Vua <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> ở cố đô Hoa Lư</li> </ul>
+<ul class="gallery mw-gallery-traditional"> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nha-tien-le/82cdd5e7bf85265440905a178aa29728.jpg" /></div> </div> <div class="gallerytext"> <p>Đình Hoa Xá - Minh Ngự Lâu ở Thanh Trì, Hà Nội</p> </div> </div> </li> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nha-tien-le/93d35d21e20f4036c30e43b654188286.jpg" /></div> </div> <div class="gallerytext"> <p>Đình Yên Thành, Hoa Lư, Ninh Bình</p> </div> </div> </li> </ul>
+<a name="ghi-chu"></a><h2>Ghi chú</h2>
+<div class="reflist columns references-column-count references-column-count-3" > <ol class="references"> <li id="cite_note-3"><b>^</b> <span class="reference-text">Động Hà Man, thuộc huyện Thạch Thành, <a class="annotation" href="/dia-danh/tinh-thanh-hoa" title="Thanh Hóa là tỉnh cực Bắc miền Trung Việt Nam và&amp;#160;là một tỉnh lớn về cả diện tích và dân số, đứng thứ 5 về diện tích và thứ 3 về dân số trong số các đơn vị hành chính tỉnh trực thuộc nhà nước, cũng là một trong những địa điểm sinh sống đầu tiên của người Việt cổ. 
+ Cách đây khoảng 6000 năm đã có..." target="_blank" >tỉnh Thanh Hóa</a></span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Đất thuộc vùng dân tộc Mường huyện Cẩm Thủy, tỉnh Thanh Hoá</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Nay thuộc đất các <a class="annotation" href="/dia-danh/huyen-nam-dan" title="Nam Đàn là một trong 17 huyện, nằm về phía nam đông nam của tỉnh Nghệ An, Việt Nam...." target="_blank" >huyện Nam Đàn</a>, Anh Sơn, Đô Lương, <a class="annotation" href="/dia-danh/tinh-nghe-an" title="Nghệ An là tỉnh có diện tích lớn nhất Việt Nam thuộc vùng Bắc Trung Bộ. Trung tâm hành chính của tỉnh là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam.. Trước đây, Nghệ An cùng với Hà Tĩnh có cùng một tên chung là Hoan Châu (thời bắc thuộc), Nghệ An châu (đời nhà Lý, Trần), xứ Nghệ (năm ..." target="_blank" >tỉnh Nghệ An</a></span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Thuộc Hà Tĩnh</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Nay là huyện Chiêm Hóa, <a class="annotation" href="/dia-danh/tinh-tuyen-quang" title="Tuyên Quang là một tỉnh thuộc vùng Đông Bắc Việt Nam. Có tỉnh lỵ là Thành phố Tuyên Quang...." target="_blank" >tỉnh Tuyên Quang</a>.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Cửa Sót, tức là Nam Giới</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text">Đất Quảng Bình, lúc này vẫn thuộc Chiêm Thành, tới đời <a class="annotation" href="/nhan-vat/ly-thanh-tong" title="Lý Thánh Tông (chữ Hán: 李聖宗; 30 tháng 3 năm 1023 – 1 tháng 2 năm 1072), là vị hoàng đế thứ ba của nhà Lý trong lịch sử Việt Nam, trị vì từ tháng 11 năm 1054 đến khi qua đời. Trong thời kỳ cầm quyền của mình, Lý Thánh Tông đã đẩy mạnh sản xuất nông nghiệp, khoan giảm hình phạt, đồng thời khuyến khích..." target="_blank" >Lý Thánh Tông</a> mới thuộc về Đại Việt</span></li> </ol> </div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<div class="reflist columns references-column-count references-column-count-3" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">để phân biệt với <a class="annotation" href="/nhan-vat/nha-hau-le" title="Nhà Hậu Lê (Hán-Nôm: 家後黎・後黎朝, nhà Hậu Lê • Hậu Lê triều; 1427-1789) là một triều đại phong kiến Việt Nam, tồn tại sau thời Bắc thuộc lần 4 và đồng thời với nhà Mạc, nhà Tây Sơn trong một thời gian, trước nhà Nguyễn. 
+ Nhà Hậu Lê do Lê Thái Tổ lập ra, được phân biệt với nhà Tiền Lê (980-1009) do Lê Đ..." target="_blank" >nhà Hậu Lê</a> do Lê Thái Tổ Lê Lợi lập ra</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, tr 72</span></li> <li id="cite_note-LVS73-9">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, tr 73. Dẫn theo <i>Lịch triều hiến chương loại chí</i></span></li> <li id="cite_note-dvsktt1-10"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Bản kỷ quyển 1</span></li> <li id="cite_note-dvsktb205-11"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/ngo-thi-si" title="Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được Phan Huy Chú đánh giá là người có &quot;học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở..." target="_blank" >Ngô Thì Sĩ</a>, Đại Việt sử ký tiền biên, 2011, Nhà xuất bản Văn hóa thông tin, tr 205</span></li> <li id="cite_note-bnlsvn80-12"><b>^</b> <span class="reference-text">Viện Sử học, Biên niên lịch sử cổ trung đại Việt Nam, Nhà xuất bản Khoa học xã hội 1987, tr 80</span></li> <li id="cite_note-LVS93-13">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, trang 93</span></li> <li id="cite_note-LVS94-14">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Lê Văn Siêu dẫn lại, sách đã dẫn, tr 94</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, tr 96</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, quyển I, bản điện tử, tr 69</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, tr 87</span></li> <li id="cite_note-LVS88-18">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Lê Văn Siêu, sách đã dẫn, tr 88; lấy từ nội dung sớ của Tống Cảo tâu vua Tống trong bộ <i>Văn Hiến thông khảo</i> của Mã Đoan Lâm</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, quyên I, bản điện tử, tr 76</span></li> </ol> </div>
+<a name="tham-khao"></a><h3>Tham khảo</h3>
+<ul> <li>Đại Việt sử ký toàn thư</li> <li>Lê Văn Siêu (2004), <i>Việt Nam văn minh sử cương</i>, Nhà xuất bản Thanh niên</li> </ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nha-thuong" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: nhà Thương            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nha-tien-ly" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nhà Tiền Lý            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nha-tien-le" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chien-thang-dien-bien-phu" class="mod-articles-category-title ">Khu di tích chiến thắng Điện Biên Phủ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-loa" class="mod-articles-category-title ">thành Cổ Loa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

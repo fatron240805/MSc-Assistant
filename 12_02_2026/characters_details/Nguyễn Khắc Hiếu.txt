@@ -1,0 +1,1546 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Tản Đà (chữ Hán: 傘沱, sinh ngày 19 tháng 5 năm 1889 - mất ngày 7 tháng 6 năm 1939) tên thật Nguyễn Khắc Hiếu (阮克孝), là một nhà thơ, nhà văn và nhà viết kịch nổi tiếng của Việt Nam. Bút danh Tản Đà của ông là tên ghép giữa núi Tản Viên và sông Đà, quê hương ông. Trong văn đàn Việt Nam đầu thế kỷ 20, T...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nguyễn Khắc Hiếu - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"4988f0a5962a8913391ae8c2e88f1b64"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nguyễn Khắc Hiếu" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Tản Đà (chữ Hán: 傘沱, sinh ngày 19 tháng 5 năm 1889 - mất ngày 7 tháng 6 năm 1939) tên thật Nguyễn Khắc Hiếu (阮克孝), l.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nguyen-khac-hieu" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nguyen-khac-hieu/96b1e0072c1f93043f000c2e096c7491.jpeg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nguyễn Khắc Hiếu", "item": "https://nguoikesu.com/nhan-vat/nguyen-khac-hieu" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nguyen-khac-hieu" }, "headline": "Nguyễn Khắc Hiếu", "description": "Tản Đà (chữ Hán: 傘沱, sinh ngày 19 tháng 5 năm 1889 - mất ngày 7 tháng 6 năm 1939) tên thật Nguyễn Khắc Hiếu (阮克孝), là một nhà thơ, nhà văn và nhà viết kịch nổi tiếng của Việt Nam. Bút danh Tản Đà của ông là tên ghép giữa núi Tản Viên và sông Đà, quê hương ông. Trong văn đàn Việt Nam đầu thế kỷ 20, Tản Đà nổi lên như một ngôi sao sáng, vừa độc đáo, vừa dồi dào năng lực sáng tác. Ông là một cây bút phóng khoáng, xông xáo trên nhiều lĩnh vực. Đi khắp miền đất nước, ông đã để lại nhiều tác phẩm với nhiều thể loại. Ông đã từng làm chủ bút tạp chí Hữu Thanh, An Nam tạp chí. Với những dòng thơ lãng mạn và ý tưởng ngông nghênh, đậm cá tính, ông được đánh giá là người chuẩn bị cho sự ra đời của thơ mới trong nền văn học Việt Nam, là &quot;gạch nối giữa hai thời kỳ văn học cổ điển và hiện đại&quot;.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nguyen-khac-hieu/96b1e0072c1f93043f000c2e096c7491.jpeg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nguyen-khac-hieu" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-31T10:42:04+07:00", "dateCreated": "2017-10-31T10:42:04+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nguyễn Khắc Hiếu</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nguyễn Khắc Hiếu        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#cuoc-doi" title="">Cuộc đời</a></li>
+<li class="level-2"><a href="#thieu-nien" title="">Thiếu niên</a></li>
+<li class="level-2"><a href="#thoi-ky-vinh-hien" title="">Thời kỳ vinh hiển</a></li>
+<li class="level-2"><a href="#cuoi-doi-lan-dan" title="">Cuối đời lận đận</a></li>
+<li class="level-2"><a href="#duoc-ton-vinh-va-qua-doi" title="">Được tôn vinh và qua đời</a></li>
+<li class="level-2"><a href="#con-nguoi-tan-da" title="">Con người Tản Đà</a></li>
+<li class="level-3"><a href="#thi-si-tuu-do" title="">"Thi sĩ tửu đồ"</a></li>
+<li class="level-3"><a href="#chuyen-tinh-cam" title="">Chuyện tình cảm</a></li>
+<li class="level-1"><a href="#su-nghiep" title="">Sự nghiệp</a></li>
+<li class="level-2"><a href="#tho" title="">Thơ</a></li>
+<li class="level-3"><a href="#hat-noi" title="">Hát nói</a></li>
+<li class="level-3"><a href="#tho-ca-dan-gian" title="">Thơ ca dân gian</a></li>
+<li class="level-2"><a href="#van" title="">Văn</a></li>
+<li class="level-2"><a href="#bao-chi" title="">Báo chí</a></li>
+<li class="level-3"><a href="#an-nam-tap-chi" title="">An Nam tạp chí</a></li>
+<li class="level-3"><a href="#tranh-luan-van-hoc" title="">Tranh luận văn học</a></li>
+<li class="level-2"><a href="#kich" title="">Kịch</a></li>
+<li class="level-2"><a href="#dich-thuat-nghien-cuu" title="">Dịch thuật, nghiên cứu</a></li>
+<li class="level-1"><a href="#phong-cach-van-chuong" title="">Phong cách văn chương</a></li>
+<li class="level-1"><a href="#phat-ngon" title="">Phát ngôn</a></li>
+<li class="level-2"><a href="#nhung-van-tho-tu-bach" title="">Những vần thơ tự bạch</a></li>
+<li class="level-2"><a href="#cau-noi-noi-tieng" title="">Câu nói nổi tiếng</a></li>
+<li class="level-2"><a href="#tho-duc-vao-da" title="">Thơ đục vào đá</a></li>
+<li class="level-2"><a href="#nhan-xet" title="">Nhận xét</a></li>
+<li class="level-1"><a href="#danh-gia" title="">Đánh giá</a></li>
+<li class="level-1"><a href="#danh-muc-tac-pham" title="">Danh mục tác phẩm</a></li>
+<li class="level-2"><a href="#viet-ve-tan-da" title="">Viết về Tản Đà</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox vcard" > <tr> <th colspan="2" class="fn" >Tản Đà</th> </tr> <tr> <td colspan="2" ><img alt="" src="/images/wiki/nguyen-khac-hieu/58681784fb304857a55ca0029c76c7f1.jpg" width="200" height="443" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TanDaNguyenKhacHieu.jpg/300px-TanDaNguyenKhacHieu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cb/TanDaNguyenKhacHieu.jpg 2x" data-file-width="364" data-file-height="807" /> <div >Tản Đà</div> </td> </tr> <tr> <th scope="row">Sinh</th> <td>19 tháng 5 năm 1889<br /> Khê Thượng, Sơn Tây, Việt Nam</td> </tr> <tr> <th scope="row">Mất</th> <td>7 tháng 6, 1939 (50&#160;tuổi)<br /> Hà Nội, Việt Nam</td> </tr> <tr> <th scope="row">Công việc</th> <td class="role">nhà thơ, nhà văn, nhà báo, nhà viết kịch</td> </tr> <tr> <td colspan="2" > <hr /> <div class="NavFrame collapsed" > <div class="NavHead" >Ảnh hưởng bởi</div> <ul class="NavContent" > <li ><a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a>, Nguyễn Du</li> </ul> </div> </td> </tr> <tr> <td colspan="2" > <hr /> <div class="NavFrame collapsed" > <div class="NavHead" >Ảnh hưởng tới</div> <ul class="NavContent" > <li ><i>nhiều nhà thơ trong phong trào thơ mới</i></li> </ul> </div> </td> </tr> </table></div>
+<p><b>Tản Đà</b> (chữ Hán: 傘沱, sinh ngày 19 tháng 5 năm 1889 - mất ngày 7 tháng 6 năm 1939<sup class="annotation badge" title="^ Thơ Đường, Tản Đà dịch, Hội nghiên cứu giảng dạy Văn Học thành phố Hồ Chí Minh, Nhà xuất bản Trẻ, 1989.">1</sup> ) tên thật <b>Nguyễn Khắc Hiếu</b> (阮克孝), là một nhà thơ, nhà văn và nhà viết kịch nổi tiếng của Việt Nam. Bút danh Tản Đà của ông là tên ghép giữa <a class="annotation" href="/dia-danh/nui-tan-vien" title="Ba Vì là một dãy núi đất và đá vôi lớn trải trên một phạm vi rộng chừng 5000 ha ở ba huyện Ba Vì (Hà Nội), Lương Sơn và Kỳ Sơn (Hòa Bình), cách nội thành Hà Nội chừng 60km. 
+ Trên Ba Vì có nhiều ngọn núi, nhưng nổi tiếng nhất là Tản Viên (còn gọi là Ngọc Tản, Tản Sơn, hoặc Phượng Hoàng Sơn). Núi này..." target="_blank" >núi Tản Viên</a> và <a class="annotation" href="/dia-danh/song-da" title="Sông Đà (còn gọi là sông Bờ hay Đà Giang) là phụ lưu lớn nhất của sông Hồng. Sông dài 910 km (có tài liệu ghi 983&amp;#160;km), diện tích lưu vực là 52.900&amp;#160;km², bắt nguồn từ núi Vô Lượng, tỉnh Vân Nam, Trung Quốc chảy theo hướng tây bắc - đông nam để rồi nhập với sông Hồng ở Phú Thọ. Trong một số t..." target="_blank" >sông Đà</a>, quê hương ông.</p>
+<p>Trong văn đàn Việt Nam đầu thế kỷ 20, Tản Đà nổi lên như một ngôi sao sáng, vừa độc đáo, vừa dồi dào năng lực sáng tác. Ông là một cây bút phóng khoáng, xông xáo trên nhiều lĩnh vực. Đi khắp miền đất nước, ông đã để lại nhiều tác phẩm với nhiều thể loại. Ông đã từng làm chủ bút tạp chí Hữu Thanh, An Nam tạp chí. Với những dòng thơ lãng mạn và ý tưởng ngông nghênh, đậm cá tính, ông được đánh giá là người chuẩn bị cho sự ra đời của thơ mới trong nền văn học Việt Nam, là "gạch nối giữa hai thời kỳ văn học cổ điển và hiện đại".</p>
+<p>Ngoài sáng tác thơ, Tản Đà còn giỏi trong việc dịch thơ Đường thành thơ lục bát và được biết đến như một người dịch thơ Đường ra ngôn ngữ Việt hay nhất.</p>
+<p></p>
+<p></p>
+<a name="cuoc-doi"></a><h2>Cuộc đời</h2>
+<p>Tản Đà Nguyễn Khắc Hiếu sinh ngày 19 tháng 5 năm 1889 (20 tháng 4 năm Kỷ Sửu, <a class="annotation" href="/nhan-vat/thanh-thai" title="Thành Thái (chữ Hán: 成泰, 14 tháng 3 năm 1879 – 20 tháng 3 năm 1954), tên khai sinh là Nguyễn Phúc Bửu Lân (阮福寶嶙), là vị Hoàng đế thứ 10 của triều đại nhà Nguyễn, tại vị từ 1889 đến 1907. 
+ Do chống Pháp nên ông, cùng với các vua Hàm Nghi và Duy Tân, là 3 vị vua yêu nước trong lịch sử Việt Nam thời P..." target="_blank" >Thành Thái</a> nguyên niên), tại làng Khê Thượng, huyện Bất Bạt, <a class="annotation" href="/dia-danh/tinh-son-tay" title="Sơn Tây là một tỉnh cũ ở đồng bằng Bắc Bộ, Việt Nam. 
+ Sơn Tây là một trong số 13 tỉnh được thành lập sớm nhất ở Bắc Kỳ (năm 1831), dưới thời vua Minh Mạng), gồm phần lớn địa bàn các tỉnh Vĩnh Phúc, phía bắc tỉnh Phú Thọ, một phần tỉnh Tuyên Quang và tây bắc thành phố Hà Nội ngày nay. Vốn trước đó l..." target="_blank" >tỉnh Sơn Tây</a> (nay là xã Sơn Đà, <a class="annotation" href="/dia-danh/huyen-ba-vi" title="21°04′0″B 105°20′5″Đ / 21,06667°B 105,33472°Đ / 21.06667; 105.33472 
+ Ba Vì là một huyện bán sơn địa, nằm Tây Bắc của thủ đô Hà Nội, Việt Nam...." target="_blank" >huyện Ba Vì</a>, <a class="annotation" href="/dia-danh/thanh-pho-ha-noi" title="Hà Nội là thủ đô của nước Cộng hoà xã hội chủ nghĩa Việt Nam và cũng là kinh đô của hầu hết các vương triều phong kiến Việt trước đây. Do đó, lịch sử Hà Nội gắn liền với sự thăng trầm của lịch sử Việt Nam qua các thời kỳ. Hà Nội là thành phố lớn nhất Việt Nam về diện tích, đồng thời cũng là địa phươ..." target="_blank" >thành phố Hà Nội</a>), nguyên quán ở làng Lủ tức làng Kim Lũ, <a class="annotation" href="/dia-danh/huyen-thanh-tri" title="Thanh Trì là một huyện ngoại thành phía Nam của thành phố Hà Nội, Việt Nam...." target="_blank" >huyện Thanh Trì</a> thuộc phủ Thường Tín, <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a> (nay là phường Đại Kim, <a class="annotation" href="/dia-danh/quan-hoang-mai" title="Hoàng Mai là một quận phía Nam nội thành thủ đô Hà Nội. Đây là quận có diện tích lớn thứ 4 của thủ đô (sau quận Long Biên, Hà Đông và Bắc Từ Liêm)...." target="_blank" >quận Hoàng Mai</a>, <a class="annotation" href="/dia-danh/thanh-pho-ha-noi" title="Hà Nội là thủ đô của nước Cộng hoà xã hội chủ nghĩa Việt Nam và cũng là kinh đô của hầu hết các vương triều phong kiến Việt trước đây. Do đó, lịch sử Hà Nội gắn liền với sự thăng trầm của lịch sử Việt Nam qua các thời kỳ. Hà Nội là thành phố lớn nhất Việt Nam về diện tích, đồng thời cũng là địa phươ..." target="_blank" >thành phố Hà Nội</a>).</p>
+<p>Ông thuộc dòng dõi quyền quý, có truyền thống khoa bảng. Tổ tiên ông xưa kia có nhiều đời làm quan dưới triều Lê. Sau Gia Long lên ngôi, dòng họ này thề sẽ không đi thi, không làm quan với tân triều. Đến thời cha ông là Nguyễn Danh Kế (阮名繼), do hoàn cảnh gia đình cực khổ, lại phải nuôi mẹ già, đành lỗi ước với tổ tiên. Nguyễn Danh Kế thi đỗ cử nhân, làm quan cho triều Nguyễn đến chức Ngự sử trong Kinh, giữ việc án lý, nổi tiếng là người có tài văn án trong triều. Ông Kế vốn là người phong lưu tài tử, thường lui tới chốn bình khang và quen với bà Lưu Thị Hiền ở phố.</p>
+<p>Bà Lưu Thị Hiền (流氏賢) có nghệ danh Nhữ Thị Nhiêm (汝氏蚦), là một đào hát tài sắc ở Hàng Thao - Nam Định, bà lấy lẽ ông Nguyễn Danh Kế khi ông làm tri phủ Xuân Trường (Nam Định). Bà là người hát hay, có tài làm thơ chữ Nôm. Tản Đà là con trai út của cuộc lương duyên giữa tài tử và giai nhân này.</p>
+<p>Trong những người anh em còn lại, có người anh ruột (cùng cha khác mẹ) với Tản Đà là Nguyễn Tái Tích, là người có nhiều những ảnh hưởng to lớn tới cuộc đời sau này của Tản Đà. Ông Tích sinh năm 1864, nối nghiệp cha đi thi đỗ Phó bảng và ra làm quan. Ông là người thanh liêm chính trực, nên đường hoạn lộ cũng không yên ổn, sau làm ở cục Tu thư, rồi Hiệu trưởng trường Tân Quy, Đốc học Vĩnh Yên. Tản Đà từ nhỏ sống với ông, phải nhiều lần di chuyển tới những nơi ông Tích được bổ nhiệm: Yên Mô - Ninh Bình, Vụ Bản - Nam Định, Quảng Oai - Sơn Tây, Vĩnh Tường - Vĩnh Yên.</p>
+<a name="thieu-nien"></a><h3>Thiếu niên</h3>
+<p>Thời niên thiếu của Tản Đà trải nhiều giai đoạn khóc cười. Năm lên 3 tuổi, bố mất, cuộc sống gia đình trở nên cùng túng. Năm sau, vì bất hoà với nhà chồng, bà Nghiêm bỏ đi, trở lại nghề ca xướng. 8 năm sau, xảy ra chuyện chị ruột ông cũng theo mẹ làm nghề đó (năm Tản Đà 13 tuổi). Những sự kiện đã để lại nhiều dấu ấn khó phai trong tâm hồn.</p>
+<p>Tản Đà hấp thụ nền Nho giáo từ nhỏ, được ông Tích nhiệt tình hướng vào con đường cử nghiệp. Theo hồi ký trong 1 bài thơ thì 5 tuổi ông học Tam tự kinh, Ấu học ngũ ngôn thi, Dương tiết,... 6 tuổi học Luận ngữ, kinh, truyện và chữ quốc ngữ, 10 tuổi biết làm câu đối, 11 tuổi làm thơ văn. Ông rất thích làm văn, lại được anh hết lòng chỉ dẫn, nên 14 tuổi đã thạo các lối từ, chương, thi, phú. Lúc còn học ở trường Quy thức - một trường học thực nghiệm cải cách của Pháp mở ở Hà Nội-, ông viết bài "Âu Á nhị châu hiện thế" bằng chữ Hán, được các báo ở Hồng Kông đăng trong mục xã thuyết. Năm 15 tuổi, ông đã nổi tiếng là thần đồng của <a class="annotation" href="/dia-danh/tinh-son-tay" title="Sơn Tây là một tỉnh cũ ở đồng bằng Bắc Bộ, Việt Nam. 
+ Sơn Tây là một trong số 13 tỉnh được thành lập sớm nhất ở Bắc Kỳ (năm 1831), dưới thời vua Minh Mạng), gồm phần lớn địa bàn các tỉnh Vĩnh Phúc, phía bắc tỉnh Phú Thọ, một phần tỉnh Tuyên Quang và tây bắc thành phố Hà Nội ngày nay. Vốn trước đó l..." target="_blank" >tỉnh Sơn Tây</a>.</p>
+<p>Giai đoạn niên thiếu của Tản Đà phần lớn dành cho chuyện thi cử, đến năm 19 tuổi, ông mới có những rung cảm tình ái đầu đời. Đó là mối tình với con gái nhà tư sản Đỗ Thận. Năm sau ông lại yêu con gái ông tri huyện phủ Vĩnh Tường. Nhưng 2 mối tình này đều không được trả lời.</p>
+<p>Năm 1909 (Kỷ Dậu), ông tham dự kỳ thi hương ở Nam Định, rồi trượt trong lần đi thi đầu tiên này. Ông về lại nhà ở Phủ Vĩnh Tường ôn tập. Trong thời gian này, ông say mê một cô gái bán tạp hoá ở phố hàng Bồ. Vì nhà nghèo, không có tiền hỏi cưới, ông đành nuôi hy vọng bằng cách tiếp tục đường khoa cử. Kỳ thi xảy đến, ông dùng bằng Ấm sinh để thi hậu bổ, nhưng bị rớt vì môn vấn đáp bằng tiếng Pháp. Mùa thu năm ấy, ông lại đi thi hương, nhưng lại trượt. Chuyện tình với cô bán sách tan vỡ, cô đi lấy chồng. Ông chán nản bỏ về Hòa Bình tìm khuây lãng. Tại đây nhờ sự giới thiệu của anh rể là nhà thơ trào phúng <a class="annotation" href="/nhan-vat/nguyen-thien-ke" title="Nguyễn Thiện Kế (1849-1937) tên tự là Trung Khả, hiệu Đường Vân hay Nễ Giang, còn được gọi là Huyện Nẻ hay Huyện Móm, là 1 chỉ huy của khởi nghĩa Bãi Sậy trong phong trào Cần Vương và là em ruột của thủ lĩnh Nguyễn Thiện Thuật, quê ở làng Xuân Đào, xã Xuân Dục, huyện Mỹ Hào, tỉnh Hưng Yên. Ngoài ra,..." target="_blank" >Nguyễn Thiện Kế</a>, Tản Đà kết giao với nhà tư sản Bạch Thái Bưởi. Hai người bạn mới gặp đã như quen, cùng vào dãy Hương Sơn, ngọn Chùa Tiên, đêm ngày uống rượu, làm thơ, đọc sách, thưởng trăng, sống theo lối "tịch cốc". Lúc này lần đầu tiên ông đọc Tân thư, sách của Khang Hữu Vi, Lương Khải Siêu, tìm hiểu về cách mạng Tân Hợi. Nhiều bài thơ và tư tưởng đặc biệt của ông ra đời trong giai đoạn này.</p>
+<p>Năm 1913, anh cả Nguyễn Tài Tích mất. Tản Đà về Vĩnh Yên làm nghề báo, tờ báo ông cộng tác đầu tiên là "Đông Dương tạp chí" của Nguyễn Văn Vĩnh, phụ trách mục "Một lối văn nôm".</p>
+<p>Đến năm 1915, ông lấy vợ là bà Nguyễn Thị Tùng, con trai ông là Nguyễn Mạnh Hương tri huyện ở <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a>, trở thành anh em cột chèo với nhà văn Phan Khôi. Ông Hương là thân sinh của nhà văn Nguyễn Tiến Lãng. Cũng năm này ông có tác phẩm hay, đăng trên "Đông dương tạp chí", nhanh chóng có được tiếng vang trên văn đàn. Năm 1916, ông lấy bút danh Tản Đà là tên ghép giữa núi Tản, <a class="annotation" href="/dia-danh/song-da" title="Sông Đà (còn gọi là sông Bờ hay Đà Giang) là phụ lưu lớn nhất của sông Hồng. Sông dài 910 km (có tài liệu ghi 983&amp;#160;km), diện tích lưu vực là 52.900&amp;#160;km², bắt nguồn từ núi Vô Lượng, tỉnh Vân Nam, Trung Quốc chảy theo hướng tây bắc - đông nam để rồi nhập với sông Hồng ở Phú Thọ. Trong một số t..." target="_blank" >sông Đà</a>, và chính thức chọn con đường của một người viết văn, làm báo chuyên nghiệp.</p>
+<a name="thoi-ky-vinh-hien"></a><h3>Thời kỳ vinh hiển</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-khac-hieu/96b1e0072c1f93043f000c2e096c7491.jpeg" /> <div class="caption"> <div class="magnify"></div> Khu tưởng niệm Tản Đà tại làng Khê Thượng, xã Sơn Đà, huyện Bất Bạt, Hà Nội</div> </div> </div>
+<p>Từ 1915 đến 1926 là những năm tháng đắc ý nhất của Tản Đà. Năm 1915, cuốn sách đầu tiên của Tản Đà được xuất bản, gây tiếng vang lớn, đó là tập thơ "Khối tình con I".</p>
+<p>Sau thành công đó, ông viết liền cuốn "Giấc mộng con" (cho in năm 1917) và một số vở tuồng: "Người cá", "Tây Thi", "Dương Quý Phi", "Thiên Thai" (diễn lần đầu năm 1916 tại Hải Phòng).</p>
+<p>Năm 1917, <a class="annotation" href="/nhan-vat/pham-quynh" title="Phạm Quỳnh (chữ Hán: 范瓊; 17 tháng 12 năm 1892 - 6 tháng 9 năm 1945) là một nhà văn hóa, nhà báo, nhà văn và quan đại thần triều Nguyễn (Việt Nam). Ông là người đi tiên phong trong việc sử dụng chữ Quốc ngữ và dùng tiếng Việt - thay vì chữ Nho hay tiếng Pháp - để viết lý luận, nghiên cứu. Ông có tên ..." target="_blank" >Phạm Quỳnh</a> sáng lập ra "Nam Phong tạp chí", và bài của Tản Đà có trên tạp chí này từ số đầu tiên. Năm 1918, <a class="annotation" href="/nhan-vat/pham-quynh" title="Phạm Quỳnh (chữ Hán: 范瓊; 17 tháng 12 năm 1892 - 6 tháng 9 năm 1945) là một nhà văn hóa, nhà báo, nhà văn và quan đại thần triều Nguyễn (Việt Nam). Ông là người đi tiên phong trong việc sử dụng chữ Quốc ngữ và dùng tiếng Việt - thay vì chữ Nho hay tiếng Pháp - để viết lý luận, nghiên cứu. Ông có tên ..." target="_blank" >Phạm Quỳnh</a> ca ngợi cuốn "Khối tình con I" và phê phán cuốn "Giấc mộng con I", cả khen lẫn chê đều dùng những lời lẽ sâu cay, biến Tản Đà trở thành một hiện tượng trên văn đàn. Sau bài phê phán tư tưởng của "Giấc mộng con", Tản Đà thôi cộng tác với Nam Phong tạp chí và mở một số cuộc hội đàm để chống lại những lời phê phán đó, sự kiện này cũng được nhiều giới quan tâm.</p>
+<p>Từ 1919 tới 1921, Tản Đà viết một loạt sách; truyện thì có "Thần tiền", "Đàn bà Tàu" (1919); sách giáo khoa, luân lý thì có "Đài gương", "Lên sáu" (1919), "Lên tám" (1920), thơ thì có tập "Còn chơi" (1921). Thời kỳ này ông quen với một nhà tư sản nữa là ông Bùi Huy Tín, cùng nhau du lịch khắp Bắc, Trung kỳ và làm chủ bút "Hữu thanh tạp chí" một thời gian.</p>
+<p>Năm 1922, Tản Đà thành lập "Tản Đà thư điếm" (sau đổi thành "Tản Đà thư cục"), đây là nhà xuất bản riêng đầu tiên của ông. Tại đây đã xuất và tái bản hết những sách quan trọng trong sự nghiệp của Tản Đà; "Tản Đà tùng văn" (tuyển cả thơ và văn xuôi, trong đó có truyện "Thề Non Nước", 1922); "Truyện thế gian" tập I và II (1922), "Trần ai tri kỷ" (1924), "Quốc sử huấn nông (1924), và tập "Thơ Tản Đà" (1925). Ngoài ra thư cục này còn cho xuất bản sách của <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a>, Đoàn Tư Thuật.</p>
+<p>Năm 38 tuổi (1926), Hữu Thanh tạp chí đình bản, Tản Đà cho ra đời "An Nam tạp chí" số đầu tiên với tòa soạn ở phố Hàng Lọng. Sự ra đời của "An Nam tạp chí", tờ báo mà Tản Đà dành hết tâm huyết, đã bắt đầu quãng đời lận đận của ông.</p>
+<a name="cuoi-doi-lan-dan"></a><h3>Cuối đời lận đận</h3>
+<div class="thumb-img pull-left"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-khac-hieu/43a815cc90131959f5c06049c682bfb7.jpg" /> <div class="caption"> <div class="magnify"></div> Tranh biếm của Hoàng Đạo vẽ Tản Đà vừa dạy học vừa uống rượu, với lời thuyết minh "Tản Đà: Các ngài muốn hỏi tôi cách làm thơ ru? Khó gì đâu: tửu nhập thi xuất!)" - đăng trên <i>Phong Hoá</i>.</div> </div> </div>
+<p>Thời kỳ đầu làm chủ "An Nam tạp chí", Tản Đà chưa thiếu thốn nhiều, ông thường đi du lịch: khi thì lên đề thơ ở núi Non Nước - Ninh Bình (bài Vịnh hòn đá), khi thì vào trung kỳ thăm <a class="annotation" href="/nhan-vat/phan-sao-nam" title="Phan Bội Châu (chữ Hán: 潘佩珠; 1867 – 1940) là một danh sĩ và là nhà cách mạng Việt Nam, hoạt động trong thời kỳ Pháp thuộc...." target="_blank" >Phan Sào Nam</a>, khi thì ở Sài Gòn gặp Diệp Văn Kỳ, ra Bình Định thăm mộ cũ <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a>, về Hải Phòng sống với con tướng Cần Vương đô thống Thuật. Ông vừa làm báo vừa đi chơi do đó tạp chí "An Nam" cũng ra rải rác, thất thường. Dần dần, ông túng quẫn, những cuộc đi là để trốn nợ hoặc giải sầu, hoặc là tìm người tài trợ cho báo.</p>
+<p>Thời kỳ này ông viết cũng nhiều, các tập "Nhàn tưởng" (bút ký triết học, 1929), "Giấc mộng lớn" (tự truyện, 1929), "Khối tình con III" (in lại thơ cũ), "Thề non nước" (truyện), "Giấc mộng con II" (truyện), lần lượt ra đời.</p>
+<p>Năm 1931-1932, Tản Đà có cuộc bút chiến nổi tiếng với Phan Khôi về luân lý và Tống Nho. Ông có câu nói đi vào lịch sử khi kết án Phan Khôi: "<i>vu hãm tiên hiền, loạn ngôn hoặc chúng, bại hoại phong quá</i>" và đòi đem Phan Khôi ra Văn Miếu quất roi vào đít.</p>
+<p>Năm 1933, khi phong trào Thơ Mới đang nổi lên, thì "An Nam tạp chí" của Tản Đà chính thức đình bản sau 3 lần đình bản và 3 lần tái bản. Sự kiện này khi đó bị nhiều người thuộc phe "thơ mới" đem ra cười cợt, trong đó có Tú Mỡ Hồ Trọng Hiếu, đã viết một bài "văn tế An Nam tạp chí" với lời lẽ xỏ lá. Thời kỳ đầu của phong trào thơ mới, Tản Đà im lặng. Mãi đến năm 1934, ông mới có một vài lời khuyên nhẹ nhàng gửi các nhà thơ Mới.</p>
+<p>Tuy vậy, với vai trò là nhà thơ nổi tiếng nhất trong làng thơ cũ đương thời, Tản Đà vẫn là một đối tượng chính để những người thuộc phe thơ mới tìm cách đánh đổ. Tờ Phong hóa của Tự Lực văn đoàn rất hăng hái chê ông, chê mọi thứ, từ tính nghiện rượu, nói nhiều lúc say, hay say, cho đến cái mũi ửng đỏ của Tản Đà cũng bị chê nốt.<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy.">cần dẫn nguồn</span></i>]</sup></p>
+<p>Do ảnh hưởng của phong trào Thơ Mới và phong trào theo Tân học, Tản Đà, con người thuộc phe cựu học, làm thơ cũ đã dần dần trở nên cô độc. Tên tuổi ông gần như bị đẩy lui vào dĩ vãng, nhường chỗ cho các nhà thơ mới: Xuân Diệu, Thế Lữ, Lưu Trọng Lư... Cộng với việc "An Nam tạp chí" đình bản vĩnh viễn, cuộc sống của Tản Đà vốn nghèo túng lại càng trở nên thiếu thốn hơn, phải chạy ngược chạy xuôi để kiếm sống. Có khi người ta thấy ông ở khu Bạch Mai dạy chữ Nho. Có lúc ở Hà Đông, đăng quảng cáo lên mấy tờ báo: "Nhận làm thuê các thứ văn vui, buồn, thường dùng trong xã hội - Tản Đà Nguyễn Khắc Hiếu". Năm 1938, ông còn mở cả một phòng đoán số Hà Lạc để xem bói.</p>
+<a name="duoc-ton-vinh-va-qua-doi"></a><h3>Được tôn vinh và qua đời</h3>
+<p>Những năm cuối đời trải qua hắt hiu, buồn thảm như thế, nhưng Tản Đà còn được an ủi là ông bỗng được mọi người quan tâm trở lại. Phe "thơ mới" sau chiến thắng, đã không còn đả kích Tản Đà. Họ bắt đầu lật lại những gì Tản Đà đã cống hiến xưa nay, họ ca ngợi Tản Đà, xem ông như một ông Thánh của làng thơ... Tờ Ngày nay của Tự Lực văn đoàn, trước kia chê ông tới không còn chỗ chê, thì nay lại mời ông cộng tác, hết lời ca ngợi những bài thơ Đường do ông dịch.</p>
+<p>Lúc này sức khỏe của Tản Đà suy yếu, ông giành hết tâm sức cho việc dịch thuật và biên tập: "Liêu Trai chí dị" của Bồ Tùng Linh (Tân Dân xuất bản, 1937), "Vương Thúy Kiều chú giải tân truyện" (in năm 1940, sau khi ông mất), "Thời hiền thi tập", "Khổng Tử lược truyện" (đã thất lạc)...</p>
+<p>Ngày 7 tháng 6 năm 1939 (tức 20 tháng 4 năm Kỷ Mão), ông mất (50 tuổi) sau một thời gian chống chọi với bệnh gan, trên cái giường nát tại nhà riêng số 71 ngã tư Sở, Hà Nội, để lại vợ và bảy đứa con. Di thể của ông được an táng tại nghĩa trang Quảng Thiện, Hà Nội.</p>
+<p>Nghe tin Tản Đà mất, làng văn nghệ trong nước vừa yên ắng sau vụ "thơ mới - cũ" lại trở nên xôn xao. Một loạt các bài báo tưởng niệm Tản Đà được ra mắt ngay sau đó: Khái Hưng có "Cái duyên của Tản Đà", "Vài chuyện vui về thi sĩ Tản Đà", Xuân Diệu có "Công của thi sĩ Tản Đà", ông Lâm Tuyền Khách có "Một tháng với Tản Đà: đời làm báo của Tản Đà", Lưu Trọng Lư có "Bây giờ, khi nắp quan tài đã đậy lại", Phan Khôi có "Tôi với Tản Đà thi sỹ", Nguyễn Tuân có "Tản Đà, một kiếm khách"..v..v. Những bài viết này thể hiện sự kính trọng, quý mến đối với con người Tản Đà, người mà cách đây vài năm còn bị họ đả kích, chế giễu.</p>
+<p>Năm 1941, Hoài Thanh và Hoài Chân cho in tác phẩm "Thi nhân Việt Nam" nổi tiếng, đã cung kính đặt Tản Đà lên ngồi ghế "chủ suý" của hội tao đàn, ở những trang đầu tiên, như một người mở lối cho thi ca Việt Nam bước vào một giai đoạn tươi đẹp mới.</p>
+<p>Năm 1963, di hài của Tản Đà đã được cải táng về cánh đồng Cửa Quán, thôn Hội Xá (quê vợ), xã Hương Sơn, <a class="annotation" href="/dia-danh/tinh-ha-tay" title="Hà Tây là một tỉnh cũ Việt Nam, thuộc vùng đồng bằng sông Hồng, đã từng tồn tại trong hai giai đoạn: 1965-1975 và 1991-2008. Tỉnh nằm bên bờ phải (bờ Nam) sông Hồng và bờ trái (bờ Đông) sông Đà. Trung tâm hành chính của tỉnh là thành phố Hà Đông nằm cách trung tâm thủ đô Hà Nội cũ 10&amp;#160;km về phía..." target="_blank" >tỉnh Hà Tây</a>.</p>
+<a name="con-nguoi-tan-da"></a><h3>Con người Tản Đà</h3>
+<p>Ngoài tài làm thơ, nhân cách của Tản Đà cũng rất được nhiều nhà nghiên cứu. Khái Hưng, lúc đầu khi chưa hiểu thơ Tản Đà, cũng rất thích ông nhờ vào tính cách, hay là thi sĩ Bùi Giáng trong "Đi vào cõi thơ": chê thơ Tản Đà "không có gì đặc sắc", song lại muốn Tản Đà sống lại để "nhậu một trận lu bù", và Trương Tửu ngay sau khi Tản Đà mất, cho ra một cuốn sách viết về Tản Đà là "Uống rượu với Tản Đà", trong đó kể lại nhiều câu chuyện làm nổi lên những phẩm chất của ông, ông gọi Tản Đà là Epicurien của Việt Nam. Nguyễn Tuân, một người lập dị không kém và cũng rất khâm phục Tản Đà, trong bài "Tản đà - một kiếm khách" phác họa ra một người sống cô độc ngoài hải đảo, cách xa trần thế, tưởng như một vị trích tiên.</p>
+<p>Bên cạnh đó cũng có nhiều người tỏ ý "kính nhi viễn chi", thậm chí không chịu nổi tính cách của Tản Đà. Vũ Bằng nói: <i>"Người như Tản Đà để ở xa mà kính trọng cảm phục thì được, chứ ở gần thì không thể nào chịu nổi!"</i>. Lưu Trọng Lư nhận xét: "<i>Gặp Tản Đà một bận thì thật là một điều khoái trá vô cùng, gặp ông ấy lần thứ hai thì vẫn còn là một cái vui thích đã bắt đầu gượng gạo, và gặp đến lần thứ ba thì là một điều khó chịu. Và lần thứ tư, thứ năm, v.v... thì xin thú thực là một... tai nạn</i>". Phan Khôi, được xem là khắc tinh với Tản Đà trên văn đàn, trong "Tôi với Tản Đà thi sỹ" viết: <i>Cái lối đánh chén của ông Hiếu kề cà mất thì giờ lắm, tôi không chịu được, nên ít khi tôi ngồi trọn bữa rượu với ông. Ông đem hỏa lò để ở bàn mà tự làm lấy món ăn, có khi mãn một tiệc ăn người nhà phải thay than trong hỏa lò đến năm sáu bận. Thường thường một mình ông vừa ăn uống lại vừa viết nữa. Ông cho có thế mới là thú.</i>.</p>
+<p>Chính Tản Đà cũng thường tự coi mình là "Khổng tử chi đồ", "trích tiên", một thế ngoại cao nhân, tỏ ra khác biệt với người dương thế. Ông thường làm những chuyện xưa nay hiếm: theo lời <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a>, lần vào Sài Gòn viết báo, Tản Đà đem theo vợ con nhưng cả lúc đến lẫn lúc đi, vợ con ông gửi cho <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a> thu xếp cả. <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a> là bạn thân của Tản Đà, có lần phác họa về con người ông: "<i>Không có tiền thì rầu rĩ, oán trách, rũ người ra như con cú, thế mà một khi có tiền thì lại không muốn làm việc gì hết, chỉ uống và ăn, hết ăn lại uống. Chưa uống thì bảo không có rượu như cái máy không xăng nhớt không chạy được, uống vào say rồi thì nằm khoèo ra ngủ và lý luận một mình rằng say mà làm việc thì hỏi đời còn có cái gì thú nữa?</i>". Tản Đà còn có tính tự phụ, không biết sửa sai, lại thích nghe nịnh nọt, <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a> kể: "<i>không biết nghe lời anh em khuyên bảo. Cái số anh em thành thực khuyên ông rất hiếm, còn cái số nâng ông lên, sợ cái tài ông mà không dám làm mích lòng ông thì cả đống. Vì có nhiều kẻ nịnh ông một cách mù quáng như thế, ông bị hại mà không biết, mỗi ngày mỗi tự phụ thêm lên</i>...".</p>
+<p>Đa phần những người thân với Tản Đà, thường cho rằng ông rất khó gần. Điển hình là <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a>, người bạn thân nhưng đã tuyệt giao với ông trong suốt 10 năm cuối đời.</p>
+<a name="thi-si-tuu-do"></a><h4>"Thi sĩ tửu đồ"</h4>
+<a name="chuyen-tinh-cam"></a><h4>Chuyện tình cảm</h4>
+<p>Trong cuộc đời của Tản Đà, người ta đếm được có bốn mối tình đã mang lại cho ông nhiều cảm xúc. Đầu tiên là mối tình tuyệt vọng với cô gái họ Đỗ ở phố hàng Bồ. Đây là mối tình trong trắng và say đắm, nhưng không có kết cuộc tốt đẹp. Mối tình này đã làm ông đau khổ và tạo nên nhiều thi hứng, để làm nên những câu thơ đặc sắc:</p>
+<dl> <dd>"<i>Vì ai cho tớ phải lênh đênh</i></dd> <dd><i>Nặng lắm ai ơi, một gánh tình</i>"</dd> </dl>
+<p>Trong cuốn "Giấc mộng con", ông đã viết một bài văn để tả mối tình này. Ông mô tả: "<i>ở phố Hàng Bồ số nhà hơn hai mươi về dãy bên lẻ có một người con gái ngồi bán hàng tạp hoá, không biết có phải là tuyệt sắc hay không mà tự con mắt mình khi bấy giờ thì như ngoài người ấy không có ai là con gái</i>...".</p>
+<p>Tuy nhiên, do không có tiền cưới hỏi mà chuyện thi cử lại bất thành, Tản Đà đành chấm dứt cuộc tình thơ mộng. Cô gái xuất giá, Tản Đà viết: "<i>thời đời đáng chán hay không đáng chán cũng chẳng đợi cất chén quỳnh mà hỏi bạn tri âm</i>". Theo các nhà nghiên cứu thì đây là chuyện tình đã gây ảnh hưởng nhiều nhất tới Tản Đà. Sau khi chia tay với mối duyên đầu, ông trở nên chán nản, buồn bã. Để tìm khuây khoả, ông đi nhiều nơi: Việt Trì, Hòa Bình... Những câu thơ làm trong giai đoạn đau khổ này của Tản Đà đã vô tình mở đầu cho một trào lưu về văn học lãng mạn ở Việt Nam. Trước đó ít ai tả những nỗi buồn sâu kín, những nỗi chán đời rất trần tục như:</p>
+<dl> <dd>"<i>Đêm thu buồn lắm chị Hằng ơi</i>!</dd> <dd><i>Trần thế em nay chán nửa rồi..."</i></dd> </dl>
+<dl> <dd>"<i>Trận gió thu phong rụng lá vàng</i></dd> <dd><i>Lá rơi hàng xóm, lá bay sang</i></dd> <dd><i>Vàng bay mấy lá năm già nửa</i></dd> <dd><i>Hờ hững ai xui thiếp phụ chàng?"</i></dd> </dl>
+<p>Nhưng ngoài cô gái hàng Bồ mà người ta thường nhắc tới ra, theo Nguyễn Khắc Xương, còn có ít nhất ba mối tình thực nữa mà Tản Đà đã ghi lại trong thơ. Đó là mối tình với cô con gái út ông tri phủ Vĩnh Tường, cô nữ sinh 13 tuổi ở Nam Định, và cả cô đào Liên, người sắm vai Tây Thi trong vở kịch "Cô Tô tàn phá" do ông soạn giả kiêm đạo diễn. Những người tình này đều được ghi lại trong tập văn xuôi "Giấc mộng con".</p>
+<p>Trên là tình thực, còn tình "mộng", Tản Đà có rất nhiều. Đó là những mối tình với Tây Thi, với Chiêu Quân, với Ngọc Nữ... mà người ta thường thấy trong "Khối tình con". Đặc biệt, còn có những cuộc tình nửa thực, nửa mộng, với những "tình nhân không quen biết". Khoảng năm Nhâm Tuất (1922), vào hội chùa Hương, Tản Đà do không có chi phí để đi hội, ông nhớ hội chùa, nhớ rau sắng, làm ra mấy câu thơ:</p>
+<dl> <dd><i>Muốn ăn rau sắng chùa Hương</i></dd> <dd><i>Tiền đò ngại tốn, con đường ngại xa</i></dd> <dd><i>Mình đi, ta ở lại nhà</i></dd> <dd><i>Cái dưa thì khú, cái cà thì thâm"</i></dd> </dl>
+<p>Bài thơ phổ biến trên báo. Đến cuối tháng, ông nhận một bưu kiện là một bó rau sắng và một bài thơ, nhưng không ghi địa chỉ người gửi. Ông cảm kích, gọi người gửi ấy là "Tình nhân không quen biết" và làm thơ gửi tặng bằng cách đăng báo. Trước đó, ông đã viết nhiều bài thơ gửi "Tình nhân không quen biết", với ý muốn tìm kiếm một bạn tri âm tri kỷ trên khắp nước Việt Nam.</p>
+<p>Xem những câu chuyện trên, người ta tin Tản Đà không nói ngoa khi ông thường nhận mình là "giống đa tình". Những mối tình đa dạng đã chắp cánh cho thi tài của ông, khiến ông trở thành một nhà thơ mở màn cho trào lưu lãng mạn sau này (phong trào thơ mới), với những bài thơ ghi dấu sự chuyển giao giữa hai thời đại.</p>
+<a name="su-nghiep"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Sự nghiệp</h2>
+<a name="tho"></a><h3>Thơ</h3>
+<p>Từ thập niên 1920 cho đến nửa đầu thập niên 1930, văn đàn Việt Nam không có một nhà thơ nào nổi tiếng và được yêu mến như Tản Đà. Kể cả khi phong trào thơ mới xảy ra, thì Tản Đà, sau khi "phái thơ mới" bị đả kích kịch liệt lại được chính những người đả kích mời về ngồi chiếu trên. Trong cuốn "Thi nhân Việt Nam", cuốn sách bình luận thơ mới rất giá trị, Hoài Thanh và Hoài Chân đã đặt bài tưởng niệm Tản Đà lên những trang đầu, với lời lẽ tôn kính.</p>
+<p>Thơ cũng là lĩnh vực quan trọng nhất trong sự nghiệp phong phú của Tản Đà. Ông được coi là một thi sĩ, hơn hết các nghề khác. Ông sáng tác rất nhiều thơ, nhiều thể loại - cả về nội dung lẫn hình thức. Thơ ông hay diễn tả cảm giác say sưa, chán ngán đời thực, đắm chìm trong cõi mộng, những mối tình với người tri kỷ xa xôi, song cũng có những bài mang tính ẩn dụ, ngầm phê phán hiện thực.</p>
+<p>Thơ Tản Đà thường làm theo thể cổ phong, cũng có khi làm bằng Đường luật, đường luật phá thể, lục bát, song thất lục bát. Ông còn có tài sáng tác thơ dựa trên từ khúc, một hình thức âm nhạc của Trung Hoa, những bài "Tống biệt", "Cảm thu tiễn thu" nhờ sự phá cách, phối hợp nhiều thể loại thơ, có thể coi là cách tân về hình thức khá táo bạo. Một kiểu văn vần đặc biệt nữa mà ở đó, Tản Đà được sánh ngang với <a class="annotation" href="/nhan-vat/nguyen-cong-tru" title="Nguyễn Công Trứ (chữ Hán: 阮公著, 1778 – 1858), tự Tồn Chất, hiệu Ngộ Trai, biệt hiệu Hi Văn, là một nhà chính trị, nhà quân sự và một nhà thơ thời nhà Nguyễn. Ông làm quan qua các đời vua Gia Long Minh Mạng, Thiệu Trị, Tự Đức. Ông nổi bật về việc khai hoang, mộ dân trên một vùng đất lớn ở miền Bắc và ..." target="_blank" >Nguyễn Công Trứ</a>, Dương Khuê, Cao Bá Quát..., là hát nói hay ca trù (nay được xem như một thể loại thơ). Hát nói của Tản Đà thể hiện một triết lý sống phóng khoáng, một tâm hồn hay mơ mộng, hoài cổ nhưng man mác nỗi sầu nhân thế.</p>
+<p>Ngoài thơ tự sáng tác, thơ dịch của Tản Đà cũng được đánh giá rất cao. Những bài thơ lục bát dịch từ thơ Đường của Tản Đà thường được cho là hay hơn các bản dịch khác, có bài hay hơn cả nguyên tác, vì sự tự nhiên, không bị gò bó mà chuyển tải cả tâm hồn mình vào đó. Ngoài thơ Đường, ông còn dịch những bài thơ dài như Trường Hận ca, dịch ra thể Song thất lục bát, được đánh giá rất cao, Bùi Giáng trong cuốn "Đi vào cõi thơ" tuy không đề cao thơ Tản Đà nhưng gọi bản dịch này là "vô tiền khoáng hậu".</p>
+<a name="hat-noi"></a><h4>Hát nói</h4>
+<a name="tho-ca-dan-gian"></a><h4>Thơ ca dân gian</h4>
+<a name="van"></a><h3>Văn</h3>
+<p>Chủ yếu là thể loại văn xuôi. Ngoài ra, còn có tùy bút, bút ký,...</p>
+<p>Đả kích trực diện vào bọn quan lại bất lương, đồng thời bảo vệ những người nghèo.</p>
+<a name="bao-chi"></a><h3>Báo chí</h3>
+<p>Làm báo chí là một phần trong sự nghiệp rất phong phú của Tản Đà. Ông có phong cách làm báo đặc biệt, thường xuất hiện trong những cuộc bút chiến với những giọng điệu khó lẫn. Từng là cộng tác viên cho "Nam Phong", sau đó do bất đồng với <a class="annotation" href="/nhan-vat/pham-quynh" title="Phạm Quỳnh (chữ Hán: 范瓊; 17 tháng 12 năm 1892 - 6 tháng 9 năm 1945) là một nhà văn hóa, nhà báo, nhà văn và quan đại thần triều Nguyễn (Việt Nam). Ông là người đi tiên phong trong việc sử dụng chữ Quốc ngữ và dùng tiếng Việt - thay vì chữ Nho hay tiếng Pháp - để viết lý luận, nghiên cứu. Ông có tên ..." target="_blank" >Phạm Quỳnh</a> mà sang làm chủ bút cho "Hữu Thanh". Về sau ông sáng lập ra "An Nam tạp chí" nhưng ba lần phải chịu cảnh đình bản vì lý do tài chính. Ở giai đoạn cuối đời còn cộng tác với "Văn học tạp chí" và cả "Ngày nay", tờ báo trước đó đã mạt sát ông nặng nề.</p>
+<p>Có thể nói sự nghiệp báo chí của Tản Đà, cũng như cuộc đời của ông, thường gặp gian nan trắc trở. Song những đóng góp của ông trong thời buổi sơ khai của báo chí Việt Nam, là một cái giá trị mà người ta phải công nhận.</p>
+<a name="an-nam-tap-chi"></a><h4>An Nam tạp chí</h4>
+<p><i>Xem chi tiết hơn trong bài An Nam tạp chí</i></p>
+<p>Tản Đà là người sáng lập ra tờ báo chuyên về văn học đầu tiên của Việt Nam: tờ "An Nam tạp chí". Số đầu tiên ra ngày 1 tháng 7 năm 1926, Tản Đà làm chủ báo, thư ký tòa soạn là <a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a>. Tờ báo xem như gắn liền với sự nghiệp làm báo của Tản Đà, song nó không hoạt động yên ổn như ý, cho đến ngày chính thức "chết", tờ báo đã trải qua ba lần đình bản.</p>
+<p>"An Nam tạp chí" đình bản lần đầu tiên vào tháng 3 năm 1927, sau khi ra được 10 số. Sau đó, đến năm 1929, Tản Đà hợp tác với một người ở Hàng Gai, cho tái bản tạp chí. Theo ông Lâm Tuyền Khách, sự tái bản này là ý của người kia, ra tạp chí để có dịp thu nợ vì Tản Đà nợ ông một món không dễ trả. Trên bìa "An Nam tạp chí" lúc ấy ghi Tản Đà là "chủ sự", còn ông nọ là "chủ nhân". Cũng theo ông Lâm Tuyền Khách, còn một lý do nữa là nếu ngày ấy An Nam tạp chí không tái bản thì sẽ bị thu giấy phép.</p>
+<p>Lần tái bản này chỉ ra được vài số rồi lại đình bản. Đến tháng 4 năm 1931, "An Nam tạp chí" lại tái bản, lần này hoạt động đến ngày 1 tháng 3 năm 1933 thì đình bản vĩnh viễn vì lý do tài chính.</p>
+<p>Tản Đà là cây bút chủ lực của "An Nam tạp chí", cách làm báo của ông có thể coi là khá đặc biệt. Theo Lâm Tuyền Khách, ban ngày ông không làm việc, chỉ uống rượu, nói chuyện hay đọc sách, đến hai - ba giờ đêm ông mới trở dậy thắp đèn viết cho đến sáng. Trong tờ báo nhiều khi độc giả thấy những bài viết đang liền mạch, tự nhiên bị bỏ dở trong một thời gian dài mới thấy Tản Đà xuất hiện viết tiếp.</p>
+<p>Tờ "An Nam tạp chí" tuy tổng cộng chỉ có 48 số, lại hoạt động thất thường, thiếu chuyên nghiệp nhưng được coi là một trong những tờ đầu tiên có những đóng góp tích cực vào sự phát triển của văn học Việt Nam thời cận đại theo khuynh hướng hiện thực. Bên cạnh đó nó thể hiện một cách kín đáo lòng yêu nước của Tản Đà, qua những bài tiểu luận, bài thơ đăng rải rác.</p>
+<a name="tranh-luan-van-hoc"></a><h4>Tranh luận văn học</h4>
+<a name="kich"></a><h3>Kịch</h3>
+<a name="dich-thuat-nghien-cuu"></a><h3>Dịch thuật, nghiên cứu</h3>
+<a name="phong-cach-van-chuong"></a><h2>Phong cách văn chương</h2>
+<a name="phat-ngon"></a><h2>Phát ngôn</h2>
+<a name="nhung-van-tho-tu-bach"></a><h3>Những vần thơ tự bạch</h3>
+<p>Ông lên trời, xưng danh với trời:</p>
+<dl> <dd> <ul> <li><i>Con tên Khắc Hiếu họ là Nguyễn</i></li> </ul> </dd> <dd><i>Quê ở Á châu về địa cầu</i></dd> <dd><i>Sông Đà núi Tản nước Nam Việt</i></dd> </dl>
+<p>Khi bước vào sân khấu cuộc đời ông luôn tự hào về quê hương</p>
+<dl> <dd> <ul> <li><i>Văn chương thời nôm na</i></li> </ul> </dd> <dd><i>Thú chơi có sơn hà</i></dd> <dd><i>Ba Vì ở trước mặt</i></dd> <dd><i>Hắc giang bên cạnh nhà</i></dd> </dl>
+<dl> <dd> <ul> <li><i>Sông Đà núi Tản đúc nên ai</i></li> </ul> </dd> <dd><i>Trần thế xưa nay được mấy người</i></dd> <dd><i>Trung hiếu vẹn tròn hai khối ngọc</i></dd> <dd><i>Thanh cao phô trắng một nhành mai</i></dd> </dl>
+<p>Lấy bút danh Tản Đà, ông hăm hở lập chí</p>
+<dl> <dd> <ul> <li><i>Phận nam nhi tang bồng là chí</i></li> </ul> </dd> <dd><i>Chữ trượng phu ý khí nhường ai</i></dd> <dd><i>Non sông thề với hai vai</i></dd> <dd><i>Quyết đem bút sắt mà mài lòng son.</i></dd> </dl>
+<p>Nhưng tính ông lại ham chơi, nên ngòi bút cũng ngang tàng phóng khoáng</p>
+<dl> <dd> <ul> <li><i>Trời sinh ra bác Tản Đà</i></li> </ul> </dd> <dd><i>Quê hương thời có cửa nhà thời không</i></dd> <dd><i>Nửa đời năm, bắc, tây, đông</i></dd> <dd><i>Bạn bè sum họp vợ chồng Biệt ly</i></dd> <dd><i>Túi thơ đeo khắp ba kỳ</i></dd> <dd><i>Lạ chi rừng biển, thiếu gì gió trăng...</i></dd> </dl>
+<p>Cũng ngòi bút ngang tàng ấy, khi hỏng thi ở trường Nam Định ông tự trào</p>
+<dl> <dd> <ul> <li><i>Vùng đất Sơn Tây này một ông,</i></li> </ul> </dd> <dd><i>Tuổi chưa bao nhiêu văn rất hùng,</i></dd> <dd><i>Sông Đà núi Tản ai hun đúc,</i></dd> <dd><i>Bút thánh câu thần sớm vãi vung...</i></dd> <dd><i>Bởi ông hay quá ông không đỗ,</i></dd> <dd><i>Không đỗ ông càng tốt bộ ngông!</i></dd> </dl>
+<a name="cau-noi-noi-tieng"></a><h3>Câu nói nổi tiếng</h3>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Người mà không biết chán đời có khác gì lợn?</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Đọc trong buổi nói chuyện "Đời đáng chán hay không đáng chán", đáp lại những lời phê phán tập "Giấc mộng con" của <a class="annotation" href="/nhan-vat/pham-quynh" title="Phạm Quỳnh (chữ Hán: 范瓊; 17 tháng 12 năm 1892 - 6 tháng 9 năm 1945) là một nhà văn hóa, nhà báo, nhà văn và quan đại thần triều Nguyễn (Việt Nam). Ông là người đi tiên phong trong việc sử dụng chữ Quốc ngữ và dùng tiếng Việt - thay vì chữ Nho hay tiếng Pháp - để viết lý luận, nghiên cứu. Ông có tên ..." target="_blank" >Phạm Quỳnh</a>&#160;&#160;&#160;</cite></div> </blockquote>
+<a name="tho-duc-vao-da"></a><h3>Thơ đục vào đá</h3>
+<p>Từ Đạm là tuần phủ Ninh Bình. Năm 1924, cho đục vào đá núi Non Nước, một bài thơ Nôm:</p>
+<dl> <dd> <dl> <dd><i>Trăng gió vui cùng hắn</i></dd> <dd><i>Lầm than bận kệ ai</i></dd> <dd><i>Ham chơi non với nước</i></dd> <dd><i>Có phúc được ngồi dai</i></dd> </dl> </dd> </dl>
+<p>Năm sau Từ Đạm lại cho đục một bàn cờ và một bên đục hai lốt bàn chân của ông ta. Tản Đà thăm cảnh Dục Thúy Sơn, thấy những trò dởm của Từ Đạm, ông bực mình liền thuê thợ khắc đá, khắc bài thơ của mình cạnh bài thơ Từ Đạm. Bài thơ như sau:</p>
+<dl> <dd> <dl> <dd><i>Năm ngoái năm xưa đục mấy vần</i></dd> <dd><i>Năm nay quan lại đục hai chân</i></dd> <dd><i>Khen cho đá cũng bền gan thật</i></dd> <dd><i>Đứng mãi cho quan đục mấy lần</i></dd> </dl> </dd> </dl>
+<a name="nhan-xet"></a><h3>Nhận xét</h3>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Trong chốn Tao Đàn, Tản Đà xứng đáng ngôi chủ suý, trong Hội tài tình, Tản Đà xứng đáng ngôi hội chủ mà làng văn làng báo xứ này, ai dám ngồi chung một chiếu với Tản Đà?</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Nguyễn Tuân&#160;&#160;&#160;</cite></div> </blockquote>
+<dl> <dd> <blockquote class="templatequote"> <p><font >“&#160;</font><i>Nếu tiên sinh còn sống, ắt tại hạ xin được phép cùng tiên sinh nhậu nhẹt một trận lu bù. Thơ của tiên sinh làm, chẳng có chi xuất sắc. Nhưng bản dịch "Trường hận ca" của tiên sinh quả thật là vô tiền khoáng hậu.</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Bùi Giáng&#160;&#160;&#160;</cite></div> </blockquote> </dd> </dl>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Chính cái sầu trong thơ Tản Đà là đầu mối quỷ thuật chính yếu để dụ người ta.</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Xuân Diệu&#160;&#160;&#160;</cite></div> </blockquote>
+<dl> <dd> <blockquote class="templatequote"> <p><font >“&#160;</font><i>Trong cái trang thi sĩ của cuốn Việt Nam văn học sử sau này, dầu sao mặc lòng, ông Tản Đà là một người đứng đầu của thời đại này.</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite><a class="annotation" href="/nhan-vat/ngo-tat-to" title="Ngô Tất Tố (1894 – 20 tháng 4 năm 1954) là một nhà văn, nhà báo, nhà Nho học và nhà nghiên cứu có ảnh hưởng ở Việt Nam giai đoạn trước 1954...." target="_blank" >Ngô Tất Tố</a>&#160;&#160;&#160;</cite></div> </blockquote> </dd> </dl>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Người ta mong đợi một người có thể tả được những nỗi chán ngán, những điều ước vọng của mình, có thể ru được mình trong giấc mộng triền miên - Thi sĩ Nguyễn Khắc Hiếu ra đời!</i><font >&#160;”</font></p> </blockquote>
+<dl> <dd> <blockquote class="templatequote"> <p><font >“&#160;</font><i>...nhưng khi ông nói ông nhớ mà không biết nhớ ai, ông thương mà không biết thương ai, ông than mà không biết than về cái gì, thì ông là thơ sống, và thơ của ông là chất thơ trong như lọc với những cảnh tượng không rõ rệt, những hình ảnh lờ mờ, ông vẽ những bức tranh tuyệt bút; với những tư tưởng lâng lâng, với những cảm giác mơ mộng, ông làm nên những câu thơ tuyệt mỹ...</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Lê Thanh&#160;&#160;&#160;</cite></div> </blockquote> </dd> </dl>
+<dl> <dd> <blockquote class="templatequote"> <p><font >“&#160;</font><i>...trước chúng tôi, không kèn không trống, lặng lặng im im, Tiên sinh cũng đã làm ra "thơ mới" đó thôi!</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Lưu Trọng Lư&#160;&#160;&#160;</cite></div> </blockquote> </dd> </dl>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Lamartine người ta thường gọi là "thơ sống", thì ông Tản Đà nay cũng có thể gọi là "người thơ".</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Thiếu Sơn&#160;&#160;&#160;</cite></div> </blockquote>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Nhưng trong làng văn nước ta, được nhiều người yêu mến thời còn sống, dễ mới có Tản Đà.</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Khái Hưng&#160;&#160;&#160;</cite></div> </blockquote>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Tiên sinh đã dạo những bản đàn mở đầu cho một cuộc hòa nhạc tân kỳ đang sắp sửa</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Hoài Thanh - Hoài Chân&#160;&#160;&#160;</cite></div> </blockquote>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Bỗng có khách vào. Ông Trác giới thiệu cùng tôi: Đây ông Nguyễn Khắc Hiếu. Tôi như có điện chạy trong người, ghê rợn, vùng đứng dậy!...Thật thế. Cái tên Nguyễn Khắc Hiếu bấy giờ không phải vừa, đối với tôi lại càng long trọng lắm. Tôi nghe mà rùng rợn lên, có thật thế.</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Phan Khôi&#160;&#160;&#160;</cite></div> </blockquote>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Tôi sợ ông như một ông tiên</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Vũ Bằng&#160;&#160;&#160;</cite></div> </blockquote>
+<a name="danh-gia"></a><h2>Đánh giá</h2>
+<blockquote class="templatequote"> <p><font >“&#160;</font> <i>Anh em ở đây, tuy người sau kẻ trước, nhưng ai nấy đều là con đầu lòng của thế kỷ hai mươi. Trên hội Tao đàn, chỉ tên sinh là người của hai thế kỷ. Tiên sinh sẽ đại biểu cho một lớp người để chứng giám công việc lớp người kế tiếp. Ở địa vị ấy còn có ai xứng đáng hơn tiên sinh.</i>. <font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Hoài Thanh, Hoài Chân - Thi nhân Việt Nam.&#160;&#160;&#160;</cite></div> </blockquote>
+<blockquote class="templatequote"> <p><font >“&#160;</font> <i>Tản Đà là người thi sĩ đầu tiên mở đầu cho thơ Việt Nam hiện đại. Tản Đà là người thứ nhất đã có can đảm làm thi sĩ, đã làm thi sĩ một cách đường hoàng bạo dạn, dám giữ một bản ngã, dám giữ một cái tôi</i><font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Xuân Diệu.&#160;&#160;&#160;</cite></div> </blockquote>
+<p><sup class="annotation badge" title="^ Báo Ngày nay, số 165, năm 1929">2</sup> </p>
+<blockquote class="templatequote"> <p><font >“&#160;</font><i>Ông Tản Đà là người thứ nhất và là người độc nhất của cái thế hệ ông đã làm sống lại cái hồn thơ Việt Nam đang hấp hối, tôi không muốn nói đến đã chết rồi. Ông ra đời đem cho chúng ta một thi sĩ thành thực dám ca hát cái đời sống của lòng; ông đã mơ mộng, đã chán đời, yêu đời, thiết tha với đời một cách tự do, ông đã dám ngông, dám có một bản ngã, dám công nhiên để cho cái chữ tình mê man của mình rãi trong văn thơ</i> <font >&#160;”</font></p> <div align="right" class="templatequotecite">—&#160;<cite>Lê Thanh.&#160;&#160;&#160;</cite></div> </blockquote>
+<p><sup class="annotation badge" title="^ Tuyển tập Tản Đà, Nhà xuất bản Văn học, 1996, trang 457">3</sup> </p>
+<a name="danh-muc-tac-pham"></a><h2>Danh mục tác phẩm</h2>
+<p><b>Thơ</b>:</p>
+<ul> <li><i>Khối tình con I (1916)</i></li> <li><i>Khối tình con II (1916)</i></li> <li><i>Tản Đà xuân sắc (1918)</i></li> <li><i>Khối tình con III (1932)</i></li> </ul>
+<p><b>Văn</b>:</p>
+<ul> <li><i>Giấc mộng con I (1917)</i></li> <li><i>Giấc mộng con II (1932)</i></li> <li><i>Giấc mộng lớn (1932)</i></li> <li><i>Thề non nước (1922)</i></li> <li><i>Tản Đà văn tập (1932)</i></li> </ul>
+<p><b>Kịch</b>:</p>
+<ul> <li><i>Tây Thi (1922)</i></li> <li><i>Tống biệt (1922)</i></li> </ul>
+<p><b>Dịch thuật</b>:</p>
+<ul> <li><i>Liêu Trai chí dị (1934)</i></li> </ul>
+<p><b>Nghiên cứu</b>:</p>
+<ul> <li><i>Vương Thúy Kiều chú giải (1938)</i></li> <li><i>Một số bài báo...</i></li> </ul>
+<a name="viet-ve-tan-da"></a><h3>Viết về Tản Đà</h3>
+<ul> <li><i>Uống rượu với Tản Đà</i> của Trương Tửu (1939)</li> <li><i>Tản Đà uống rượu làm tôi say đến bay giờ</i> của Vũ Bằng (1970)</li> <li><i>Người ghét Tản Đà</i> của Vũ Bằng</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text"><i>Thơ Đường, Tản Đà dịch</i>, Hội nghiên cứu giảng dạy Văn Học thành phố Hồ Chí Minh, Nhà xuất bản Trẻ, 1989.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Báo Ngày nay, số 165, năm 1929</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Tuyển tập Tản Đà, Nhà xuất bản Văn học, 1996, trang 457</span></li> </ol> </div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<p>Nguyễn Khắc Xương (con trai trưởng của Tản Đà, biên tập), Tuyển tập Tản Đà, Nhà xuất bản Văn học, Hà Nội 1996</p><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nguyen-khac-can" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nguyễn Khắc Cần            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nguyen-khac-nhu" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nguyễn Khắc Nhu            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nguyen-khac-hieu" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-loa" class="mod-articles-category-title ">thành Cổ Loa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

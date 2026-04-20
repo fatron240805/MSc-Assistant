@@ -1,0 +1,1650 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). Trong 21 năm trị nước, Mi...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Minh Mạng - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"ede26c6e96a314e8d2aa1c5204c37de7"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Minh Mạng" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn.." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/minh-mang" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/wiki/minh-mang/9a4f137151beeb16434e61430bb7e43a.gif" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Minh Mạng", "item": "https://nguoikesu.com/nhan-vat/minh-mang" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/minh-mang" }, "headline": "Minh Mạng", "description": "Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). Trong 21 năm trị nước, Minh Mạng đã đề xuất hàng loạt cải cách từ nội trị đến ngoại giao. Ông đổi tên nước Việt Nam thành Đại Nam, cho lập thêm Nội các và Cơ mật viện ở Huế, bãi bỏ chức tổng trấn Bắc thành và Gia Định thành, đổi trấn thành tỉnh, củng cố chế độ lưu quan ở miền núi. Ông còn tổ chức lại quân đội, chia thành bộ binh, thủy binh, tượng binh, kị binh và pháo thủ binh. Minh Mạng cũng cử quan ra chỉ đạo khai hoang ở ven biển Bắc kỳ và Nam kỳ. Ngoài ra, ông rất quan tâm đến việc duy trì nền khoa cử Nho giáo, năm 1822 ông mở lại các kì thi Hội, thi Đình ở kinh đô để tuyển chọn nhân tài.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/minh-mang/9a4f137151beeb16434e61430bb7e43a.gif" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/minh-mang" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-20T14:00:47+07:00", "dateCreated": "2017-11-20T14:00:47+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Minh Mạng</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Minh Mạng        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#thai-tu" title="">Thái tử</a></li>
+<li class="level-1"><a href="#tri-vi-dat-nuoc" title="">Trị vì đất nước</a></li>
+<li class="level-2"><a href="#thoi-gian-dau-tien-sau-khi-gia-long-mat-1820" title="">Thời gian đầu tiên sau khi Gia Long mất (1820)</a></li>
+<li class="level-2"><a href="#quoc-hieu-dai-nam" title="">Quốc hiệu Đại Nam</a></li>
+<li class="level-2"><a href="#quan-che-va-to-chuc-chinh-quyen-trung-uong" title="">Quan chế và tổ chức chính quyền trung ương</a></li>
+<li class="level-2"><a href="#quan-doi" title="">Quân đội</a></li>
+<li class="level-2"><a href="#dinh-dien-va-thue-khoa" title="">Đinh điền và thuế khóa</a></li>
+<li class="level-2"><a href="#van-hoa" title="">Văn hóa</a></li>
+<li class="level-2"><a href="#giao-duc" title="">Giáo dục</a></li>
+<li class="level-2"><a href="#nong-nghiep" title="">Nông nghiệp</a></li>
+<li class="level-2"><a href="#ky-thuat-cong-nghe" title="">Kỹ thuật công nghệ</a></li>
+<li class="level-2"><a href="#xet-xu-cong-than-qua-co" title="">Xét xử công thần quá cố</a></li>
+<li class="level-2"><a href="#tran-ap-noi-day" title="">Trấn áp nổi dậy</a></li>
+<li class="level-3"><a href="#tai-bac-ha" title="">Tại Bắc Hà</a></li>
+<li class="level-4"><a href="#phan-ba-vanh" title="">Phan Bá Vành</a></li>
+<li class="level-4"><a href="#le-duy-luong" title="">Lê Duy Lương</a></li>
+<li class="level-4"><a href="#nong-van-van" title="">Nông Văn Vân</a></li>
+<li class="level-3"><a href="#tai-nam-ha" title="">Tại Nam Hà</a></li>
+<li class="level-1"><a href="#doi-ngoai" title="">Đối ngoại</a></li>
+<li class="level-2"><a href="#voi-trung-quoc" title="">Với Trung Quốc</a></li>
+<li class="level-2"><a href="#voi-xiem-la" title="">Với Xiêm La</a></li>
+<li class="level-2"><a href="#voi-ai-lao-lao" title="">Với Ai Lao (Lào)</a></li>
+<li class="level-2"><a href="#voi-chan-lap" title="">Với Chân Lạp</a></li>
+<li class="level-2"><a href="#voi-phuong-tay" title="">Với phương Tây</a></li>
+<li class="level-3"><a href="#viec-cam-dao-cong-giao" title="">Việc cấm đạo Công giáo</a></li>
+<li class="level-1"><a href="#mo-rong-lanh-tho-de-quoc-dai-nam" title="">Mở rộng lãnh thổ Đế Quốc Đại Nam</a></li>
+<li class="level-2"><a href="#tran-tay-thanh" title="">Trấn Tây Thành</a></li>
+<li class="level-3"><a href="#quan-ly-hanh-chinh" title="">Quản lý hành chính</a></li>
+<li class="level-3"><a href="#quan-he-voi-nguoi-ban-dia" title="">Quan hệ với người bản địa</a></li>
+<li class="level-3"><a href="#triet-thoai-khoi-tran-tay" title="">Triệt thoái khỏi Trấn Tây</a></li>
+<li class="level-2"><a href="#tran-ninh" title="">Trấn Ninh</a></li>
+<li class="level-1"><a href="#qua-doi" title="">Qua đời</a></li>
+<li class="level-1"><a href="#gia-quyen" title="">Gia quyến</a></li>
+<li class="level-2"><a href="#vo" title="">Vợ</a></li>
+<li class="level-3"><a href="#phi" title="">Phi</a></li>
+<li class="level-3"><a href="#tan" title="">Tần</a></li>
+<li class="level-3"><a href="#tiep-du" title="">Tiệp dư</a></li>
+<li class="level-3"><a href="#quy-nhan" title="">Quý nhân</a></li>
+<li class="level-3"><a href="#my-nhan" title="">Mỹ nhân</a></li>
+<li class="level-3"><a href="#tai-nhan" title="">Tài nhân</a></li>
+<li class="level-3"><a href="#cung-nhan" title="">Cung nhân</a></li>
+<li class="level-2"><a href="#con-cai" title="">Con cái</a></li>
+<li class="level-3"><a href="#so-luong" title="">Số lượng</a></li>
+<li class="level-3"><a href="#hoang-tu" title="">Hoàng tử</a></li>
+<li class="level-3"><a href="#cong-chua" title="">Công chúa</a></li>
+<li class="level-2"><a href="#de-he-thi-va-phien-he-thi" title="">Đế hệ thi và Phiên hệ thi</a></li>
+<li class="level-1"><a href="#nhan-dinh" title="">Nhận định</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich-va-tham-khao" title="">Chú thích và tham khảo</a></li>
+<li class="level-2"><a href="#ghi-chu" title="">Ghi chú</a></li>
+<li class="level-2"><a href="#thu-muc" title="">Thư mục</a></li>
+<li class="level-1"><a href="#doc-them" title="">Đọc thêm</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >Minh Mạng<br /> <font size="2">明命</font></th> </tr> <tr> <td colspan="2" >Vua Việt Nam <small>(chi tiết...)</small></td> </tr> <tr> <td colspan="2" ><img alt="Minh Mang.gif" src="/images/wiki/minh-mang/9a4f137151beeb16434e61430bb7e43a.gif" /> <div >Chân dung Minh Mạng theo minh họa trong sách của John Crawfurd (<i>xb 1828</i>)</div> </td> </tr> <tr> <th colspan="2" >Hoàng đế Đại Nam</th> </tr> <tr> <th scope="row">Trị vì</th> <td>1820 – 1841 <div class="timeline-wrapper"><map name="timeline_09a285ad2a1cccac9d9bd3abadcf58fa" id="timeline_09a285ad2a1cccac9d9bd3abadcf58fa"></map><img usemap="#timeline_09a285ad2a1cccac9d9bd3abadcf58fa" src="/images/wiki/minh-mang/f9fb767129426569b0f43f9558c48e15.png" /></div> </td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td>Gia Long</td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td>Thiệu Trị</td> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Thê thiếp</th> <td>Tá Thiên Nhân Hoàng hậu</td> </tr> <tr> <th scope="row">Hậu duệ</th> <td> <table width="100%" class="collapsible collapsed" cellpadding="0" cellspacing="0" > <tr> <th >Hậu duệ</th> </tr> <tr> <td>142 con, bao gồm 78 hoàng tử và 64 công chúa</td> </tr> </table> </td> </tr> <tr> <th scope="row">Tên húy</th> <td><a class="annotation" href="/nhan-vat/nguyen-phuc-dam" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Phúc Đảm</a> (阮福膽)<br /> Nguyễn Phúc Kiểu (阮福晈)</td> </tr> <tr> <th scope="row">Niên hiệu</th> <td>Minh Mạng (明命): 1820 - 1841</td> </tr> <tr> <th scope="row">Thụy hiệu</th> <td><b>Nhân Hoàng đế</b> (仁皇帝)</td> </tr> <tr> <th scope="row">Miếu hiệu</th> <td>Thánh Tổ (聖祖)</td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Nguyễn</td> </tr> <tr> <th scope="row">Hoàng gia ca</th> <td>Đăng đàn cung</td> </tr> <tr> <th scope="row">Thân phụ</th> <td>Gia Long</td> </tr> <tr> <th scope="row">Thân mẫu</th> <td>Thuận Thiên Cao Hoàng hậu</td> </tr> <tr> <th scope="row">Sinh</th> <td>25 tháng 5 năm 1791<br /> Gia Định, Đại Việt</td> </tr> <tr> <th scope="row">Mất</th> <td>20 tháng 1, 1841 (49&#160;tuổi)<br /> Huế, Đại Nam</td> </tr> <tr> <th scope="row">An táng</th> <td>Hiếu Lăng, Huế, Việt Nam</td> </tr> <tr> <th scope="row">Tôn giáo</th> <td>Nho giáo</td> </tr> </table></div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/0b025091efaedf4f8601bd375c59bbc9.jpg" /> <div class="caption"> <div class="magnify"></div> Chân dung vua Minh Mạng.</div> </div> </div>
+<p><b>Minh Mạng</b> (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay <b>Minh Mệnh,</b> là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&#160;1820&#160;đến khi qua đời, được truy tôn miếu hiệu là&#160;<b><a class="annotation" href="/nhan-vat/nguyen-thanh-to" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Thánh Tổ</a></b> (阮聖祖).</p>
+<p>Trong 21 năm trị nước, Minh Mạng đã đề xuất hàng loạt cải cách từ nội trị đến ngoại giao. Ông đổi tên <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> Nam thành Đại Nam, cho lập thêm Nội các và Cơ mật viện ở Huế, bãi bỏ chức tổng trấn Bắc thành và Gia Định thành, đổi trấn thành tỉnh, củng cố chế độ lưu quan ở miền núi. Ông còn tổ chức lại quân đội, chia thành bộ binh, thủy binh, tượng binh, kị binh và pháo thủ binh. Minh Mạng cũng cử quan ra chỉ đạo khai hoang ở ven biển Bắc kỳ và Nam kỳ. Ngoài ra, ông rất quan tâm đến việc duy trì nền khoa cử Nho giáo, năm 1822 ông mở lại các kì thi Hội, thi Đình ở kinh đô để tuyển chọn nhân tài.</p>
+<p>Đại Nam thời Minh Mạng cũng liên tục đương đầu với nội loạn và chiến tranh. Trong nước liên tiếp xảy ra các cuộc nổi dậy của Phan Bá Vành, Lê Duy Lương, Nông Văn Vân,… ở miền Bắc và Lê Văn Khôi ở miền Nam; triều đình phải rất vất vả mới dẹp được. Minh Mạng còn lập các phủ <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>, Lạc Biên, Trấn Định, Trấn Man nhằm khống chế Ai Lao; đánh bại Xiêm La; bảo hộ Chân Lạp, chiếm vùng Nam Vang (Phnôm Pênh ngày nay) và đổi tên thành <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a>; kết quả là Đại Nam có lãnh thổ rộng hơn cả. Tuy nhiên, các cuộc chiến tranh đó cũng làm hao mòn quốc khố và sau khi Minh Mạng mất, quân Nguyễn đã phải từ bỏ Trấn Tây thành. Minh Mạng cũng khước từ mọi tiếp xúc với phương Tây và nghiêm cấm truyền bá đạo Cơ Đốc.</p>
+<p></p>
+<p></p>
+<a name="than-the"></a><h2>Thân thế</h2>
+<p>Tên húy của ông là <b><a class="annotation" href="/nhan-vat/nguyen-phuc-dam" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Phúc Đảm</a></b> (阮福膽), còn có tên khác là <b>Nguyễn Phúc Kiểu</b> (阮福晈). Ông là con trai thứ tư của vua Gia Long và Thuận Thiên Cao hoàng hậu Trần Thị Đang. Ông sinh ngày 23 tháng 4 năm Tân Hợi, tức 25 tháng 5 năm 1791 tại làng Tân Lộc, gần Gia Định, trong lúc đang xảy ra Chiến tranh Tây Sơn – Chúa Nguyễn (1787-1802).<sup class="annotation badge" title="^ Theo Trần Trọng Kim, Việt Nam sử lược quyển 2 (Trung tâm học liệu xuất bản, Sài Gòn, 1971, tr. 152), Nguyễn Hiền Đức, Lịch sử Phật giáo Đàng Trong (Nhà xuất bản Thành phố Hồ Chí Minh, 1995, tr. 269); Võ Văn Tường, Những ngôi chùa nổi tiếng Việt Nam (Nhà xuất bản VH-TT, Hà Nội, 1994, tr. 383) và Vương Hồng Sển trong Sài Gòn năm xưa cũng đã cho biết theo dật sử thì Hoàng tử Đảm đã sinh ra nơi hậu liêu chùa Khải Tường vào năm Tân Hợi (1791) giữa cơn tị nạn binh Tây Sơn.">1</sup> </p>
+<a name="thai-tu"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Thái tử</h2>
+<p>Con thứ nhất của Gia Long là hoàng thái tử Nguyễn Phúc Cảnh mất sớm vào năm 1801. Do thái tử Cảnh và người con chịu nhiều ảnh hưởng của đạo Gia Tô từ Pháp nên sau khi hoàng tử Cảnh qua đời, vua Gia Long không chọn cháu đích tôn của mình (con của hoàng tử Cảnh) làm người người kế vì sợ những ảnh hưởng của Pháp tới triều đình.</p>
+<p>Mặc dù có nhiều đình thần phản đối (đặc biệt là Lê Văn Duyệt) nhưng vua Gia Long vẫn quyết chọn <a class="annotation" href="/nhan-vat/nguyen-phuc-dam" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Phúc Đảm</a> làm người kế vị. Hoàng tử Đảm vốn là người hay bài xích đạo Gia Tô và không có cảm tình với người Pháp – tư tưởng này giống với Gia Long. Năm 1815, <a class="annotation" href="/nhan-vat/nguyen-phuc-dam" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Phúc Đảm</a> được phong Hoàng thái tử và từ đó sống ở điện Thanh Hoà để quen với việc trị nước.</p>
+<p>Theo ý kiến của các nhà nghiên cứu Nguyễn Phan Quang, Đặng Việt Thuỷ và Đặng Thành Trung, Minh Mạng là người được Gia Long lựa chọn truyền ngôi, không chỉ vì năng lực mà còn vì hy vọng gửi gắm vào ông thực hiện chính sách thoát khỏi ảnh hưởng và âm mưu áp chế của người Pháp<sup class="annotation badge" title="^ Nguyễn Phan Quang, sách đã dẫn, tr 662">2</sup> <sup class="annotation badge" title="^ Đặng Việt Thủy; Đặng Thành Trung, sách đã dẫn, tr 287-288">3</sup> , bởi khi còn sống, Gia Long đã chịu ơn người Pháp và không thể ra mặt giải quyết những mâu thuẫn giữa nhằm thoát khỏi ảnh hưởng đó.<sup class="annotation badge" title="^ Nguyễn Phan Quang, sách đã dẫn, tr 665">4</sup> </p>
+<a name="tri-vi-dat-nuoc"></a><h2>Trị vì đất nước</h2>
+<a name="thoi-gian-dau-tien-sau-khi-gia-long-mat-1820"></a><h3>Thời gian đầu tiên sau khi Gia Long mất (1820)</h3>
+<p>Tháng 12 năm Kỷ Mão (đầu năm 1820), vua Gia Long qua đời. Tháng giêng năm Canh Thìn (1820), <a class="annotation" href="/nhan-vat/nguyen-phuc-dam" title="Minh Mạng (chữ Hán: 明命, 25 tháng 5 năm 1791 – 20 tháng 1 năm 1841) hay Minh Mệnh, là vị Hoàng đế thứ hai của nhà Nguyễn, vương triều cuối cùng của nền quân chủ Việt Nam. Ông trị vì từ năm&amp;#160;1820&amp;#160;đến khi qua đời, được truy tôn miếu hiệu là&amp;#160;Nguyễn Thánh Tổ (阮聖祖). 
+ Trong 21 năm trị nước, ..." target="_blank" >Nguyễn Phúc Đảm</a> lên nối ngôi, đặt niên hiệu là <b>Minh Mạng</b> (明命). Bấy giờ ông đã 30 tuổi nên rất am hiểu việc triều chính.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Nhiều lần sau buổi chầu, ông cùng một vài quan đại thần ở lại để bàn việc, hoặc hỏi về các sự tích xưa, hoặc hỏi về những nhân vật cùng phong tục các nước khác.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </p>
+<p>Minh Mạng được xem là một vị vua siêng năng, luôn thức khuya dậy sớm để xem xét công việc, có khi thắp đèn đọc sớ chương ở các nơi gởi về đến trống canh ba mới nghỉ.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Ông thường bảo với các quan:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Lòng người, ai chả muốn yên hay vì chuyện sinh sự để thay đổi luôn, lúc trẻ tuổi còn khoẻ mạnh mà không biết sửa sang mọi việc, đến lúc già yếu thì còn mong làm gi được nữa. Bởi thế trẫm không dám lười biếng bất kỳ lúc nào.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </cite></div> </td> </tr> </table>
+<p>Thật vậy, trong suốt thời gian trị vì của mình, vua Minh Mạng đã thay đổi rất nhiều việc, từ nội trị, ngoại giao cho đến những cải cách xã hội cùng những việc trong dòng họ.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </p>
+<a name="quoc-hieu-dai-nam"></a><h3>Quốc hiệu Đại Nam</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/13886f8b5003093b7109fc4084eb8dd0.png" /> <div class="caption"> <div class="magnify"></div> Đại kỳ thời vua Minh Mạng trị vì.</div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/99fef6e85e60fd6596e31e5e036b4c30.jpg" /> <div class="caption"> <div class="magnify"></div> Đồng tiền <b>Phi Long</b> thời vua Minh Mạng 1833.</div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/7c80819bec8a2035ab556044b42cd7b8.jpg" /> <div class="caption"> <div class="magnify"></div> Đại Nam nhất thống toàn đồ - bản đồ nước Đại Nam thời Minh Mạng.</div> </div> </div>
+<p>Minh Mạng đã xin triều đình Mãn Thanh cho phép đổi quốc hiệu <i>Việt Nam</i> thành <i>Đại Nam,</i> ngụ ý một quốc gia Phương Nam rộng lớn. Tuy nhiên triều đình Mãn Thanh không chính thức chấp thuận. Đến ngày 15 tháng 2 năm 1839, nhận thấy triều Mãn Thanh suy yếu, Minh Mạng đã chính thức công bố quốc hiệu Đại Nam. Quốc hiệu này tồn tại đến năm 1945.</p>
+<a name="quan-che-va-to-chuc-chinh-quyen-trung-uong"></a><h3>Quan chế và tổ chức chính quyền trung ương</h3>
+<p>Trong việc dùng người Minh Mạng chú trọng cả tài, đức và đặc biệt là học vấn.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Ông cho rằng người không học thì không rõ pháp luật, lỡ khi xử đoán sai thì pháp luật khó dung, như thế sẽ làm hại dân. Việc dùng người không ngoài mục đích muốn yên dân. Muốn yên dân thì quan phủ huyện không được phiền nhiễu dân, tham nhũng.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Vì vậy, nhà vua đã nghiêm trị nhiều viên quan tham nhũng.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Từ thời Minh Mạng được xác định rõ rệt giai chế phẩm trật từ cửu phẩm tới nhất phẩm, mỗi phẩm chia làm chánh và tòng 2 bậc. Trừ khi có chiến tranh, loạn lạc còn bình thường quan võ phải dưới quan văn cùng phẩm với mình. Quan Tổng đốc (văn) vừa trị vì tỉnh vừa chỉ huy đội quân của tỉnh nhà.<sup class="annotation badge" title="^ Nguyễn Thế Anh - Kinh tế &amp;amp; Xã hội VN dưới các vua triều Nguyễn Nhà xuất bản Văn học tr.47">7</sup>  Minh Mạng còn định mức lương bổng cho quan lại, định tiền gạo cho mỗi cấp cùng thời hạn lãnh lương. Ngoài ra ông còn cấp tiền dưỡng liêm để tránh sự tham nhũng của quan lại.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </p>
+<p>Từ cuối năm 1831 Minh Mạng cho bỏ các dinh, trấn mà thành lập các tỉnh.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> , Năm 1832 cả nước có 30 tỉnh, gồm:</p>
+<ul> <li>Bắc Kỳ (từ này đặt ra từ năm 1834) có 13 tỉnh: Hà Nội, Sơn Tây, Hưng Hóa Tuyên Quang, Cao Bằng, Lạng Sơn, Quảng Yên, Hải Dương, Bắc Ninh, Hưng Yên, Nam Định, Ninh Bình, Thái Nguyên.</li> <li>Trung Kỳ (từ này đặt ra từ năm 1834) có 12 tỉnh: Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên, Quảng Nam, Quảng Ngãi, Bình Định, Phú Yên, Khánh Hòa, Bình Thuận.</li> <li>Nam Kỳ (từ này đặt ra từ năm 1834) có 06 tỉnh: Phiên An (năm 1836 đổi tên <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a>), Biên Hòa, Định Tường, Vĩnh Long, An Giang, Hà Tiên.</li> </ul>
+<p>Minh Mạng đặt các quan Tổng đốc (đối với tỉnh lớn) hoặc Tuần phủ (đối với tỉnh nhỏ), riêng tỉnh Thừa Thiên là Phủ doãn; và các quan Bố Chính sứ, Án sát cùng Lãnh binh để trông coi mọi việc tại từng tỉnh. Trong triều, các cơ quan điều khiển cũng đổi mới, Thị Thư Viện được đổi thành Văn Thư Phòng vào năm 1820, rồi thành Nội Các vào năm 1829. Năm 1830, ông đặt ra Cơ Mật viện để trông coi những việc quốc quân trọng yếu.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Ông đã cho thành lập Tôn Nhân Phủ, điều hành các Hệ, Phòng trong việc kê khai nhân thế bộ, cấp dưỡng và từ tế cũng như kiểm soát và đàn hạch trong quốc tộc.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/ebde2e8b6fa1874a971537b8c6b6d6f4.png" /> <div class="caption"> <div class="magnify"></div> Đại Nam dưới thời Minh Mạng, bao gồm cả các trấn ở Lào. Vùng thuộc phần đất Campuchia ngày nay là lãnh thổ <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a> mà nhà Nguyễn chiếm được trong 6 năm (1835-1841) trước khi bị đánh đuổi. Bản đồ bao gồm cả các các vùng đất bị cắt cho <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> năm 1887 theo công ước Pháp-Thanh, vẽ đè lên biên giới ngày nay.</div> </div> </div>
+<p>Đối với vùng thượng du và các khu vực sinh sống của các dân tộc thiểu số, chủ yếu là 6 ngoại trấn của Bắc Thành cũ, Minh Mạng quyết định nhất thể hóa về mặt hành chính cùng với các vùng miền xuôi. Năm 1829, ông bãi bỏ chế độ thế tập của các Thổ ti (tù trưởng dân tộc thiểu số) mà cho quan lại lựa chọn những thổ hào ở địa phương “…thanh liêm, tài năng, cần cán làm dân tin phục” làm Thổ tri các châu, huyện. Tiếp đó, các châu huyện miền núi cũng được phân chia lại để phù hợp với diện tích và dân số của mỗi vùng. Sau đó, Minh Mạng còn đặt thêm một chức lưu quan do người Kinh nắm giữ nhằm khống chế các vùng này tốt hơn và tiến hành thu thuế như ở miền xuôi. Ông còn nghĩ đến việc giúp lưu chuyển tiền bạc,<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  tránh cho người đi xa khỏi mang theo nhiều tiền,<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  như vào năm Bính thân (1836) đặt ra “Giao Tứ Vụ”<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  ở Cao Bằng để chuyển đổi tiền bạc, cơ quan này có nhiệm vụ như ngân hàng ngày nay.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </p>
+<p>Theo Giáo sư <a class="annotation" href="/nhan-vat/phan-huy-le" title="Giáo sư, Nhà giáo Nhân dân Phan Huy Lê (sinh ngày 23 tháng 2 năm 1934) là một trong những chuyên gia về lịch sử Việt Nam, Chủ tịch Hội Khoa học Lịch sử Việt Nam: Khóa II (1990–1995), khóa III (1995–2000), khóa IV (2000–2005, khóa V (2005–2010) và khóa VI (2010-2015), Giải thưởng Hồ Chí Minh về Khoa ..." target="_blank" >Phan Huy Lê</a>: Trong lịch sử chế độ quân chủ Việt Nam, cải cách của vua <a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> năm 1471 và cải cách của vua Minh Mạng năm 1831 – 1832 là hai cải cách hành chính có quy mô toàn quốc và đạt hiệu quả cao nhất.<sup class="annotation badge" title="^ Đoàn TNCS Hồ Chí Minh: Chống tham nhũng bắt đầu từ trên">8</sup> </p>
+<p>Tuy nhiên, đánh giá về việc cải cách chính quyền của Minh Mạng, nhà sử học Văn Tạo cho rằng: cũng giống như vua cha <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>, Minh Mạng đi theo con đường Nho giáo của trường phái Tống Nho (đạo Nho thời Tống) mà <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> trung hưng áp dụng - chứ không theo trường phái Minh Nho (đạo Nho thời Minh) tiến bộ hơn - mà các chúa Nguyễn trước kia từng áp dụng. Mục tiêu của Gia Long cũng như Minh Mạng chủ yếu nhằm củng cố vương quyền chứ không chăm lo phát triển kinh tế - xã hội theo xu hướng thời đại<sup class="annotation badge" title="^ Văn Tạo, sách đã dẫn, tr 222, 249">9</sup> .</p>
+<p>Văn Tạo cho rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Minh Mạng muốn trở thành một <a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> trong thời đại mới, nhưng thời đã khác thì sự nghiệp cũng khác. Thời của <a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> cũng sau những cuộc khủng hoảng toàn diện từ cuối thời Trần sang thời Hồ và đã được các vua từ <a class="annotation" href="/nhan-vat/le-thai-to" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Thái Tổ</a> đến <a class="annotation" href="/nhan-vat/le-nhan-tong" title="Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 – 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459. 
+ Lê Nhân Tông lên ngôi lúc mới 1 tuổi, nên trong 10 năm ..." target="_blank" >Lê Nhân Tông</a> bước đầu giải quyết. Mặt khác, thời của <a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> là lúc chế độ phong kiến Nho giáo ở Việt Nam còn đang có tác dụng tích cực trong xây dựng cơ chế hành chính “pháp trị” thay cho cơ chế “nhân trị” theo Phật giáo hình thành từ thời Lý Trần. Còn thời của Minh Mạng là lúc chủ nghĩa tư bản phương Tây đã phát triển, tìm đường bành trướng sang phương Đông.</i></p> <p><i>Xã hội Nho giáo phong kiến gốc rễ là của Trung Quốc, nhưng tới <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> đã đi vào bế tắc, trì trệ và suy yếu, phải nhượng bộ trước sự xâm phạm và cướp bóc của phương Tây. Việt Nam cũng không thoát khỏi tình trạng đó. Nhà Thanh kỳ thị Minh Nho (vì <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> là kẻ thù), quay lại áp dụng Tống Nho; nhà Nguyễn phỏng theo đó áp dụng, cho nên hoài bão trở thành “<a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> mới” của Minh Mạng chẳng những không đúng mà còn không được</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— <sup class="annotation badge" title="^ Văn Tạo, sách đã dẫn, tr 222-223">10</sup> .</cite></div> </td> </tr> </table>
+<a name="quan-doi"></a><h3>Quân đội</h3>
+<p>Minh Mạng rất quan tâm đến mặt quân sự. Nhiều lần, ông thân hành ra thao trường để chứng kiến việc luyện tập của quân đội. Ông lấy phương Tây làm kiểu mẫu cho việc tổ chức quân đội, hướng tới việc quân cốt tinh nhuệ, không cốt đông, giảm bớt số lượng người cầm cờ từ 40 xuống 2 người trong đội ngũ đơn vị 1 vệ (500 người).<sup class="annotation badge" title="^ Nhiều tác giả, Những vấn đế lịch sử triều Nguyễn, tr. 75">11</sup> </p>
+<p>Theo Việt Nam sử lược, quân đội thời Minh Mạng gồm bộ binh, thuỷ binh, tượng binh, kị binh và pháo thủ binh. Bộ binh gồm kinh binh và cơ binh. Kị binh được chia làm doanh, vệ đội, đóng ở Kinh thành hoặc đóng ở các tỉnh. Mỗi doanh có 5 vệ, mỗi vệ có 10 đội, mỗi đội có 50 người, có đội trưởng và suất đội cai quản. Vũ khí của mỗi vệ gồm 2 khẩu thần công, 200 khẩu điểu thương và 21 ngọn cờ. Cơ binh là lính riêng của từng tỉnh, cũng được chia làm cơ và đội. Cơ có các quản cơ, đội có các suất đội cai quản. Tượng binh chia làm đội, mỗi đội có 40 con voi. Ở Kinh thành có 150 con, ở Bắc Hà có 110 con, ở Gia Định có 70 con, ở Quảng Nam có 35 con, ở Bình Định có 30 con, ở Nghệ An có 21 con, ở Quảng Bình, Quảng Ngãi, Thanh Hóa mỗi nơi có 15 con, ở Quảng Trị, Phú Yên, Bình Thuận và Ninh Bình mỗi nơi có bảy con.</p>
+<p>Ông còn cho lập đồn ải ở những nơi hiểm yếu trong nước, còn ngoài biển thì lập pháo đài. Ông rất chú trọng đến thuỷ quân, các vùng hải đảo đều được đánh mốc giúp cho sự lưu thông dễ dàng.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Thuỷ binh có 15 vệ, chia làm 3 doanh do quan đô thống cai quản, mỗi doanh được quan chương vê cai quản.</p>
+<a name="dinh-dien-va-thue-khoa"></a><h3>Đinh điền và thuế khóa</h3>
+<p>Thuế đinh và thuế điền cơ bản cũng theo như vua Gia Long đã định. Theo Việt Nam sử lược, chỉ có năm Bính thân (1836), đất Nam Hà đạc điền xong, tính ra được hơn 630.075 mẫu và định lại các thứ thuế điền thổ ở đó. Còn như số dân đinh và điền thổ trong nước, thì theo số bộ tổng cộng lại được 970.516 suất đinh và 4.063.892 mẫu ruộng và đất.</p>
+<p>Đối với những người Hoa sang lập ấp ở Đại Nam (gọi là <i>Minh Hương</i>), triều đình có lệnh rằng mỗi người 1 năm phải nộp 2 lạng bạc và được miễn giao dịch. Những người già yếu và khuyết tật phải chịu 1 nửa.</p>
+<p>Đối với những người <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> sang Đại Nam buôn bán, người nào có vật lực thì 1 năm phải đóng 6 quan tiền; ai không có vật lực thì phải nộp một nửa, hạn cho 3 năm, thì chiếu lệ thu cả thuế.</p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/577c21b1905d9fcc69fa564b681f90ab.jpg" /> <div class="caption"> <div class="magnify"></div> Tiền Minh Mạng thông bảo.</div> </div> </div>
+<p>Theo Việt Nam sử lược, Minh Mạng còn đặt lệ đánh thuế muối. Mỗi ruộng muối 1 năm phải nộp bằng muối từ 6 phương đến 10 phương. Mỗi phương nộp bằng tiền thì phải nộp từ 3 tiền đến 4 tiền 30 đồng. Còn các thuế mỏ, thuế sản vật,… thì cơ bản cũng theo lệ Gia Long đã định, chứ không thay đổi gì mấy.</p>
+<a name="van-hoa"></a><h3>Văn hóa</h3>
+<p>Bản thân vua Minh Mạng cũng là một học giả, đã từng làm thơ, soạn sách văn học, khuyến khích biên soạn các loại sách sử, nhất là các sách sử, địa. Nhiều người soạn sách mới, dâng sách cũ đều được nhà vua ban thưởng và khuyến khích. Các bộ sách quý như: <i>Gia Định thành thông chí</i>, <i>Lịch Triều Hiến Chương loại chí</i>,… đều ra đời dưới thời Minh Mạng. Các con của ông, điển hình như Tùng Thiện Vương Miên Thẩm, Tuy Lý Vương Miên Trinh và Tương An Quận Vương Miên Bửu,…, đều là những nhà văn, nhà thơ xuất sắc, và đều nổi tiếng dưới các triều vua Thiệu Trị, Tự Đức sau này.</p>
+<ul> <li>Năm 1821, Minh Mạng thành lập Quốc tử giám ở kinh <a class="annotation" href="/dia-danh/thanh-hue" title="Kinh thành Huế hay Thuận Hóa kinh thành (chữ Hán: 順化京城) là một tòa thành ở cố đô Huế, nơi đóng đô của triều đại nhà Nguyễn trong suốt 143 năm từ 1802 đến khi thoái vị vào năm 1945. Hiện nay, Kinh thành Huế là một trong số các di tích thuộc cụm Quần thể di tích Cố đô Huế được UNESCO công nhận là Di s..." target="_blank" >thành Huế</a>.</li> <li>Năm 1826, ông chính thức thành lập Nhà hát tuồng Quốc gia trong Đại Nội, được gọi là Duyệt Thị Đường.</li> <li>Năm 1832, ông hoàn tất việc xây dựng kinh <a class="annotation" href="/dia-danh/thanh-hue" title="Kinh thành Huế hay Thuận Hóa kinh thành (chữ Hán: 順化京城) là một tòa thành ở cố đô Huế, nơi đóng đô của triều đại nhà Nguyễn trong suốt 143 năm từ 1802 đến khi thoái vị vào năm 1945. Hiện nay, Kinh thành Huế là một trong số các di tích thuộc cụm Quần thể di tích Cố đô Huế được UNESCO công nhận là Di s..." target="_blank" >thành Huế</a> theo kiến trúc của phương Tây kết hợp với kiến trúc thành quách của phương Đông.</li> </ul>
+<p>Để xã hội có qui củ cùng nề nếp, nhà vua cho thống nhất việc đo lường và thống nhất y phục.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Năm Bính thân (1836) phủ huyện được cấp các cân mẫu, rồi năm Kỷ hợi (1839) được cấp các loại thước mộc, thước may, thước đo ruộng.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Về y phục ông từng bảo: “<i>Ngày nay nước nhà cương thổ đã hiệp nhất thì chính trị, phong tục lẽ nào khác biệt</i>”.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Bởi thế, nên nhiều đạo dụ được ban bố để y phục ở miền Bắc và miền Nam giống nhau.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </p>
+<a name="giao-duc"></a><h3>Giáo dục</h3>
+<p>Là người tinh thông Nho học, sùng đạo Khổng Mạnh, Minh Mạng rất quan tâm đến nền khoa cử, học vấn. Nhà vua thường nói:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Đạo trị nước phải gây dựng nhân tài.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Minh Mạng<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </cite></div> </td> </tr> </table>
+<p>Năm 1821, ông đặt chức Tế tửu và Tư nghiệp, năm 1822 mở lại thi Hội, thi Đình.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Ông còn cho đặt đốc học ở <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a>, ông giao trọng trách cho nhà giáo Nguyễn Trọng Vũ người Nghệ An, giữ chức Phó Đốc học chăm lo việc học hành ở Nam Bộ. Bấy giờ, ở Gia Định có Trịnh Hoài Đức là người có học vấn cao nên được nhà vua tin dùng, phong làm Hiệp Biện Đại học sĩ, Thượng thư Bộ Lại kiêm Thượng thư Bộ Binh.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </p>
+<p>Minh Mạng còn đặt ra lệ rằng ai được thăng quan, bổ nhiệm đều phải lên kinh gặp vua trước khi nhậm chức.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Đây là cơ sơ để nhà vua kiểm tra đức độ, năng lực và khuyên bảo điều hay lẽ phải, cốt sao cho lợi ích nước nhà.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </p>
+<p>Năm 1836, ông cho thành lập “Tứ dịch quán” để dạy ngoại ngữ (tiếng Pháp, Xiêm).</p>
+<p>Vua Minh Mạng muốn canh tân việc học hành thi cử nhưng lại không biết tiến hành ra sao bởi triều thần của ông chỉ toàn là những hủ nho lạc hậu, không giúp đỡ được nhà vua trong một kế hoạch nào làm cho quốc phú, dân cường.<sup class="annotation badge" title="^ a ă Việt Sử Toàn Thư, Phạm Văn Sơn, tr. 420">12</sup>  Ông đã nói rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Lâu nay cái học khoa cử làm cho người ta sai lầm, Trẫm nghĩ văn chương vốn không có quy củ nhất định, mà nay những văn cử-nghiệp chỉ câu nệ cái hư sáo khoe khoang lẫn với nhau, biệt lập mỗi nhà một lối, nhân phẩm cao hay thấp do tự đó. Khoa tràng lấy hay bỏ cũng do tự đó. Học như thế thì trách nào nhân tài chẳng mỗi ngày một kém đi. Song tập tục đã quen rồi, khó đổi ngay được, về sau dần dần đổi lại.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Minh Mạng<sup class="annotation badge" title="^ a ă Việt Sử Toàn Thư, Phạm Văn Sơn, tr. 420">12</sup> </cite></div> </td> </tr> </table>
+<a name="nong-nghiep"></a><h3>Nông nghiệp</h3>
+<p>Dưới thời Minh Mạng, việc khẩn hoang rất được khuyến khích. Nhà vua cho quan lại mộ dân lập những ấp mới ở trong Nam cũng như ngoài Bắc, khiến cho việc phân phối ruộng đất được hợp lý. Ngoài ra, ông còn hoàn chỉnh hệ thống đê điều ở Bắc Bộ, đặt quan khuyến nông, khai hoang ven biển Bắc Bộ, lập các huyện Kim Sơn và Tiền Hải. Ở Nam Bộ, công cuộc khai hoang và thuỷ lợi cũng được đẩy mạnh. Minh Mạng còn thử nghiệm giải pháp bỏ đê phía nam Hà Nội, đào sông thoát lũ Cửu An (Hưng Yên)<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup> </p>
+<p>Năm 1832, vua Minh Mạng khai mở ngành tơ tằm Đại Nam.<sup class="annotation badge" title="^ Ông tổ ngành than">13</sup> </p>
+<p>Ông còn ban dụ cho lập nhà dưỡng tế ở các tỉnh để giúp đỡ những người tàn tật, nghèo khổ, già cả và hoặc không nơi nương tựa.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  Triều đình cũng bắt quan lại ở các tỉnh phải xuất lúa giống ở kho cho dân nghèo vay để làm mùa sau, nhằm làm cho nông nghiệp không bị đình trệ và việc mất mùa không ảnh hưởng trong các năm sau.<sup class="annotation badge" title="^ Nguyễn Thế Anh - Kinh tế &amp;amp; Xã hội VN dưới các vua triều Nguyễn, Nhà xuất bản Văn học trang 124-125">14</sup> </p>
+<a name="ky-thuat-cong-nghe"></a><h3>Kỹ thuật công nghệ</h3>
+<p>Thời Minh Mạng, nhiều máy móc mang tính mới mẻ đã được chế tạo bao gồm: máy cưa chạy bằng sức trâu và sức nước, máy xẻ gỗ chạy bằng sức trâu.<sup class="annotation badge" title="^ Nguyễn Khắc Thuần 2005, tr.&amp;#160;327">15</sup>  Cụ thể là năm 1834, với sự đồng ý của Minh Mạng, Nguyễn Văn Túy chế tạo ra chiếc máy nghiền thuốc súng bằng nước mang tên <i>Thuỷ hoả ký tế</i>.</p>
+<p>Trong các năm 1837 và 1838, theo kiểu mẫu phương Tây, thợ thủ công Nhà nước đã chế tạo được máy cưa văn gỗ, xẻ gỗ bằng sức nước, máy hút nước tưới ruộng,… và còn có cả xe cứu hỏa.</p>
+<p>Đặc biệt là vào năm 1839, dựa trên các kiểu mẫu phương Tây, các đốc công Hoàng Văn Lịch, Vũ Huy Trịnh cùng các thợ của ông đã đóng thành công chiếc tàu máy hơi nước đầu tiên, được vua Minh Mạng hết sức khen ngợi. Năm sau (1840), Minh Mạng lại chỉ đạo cho họ đóng một chiếc kiểu mới tân tiến và sửa chữa một chiếc bị hỏng. Điều đáng tiếc là mọi việc dường như bị đình lại sau đó.<sup class="annotation badge" title="^ Trương Hữu Quýnh (chủ biên), Phạn Đại Doãn, Nguyễn Cảnh Minh, Đại cương lịch sử Việt Nam - tập 1, Nhà xuất bản Giáo dục, TPHCM 2005, tr. 451.">16</sup> </p>
+<a name="xet-xu-cong-than-qua-co"></a><h3>Xét xử công thần quá cố</h3>
+<p>Vua Minh Mạng và Tả quân Lê Văn Duyệt (1764 – 1832) vốn có nhiều hiềm khích và tư thù. Dù không ưa Lê Văn Duyệt nhưng ông không dám<sup class="annotation badge" title="^ “Theo Đại Nam liệt truyện chính biên thì khi làm tổng trấn Gia Định Thành, Lê Văn Duyệt uy quyền to lắm mà lòng người cũng kính phục nên vua Minh Mạng tuy trong lòng căm ghét nhưng cũng không dám làm gì”. Mộ tả quân Lê Văn Duyệt hiện ở đâu?, báo Tuổi Trẻ, 21/05/2006">17</sup>  làm gì, do công lao và uy quyền quá lớn của Lê Văn Duyệt với triều đình.</p>
+<p>Năm 1833, Lê Văn Duyệt qua đời, con nuôi là Lê Văn Khôi (? – 1834) nổi loạn chiếm thành Phiên An (tức <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a>), Minh Mạng trong khi đánh dẹp cuộc nổi dậy này vẫn thường ban trách Lê Văn Duyệt.</p>
+<p>Năm 1835, sau khi dẹp xong cuộc nổi dậy Lê Văn Khôi, Minh Mạng bèn làm án Tả quân, giao cho nhóm nội các là Hà Quyền, <a class="annotation" href="/nhan-vat/nguyen-tri-phuong" title="Nguyễn Tri Phương (1800-1873) là một đại danh thần Việt Nam thời nhà Nguyễn. Ông là vị Tổng chỉ huy quân đội triều đình Nguyễn chống lại quân Pháp xâm lược lần lượt ở các mặt trận Đà Nẵng (1858), Gia Định (1861) và Hà Nội (1873)...." target="_blank" >Nguyễn Tri Phương</a> và Hoàng Quýnh nghị tội Tả quân có sáu điều, có bảy tội phải chém, hai tội phải thắt cổ, một tội phải sung quân. Bản án quyết định truy đoạt quan chức, phá bỏ quan quách giết thây. Mộ Lê Văn Duyệt ở Gia Định bị cuốc bằng và bị xiềng xích, phía trên khắc đá dựng bia ở trên viết to mấy chữ: <i>Đây chỗ tên lại cái lộng quyền Lê Văn Duyệt chịu phép nước</i><sup class="annotation badge" title="^ Nguyên văn chữ Hán: 權奄黎文悅服法處 (Quyền yêm Lê Văn Duyệt phục pháp xứ)">18</sup> ; các ngôi mộ cha mẹ của Lê Văn Duyệt bị đục bỏ tước hiệu khắc trên bia.</p>
+<p>Sang năm sau (1836), Minh Mạng lại sai đình thần làm án <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a> (1769 – 1826), một công thần từ thời Gia Long, đã qua đời năm 1826. Bài dụ về tội trạng của <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a> như sau:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>...<a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a> cùng với Lê Văn Duyệt, dựa nhau làm gian, tội ác đầy chứa, nhổ từng cái tóc mà tính cũng không hết...</i></p> <p><i>Vậy cho Tổng đốc Bình Phú Võ Xuân Cẩn san phẳng mộ của hắn, khắc bia dựng lên trên đề to mấy chữ “Chỗ này là nơi <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a> phục pháp” để làm gương cho kẻ gian tặc muôn đời. Còn vợ hắn là Lê Thị Sai… cùng con là Lê Cẩn, Lê Trương, Lê Thường, Lê Kỵ, đều… trảm giam hậu. Lại tịch biên gia sản, được hơn 12.000 quan tiền, giao tỉnh chứa cả vào kho.</i></p> </td> <td >”</td> </tr> </table>
+<p>Nhà sử học <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> bình luận về việc làm án các công thần đã chết này trong sách Việt Nam sử lược như sau:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Quan quân bình xong giặc Lê Văn Khôi rồi vua Thánh Tổ sai phá thành Phiên An đi, xây lại chỗ khác và ngài xuống chiếu định truy tội Lê Văn Duyệt và tội <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a>. Cứ bình tĩnh mà xét, thì chẳng qua là vua Thánh Tổ vốn có ý không ưa hai ông ấy, rồi đình thần lại nhân đó mà bới việc ra để chiều ý ngài, cho nên thành ra hai cái án thật là không đáng.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a><sup class="annotation badge" title="^ Việt Nam sử lược, Nhà xuất bản Tân Việt, Sài Gòn, 1964, tr.455 - 446">19</sup> </cite></div> </td> </tr> </table>
+<a name="tran-ap-noi-day"></a><h3>Trấn áp nổi dậy</h3>
+<p>Thời nhà Nguyễn nói chung và thời Minh Mạng nói riêng cho thấy các cuộc nổi dậy của nông dân và các tầng lớp khác bùng nổ dữ dội. Theo sử gia <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a>, các cuộc nổi dậy ở suốt Trung, Nam, Bắc dưới triều Minh Mạng (kể từ 1822) có nhiều nguyên nhân:<sup class="annotation badge" title="^ Việt Sử toàn thư, Phạm Văn Sơn, tr. 421">20</sup> </p>
+<dl> <dd><i>A) Về phía ngoại bang, <a class="annotation" href="/dia-danh/nuoc-xiem" title="Xiêm (tiếng Thái Lan: สยาม; chuyển tự: Siam, IPA:&amp;#160;[saˈjaːm]), còn gọi là Xiêm La, là quốc hiệu chính thức của Thái Lan từ thời nhà Chakri được thành lập năm 1782 cho đến ngày 23 tháng 6 năm 1939. Sau đó, tên gọi Xiêm được sử dụng lại một cách chính thức trong thời kỳ từ năm 1945 đến ngày 11 thá..." target="_blank" >nước Xiêm</a> La vẫn giữ thái độ về vấn đề Chân Lạp nên ngoài mặt tuy êm dịu nhưng bên trong Xiêm La vẫn tìm cơ hội để quấy rối Việt Nam.</i></dd> <dd><i>B) Ngoài Bắc, một phần nhân tâm còn luyến tiếc Lê triều, vẫn chờ dịp nổi lên chống triều Nguyễn và khôi phục lại dòng họ Lê.</i></dd> <dd><i>C) Bọn quan lại hay nhũng nhiễu dân chúng, dèm pha nhau, tâng công, nịnh hót mà vua lại thường không minh, nhất là đối với kẻ công thần, nhiều người trung lương đâm ra chán nản, trái lại phe gian nịnh nẩy nở mỗi ngày một nhiều, nước tất nhiên phải sinh loạn do đó ngoại quốc mới dám dòm ngó vào.</i></dd> </dl>
+<a name="tai-bac-ha"></a><h4>Tại Bắc Hà</h4>
+<p>Từ năm 1822, Minh Mạng thứ 2, tại Bắc Hà có tới 254 cuộc nổi dậy của nhân dân diễn ra. Tiêu biểu là các cuộc nổi dậy của Phan Bá Vành ở Nam Định, Lê Duy Lương ở Ninh Bình và Nông Văn Vân ở Tuyên Quang. Quân nhà Nguyễn phải vất vả lắm mới dẹp được các cuộc nổi loạn này.</p>
+<a name="phan-ba-vanh"></a><h5>Phan Bá Vành</h5>
+<p>Theo Việt Nam sử lược, năm 1826 ở Nam Định có Phan Bá Vành cùng với Võ Đức Cát và Nguyễn Hạnh khởi binh đánh phủ Trà Lý và Lân Hải, giết quan thủ ngự Đặng Đình Miễn và Nguyễn Trung Diễn. Quan trấn thủ Nam Định là Lê Mậu Cúc đem quân xuống đánh, nhưng cũng bại trận tử vong. Quan quân ở các trấn phải về tiễu trừ, bắt được Võ Đức Cát. Còn Phan Bá Vành và quân của mình thì chạy tan cả. Nhưng đến tháng 12 năm ấy, Phan Bá Vành và Nguyễn Hạnh liên kết với giặc Khách đi cướp ở ngoài biển, rồi lại đem quân về đánh phá ở huyện Tiên Minh và huyện Nghi Dương ở Hải Dương.</p>
+<p>Thấy vậy, Minh Mạng bèn sai quan Tham biện Thanh Hóa là <a class="annotation" href="/nhan-vat/nguyen-cong-tru" title="Nguyễn Công Trứ (chữ Hán: 阮公著, 1778 – 1858), tự Tồn Chất, hiệu Ngộ Trai, biệt hiệu Hi Văn, là một nhà chính trị, nhà quân sự và một nhà thơ thời nhà Nguyễn. Ông làm quan qua các đời vua Gia Long Minh Mạng, Thiệu Trị, Tự Đức. Ông nổi bật về việc khai hoang, mộ dân trên một vùng đất lớn ở miền Bắc và ..." target="_blank" >Nguyễn Công Trứ</a>, quan Tham biện Nghệ An là Nguyễn Đức Nhuận đem binh thuyền ở Thanh Hóa, Nghệ An ra cùng với Hiệp trấn Bắc thành là Nguyễn Hữu Thận đi dẹp loạn.</p>
+<p>Tháng giêng năm Đinh Hợi (1827), Phan Bá Vành quay về đánh chiếm <a class="annotation" href="/dia-danh/phu-thien-truong" title="Thiên Trường là một phủ (lộ) dưới thời Trần-Lê. 
+ Năm 1262, Trần Thánh Tông đổi hương Tức Mạc (quê gốc của nhà Trần) thành phủ Thiên Trường, sau đó phủ được nâng thành lộ...." target="_blank" >phủ Thiên Trường</a> và phủ Kiến Xương, sau lại về vây quan quân ở chợ Quán. Phạm Văn Lý và <a class="annotation" href="/nhan-vat/nguyen-cong-tru" title="Nguyễn Công Trứ (chữ Hán: 阮公著, 1778 – 1858), tự Tồn Chất, hiệu Ngộ Trai, biệt hiệu Hi Văn, là một nhà chính trị, nhà quân sự và một nhà thơ thời nhà Nguyễn. Ông làm quan qua các đời vua Gia Long Minh Mạng, Thiệu Trị, Tự Đức. Ông nổi bật về việc khai hoang, mộ dân trên một vùng đất lớn ở miền Bắc và ..." target="_blank" >Nguyễn Công Trứ</a> cho quân tới giải vây, Phan Bá Vành bại trận chạy về căn cứ ở Trà Lũ. Quân nhà Nguyễn vây đánh, bắt được Phan Bá Vành và 765 thủ hạ<sup class="annotation badge" title="^ a ă Việt Nam sử lược, bản điện tử, tr 183">21</sup> .</p>
+<a name="le-duy-luong"></a><h5>Lê Duy Lương</h5>
+<p>Tháng 3 năm Quý Tỵ (1833), ở Ninh Bình có Lê Duy Lương, một hậu duệ của triều đại <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> nổi lên, xưng làm <i>Đại Lê Hoàng Tôn</i>, cùng với các thổ ti Quách Tất Công, Quách Tất Tế, Đinh Thế Đức, Đinh Công Trịnh đem quân đi đánh phá các phủ huyện và chiếm giữ 3 châu huyện Lạc Thổ, Phụng Hóa và Yên Hóa. Sau đó, Lê Duy Lương cho quân đánh <a class="annotation" href="/dia-danh/thanh-hung-hoa" title="Thành Hưng Hóa xưa là lỵ sở của đạo thừa tuyên Hưng Hóa, sau đổi là trấn Hưng Hóa (thời Lê Trung hưng), rồi tỉnh Hưng Hóa (thời nhà Nguyễn). 
+ Thành nằm ở ven bờ đầm Dị Nậu thuộc huyện Tam Nông, tỉnh Phú Thọ ngày nay, về phía tây nam của thành phố Việt Trì và tây bắc của thị xã Sơn Tây...." target="_blank" >thành Hưng Hóa</a>.</p>
+<p>Hay tin, vua Minh Mạng cử quan Tổng đốc Nghệ Tĩnh là Tạ Quang Cự cùng với Tổng đốc Thanh Hóa là Nguyễn Văn Trọng đem quân ra Ninh Bình để đàn áp quân nổi loạn. Lê Duy Lương ở Ninh Bình lâm vào thế cô, không chống nổi mấy đạo quân nhà Nguyễn, chỉ đương được vài ba tháng thì bị bắt, đóng cũi giải về kinh trị tội. Còn nhóm Quách Tất Công, Quách Tất Tế thì cũng tan rã.</p>
+<p>Sau đó, Minh Mạng truyền đem dòng dõi <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> đi đày vào Quảng Nam, Quảng Bình, cứ chia cho 15 người ở 1 huyện và phát cho 10 quan tiền và 2 mẫu ruộng để làm ăn<sup class="annotation badge" title="^ a ă Việt Nam sử lược, bản điện tử, tr 183">21</sup> .</p>
+<a name="nong-van-van"></a><h5>Nông Văn Vân</h5>
+<p>Khi quân Nguyễn đang dẹp loạn Lê Duy Lương ở miền Bắc, thì ở miền Nam Lê Văn Khôi nổi lên và chiếm giữ <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a>. Theo Việt Nam sử lược, Lê Văn Khôi vốn là người Bắc, có họ hàng bà con ở mạn Tuyên Quang, Cao Bằng, bởi vậy Minh Mạng sai tìm bắt họ hàng của Khôi đem về Kinh xử tội. Tri châu Bảo Lạc (Tuyên Quang) Nông Văn Vân là anh vợ Khôi, bị quan quân bắt bớ, bèn nổi lên xưng “Tiết Chế Thượng tướng Quân”. Nông Văn Vân bắt viên tỉnh phái thích chữ vào mặt rằng “Quan tỉnh hay ăn tiền của dân”, rồi đuổi về<sup class="annotation badge" title="^ a ă Việt Nam sử lược, bản điện tử, tr 184">22</sup> .</p>
+<p>Cuộc nổi loạn diễn ra từ ngày 2 tháng 7 năm 1833. Nông Văn Vân lập căn cứ ở Bảo Lạc, được nhiều tù trưởng và người dân tộc trong vùng hưởng ứng. Quân nổi loạn nhanh chóng mở rộng hoạt động ra các <a class="annotation" href="/dia-danh/tinh-ha-giang" title="Hà Giang là một tỉnh thuộc vùng núi phía Bắc Việt Nam . 
+ Tỉnh Hà Giang phía đông giáp tỉnh Cao Bằng, phía tây giáp tỉnh Yên Bái và Lào Cai, phía nam giáp tỉnh Tuyên Quang. Về phía bắc, Hà Giang giáp châu tự trị dân tộc Choang và Miêu Văn Sơn thuộc tỉnh Vân Nam và địa cấp thị Bách Sắc thuộc tỉnh Quả..." target="_blank" >tỉnh Hà Giang</a>, Tuyên Quang, Cao Bằng, Bắc Kạn, Lạng Sơn, Thái Nguyên và chiếm các tỉnh thành. Hay tin, Minh Mạng cử Tổng đốc Nghệ Tĩnh là Tạ Quang Cự làm Tổng đốc đại thần, cùng với Lê Văn Đức, Nguyễn Đình Phổ và <a class="annotation" href="/nhan-vat/nguyen-cong-tru" title="Nguyễn Công Trứ (chữ Hán: 阮公著, 1778 – 1858), tự Tồn Chất, hiệu Ngộ Trai, biệt hiệu Hi Văn, là một nhà chính trị, nhà quân sự và một nhà thơ thời nhà Nguyễn. Ông làm quan qua các đời vua Gia Long Minh Mạng, Thiệu Trị, Tự Đức. Ông nổi bật về việc khai hoang, mộ dân trên một vùng đất lớn ở miền Bắc và ..." target="_blank" >Nguyễn Công Trứ</a> thống lĩnh hàng chục vạn quân, hàng trăm voi chiến, ngựa chiến đàn áp. Cuối năm 1834, hoạt động của quân nổi loạn bị thu hẹp dần.</p>
+<p>Ngày 11 tháng 3 năm 1835, Phạm Văn Điển cho quân phóng hoả đốt rừng Thẩm Bát, nơi Nông Văn Vân và quân nổi loạn ẩn náu. Theo Việt Nam sử lược, Nông Văn Vân chết cháy và đầu bị quân Nguyễn chém lấy rồi đem về kinh báo tin thắng trận<sup class="annotation badge" title="^ a ă Việt Nam sử lược, bản điện tử, tr 184">22</sup> .</p>
+<a name="tai-nam-ha"></a><h4>Tại Nam Hà</h4>
+<p>Cuộc nổi dậy Lê Văn Khôi (1833 - 1835) là một cuộc nổi dậy xảy ra vào thời vua Minh Mạng ở các tỉnh miền Nam Đại Nam.<sup class="annotation badge" title="^ Nguyễn Phan Quang, Việt Nam thế kỷ 19, Nhà xuất bản TP.HCM, 2002, tr. 229 - 256">23</sup>  Năm 1833, Lê Văn Khôi (vốn là con nuôi của Tả quân Lê Văn Duyệt) chiếm thành Phiên An và toàn bộ 6 tỉnh miền Nam,<sup class="annotation badge" title="^ a ă McLeod, tr.30.">24</sup>  giết tổng đốc Nguyễn Văn Quế và bố chính Bạch Xuân Nguyên rồi xưng làm “Bình Nam Đại Nguyên Soái”. Trong dịp này Lê Văn Khôi lấy danh nghĩa tôn phù một người con của Hoàng tử Cảnh là An Hòa.<sup class="annotation badge" title="^ a ă McLeod, tr.30.">24</sup>  Bấy giờ, An Hòa đang ở Huế.<sup class="annotation badge" title="^ Việt sử toàn thư, tr 421">25</sup> </p>
+<p>Hay tin, vua Minh Mạng cho giết ngay vợ con Hoàng tử Cảnh ở Huế để Lê Văn Khôi hết đường lợi dụng.<sup class="annotation badge" title="^ Việt sử toàn thư, tr 422">26</sup> <sup class="annotation badge" title="^ Sử Pháp của C. B Maybon có chép chuyện này.">27</sup> </p>
+<p>Triều đình cử các tướng Tống Phúc Lương, Nguyễn Xuân, Phan Văn Thúy, Trương Minh Giảng và Trần Văn Năng đem thuỷ bộ binh tượng vào đánh quân nổi dậy. Tháng 8 năm 1833, quân Nguyễn bắt đầu phản công và lấy lại các tỉnh Nam Bộ. Một viên tướng của Lê Văn Khôi là Thái Công Triều đầu hàng triều đình. Quân nổi dậy thất thế, phải cầu cứu Xiêm La.</p>
+<p>Không bỏ lỡ cơ hội, vua Xiêm là Rama III lập tức sai tướng Chất Tri và Phật Lăng dẫn quân sang Chân Lạp và tiến công Hà Tiên, Gia Định. Năm 1834, quân Đại Nam đánh tan quân Xiêm ở Thuận Cảng, buộc quân Xiêm lui về Chân Lạp. Quân Đại Nam sau đó chiếm lại toàn bộ các tỉnh miền Nam và bao vây quân nổi dậy tại thành Bát Quái. Lê Văn Khôi bị cô lập, lâm bệnh rồi mất tại thành Phiên An. Con trai Lê Văn Khôi là Lê Văn Cù mới 8 tuổi<sup class="annotation badge" title="^ Nguyễn Q. Thắng (Từ điển nhân vật lịch sử Việt Nam) ghi là Lê Văn Câu, Sách Sài Gòn - TP.HCM do Tiến sĩ Quách Thu Nguyệt chủ biên, ghi là Lê Văn Cù. Trần Trọng Kim, Việt Nam sử lược ghi 7 tuổi">28</sup>  được cử lên thay. Tháng 9 năm 1835, quân Nguyễn hạ thành Phiên An.<sup class="annotation badge" title="^ a ă â Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; sai; không có nội dung trong thẻ ref có tên kccvn">29</sup>  Trong 6 người “chủ mưu” bị bắt giải về Kinh đô Phú Xuân, có giáo sĩ người Pháp tên Joseph Marchand (<i>Cố Du</i>), một người khách (Hoa kiều) tên Mạch Tấn Giai và Lê Văn Cù, con Lê Văn Khôi.<sup class="annotation badge" title="^ a ă â Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; sai; không có nội dung trong thẻ ref có tên kccvn">29</sup> </p>
+<p>Đến Huế thì giáo sĩ Joseph Marchand và năm người kia phải tội lăng trì<sup class="annotation badge" title="^ Theo ông J. Silvestre.">30</sup> . Điều này khiến cho Minh Mạng ngày cấm đạo Cơ Đốc một cách dữ dội hơn.<sup class="annotation badge" title="^ a ă â Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; sai; không có nội dung trong thẻ ref có tên kccvn">29</sup> </p>
+<a name="doi-ngoai"></a><h2>Đối ngoại</h2>
+<a name="voi-trung-quoc"></a><h3>Với Trung Quốc</h3>
+<p>Giống như vua cha, Minh Mạng chủ trương tiếp tục triều cống và giữ quan hệ ngoại giao hữu hảo với <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>. Khi lên ngôi, ông đã nhận sự phong vương của vua <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>. Tuy nhiên, triều Nguyễn duy trì đường lối đối nội tự chủ. Theo nhận xét của giáo sư Yu Insun, các vua nhà Nguyễn chỉ xưng thần với <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> một cách hình thức, còn thực chất họ cho rằng họ bình đẳng với <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>.<sup class="annotation badge" title="^ lịch sử quan hệ Việt Nam-Trung Quốc thế kỷ 19, thực và hư, Yu Isun">31</sup>  Các phái đoàn đi cống của ĐạiNam ngoài việc đưa đồ tiến cống còn thực hiện việc trao đổi mua bán sản phẩm không có trong nước, vì Trung Quốc không cho phép thương nhân Đại Nam sang Trung Quốc, còn Đại Nam duy trì lệnh cấm dân chúng xuất cảnh để ngăn chặn việc xuất lậu vật phẩm sang Trung Quốc như gạo, muối, vàng bạc, đồng, sừng trâu, ngà voi, v.v...</p>
+<p>Việc duy trì quan hệ triều cống chỉ có ý nghĩa tượng trưng, vì đến cuối đời Minh Mạng, cứ bốn năm một lần nhà Nguyễn mới phải cử sứ sang cống, đồng thời <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> cắt giảm yêu cầu vật phẩm triều cống cho triều Tây Sơn và nhà Nguyễn chỉ còn phân nửa so với <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a>, nên giá trị vật chất không đáng kể.<sup class="annotation badge" title="^ Đại Nam thực lục, chính biên, II, quyển 207, tr. 41b~42a">32</sup>  Tuy nhiên các đoàn đi sứ đều được lệnh ghi chép cẩn thận tình hình bên Trung Quốc để báo cáo lại cho nhà vua. Các sứ thần không hoàn thành nhiệm vụ này đều bị trách phạt. Đây có lẽ là một phần lý do khiến vua Minh Mạng có thể nhận định đúng việc <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> ngày càng suy yếu, và dự đoán chính xác <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> sẽ thất bại trong cuộc xung đột với <a class="annotation" href="/dia-danh/nuoc-anh" title="Anh (tiếng Anh: England, /ˈɪŋɡ.lənd/) là một quốc gia thuộc Vương quốc Liên hiệp Anh và Bắc Ireland. Quốc gia này có biên giới trên bộ với Scotland về phía bắc và với Wales về phía tây. Biển Ireland nằm về phía tây bắc và biển Celtic nằm về phía tây nam của Anh. Anh tách biệt khỏi châu Âu lục địa qu..." target="_blank" >nước Anh</a> một khi cuộc chiến tranh Nha phiến nổ ra<sup class="annotation badge" title="^ Đại Nam thực lục, II, quyển 212, p. 33b">33</sup> .</p>
+<a name="voi-xiem-la"></a><h3>Với Xiêm La</h3>
+<p>Thời Minh Mạng, giữa Xiêm La (Thái Lan, do nhà Chakri trị vì) với Đại Nam thường xảy ra chiến tranh. Trước đây, vua Gia Long và vua Minh Mạng có mối quan hệ tốt với các vua Rama I, Rama II nên hai <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> - Xiêm chưa xảy ra xung đột. Tuy nhiên, sau khi vua mới của Xiêm là Rama III lên ngôi, ông và Minh Mạng đã có thái độ thù nghịch nhau do không còn mối thâm tình như các vua trước. Năm 1827, vua Rama III cử tướng Chất Tri (tức Bodin) đem quân Xiêm sang xâm lược Vạn Tượng, vua xứ này là A Nộ (<i>Anouvong</i>) chống không nổi, phải cầu cứu triều đình Đại Nam. Minh Mạng sai thống chế Phan Văn Thúy mang viện quân sang giúp nhưng bị quân Xiêm đánh bại. Năm 1828, Phan Văn Thúy và <a class="annotation" href="/nhan-vat/nguyen-van-xuan" title="Nguyễn Văn Xuân có thể là:..." target="_blank" >Nguyễn Văn Xuân</a>, Nguyễn Khoa Hào tiếp tục đem 3.000 quân và 24 voi chiến đưa A Nộ về <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>, rồi tiến vào Vạn Tượng (<i>Vientiane</i>) nhưng đạo quân Nhà Nguyễn – A Nộ lại bị quân Xiêm đập tan. Chán nản, vua Minh Mạng hạ lệnh bãi bỏ và chỉ phòng vệ ở vùng biên giới. A Nộ sau đó chạy về <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a> và bị bắt nộp cho quân Xiêm.<sup class="annotation badge" title="^ Việt Sử Toàn Thư, Phạm Văn Sơn, tr. 424">34</sup> </p>
+<p>Quân Xiêm được đà đánh sâu vào các miền phụ cận Quảng Trị. Thống chế Phạm Văn Điển cùng Tham tán Quân vụ Lê Đăng Doanh cùng với các đạo quân Nguyễn ở Lào phải đi ngăn quân Xiêm, đằng khác gửi thư trách cứ họ. Xiêm La trả lời khiêm nhượng rồi rút quân. Tuy vậy, họ vẫn ngấm ngầm giúp Chân Lạp nổi lên chống triều đình Nguyễn hoặc lấn lướt Vạn Tượng và các xứ quy phục triều đình.</p>
+<p>Năm 1833-34, theo lời kêu gọi của Lê Văn Khôi, Xiêm La mang đại quân xâm lấn Nam Kỳ nhưng bị quân Đại Nam đánh tan.</p>
+<a name="voi-ai-lao-lao"></a><h3>Với Ai Lao (Lào)</h3>
+<p>Thời Minh Mạng, lãnh thổ Đại Nam rộng lớn hơn cả.<sup class="annotation badge" title="^ a ă â b Trần Trọng Kim, Việt Nam lược sử, Chương III: Thánh Tổ, tr. 191">35</sup>  Nhiều vùng ở Ai Lao đã xin thuộc quyền bảo hộ của Đại Nam. Các vùng nay là Sầm Nứa, <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>, Cam Môn (Khammuane) và Savannakhet giáp với các <a class="annotation" href="/dia-danh/tinh-thanh-hoa" title="Thanh Hóa là tỉnh cực Bắc miền Trung Việt Nam và&amp;#160;là một tỉnh lớn về cả diện tích và dân số, đứng thứ 5 về diện tích và thứ 3 về dân số trong số các đơn vị hành chính tỉnh trực thuộc nhà nước, cũng là một trong những địa điểm sinh sống đầu tiên của người Việt cổ. 
+ Cách đây khoảng 6000 năm đã có..." target="_blank" >tỉnh Thanh Hóa</a>, Nghệ An, Quảng Trị đều được sáp nhập và trở thành các châu, phủ của Đại Nam.<sup class="annotation badge" title="^ a ă â b Trần Trọng Kim, Việt Nam lược sử, Chương III: Thánh Tổ, tr. 191">35</sup> </p>
+<a name="voi-chan-lap"></a><h3>Với Chân Lạp</h3>
+<p>Từ năm 1833, sau khi phá được quân Xiêm, tướng quân Trương Minh Giảng cùng Tham tán Lê Đại Cương lập đồn Đại Nam gần Nam Vang (tức Phnôm Pênh) để bảo hộ Chân Lạp (Campuchia).</p>
+<p>Cuối năm Giáp Ngọ (1834), vua Nặc Ông Chân (Ang Chan II) của Chân Lạp qua đời mà không có con trai nối dõi, quyền bính chuyển sang cho Trà Long và Lê Kiên - hai người Chân Lạp - làm quan cho Đại Nam. Đến năm Ất Mùi (1835), Trương Minh Giảng lập con gái Nặc Ông Chân là công chúa Ang Mey (tức Ngọc Vân công chúa) lên làm Cao Miên quận chúa. Trương Minh Giảng đổi nước Chân Lạp thành Trấn Tây thành, rồi chia làm 32 phủ và 2 huyện, và đặt các chức quan cai quản mọi việc quân sự và dân sự.<sup class="annotation badge" title="^ a ă â b Trần Trọng Kim, Việt Nam lược sử, Chương III: Thánh Tổ, tr. 191">35</sup> </p>
+<p>Do quan lại người Việt ở Chân Lạp làm nhiều điều ức hiếp, nhũng nhiễu dân Chân Lạp; quân Nguyễn lại bắt Ngọc Vân quận chúa đem về Gia Định, đổi thành Mỹ Lâm quận chúa (do không còn nước Cao Miên nữa); đày các quan người Chân Lạp là Trà Long và Lê Kiên ra miền Bắc Đại Nam. Do đó dân Chân Lạp oán hận và nổi dậy chống quân Đại Nam ở khắp nơi.</p>
+<p>Em trai của Nặc Ông Chân là Nặc Ông Độn (Ang Duong) và Ang Em (hoặc Ang Im) đã làm loạn với sự giúp đỡ của Xiêm La. Quan quân nhà Nguyễn đánh dẹp không nổi, nên sau khi vua Minh Mạng qua đời, quan quân Đại Nam phải bỏ Trấn Tây thành mà rút về An Giang.<sup class="annotation badge" title="^ a ă â b Trần Trọng Kim, Việt Nam lược sử, Chương III: Thánh Tổ, tr. 191">35</sup> </p>
+<a name="voi-phuong-tay"></a><h3>Với phương Tây</h3>
+<p>Vua Minh Mạng không có thiện cảm với người <a class="annotation" href="/dia-danh/chau-au" title="Châu Âu về mặt địa chất và địa lý là một bán đảo hay tiểu lục địa, hình thành nên phần cực tây của đại lục Á-Âu, hay thậm chí Âu Phi Á, tùy cách nhìn. Theo quy ước, nó được coi là lục địa, trong trường hợp này chỉ là sự phân biệt thuần về văn hóa hơn là địa lý. phía bắc giáp Bắc Băng Dương, phía tây..." target="_blank" >châu Âu</a> cũng như thái độ của người Á Đông trước đó, xem người Âu là bọn man di đi cướp bóc. Với những người Pháp đã từng giúp Gia Long trước kia, Minh Mạng tỏ thái độ lạnh nhạt nên khi ông Chaigneau trở lại Đại Nam không được trọng dụng nữa. Nhà vua cho Chaigneau hay rằng không cần phải ký thương ước giữa hai chính phủ, người Đại Nam vẫn đối xử tử tế với người Pháp là đủ, ông chỉ thoả thuận mua bán với người Pháp, nhưng không chấp nhận thành lập quan hệ ngoại giao chính thức với <a class="annotation" href="/dia-danh/nuoc-phap" title="Pháp (tiếng Pháp: France; phát âm tiếng Pháp:&amp;#160;[fʁɑ̃s]), tên chính thức là nước Cộng hòa Pháp (tiếng Pháp: République française [ʁepyblik fʁɑ̃sɛz]), là một quốc gia có lãnh thổ chính nằm tại Tây Âu cùng một số vùng và lãnh thổ hải ngoại. Phần lãnh thổ Pháp tại châu Âu trải dài từ Địa Trung Hải đ..." target="_blank" >nước Pháp</a>, quốc thư của Pháp xin cho Chaigneau làm lãnh sự Pháp cũng không được Minh Mạng đếm xỉa đến.</p>
+<p>Thời bấy giờ, Đại Nam là nước Á Đông đầu tiên mà Hoa Kỳ muốn thiết lập quan hệ ngoại giao. Các năm 1832 và 1836, Tổng thống Hoa Kỳ Andrew Jackson đã gửi đại sứ Edmund Robert sang đàm phán với Minh Mạng về quan hệ mậu dịch song phương cả hai nước nhưng đều không thành công. Chính sách thụ động này đã kìm hãm sự phát triển của Đại Nam.</p>
+<a name="viec-cam-dao-cong-giao"></a><h4>Việc cấm đạo Công giáo</h4>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/7b9f865845e957af9d18c7539eea674d.jpg" /> <div class="caption"> <div class="magnify"></div> Cảnh hành hình giáo sĩ Pierre Borie năm 1838</div> </div> </div>
+<p>Minh Mạng cũng không thích đạo Công giáo của <a class="annotation" href="/dia-danh/chau-au" title="Châu Âu về mặt địa chất và địa lý là một bán đảo hay tiểu lục địa, hình thành nên phần cực tây của đại lục Á-Âu, hay thậm chí Âu Phi Á, tùy cách nhìn. Theo quy ước, nó được coi là lục địa, trong trường hợp này chỉ là sự phân biệt thuần về văn hóa hơn là địa lý. phía bắc giáp Bắc Băng Dương, phía tây..." target="_blank" >châu Âu</a>. Từ khi lên ngôi, ông đã có ý không cho người ngoại quốc vào giảng đạo này ở trong nước. Đến năm Ất Dậu (1825), khi chiếc tàu Thetís vào cửa Đà Nẵng, có giáo sĩ tên Rogerot ở lại đi giảng đạo khắp nơi, Minh Mạng khi ấy mới ra dụ cấm đạo, và truyền cho quan quân phải khám xét các tàu thuyền của ngoại quốc ra vào cửa bể. Trong dụ nói rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Đạo phương Tây là tà đạo, làm mê hoặc lòng người và huỷ hoại phong tục, cho nên phải nghiêm cấm để khiến người ta phải theo chính đạo.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Minh Mạng</cite></div> </td> </tr> </table>
+<p>Ông còn sai tìm nhiều giáo sĩ ở trong nước đem về kinh đô Huế để dịch sách Tây ra tiếng Việt, nhằm mục đích ngăn các giáo sĩ giảng đạo ở chốn hương thôn.</p>
+<p>Theo Việt Nam sử lược, lúc bấy giờ không phải một mình nhà vua ghét đạo Công giáo mà thôi, phần nhiều các quan cũng đều một ý cả, cho nên sự cấm đạo ngày càng khắc nghiệt thêm. Nhưng mà dẫu cấm thế nào đi nữa, trong nước vẫn có người đi giảng đạo, Minh Mạng lại ra dụ lần nữa truyền cho tín đồ Công giáo phải bỏ đạo, và ai bắt được giáo sĩ đem nộp thì sẽ được thưởng. Năm ấy ở kinh đô có một giáo sĩ bị khép tội xử giảo, và ở các địa phương cũng rối loạn vì sự bắt và giết giáo sĩ.</p>
+<p>Từ năm 1822, trong Nam ngoài Bắc có rất nhiều cuộc nổi dậy, nhà vua cho là dân đạo theo giúp các đạo quân nổi dậy, sự cấm đạo lại càng khắc nghiệt hơn. Từ năm Giáp Ngọ (1834) đến năm Mậu Tuất (1838), có nhiều giáo sĩ và giáo dân bị giết, nhất là từ khi bắt được ông Joseph Marchand (<i>Cố Du</i>), một giáo sĩ tham gia vào cuộc nổi dậy Lê Văn Khôi. Các giáo sĩ phương Tây đã so sánh Minh Mạng với Nero - một hoàng đế La Mã đã bách hại hàng loạt các tín đồ Công giáo.<sup class="annotation badge" title="^ Việt Sử Toàn Thư, Phạm Văn Sơn, tr. 432">36</sup> <sup class="annotation badge" title="^ Trong số đó có cả Phêrô, vị giáo hoàng đầu tiên (bị xử tử năm 64).">37</sup>  Tuy nhiên, các giáo sĩ phương Tây vẫn liều chết để truyền đạo cho được, có người còn phải đào hầm ở dưới đất hàng mấy tháng để truyền đạo.</p>
+<p>Theo Việt Nam sử lược, từ năm 1838, vua Minh Mạng cảm thấy không thể nào cấm được các giáo sĩ truyền đạo Công giáo trong nước, ông bèn sai sứ sang Pháp để điều đình về việc này. Song khi sứ thần Đại Nam tới nơi, Hội Thừa sai Paris xin vua Louis Philippe I đừng tiếp. Sứ Đại Nam phải trở về, khi về đến Huế thì Minh Mạng đã qua đời.</p>
+<p>Tuy nhiên theo Nguyễn Văn Kiệm trong cuốn Triều Nguyễn và lịch sử của chúng ta đã đánh giá lại việc cấm đạo của vua Minh Mạng với cái nhìn mới công bằng hơn: Lệnh bắt đạo của Minh Mạng tuy ngặt, có gây khó khăn và thiệt thòi cho tín đồ Công giáo, song trong khoảng hai thập kỷ dưới thời Minh Mạng, không hề diễn ra những cuộc tàn sát lớn đối với dân Công giáo. (...) có thể thấy chính sách của Minh Mạng đối với Công giáo về đại thể là có lý, có tình và khó có thể chê trách nếu đặt nó vào bối cảnh lịch sử cụ thể của nước ta lúc đó, khi họa xâm lăng đang tới gần. Riêng biện pháp cưỡng chế giáo dân bỏ đạo cùng với những hình phạt kèm theo là quá khắc nghiệt và cũng chính vì thế mà đã thất bại so với yêu cầu. Mặc dù biện pháp cưỡng chế bỏ đạo của Minh Mạng là đáng phê phán, song gọi Minh Mạng là 'tên bạo chúa, là kẻ khát máu, là Néron của Việt Nam là một sự xuyên tạc sự thật lịch sử cần phải được đính chính.<sup class="annotation badge" title="^ Nguyễn Văn Kiệm, Triều Nguyễn và lịch sử của chúng ta, 2013, Nhà xuất bản Hồng Đức, tr. 194.">38</sup> </p>
+<a name="mo-rong-lanh-tho-de-quoc-dai-nam"></a><h2>Mở rộng lãnh thổ Đế Quốc Đại Nam</h2>
+<a name="tran-tay-thanh"></a><h3><a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a></h3>
+<p>&#160;năm 1833, sau khi triều đình bắt tội Tổng trấn&#160;Lê Văn Duyệt,&#160;Lê Văn Khôi&#160;con nuôi ông dấy binh nổi loạn, chiếm giữ&#160;Thành Bát Quái&#160;(thuộc&#160;Sài Gòn&#160;ngày nay). Vài tháng sau vì yếu thế Lê Văn Khôi cầu viện nước&#160;Xiêm; vua Xiêm&#160;Rama III&#160;bèn sai tướng&#160;Chao Phraya Bodin&#160;và&#160;Phraklang&#160;đem hàng ngàn quân thủy bộ chia ra làm 5 đạo tiến đánh Gia Định. Đường thủy thì qua ngả&#160;Vịnh Thái Lan, đường bộ thì qua đất Chân Lạp, đồng thời thừa thế khống chế luôn Chân Lạp.</p>
+<p>Trong khi đó quân Xiêm đánh vào&#160;An Giang&#160;(Tháng 12, 1833), rồi tiến lên giao chiến ở rạch&#160;Củ Hủ,&#160;Trận ấy quân Việt thắng và phản công chiếm lại đồn&#160;<a class="annotation" href="/dia-danh/chau-doc" title="Châu Đốc là một thành phố trực thuộc tỉnh An Giang, Việt Nam, nằm ở đồng bằng sông Cửu Long, sát biên giới Việt Nam với Campuchia. 
+ Hiện nay, Châu Đốc không phải là tỉnh lị của tỉnh&amp;#160;An Giang, mà tỉnh lị là&amp;#160;thành phố Long Xuyên.Tuy nhiên, Châu Đốc lại từng là tỉnh lỵ của tỉnh Châu Đốc cũ v..." target="_blank" >Châu Đốc</a>, tỉnh&#160;An Giang, thành&#160;Hà Tiên&#160;rồi cùng lực lượng quân&#160;Chân Lạp&#160;ngược dòng Cửu Long tiến chiếm lại thành&#160;Nam Vang. Quân Xiêm bại trận phải rút khỏi Chân Lạp; triều đình Huế bèn đưa&#160;Ang Chan II&#160;trở lại ngôi vua.</p>
+<p>Đuổi được quân Xiêm,&#160;Trương Minh Giảng&#160;và&#160;Lê Đại Cương&#160;lập đồn An Nam ở gần&#160;Nam Vang&#160;để&#160;bảo hộ&#160;Chân Lạp. Việc cai trị trong nước Chân Lạp đều do quan Việt sắp đặt, còn triều thần Chân Lạp chỉ kiêm nhiệm việc nhỏ.</p>
+<p>Cuối năm 1834, vua nước Chân Lạp là&#160;Ang Chan II&#160;mất lại không có con trai, quyền cai trị trong nước về cả mấy người phiên liêu là&#160;Trà Long(Chakrey Long) và&#160;La Kiên,&#160;vốn là người Chân Lạp nhưng nhận quan tước của triều đình Huế.</p>
+<p>Năm sau, 1835,&#160;Trương Minh Giảng&#160;tâu vua xin lập người con gái của Nặc Ông Chân là&#160;Ang Mey&#160;(Ngọc Vân) lên làm quận chúa, gọi là&#160;Chân Lạp quận chúa. Thực chất thì Ngọc Vân chỉ là vua làm vì chứ không có thực quyền.</p>
+<p>Năm 1836, vua&#160;Minh Mạng&#160;cho đổi đất Chân Lạp thành Trấn Tây thành, chính thức sáp nhập vào&#160;Đại Nam. Ranh giới phía Tây Bắc của Trấn đến biển hồ&#160;Tonlé Sap.</p>
+<a name="quan-ly-hanh-chinh"></a><h4>Quản lý hành chính</h4>
+<p>Nhà Nguyễn chia <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a> làm 33 phủ và 2 huyện:</p>
+<p>Triều đình Huế hủy bỏ tước hiệu quan chức bản xứ của Chân Lạp và áp dụng quan chế&#160;nhà Nguyễn.&#160;Lê Đại Cương&#160;(sau được thay bằng&#160;Dương Văn Phong) được cử làm Tham tán đại thần, đặt một tướng quân, 4 chánh phó lãnh binh, cắt đặt các chức hiệp tán, đề đốc, lang trung, viên ngoại lang, giáo thụ, huấn đạo. Ở các chỗ yếu hiểm, lại đặt chức tuyên phủ, an phủ để phòng ngự.</p>
+<p>Năm 1840, nhà vua sai&#160;Lê Văn Đức&#160;làm khâm sai đại thần,&#160;Doãn Uẩn&#160;làm phó và cùng với&#160;Trương Minh Giảng&#160;để kinh lý mọi việc ở <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a>, khám xét việc buôn bán, đo đạc ruộng đất, định lại&#160;thuế đinh, thuế thuyền bè buôn bán dưới sông.</p>
+<p>Vua&#160;Minh Mạng&#160;đã cho lệnh tổng kê dân đinh nước Chân Lạp, vừa bị sáp nhập vào lãnh thổ Đại Nam thì có 970.516 người, đang khi đó thì ruộng đất lên đến 4.036.892 mẫu.</p>
+<a name="quan-he-voi-nguoi-ban-dia"></a><h4>Quan hệ với người bản địa</h4>
+<p>Khi nhà Nguyễn chiếm được Nam Vang, lập Ang Chan II làm vua Chân Lạp thì mấy anh em là Ang Snguon,&#160;Ang Em,&#160;Ang Duong&#160;bỏ thành chạy theo quân Xiêm sang lưu vong ở&#160;Vọng Các. Xiêm triều lợi dụng yếu tố đó tìm cách đưa họ về Chân Lạp tranh ngôi vua với Ang Chan và khôi phục ảnh hưởng của Xiêm La.</p>
+<p>Trong khi đó ở Trấn Tây, nhà Nguyễn phong tước hiệu cho ba người con gái của Ang Chan II:</p>
+<ul> <li>Ang Pen (Ngọc Biện 玉卞,&#160;<i>Brhat Anak Angga Ang Baen</i>) (1809-1840) làm Lư An&#160;huyện quân;</li> <li>Ang Mey&#160;(Ngọc Vân 玉雲,&#160;<i>Samdach Brhat Anak Angga Mei Khieu</i>)(1815-1874?) làm Cao Miên quận chúa, nối ngôi vua cha;</li> <li>Ang Snguon (Ngọc Nguyên 玉源) (1829-1875). làm Tạp Ninh&#160;huyện quân; và</li> <li>Ang Pou (Ngọc Thu 玉秋,&#160;<i>Samdach Brhat Maha Uparajini Puyani</i>) (1822-1878) làm Thâu Trung&#160;huyện quân.</li> </ul>
+<p>Năm 1839,&#160;Ang Em&#160;và&#160;Ang Duong) đem 9.000 dân Khmer cùng 70 chiếc thuyền từ&#160;Battambang&#160;(vùng Xiêm chiếm đóng) về Trấn Tây (vùng Đại Nam cai quản), định xin triều đình nhà Nguyễn cho kế vị Ang Chan làm vua nhưng bị&#160;Trương Minh Giảng&#160;bắt. Triều đình cho giải Ang Em về Gia Định xét hỏi rồi đưa ra&#160;Huế&#160;giam.</p>
+<p>Đến năm 1841,&#160;Trà Long&#160;(Chakrey Long),&#160;Nhân Vu&#160;(Yumreach Hu) và&#160;La Kiên&#160;đến Huế mừng thọ vua Minh Mạng thì lại bị nhà vua hạch tội, bắt giam và đày ra Bắc Kỳ. Còn ở Trấn Tây thì Tham tán&#160;Dương Văn Phong&#160;khép cho Ngọc Biện (Ang Baen), chị của&#160;Ngọc Vân quận chúa, tội mưu phản với ý định trốn sang Xiêm, phải xử tử. Sau đó&#160;Trương Minh Giảngbắt&#160;Ngọc Vân&#160;và hai em gái là Ngọc Thu và Ngọc Nguyên về Gia Định giam lỏng ở đó. Các quan lại người Việt sang <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a> thì không ít kẻ lại làm nhiều chuyện trái phép lạm quyền, lạm thế và nhũng nhiễu dân tình.</p>
+<p>Với thái độ tự đắc và miệt thị triều thần Chân Lạp gây nhiều bất mãn trong dân chúng, việc cai trị Trấn Tây càng ngày càng khó. Người Chân Lạp có cớ nổi loạn đánh phá khắp nơi, chống lại chính sách Việt hóa của triều đình Huế.<sup>[<i>cần dẫn nguồn</i>]</sup>. Em Ang Chan là Ang Duang nhân đó dấy binh lại được người Xiêm hậu thuẫn để can thiệp nội bộ Chân Lạp nên quan quân ở Trấn Tây luôn phải đánh dẹp hao tổn nhiều.</p>
+<p>Năm 1840, mấy vạn quân Xiêm kéo vào đóng ở U Đông (Oudong), vua Minh Mạng sai tướng&#160;Phạm văn Điển&#160;và&#160;Nguyễn Tiến Lâm&#160;mang quân lên đối phó nhưng không phá được.</p>
+<a name="triet-thoai-khoi-tran-tay"></a><h4>Triệt thoái khỏi Trấn Tây</h4>
+<p>Việc chiếm đóng <a class="annotation" href="/dia-danh/tran-tay-thanh" title="Trấn Tây Thành (chữ Hán: 鎮西城, chữ Khmer: ត្រាន តាយ ថាញ់) là một Trấn của nước Đại Nam nhà Nguyễn giai đoạn 1835 đến 1841. Đây là vùng lãnh thổ thuộc Đông Nam Campuchia ngày nay...." target="_blank" >Trấn Tây Thành</a> cùng với chính sách cai trị mất lòng dân Chân Lạp của triều đình Huế là một gánh nặng cho đất nước, từ binh sĩ đến lương nhu đều hao thiệt nên đến Tháng 9 năm&#160;1841, thấy tình hình Chân Lạp bất ổn mãi,&#160;Tạ Quang Cự&#160;và các đại thần dâng sớ xin bỏ bảo hộ Chân Lạp. Vua&#160;Thiệu Trị&#160;thuận theo, truyền cho quan quân Đại Nam rút quân về giữ&#160;An Giang.</p>
+<p>Lợi dụng tình huống bỏ ngỏ vua Xiêm đưa&#160;Ang Duong&#160;lên làm vua Chân Lạp song chiến sự kép dài vì quân Việt và quân Xiêm tiếp tục&#160;giao chiến từ năm 1841 đến 1845&#160;mới thôi khi triều đình Huế và Vọng Các thỏa hiệp cùng bảo hộ xứ Chân Lạp và nhận triều cống của Ang Duang.</p>
+<a name="tran-ninh"></a><h3><a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a></h3>
+<p>Thời&#160;nhà Nguyễn,&#160;Gia Long&#160;đem đất <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a> cắt về cho&#160;vương quốc Vạn Tượng&#160;của A Nỗ (Anouvong). Nhưng khi&#160;Chiêu Xanh, tù trưởng <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a> khi ấy chết,&#160;A Nỗ&#160;không lập con&#160;Chiêu Xanh&#160;là&#160;Chiêu Nội&#160;(Chao Noi) lên, nên&#160;Chiêu Nội&#160;thù&#160;A Nỗ, đồng thời&#160;Chiêu Nội&#160;chạy sang&#160;phủ Trà Lân&#160;xứ Nghệ và xin nội thuộc lại&#160;Đại Nam&#160;(nhà Nguyễn). Đến khi&#160;A Nỗchống lại <a class="annotation" href="/dia-danh/nuoc-xiem" title="Xiêm (tiếng Thái Lan: สยาม; chuyển tự: Siam, IPA:&amp;#160;[saˈjaːm]), còn gọi là Xiêm La, là quốc hiệu chính thức của Thái Lan từ thời nhà Chakri được thành lập năm 1782 cho đến ngày 23 tháng 6 năm 1939. Sau đó, tên gọi Xiêm được sử dụng lại một cách chính thức trong thời kỳ từ năm 1945 đến ngày 11 thá..." target="_blank" >nước Xiêm</a>, bị vua Xiêm là&#160;Rama III&#160;sai&#160;Chao Phraya Bodin Decha&#160;đánh cho thua chạy sang Nghệ An, qua <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a> bị&#160;Chiêu Nội&#160;bắt nộp cho Xiêm năm 1828. Chiêu Nội bị&#160;Minh Mạng&#160;khép tội chết vì hành động này.</p>
+<p>Sau khi giết&#160;Chiêu Nội,&#160;nhà Nguyễn&#160;cử quan Việt sang cai trị <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>. Năm 1823, nhà Nguyễn đặt thêm huyện Liêm.&#160;Phủ <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>&#160;từ đấy bao gồm 7 huyện:</p>
+<ol> <li>Liên,</li> <li>Khâm,</li> <li>Quảng,</li> <li>Khang,</li> <li>Cát,</li> <li>Xôi,</li> <li>Mộc,</li> <li>Liêm (vốn là mán Mường Hiểm).</li> </ol>
+<p>Tháng 3/1832, nổ ra cuộc khởi nghĩa của hơn 200 binh lính <a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>, do&#160;Trần Tứ&#160;và&#160;Đỗ Bắc&#160;lãnh đạo, nổi dậy chống&#160;nhà Nguyễn&#160;và liên kết với cuộc khởi nghĩa của&#160;Lê Duy Lương. Những năm 1833-1834, trong&#160;chiến tranh Việt-Xiêm,&#160;người Thái&#160;tấn công Đại Nam (một trong các hướng là qua ngả&#160;<a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>), đất&#160;<a class="annotation" href="/dia-danh/tran-ninh" title="Huyện tự trị dân tộc Bố Y và dân tộc Miêu Trấn Ninh (chữ Hán giản thể:镇宁布依族苗族自治县, Zhènníng BùyīzúMiáozú Zìzhìxiàn, âm Hán Việt: Trấn Ninh Bố Y tộc Miêu tộc Tự trị huyện) là một huyện tự trị thuộc địa cấp thị An Thuận, tỉnh Quý Châu, Cộng hòa Nhân dân Trung Hoa. Huyện này dân số năm 1999 là 331.028 n..." target="_blank" >Trấn Ninh</a>&#160;bị người Thái lấn dần. Khi người Pháp thành lập&#160;Liên bang Đông Dương, năm&#160;1893, đã dựa theo địa hình và cắt tỉnh&#160;Houaphan&#160;(Hủa Phăn),&#160;Xiêng Khoảng&#160;giao về lãnh thổ&#160;Lào&#160;(Ai Lao).</p>
+<a name="qua-doi"></a><h2>Qua đời</h2>
+<p>Năm 1841, Minh Mạng lâm bệnh nặng.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán">6</sup>  Lúc lâm chung, ông gọi quan đại thần <a class="annotation" href="/nhan-vat/truong-dang-que" title="Trương Đăng Quế (chữ Hán: 張登桂, 1793-1865), tự: Diên Phương, hiệu: Đoan Trai, biệt hiệu: Quảng Khê; là danh thần trải 4 triều Gia Long, Minh Mạng, Thiệu Trị và Tự Đức trong lịch sử Việt Nam. Trong 43 năm làm quan, có 20 năm ông giữ trọng trách lớn (có hai lần nhận di chiếu tôn phò vua mới). Ngoài ra,..." target="_blank" >Trương Đăng Quế</a><sup class="annotation badge" title="^ Trương Đăng Quế (1793 - 1865) là thầy học của các hoàng tử con vua Minh Mạng.">39</sup>  đến bên giường dụ rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Hoàng tử Trường Khánh Công lấy về ngôi thứ là hàng trưởng, lấy về đức, về tuổi nên nối ngôi lớn. Ngươi nên hết lòng giúp sức rập, hễ việc gì chưa hợp lẽ, ngươi nên lấy lời nói của ta mà can gián. Ngươi trông mặt ta, nên ghi nhớ lấy.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Minh Mạng</cite></div> </td> </tr> </table>
+<p>Sau đó, ông cầm tay con trưởng là Trường Khánh Công Nguyễn Phúc Miên Tông trối trăng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i><a class="annotation" href="/nhan-vat/truong-dang-que" title="Trương Đăng Quế (chữ Hán: 張登桂, 1793-1865), tự: Diên Phương, hiệu: Đoan Trai, biệt hiệu: Quảng Khê; là danh thần trải 4 triều Gia Long, Minh Mạng, Thiệu Trị và Tự Đức trong lịch sử Việt Nam. Trong 43 năm làm quan, có 20 năm ông giữ trọng trách lớn (có hai lần nhận di chiếu tôn phò vua mới). Ngoài ra,..." target="_blank" >Trương Đăng Quế</a> thờ ta đến 21 năm, trọn đạo làm tôi, một lòng công trung, bày mưu dưới trướng, ra sức giúp việc ngoài biên, thực là một người công thần kỳ cựu của triều đình. Ngươi nên đãi ngộ một cách ưu hậu, hễ nói thì phải nghe, bày mưu kế gì thì phải theo, ngày sau có thể được thờ vào nhà thế thất.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Minh Mạng<sup class="annotation badge" title="^ Đại Nam thực lục, tập 5, trang 889">40</sup> </cite></div> </td> </tr> </table>
+<p>Nói rồi, vua Minh Mạng qua đời ngày 28 tháng 12 năm Canh Tý, tức ngày 20 tháng 1 năm 1841 tại điện Quang Minh,<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  hưởng thọ 50 tuổi, ở ngôi 21 năm, miếu hiệu là <b>Thánh Tổ</b> (聖祖).Thụy hiệu do vua Thiệu Trị đặt cho ông là <i>Thể thiên Xương vận Chí hiếu Thuần đức Văn vũ Minh đoán Sáng thuật Đại thành Hậu trạch Phong công Nhân Hoàng đế</i> (體天昌運至孝純德文武明斷創述大成厚澤豐功仁皇帝).<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> . Lăng của ông là Hiếu Lăng, tại làng An Bằng, <a class="annotation" href="/dia-danh/huyen-huong-tra" title="Hương Trà là một thị xã của tỉnh Thừa Thiên - Huế. Hương Trà có vị trí giáp thành phố Huế (tỉnh lị của tỉnh Thừa Thiên-Huế) về phía Tây...." target="_blank" >huyện Hương Trà</a>, tỉnh Thừa Thiên. Ông được thờ ở Tả Nhất Án Thế Miếu trong Đại Nội kinh <a class="annotation" href="/dia-danh/thanh-hue" title="Kinh thành Huế hay Thuận Hóa kinh thành (chữ Hán: 順化京城) là một tòa thành ở cố đô Huế, nơi đóng đô của triều đại nhà Nguyễn trong suốt 143 năm từ 1802 đến khi thoái vị vào năm 1945. Hiện nay, Kinh thành Huế là một trong số các di tích thuộc cụm Quần thể di tích Cố đô Huế được UNESCO công nhận là Di s..." target="_blank" >thành Huế</a>.</p>
+<a name="gia-quyen"></a><h2>Gia quyến</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/392af4db007818b7f2ae25fcfbd07162.jpg" /> <div class="caption"> <div class="magnify"></div> Lăng Minh Mạng (Hiếu Lăng)</div> </div> </div>
+<a name="vo"></a><h3>Vợ</h3>
+<p>Trong đời sống riêng tư, người ta cũng phải ngạc nhiên về sức cường tráng của ông. Không có tài liệu cho biết chân dung và thể lực của ông như thế nào, chỉ biết ông có nhiều vợ và rất đông các phi tần. Có một bài thuốc bổ dương mang tên Minh Mạng thang được quan Thái y căn cứ vào thể chất và sinh hoạt của ông để lập ra thang thuốc rượu.</p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/minh-mang/e855eb5753a6f3d98169e067ae657683.jpg" /> <div class="caption"> <div class="magnify"></div> Lăng Minh Mạng.</div> </div> </div>
+<p>Ông không đặt hoàng hậu, mà chỉ cao nhất là hoàng phi. <b>Tá Thiên Nhân hoàng hậu</b> (tước vị được phong sau khi mất), húy là Hồ Thị Hoa, còn có tên là <b>Thật</b>,<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  sinh 1791. Bà qua đời năm 1807, 13 ngày<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup>  sau khi sinh hạ Hoàng tử trưởng Nguyễn Phúc Miên Tông (tức vua Thiệu Trị sau này). Lăng của bà hiệu là Hiếu Đông Lăng, phía tả <a class="annotation" href="/dia-danh/lang-thieu-tri" title="16°25′2″B 107°34′23″Đ / 16,41722°B 107,57306°Đ / 16.41722; 107.57306 
+ Lăng Thiệu Trị có tên chữ là Xương Lăng(昌陵) là nơi chôn cất hoàng đế Thiệu Trị. Đây là một di tích trong Quần thể di tích cố đô Huế được UNESCO công nhận là di sản văn hóa thế giới ngày 11 tháng 12 năm 1993...." target="_blank" >lăng Thiệu Trị</a>, tại làng Cư Chánh, huyện Hương Thủy, tỉnh Thừa Thiên.</p>
+<p>Sách Minh Mạng chính yếu chép: Năm Minh Mạng thứ sáu, mùa Xuân, tháng giêng, trong Kinh Kỳ ít mưa, nhà vua lấy làm lo, chỉ dụ cho quan Thượng Bảo Khanh là ông Hoàng Quỳnh rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Hai ba năm trở lại đây, hạn hán liên tiếp. Trẫm nghĩ tự đâu đến thế nhưng chưa tìm ra nguyên nhân, hoặc là trong thâm cung cung nữ nhiều âm khi uất tắc mà nên như vậy ư? Nay bớt đi, cho ra 100 người, ngõ hầu có thể giải trừ thiên tai vậy.</i></p> </td> <td >”</td> </tr> </table>
+<a name="phi"></a><h4>Phi</h4>
+<ul> <li><b>Hiền phi</b> Ngô Thị Chính (賢妃吳氏政; 1792 - 1843), húy là <b>Kiều</b>, người Quảng Trị, con của Chưởng cơ <a class="annotation" href="/nhan-vat/ngo-van-so" title="Ngô Văn Sở (chữ Hán: 吳文楚,&amp;#160;? - 1795), còn có tên là Ngô Hồng Chấn, Ngô Văn Tàng; là một danh tướng của nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Ngô Văn Sở</a> và mẹ họ Nguyễn. Bà vào hầu Minh Mạng từ khi còn nơi tiềm để. Năm Canh Thìn (1820) được phong làm <i>Cung tần</i>, rồi dần được tấn phong <i>Hiền phi</i>. Bà là sủng phi bậc nhất trong hậu cung của Minh Mạng. Khi còn sống, bà nói rằng: <i>“Dù vua có thương thiếp bao nhiêu đi nữa thì đến khi chết, thiếp cũng chỉ ra đi hai tay không mà thôi!”</i>. Vì thế, khi bà mất, vua thân hành đến tận chỗ bà nằm, cầm theo hai nén bạc (có người nói là hai nén vàng), truyền thái giám mở hai bàn tay bà ra, vua đặt hai nén bạc vào đó rồi bóp lại. <i>“Đó, trẫm cho khanh cái này để khỏi ra đi hai tay không.”</i> vua nói, vẻ xúc động. Bà sinh 5 hoàng tử: Nguyễn Phúc Miên Chính (chết ngay khi sinh), Nguyễn Phúc Miên Hoành, Nguyễn Phúc Miên Áo, Nguyễn Phúc Miên Quân, Nguyễn Phúc Miên Uyển và 4 hoàng&#160;nữ: Nguyễn Phúc Ngọc Tông, Nguyễn Phúc Khuê Gia, Nguyễn Phúc Uyển Diễm, Nguyễn Phúc Thụy Thục</li> <li><b>Gia phi</b> Phạm Thị Tuyết (嘉妃范氏雪;&#160;? - 1812), húy là <b>Hà</b>, người Bình Định, con gái của <i>Quang Lộc Tự Thiếu Khanh</i> Phạm Văn Chẩn.&#160;Bà sinh Thọ Xuân vương Nguyễn Phúc Miên Định&#160;vào năm 1810, ba năm sau thì qua đời. Minh Mạng truy tặng làm <i>Tu nghi</i>, thụy <b>Đoan Lệ</b>, ban đầu thờ ở <i>Hồ Phạm Nhị Tần từ</i>, sau dời thờ riêng ở <i>Gia phi từ</i>.</li> </ul>
+<a name="tan"></a><h4>Tần</h4>
+<ul> <li><b>Trang tần</b> Trần Thị Tuyến (莊嬪陳氏線; 16 tháng 12 năm 1791 - 4 tháng 1,1852), húy là <b>Hương</b>, thụy là <b>Uyên Thục</b>, người Thừa Thiên, con gái của Vệ uý Trần Công Nghị. Bà hầu hạ Minh Mạng lúc còn nơi tiềm đế. Sinh hạ 2 hoàng tử: Ninh Thuận Quận vương Nguyễn Phúc Miên Nghi và Nguyễn Phúc Miên Tích.</li> <li><b>Thục tần</b> Nguyễn Thị Bửu (淑嬪阮氏寶; 7 tháng 9 năm 1801 - 12 tháng 9 năm 1851), người Gia Định, con gái quan Tư không Nguyễn Khắc Thiệu. Bà hầu hạ Minh Mạng lúc còn nơi tiềm đế. Sinh hạ 4 hoàng tử: Tùng Thiện vương Nguyễn Phúc Miên Thẩm, Nguyễn Phúc Miên Hựu, 2 hoàng tử chết non và 3 hoàng nữ: Nguyễn Phúc Vĩnh Trinh (Nguyệt Đình), Nguyễn Phúc Trinh Thận (Mai Am) và Nguyễn Phúc Tĩnh Hòa (Huệ Phố). Nguyên lúc trước kia phạm lỗi nên bị thu lại sắc phong, khi bà mất Tùng Thiện vương dâng sớ cầu khẩn xin lại, lời lẽ trong sớ hết sức thống thiết, nên vua Tự Đức động lòng đặc ân cấp lại, ban thụy là <b>Đoan Liệt</b>.</li> <li><b>Huệ tần</b> Trần Thị Huân (惠嬪陳氏勳), húy là <b>Lại</b>, người Quảng Nam. Con gái của ông Vệ uý Trần Văn Hùng, không rõ năm sinh và mất, thụy <b>Uyển Thuận</b>. Hạ sinh 6 hoàng tử: Nguyễn Phúc Miên Trạch, Nguyễn Phúc Miên Phục, Nguyễn Phúc Miên Tĩnh, Nguyễn Phúc Miên Ngôn, Nguyễn Phúc Miên Thất, Nguyễn Phúc Miên Sách và 9 hoàng nữ: Nguyễn Phúc Nhu Thục, Nguyễn Phúc Tường Hòa, Nguyễn Phúc Nhàn An, Nguyễn Phúc Thục Tư, Nguyễn Phúc Hòa Nhàn, Nguyễn Phúc Nhu Hòa, Nguyễn Phúc Lương Nhàn, Nguyễn Phúc Lương Tĩnh, Nguyễn Phúc Phúc Tường.</li> <li><b>An tần</b> Hồ Thị Tuỳ (安嬪胡氏隨; 1795 - 23 tháng 11 năm 1839), húy là <b>Khiên</b>, thụy là <b>Hoa Diễm</b>, người Quảng Trị. Con gái của ông <i>Cẩm y vệ Hiệu úy</i> Hồ Văn Chiêm, mẹ Lâm thị. Sơ phong <i>Tài nhân</i>, <i>Mỹ nhân</i>, <i>Tiệp dư</i> rồi <i>An tần</i>. Bà được vua sắc phong cho lập từ đường để thờ gọi là <i>Ý Thục từ</i>. Đến năm 1870, được rước về thờ tại nhà thờ của Tương An Quận vương, tẩm ở làng Cư Chính, Hương Thủy, Thừa Thiên. Sinh được 3 hoàng tử: Tương An Quận vương Nguyễn Phúc Miên Bửu, Nguyễn Phúc Miên Tề, Nguyễn Phúc Miên Tuấn và hoàng nữ là Nguyễn Phúc Nhu Thuận.</li> <li><b>Hoà tần</b> Nguyễn Thị Khuê (和嬪阮氏奎), húy là <b>Bích Chi</b>, người Gia Định, con gái của Chưởng cơ Nguyễn Văn Thanh. Lúc mất được ban thụy là <b>Tĩnh Nhã</b>, hạ sinh 4 hoàng tử: Nguyễn Phúc Miên Cư, Nguyễn Phúc Miên Tỉnh, Nguyễn Phúc Miên Bảo,&#160;Nguyễn Phúc Miên Thân và 6 hoàng nữ: Nguyễn Phúc Tường Tĩnh, Nguyễn Phúc Thục Tuệ, Nguyễn Phúc Tĩnh An, Nguyễn Phúc An Nhàn, Nguyễn Phúc Trinh Hòa, Nguyễn Phúc Tĩnh Trang.</li> <li><b>Lệ tần</b> Nguyễn Thị Thuý Trúc (麗嬪阮氏翠竹), húy là <b>Điện</b>, người Quảng Ngãi, con gái của <i>Phó Vệ úy</i> Nguyễn Gia&#160;Quý. Khi mất bà được ban thụy <b>Thục Tắc</b>. Sinh được 6 hoàng tử: Nguyễn Phúc Miên Lương, Nguyễn Phúc Miên Kháp, Nguyễn Phúc Miên Lâm, Nguyễn Phúc Miên Chỉ, Nguyễn Phúc Miên Bàng, Nguyễn Phúc Miên Lịch và 2 hoàng nữ: Nguyễn Phúc Trinh Nhàn, Nguyễn Phúc Nhu Nghi.</li> </ul>
+<a name="tiep-du"></a><h4>Tiệp dư</h4>
+<ul> <li><b>Tiệp dư</b> Lê Thị Ái (婕妤黎氏愛; 17 tháng 11 năm 1799 - 8 tháng 10 năm 1863), huý là <b>Cầu</b>, người Thừa Thiên, thuỵ là <b>Tịnh Nhu</b>, con của <i>Cẩm y vệ Hiệu úy</i> Lê Tiến Thành. Hầu hạ Minh Mạng khi còn ở nơi tiền đế, sau được sách phong T<i>ài nhân</i>, <i>Mỹ nhân</i> rồi <i>Tiệp dư</i>. Bà sinh được 3 hoàng tử: Tuy Lý vương Nguyễn Phúc Miên Trinh, Nguyễn Phúc Miên Long, Nguyễn Phúc Miên Quan và 2 hoàng nữ: Nguyễn Phúc Trang Tĩnh và Nguyễn Phúc Nhàn Trinh. Bà có mối quan hệ tốt với <b>Thục tần</b> Nguyễn Thị Bửu.</li> <li><b>Tiệp dư</b> Nguyễn Thị Viên (婕妤阮氏圓), không rõ lai lịch, sinh được 2 hoàng tử: Nguyễn Phúc Miên Sủng, Nguyễn Phúc Miên Tiệp và 3 hoàng nữ: Nguyễn Phúc Phương Trinh, Nguyễn Phúc Nhan Huệ, Nguyễn Phúc Hòa Trinh.</li> </ul>
+<a name="quy-nhan"></a><h4>Quý nhân</h4>
+<ul> <li>Lương Thị Nguyện (梁氏願; 18 tháng 10 năm 1800 - 9 tháng 12 năm 1871), sinh hoàng tử Nguyễn Phúc Miên Khoan và 2 hoàng nữ: Nguyễn Phúc Quang Tĩnh và Nguyễn Phúc Đoan Thận.</li> <li>Cái Thị Trinh (蓋氏禎), sinh được 2 hoàng nữ Nguyễn Phúc Hoà Đức, Nguyễn Phúc Vĩnh Gia và hoàng tử Nguyễn Phúc Miên Túc.</li> <li>Nguyễn Thị Tràng (阮氏長), sinh 3 hoàng tử Nguyễn Phúc Miên Thần, Nguyễn Phúc Miên Cung, Nguyễn Phúc Miên Gia và hoàng nữ Nguyễn Phúc Đoan Trinh.</li> <li>Đỗ Thị Tùng (杜氏松), sinh hoàng tử Nguyễn Phúc Miên Phong, chị em ruột với <b>Quý nhân</b> Đỗ Thị Tâm.</li> <li>Đỗ Thị Tâm (杜氏心; 27 tháng 9 năm 1804 - 12 tháng 4 năm 1863), chị em ruột với <b>Quý nhân</b> Đỗ Thị Tùng, sinh hạ 5 hoàng tử Nguyễn Phúc Miên Hoan (chết khi mới 13 tuổi), Nguyễn Phúc Miên Dần, Nguyễn Phúc Miên Quãng, Nguyễn Phúc Miên Khách, Nguyễn Phúc Miên Hoang và 3 hoàng nữ Nguyễn Phúc Gia Tiết (chết năm 18 tuổi, chưa xuất giá), Nguyễn Phúc Lương Trinh và 1 người chết non.</li> <li>Lê Thị Lộc (黎氏祿), em gái của <b>Tiệp dư</b> Lê Thị Ái, sinh được 3 hoàng tử: Nguyễn Phúc Miên Thanh, Nguyễn Phúc Miên Kiền, Nguyễn Phúc Miên Ngử (chết năm 14 tuổi) và 2 hoàng nữ: Nguyễn Phúc Thục Tĩnh và Nguyễn Phúc Thuỵ Thận.</li> <li>Nguyễn Thị Hạnh (阮氏幸), người Quảng Điền, Thừa Thiên, sinh được 2 hoàng tử: Nguyễn Phúc Miên Miêu, Nguyễn Phúc Miên Ôn và hoàng nữ Nguyễn Phúc Trang Nhàn.</li> </ul>
+<a name="my-nhan"></a><h4>Mỹ nhân</h4>
+<ul> <li>Nguyễn Thị Bân (阮氏彬), húy là <b>Lạc</b>, người Do Linh, Quảng Trị. Năm sinh, mất không rõ, khi mất được ban thụy là <b>Thục Thận</b>. Sinh hoàng tử Nguyễn Phúc Miên Thủ và hoàng nữ Nguyễn Phúc Lương Đức.</li> <li>Đoàn Thị Thụy (段氏瑞), người Phú Vang, Thừa Thiên, là con gái của <i>Cẩm Y Hiệu úy</i> Đoàn Đức Nghĩa. Khi mất bà được ban thụy là <b>Đoan Ý</b>. Sinh hạ hoàng nữ Nguyễn Phúc Gia Trinh.</li> </ul>
+<a name="tai-nhan"></a><h4>Tài nhân</h4>
+<ul> <li>Đinh Thị Nghĩa (丁氏義), không rõ lai lịch, sinh hạ hoàng tử Nguyễn Phúc Miên Trữ và hoàng nữ Nguyễn Phúc Gia Trang (chết năm 16 tuổi, chưa xuất giá).</li> <li>Trần Thị Tiền (陳氏錢), húy là <b>Thư</b>, không rõ lai lịch. Sinh hạ 2 hoàng tử đều mất sớm: Nguyễn Phúc Miên Tuyên (chết non) và Nguyễn Phúc Miên Trụ (chết yểu năm 8 tuổi)</li> <li>Nguyễn Thị Tính (阮氏姓), người Quảng Trị, con gái của <i>Tham tri Bộ binh</i> Nguyễn Công Tiệp, sinh hoàng tử Nguyễn Phúc Miên Tằng.</li> <li>Đỗ Thị Cương (杜氏岡), không rõ lai lịch, húy là <b>Phong</b>. Bà là em gái của <b>Quý nhân</b> Đỗ Thị Tùng và <b>Quý nhân</b> Đỗ Thị Tâm. Khi mất được ban thụy là <b>Thục Thận</b>. Sinh được hoàng tử Nguyễn Phúc Miên Khế (chết yểu khi 6 tuổi) và 2 hoàng nữ: Nguyễn Phúc Nhàn Thục, Nguyễn Phúc Gia Tĩnh.</li> <li>Trần Thị Thanh (陳氏清), húy là <b>Hà Hương</b>, không rõ lai lịch, khi mất được ban thụy <b>Trang Thuận</b>. Sinh được hoàng tử là Hoằng Hóa Quận vương Nguyễn Phúc Miên Triện.</li> <li>Trần Thị Trúc (陳氏竹), không rõ lai lịch, sinh hạ 2 hoàng nữ: Nguyễn Phúc Vĩnh Thụy và Nguyễn Phúc Gia Thụy.</li> <li>Trần Thị Tiêm (陳氏讖), không rõ lai lịch, sinh hạ hoàng nữ Nguyễn Phúc Trinh Đức.</li> <li>Bùi Thị Sơn (裴氏山), không rõ lai lịch, sinh hạ hoàng tử Nguyễn Phúc Miên Điều và 2 hoàng nữ: Nguyễn Phúc Hoà Thận, Nguyễn Phúc Trinh Tĩnh.</li> </ul>
+<a name="cung-nhan"></a><h4>Cung nhân</h4>
+<p>Ngoài ra, Minh Mạng còn một số cung nhân khác chưa xếp vào giai thứ:</p>
+<ul> <li>Lý Thị Cầm (李氏琴), không rõ lai lịch, sinh hạ hoàng nữ Nguyễn Phúc Nhàn Tĩnh.</li> <li>Cao Thị Diệu (高氏妙), người Do Linh, Quảng Trị, sinh hạ hoàng tử Nguyễn Phúc Miên Tả.</li> <li>Đặng Thị Yểu Điệu (鄧氏窈窕), không rõ lai lịch, sinh hạ hoàng nữ Nguyễn Phúc Trang Tường.</li> <li>Lê Thị Đính (黎氏訂), không rõ lai lịch, sinh hạ hoàng nữ&#160;Nguyễn Phúc Trinh Thụy.</li> <li>Trần Thị Mỹ (陳氏美), không rõ lai lịch, sinh hạ hoàng nữ Nguyễn Phúc Hoà Tường.</li> <li>Trần Thị Nhã (陳氏雅), người Quảng Điền, Thừa Thiên, sinh hạ hoàng tử Nguyễn Phúc Miên Thích.</li> <li>Trần Thị Nhạn (陳氏雁), không rõ lai lịch, sinh hạ hoàng nữ Nguyễn Phúc Nhàn Thận.</li> <li>Hồ Thị Thể (胡氏彩), còn húy là <b>Tố Cẩm</b>, sinh hạ hoàng tử Nguyễn Phúc Miên Sạ.</li> <li>Lê Thị Thông (黎氏通), sinh hạ hoàng nữ Nguyễn Phúc Trinh Nhu.</li> <li>Nguyễn Thị Xuân (阮氏椿), người Gia Định, con gái của Chính đội Nguyễn Văn Châu. Sinh hạ hoàng tử Nguyễn Phúc Miên Ký và hoàng nữ Nguyễn Phúc Nhu Tĩnh.</li> <li>Phan Thị Viên (潘氏員), sinh hạ hoàng tử Nguyễn Phúc Miên Thể.</li> <li>Trần Thị Nghiêm (陳氏嚴), sinh hạ 2 hoàng tử: Nguyễn Phúc Miên Phú, Nguyễn Phúc Miên Tống và 3 hoàng nữ: Nguyễn Phúc Đoan Thuận, Nguyễn Phúc Thục Thận và 1 người chết non.</li> <li>Nguyễn Thị Vĩnh (阮氏永), người&#160;Hương Trà, Thừa Thiên, sinh hạ hoàng tử Nguyễn Phúc Miên Vũ.</li> <li>Nguyễn Thị Được (阮氏藥), sinh hạ hoàng tử Nguyễn Phúc Miên Ngô.</li> <li>Lê Thị Tường (黎氏祥), con gái của công thần <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a>. Bà vốn được phong <i>Cung tần</i>, nhưng năm Minh Mạng 16 (1835) <a class="annotation" href="/nhan-vat/le-chat" title="Lê Chất (chữ Hán: 黎質, 1769 - 1826còn gọi là Hậu Quân Chất là danh tướng của triều Tây Sơn, sau theo triều Nguyễn...." target="_blank" >Lê Chất</a> bị nghị tội, nên bà cũng bị phế. Sinh hạ hoàng tử Nguyễn Phúc Miên Liêu.</li> </ul>
+<a name="con-cai"></a><h3>Con cái</h3>
+<a name="so-luong"></a><h4>Số lượng</h4>
+<p>Minh Mạng đã có tới 142 người con, gồm 78 hoàng tử và 64 công chúa.<sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </p>
+<a name="hoang-tu"></a><h4>Hoàng tử</h4>
+<div class="div-col columns column-width" > <ul> <li>01. Nguyễn Phúc Miên Tông</li> <li>02. Nguyễn Phúc Miên Chính</li> <li>03. Nguyễn Phúc Miên Định</li> <li>04. Nguyễn Phúc Miên Nghi</li> <li>05. Nguyễn Phúc Miên Hoành</li> <li>06. Nguyễn Phúc Miên Áo</li> <li>07. Nguyễn Phúc Miên Thần</li> <li>08. Nguyễn Phúc Miên Phú</li> <li>09. Nguyễn Phúc Miên Thủ</li> <li>10.Nguyễn Phúc Miên Thẩm</li> <li>11. Nguyễn Phúc Miên Trinh</li> <li>12.Nguyễn Phúc Miên Bửu</li> <li>13. Nguyễn Phúc Miên Trữ</li> <li>14. Nguyễn Phúc Miên Hựu</li> <li>15. Nguyễn Phúc Miên Vũ</li> <li>16. Nguyễn Phúc Miên Tống</li> <li>17. Nguyễn Phúc Miên Thành</li> <li>18. Nguyễn Phúc Miên Tề</li> <li>19. Tảo thương</li> <li>20. Tảo thương</li> <li>21. Nguyễn Phúc Miên Tuyên</li> <li>22. Nguyễn Phúc Miên Long</li> <li>23. Nguyễn Phúc Miên Tích</li> <li>24. Tảo thương</li> <li>25. Tảo thương</li> <li>26. Nguyễn Phúc Miên Cung</li> <li>27. Nguyễn Phúc Miên Phong</li> <li>28. Nguyễn Phúc Miên Trạch</li> <li>29. Nguyễn Phúc Miên Liêu</li> <li>30. Nguyễn Phúc Miên Mật</li> <li>31. Nguyễn Phúc Miên Lương</li> <li>32. Nguyễn Phúc Miên Gia</li> <li>33. Nguyễn Phúc Miên Khoan</li> <li>34. Nguyễn Phúc Miên Hoan</li> <li>35. Nguyễn Phúc Miên Túc</li> <li>36. Nguyễn Phúc Miên Quan</li> <li>37. Nguyễn Phúc Miên Tuấn</li> <li>38. Tảo thương</li> <li>39. Tảo thương</li> <li>40. Nguyễn Phúc Miên Quân</li> <li>41. Nguyễn Phúc Miên Kháp</li> <li>42. Nguyễn Phúc Miên Tằng</li> <li>43. Nguyễn Phúc Miên Tĩnh</li> <li>44. Nguyễn Phúc Miên Thể</li> <li>45. Nguyễn Phúc Miên Dần</li> <li>46. Tảo thương</li> <li>47. Nguyễn Phúc Miên Cư</li> <li>48. Nguyễn Phúc Miên Ngôn</li> <li>49. Nguyễn Phúc Miên Sạ</li> <li>50. Tảo thương</li> <li>51. Nguyễn Phúc Miên Thanh</li> <li>52. Nguyễn Phúc Miên Tỉnh</li> <li>53. Nguyễn Phúc Miên Sủng</li> <li>54. Nguyễn Phúc Miên Ngô</li> <li>55. Nguyễn Phúc Miên Kiền</li> <li>56. Nguyễn Phúc Miên Miêu</li> <li>57. Nguyễn Phúc Miên Lâm</li> <li>58. Nguyễn Phúc Miên Tiệp</li> <li>59. Nguyễn Phúc Miên Quãng</li> <li>60. Nguyễn Phúc Miên Uyển</li> <li>61. Nguyễn Phúc Miên Ôn</li> <li>62. Nguyễn Phúc Miên Trụ</li> <li>63. Nguyễn Phúc Miên Khiết</li> <li>64. Nguyễn Phúc Miên Ngụ</li> <li>65. Nguyễn Phúc Miên Tả</li> <li>66. Nguyễn Phúc Miên Triện</li> <li>67. Nguyễn Phúc Miên Thất</li> <li>68. Nguyễn Phúc Miên Bảo</li> <li>69. Nguyễn Phúc Miên Khách</li> <li>70. Nguyễn Phúc Miên Thích</li> <li>71. Nguyễn Phúc Miên Điều</li> <li>72. Nguyễn Phúc Miên Hoang</li> <li>73. Nguyễn Phúc Miên Chí</li> <li>74. Nguyễn Phúc Miên Thân</li> <li>75. Nguyễn Phúc Miên Ký</li> <li>76. Nguyễn Phúc Miên Bàng</li> <li>77. Nguyễn Phúc Miên Sách</li> <li>78. Nguyễn Phúc Miên Lịch</li> </ul> </div>
+<a name="cong-chua"></a><h4>Công chúa</h4>
+<div class="div-col columns column-width" > <ul> <li>1. Nguyễn Phúc Ngọc Tông</li> <li>2. Nguyễn Phúc Khuê Gia</li> <li>3. Nguyễn Phúc Uyển Diễm</li> <li>4. Nguyễn Phúc Lương Đức</li> <li>5. Nguyễn Phúc Quang Tĩnh</li> <li>6. Nguyễn Phúc Hoà Đức</li> <li>7. Nguyễn Phúc Trinh Đức</li> <li>8. Nguyễn Phúc Nhu Thuận</li> <li>9. Nguyễn Phúc Nhu Thục</li> <li>10. Nguyễn Phúc Đoan Thuận</li> <li>11. Nguyễn Phúc Đoan Trinh</li> <li>12. Nguyễn Phúc Vĩnh Gia</li> <li>13. Nguyễn Phúc Đoan Thận</li> <li>14. Nguyễn Phúc Nhàn Thận</li> <li>15. Nguyễn Phúc Gia Trinh</li> <li>16. Nguyễn Phúc Gia Tiết</li> <li>17. Nguyễn Phúc Vĩnh Thuỵ</li> <li>18. Nguyễn Phúc Vĩnh Trinh</li> <li>19. Tảo thương</li> <li>20. Nguyễn Phúc Thục Thận</li> <li>21. Nguyễn Phúc Thục Tĩnh</li> <li>22. Nguyễn Phúc Trang Tĩnh</li> <li>23. Nguyễn Phúc Trang Nhàn</li> <li>24. Nguyễn Phúc Gia Thuỵ</li> <li>25. Nguyễn Phúc Trinh Thận</li> <li>26. Nguyễn Phúc Trinh Nhàn</li> <li>27. Nguyễn Phúc Tường Hoà</li> <li>28. Nguyễn Phúc Tường Tĩnh</li> <li>29. Nguyễn Phúc Nhàn Thục</li> <li>30. Nguyễn Phúc Nhàn Trinh</li> <li>31. Nguyễn Phúc Thuỵ Thận</li> <li>32. Nguyễn Phúc Thuỵ Thục</li> <li>33. Tảo thương</li> <li>34. Nguyễn Phúc Tĩnh Hoà</li> <li>35. Tảo thương</li> <li>36. Nguyễn Phúc Lương Trinh</li> <li>37. Nguyễn Phúc Gia Trang</li> <li>38. Nguyễn Phúc Gia Tĩnh</li> <li>39. Nguyễn Phúc Thục Tuệ</li> <li>40. Nguyễn Phúc Nhàn Tĩnh</li> <li>41. Nguyễn Phúc Nhàn An</li> <li>42. Nguyễn Phúc Tĩnh An</li> <li>43. Nguyễn Phúc Thục Tư</li> <li>44. Nguyễn Phúc Nhu Nghi</li> <li>45. Tảo thương</li> <li>46. Nguyễn Phúc Phương Trinh</li> <li>47. Nguyễn Phúc Hoà Thận</li> <li>48. Nguyễn Phúc Hoà Nhàn</li> <li>49. Nguyễn Phúc Hoà Tường</li> <li>50. Nguyễn Phúc Nhan Huệ</li> <li>51. Nguyễn Phúc An Nhàn</li> <li>52. Nguyễn Phúc Nhu Hoà</li> <li>53. Nguyễn Phúc Hoà Trinh</li> <li>54. Nguyễn Phúc Lương Nhàn</li> <li>55. Nguyễn Phúc Trinh Hoà</li> <li>56. Nguyễn Phúc Lương Tĩnh</li> <li>57. Nguyễn Phúc Trinh Tĩnh</li> <li>58. Tảo thương</li> <li>59. Nguyễn Phúc Nhu Tĩnh</li> <li>60. Nguyễn Phúc Tĩnh Trang</li> <li>61. Nguyễn Phúc Trinh Nhu</li> <li>62. Nguyễn Phúc Trinh Thuỵ</li> <li>63. Nguyễn Phúc Trang Tường</li> <li>64. Nguyễn Phúc Phúc Tường</li> </ul> </div>
+<p>Minh Mạng thường dặn các con rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Phàm con nhà giàu sang ăn ngon mặc đẹp không quen vất vả thì đến lúc làm việc làm chẳng nổi. Trẫm từ ngày lên ngôi coi chầu xét việc đến khi xế bóng mới nghỉ, dầu ở cung cũng xem xét các sớ chương ở các nơi gởi về. Trẫm nghĩ có siêng năng thì việc mới thành nên chẳng dám nhàn rỗi. Các con còn trẻ có sức mạnh nên tập làm việc chớ ham chơi bời, biếng nhác.</i></p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u Gia tộc Nguyễn Phước 2006">5</sup> </cite></div> </td> </tr> </table>
+<a name="de-he-thi-va-phien-he-thi"></a><h3>Đế hệ thi và Phiên hệ thi</h3>
+<p>Năm 1823, Minh Mạng đã làm bài <i>Đế hệ thi</i> và 10 bài <i>Phiên hệ thi</i> để quy định các chữ lót đặt tên cho con cháu các thế hệ sau.</p>
+<p>Vua Minh Mạng cũng ban cho dòng họ của các con vua Gia Long 10 bài phiên hệ thi<sup class="annotation badge" title="^ một số hoàng thân mất sớm, không có con nên không được ban">41</sup> </p>
+<p>Chữ lót của mỗi đời dùng một chữ trong bài thơ, nhưng tên ở mỗi đời thì phải dùng một bộ trong ngũ hành theo thứ tự: thổ, kim, thủy, mộc, hỏa và trở lại, vì thế tên của tất cả đời thứ nhất dùng bộ thổ.</p>
+<a name="nhan-dinh"></a><h2>Nhận định</h2>
+<p>Trong bộ <i>Quốc Triều chính biên toát yếu</i> (Cao Xuân Dục chủ biên), sử thần nhà Nguyễn đã ca ngợi vua Minh Mạng:<sup class="annotation badge" title="^ Cao Xuân Dục (1908), Quốc triều chính biên toát yếu, trang 124">42</sup> </p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Đức Thánh tổ ta thiên tư là bậc thượng thánh, nối nghiệp lúc thiên hạ đại định rồi, chăm lo chánh trị, sửa sang thái bình, xét điển xưa, sửa lễ nhạc, cẩn thận đồ cân lượng, xét kỹ các pháp độ, đặt khoa thi để lựa kẻ sĩ, cày tịch điền để khuyên việc nông, thường tuần hành để xem địa phương, năng khảo sát để xét quan lại, chăm việc võ thời mùa xuân duyệt binh, cẩn việc hình thời mùa thu thẩm án, quy mô kỹ càng, phẩm tiết đều đủ. Đến như ức quyền những người cấm cận, nghiêm răn các bọn hoạn quan, không cho Hoàng thân quốc thích tự dự việc chánh sự, ý chăm lo việc thường như một ngày; những giấy tờ phê phó dụ chỉ chế cáo ban ra, đều là Ngự chế thức mới; văn giáo khắp cả dân Mường dân Thổ, Võ oai vang đến <a class="annotation" href="/dia-danh/nuoc-xiem" title="Xiêm (tiếng Thái Lan: สยาม; chuyển tự: Siam, IPA:&amp;#160;[saˈjaːm]), còn gọi là Xiêm La, là quốc hiệu chính thức của Thái Lan từ thời nhà Chakri được thành lập năm 1782 cho đến ngày 23 tháng 6 năm 1939. Sau đó, tên gọi Xiêm được sử dụng lại một cách chính thức trong thời kỳ từ năm 1945 đến ngày 11 thá..." target="_blank" >nước Xiêm</a>, nước Lào; thánh đức thần công không thể hình trạng hết được! Vả lại lúc vạn cơ thong thả, lưu ý về việc văn chương; ngự chế 5 tập thơ, 2 tập văn và các bài Thiên cơ dự triều, Cổ khí minh văn, đều là phát minh đạo mầu, mở rộng phép học. Ngài thiệt là bậc Đại thánh chế tác khác xa tầm thường, đổi hết những thói quê mùa từ Lê, Lý trở về trước, mở lối trị văn minh ngàn muôn đời cho nước Đại Nam ta. Tốt thay! Thạnh thay!</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Quốc triều chính biên toát yếu</cite></div> </td> </tr> </table>
+<p>Sử gia <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> viết sách Việt Nam sử lược có nhận xét trung lập hơn:<sup class="annotation badge" title="^ Trần Trọng Kim, sách đã dẫn, tr 192">43</sup> </p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>Trong đời vua Thánh Tổ làm vua, pháp luật, chế độ, điều gì cũng sửa sang lại cả, làm thành một nước có cương kỷ. Nhưng chỉ vì ngài nghiêm khắc quá, cứ một mực theo cổ, chứ không tùy thời mà biến hóa phong tục; lại không biết khoan dung cho sự sùng tín, đem giết hại những người theo đạo, và lại tuyệt giao với ngoại quốc làm thành ra <a class="annotation" href="/dia-danh/nuoc-nam" title="Việt Nam (tên chính thức: Cộng hòa xã hội chủ nghĩa Việt Nam) là một quốc gia nằm ở phía đông, giáp với Lào và Campuchia, thuộc bán đảo Đông Dương, thuộc khu vực Đông Nam Á thuộc châu Á. 
+ Phía bắc Việt Nam giáp với Trung Quốc, phía tây Việt Nam giáp với Lào và Campuchia, phía tây nam giáp vịnh Thái..." target="_blank" >nước Nam</a> ta ở lẻ loi một mình.</i></p> <p><i>Đã hay rằng những điều lầm lỗi ấy là trách nhiệm chung cả triều đình và cả bọn sĩ phu nước ta lúc bấy giờ, chứ không riêng chi một mình ngài, nhưng ngài là ông vua chuyên chế một nước, việc trong nước hay dỡ thế nào, ngài cũng có một phần trách nhiệm rất to, không sao chối từ được. Vậy cứ bình tình mà xét, thì chính trị của ngài tuy có nhiều điều hay, nhưng cũng có nhiều điều dở; ngài biết cương mà không biết nhu, ngài có uy quyền mà ít độ lượng, ngài biết có dân có nước mà không biết thời thế tiến hóa. Bởi vậy cho nên nói rằng ngài là một ông anh quân thì khí quá, mà nói rằng ngài là ông bạo quân thì không công bằng. Dẫu thế nào mặc lòng, ngài là một ông vua thông minh, có quả cảm, hết lòng lo việc nước, tưởng về bản triều nhà Nguyễn chưa có ông vua nào làm được nhiều công việc hơn ngài vậy.</i></p> </td> <td >”</td> </tr> </table>
+<p><br /></p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<div class="div-col columns column-width" > <ul> <li>Nhà Nguyễn</li> <li>Gia Long</li> <li>Thiệu Trị</li> <li>Rượu Minh Mạng</li> <li>Lê Văn Duyệt</li> <li>Lê Văn Khôi</li> </ul> </div>
+<a name="chu-thich-va-tham-khao"></a><h2>Chú thích và tham khảo</h2>
+<a name="ghi-chu"></a><h3>Ghi chú</h3>
+<div class="reflist references-column-width" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Theo <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, <i>Việt Nam sử lược</i> quyển 2 (Trung tâm học liệu xuất bản, Sài Gòn, 1971, tr. 152), Nguyễn Hiền Đức, <i>Lịch sử Phật giáo Đàng Trong</i> (Nhà xuất bản Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>, 1995, tr. 269); Võ Văn Tường, <i>Những ngôi chùa nổi tiếng Việt Nam</i> (Nhà xuất bản VH-TT, Hà Nội, 1994, tr. 383) và Vương Hồng Sển trong <i>Sài Gòn năm xưa</i> cũng đã cho biết theo dật sử thì Hoàng tử Đảm đã sinh ra nơi hậu liêu <a class="annotation" href="/dia-danh/chua-khai-tuong" title="Chùa Khải Tường là một ngôi cổ tự, trước đây tọa lạc trên một gò cao tại ấp Tân Lộc, thuộc Gia Định xưa; nay ở khoảng khu vực Bảo tàng Chứng tích chiến tranh, số 28, Võ Văn Tần, Quận 3, Thành phố Hồ Chí Minh, Việt Nam. Đây có thể được kể là ngôi già lam cổ nhất nhì ở vùng đất ấy, nhưng đã bị phá hủy..." target="_blank" >chùa Khải Tường</a> vào năm Tân Hợi (1791) giữa cơn tị nạn binh Tây Sơn.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Nguyễn Phan Quang, sách đã dẫn, tr 662</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Đặng Việt Thủy; Đặng Thành Trung, sách đã dẫn, tr 287-288</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Nguyễn Phan Quang, sách đã dẫn, tr 665</span></li> <li id="cite_note-nguyenphuoctoc-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <sup><i><b>g</b></i></sup> <sup><i><b>h</b></i></sup> <sup><i><b>i</b></i></sup> <sup><i><b>k</b></i></sup> <sup><i><b>l</b></i></sup> <sup><i><b>m</b></i></sup> <sup><i><b>n</b></i></sup> <sup><i><b>o</b></i></sup> <sup><i><b>ô</b></i></sup> <sup><i><b>ơ</b></i></sup> <sup><i><b>p</b></i></sup> <sup><i><b>q</b></i></sup> <sup><i><b>r</b></i></sup> <sup><i><b>s</b></i></sup> <sup><i><b>t</b></i></sup> <sup><i><b>u</b></i></sup> <span class="reference-text">Gia tộc Nguyễn Phước 2006</span></li> <li id="cite_note-baobinhduong-6">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <sup><i><b>g</b></i></sup> <sup><i><b>h</b></i></sup> <sup><i><b>i</b></i></sup> <sup><i><b>k</b></i></sup> <span class="reference-text">Báo Bình Dương - Minh Mệnh: Vị vua năng động và quyết đoán</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-the-anh" title="Nguyễn Thế Anh có thể là:..." target="_blank" >Nguyễn Thế Anh</a> - Kinh tế &amp; Xã hội VN dưới các vua triều Nguyễn Nhà xuất bản Văn học tr.47</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Đoàn TNCS <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>: Chống tham nhũng bắt đầu từ trên</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Văn Tạo, sách đã dẫn, tr 222, 249</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Văn Tạo, sách đã dẫn, tr 222-223</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Nhiều tác giả, <i>Những vấn đế lịch sử triều Nguyễn</i>, tr. 75</span></li> <li id="cite_note-ReferenceA-12">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Việt Sử Toàn Thư, <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a>, tr. 420</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Ông tổ ngành than</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-the-anh" title="Nguyễn Thế Anh có thể là:..." target="_blank" >Nguyễn Thế Anh</a> - Kinh tế &amp; Xã hội VN dưới các vua triều Nguyễn, Nhà xuất bản Văn học trang 124-125</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> 2005, tr.&#160;327</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Trương Hữu Quýnh (chủ biên), Phạn Đại Doãn, Nguyễn Cảnh Minh, <i>Đại cương lịch sử Việt Nam - tập 1</i>, Nhà xuất bản Giáo dục, TPHCM 2005, tr. 451.</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">“Theo Đại Nam liệt truyện chính biên thì khi làm tổng trấn Gia Định Thành, Lê Văn Duyệt uy quyền to lắm mà lòng người cũng kính phục nên vua Minh Mạng tuy trong lòng căm ghét nhưng cũng không dám làm gì”.<br /> Mộ tả quân Lê Văn Duyệt hiện ở đâu?, báo Tuổi Trẻ, 21/05/2006</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">Nguyên văn chữ Hán: <i>權奄黎文悅服法處</i> (<i>Quyền yêm Lê Văn Duyệt phục pháp xứ</i>)</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text"><i>Việt Nam sử lược</i>, Nhà xuất bản Tân Việt, Sài Gòn, 1964, tr.455 - 446</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text">Việt Sử toàn thư, <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a>, tr. 421</span></li> <li id="cite_note-ReferenceB-21">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Việt Nam sử lược, bản điện tử, tr 183</span></li> <li id="cite_note-ReferenceC-22">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Việt Nam sử lược, bản điện tử, tr 184</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text">Nguyễn Phan Quang, Việt Nam thế kỷ 19, Nhà xuất bản TP.HCM, 2002, tr. 229 - 256</span></li> <li id="cite_note-Mc30-24">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">McLeod, tr.30.</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Việt sử toàn thư, tr 421</span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text">Việt sử toàn thư, tr 422</span></li> <li id="cite_note-27"><b>^</b> <span class="reference-text">Sử Pháp của C. B Maybon có chép chuyện này.</span></li> <li id="cite_note-28"><b>^</b> <span class="reference-text">Nguyễn Q. Thắng (<i>Từ điển nhân vật lịch sử Việt Nam</i>) ghi là <i>Lê Văn Câu</i>, Sách <i>Sài Gòn - TP.HCM</i> do Tiến sĩ Quách Thu Nguyệt chủ biên, ghi là <i>Lê Văn Cù</i>. <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, Việt Nam sử lược ghi <i>7 tuổi</i></span></li> <li id="cite_note-kccvn-29">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="error mw-ext-cite-error" lang="vi" dir="ltr" xml:lang="vi">Lỗi chú thích: Thẻ <code>&lt;ref&gt;</code> sai; không có nội dung trong thẻ ref có tên <code>kccvn</code></span></li> <li id="cite_note-30"><b>^</b> <span class="reference-text">Theo ông J. Silvestre.</span></li> <li id="cite_note-31"><b>^</b> <span class="reference-text"><i>lịch sử quan hệ Việt Nam-Trung Quốc thế kỷ 19, thực và hư</i>, Yu Isun</span></li> <li id="cite_note-32"><b>^</b> <span class="reference-text">Đại Nam thực lục, chính biên, II, quyển 207, tr. 41b~42a</span></li> <li id="cite_note-33"><b>^</b> <span class="reference-text">Đại Nam thực lục, II, quyển 212, p. 33b</span></li> <li id="cite_note-34"><b>^</b> <span class="reference-text">Việt Sử Toàn Thư, <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a>, tr. 424</span></li> <li id="cite_note-vnls-35">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text"><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, Việt Nam lược sử, Chương III: Thánh Tổ, tr. 191</span></li> <li id="cite_note-36"><b>^</b> <span class="reference-text">Việt Sử Toàn Thư, <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a>, tr. 432</span></li> <li id="cite_note-37"><b>^</b> <span class="reference-text">Trong số đó có cả Phêrô, vị giáo hoàng đầu tiên (bị xử tử năm 64).</span></li> <li id="cite_note-38"><b>^</b> <span class="reference-text">Nguyễn Văn Kiệm, Triều Nguyễn và lịch sử của chúng ta, 2013, Nhà xuất bản Hồng Đức, tr. 194.</span></li> <li id="cite_note-39"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/truong-dang-que" title="Trương Đăng Quế (chữ Hán: 張登桂, 1793-1865), tự: Diên Phương, hiệu: Đoan Trai, biệt hiệu: Quảng Khê; là danh thần trải 4 triều Gia Long, Minh Mạng, Thiệu Trị và Tự Đức trong lịch sử Việt Nam. Trong 43 năm làm quan, có 20 năm ông giữ trọng trách lớn (có hai lần nhận di chiếu tôn phò vua mới). Ngoài ra,..." target="_blank" >Trương Đăng Quế</a> (1793 - 1865) là thầy học của các hoàng tử con vua <b>Minh Mạng</b>.</span></li> <li id="cite_note-40"><b>^</b> <span class="reference-text">Đại Nam thực lục, tập 5, trang 889</span></li> <li id="cite_note-41"><b>^</b> <span class="reference-text">một số hoàng thân mất sớm, không có con nên không được ban</span></li> <li id="cite_note-42"><b>^</b> <span class="reference-text">Cao Xuân Dục (1908), Quốc triều chính biên toát yếu, trang 124</span></li> <li id="cite_note-43"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, sách đã dẫn, tr 192</span></li> </ol> </div>
+<a name="thu-muc"></a><h3>Thư mục</h3>
+<ul> <li><span id="CITEREFGia_t.E1.BB.99c_Nguy.E1.BB.85n_Ph.C6.B0.E1.BB.9Bc2006" class="citation">Gia tộc Nguyễn Phước (2006), “Đức Thánh tổ Nhân Hoàng đế húy Nguyễn Phúc Kiểu (1791 - 1841)”, <i>Đế phả Nguyễn Phước Tộc</i> (Gia tộc Nguyễn Phước)</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AMinh+M%E1%BA%A1ng&amp;rft.atitle=%C4%90%E1%BB%A9c+Th%C3%A1nh+t%E1%BB%95+Nh%C3%A2n+Ho%C3%A0ng+%C4%91%E1%BA%BF+h%C3%BAy+Nguy%E1%BB%85n+Ph%C3%BAc+Ki%E1%BB%83u+%281791+-+1841%29&amp;rft.au=Gia+t%E1%BB%99c+Nguy%E1%BB%85n+Ph%C6%B0%E1%BB%9Bc&amp;rft.aulast=Gia+t%E1%BB%99c+Nguy%E1%BB%85n+Ph%C6%B0%E1%BB%9Bc&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=%C4%90%E1%BA%BF+ph%E1%BA%A3+Nguy%E1%BB%85n+Ph%C6%B0%E1%BB%9Bc+T%E1%BB%99c&amp;rft.pub=Gia+t%E1%BB%99c+Nguy%E1%BB%85n+Ph%C6%B0%E1%BB%9Bc&amp;rft_id=http%3A%2F%2Fnguyenphuoctoc.net%2Fde-pha%2Fvuaminhmenh.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span>.</li> <li><span id="CITEREFQu.E1.BB.91c_s.E1.BB.AD_qu.C3.A1n_tri.E1.BB.81u_Nguy.E1.BB.85n2001" class="citation">Quốc sử quán triều Nguyễn (2001), <i>[[Khâm định Việt sử Thông giám cương mục]]</i> <span >(PDF)</span> , Hà Nội: Nhà xuất bản Giáo dục</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AMinh+M%E1%BA%A1ng&amp;rft.au=Qu%E1%BB%91c+s%E1%BB%AD+qu%C3%A1n+tri%E1%BB%81u+Nguy%E1%BB%85n&amp;rft.aulast=Qu%E1%BB%91c+s%E1%BB%AD+qu%C3%A1n+tri%E1%BB%81u+Nguy%E1%BB%85n&amp;rft.btitle=Kh%C3%A2m+%C4%91%E1%BB%8Bnh+Vi%E1%BB%87t+s%E1%BB%AD+Th%C3%B4ng+gi%C3%A1m+c%C6%B0%C6%A1ng+m%E1%BB%A5c&amp;rft.date=2001&amp;rft.edition=%C4%91i%E1%BB%87n+t%E1%BB%AD+t%E1%BB%AB+b%E1%BA%A3n+d%E1%BB%8Bch+c%E1%BB%A7a+Vi%E1%BB%87n+s%E1%BB%AD+h%E1%BB%8Dc+Vi%E1%BB%87t+Nam&amp;rft.genre=book&amp;rft.place=H%C3%A0+N%E1%BB%99i&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_id=http%3A%2F%2Fwww.agu.edu.vn%2Febooks%2Fhistory%2Fkham%2520dinh%2520viet%2520su.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Tựa đề URL chứa liên kết wiki (trợ giúp)</span>.</li> <li><span id="CITEREFThi_Long1998" class="citation">Thi Long (1998), <i>Nhà Nguyễn chính Chúa mười ba Vua</i>, Nhà xuất bản Đà Nẵng</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AMinh+M%E1%BA%A1ng&amp;rft.au=Thi+Long&amp;rft.aulast=Thi+Long&amp;rft.btitle=Nh%C3%A0+Nguy%E1%BB%85n+ch%C3%ADnh+Ch%C3%BAa+m%C6%B0%E1%BB%9Di+ba+Vua&amp;rft.date=1998&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+%C4%90%C3%A0+N%E1%BA%B5ng&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span>.</li> <li><span id="CITEREFNguy.E1.BB.85n_Kh.E1.BA.AFc_Thu.E1.BA.A7n2005" class="citation"><a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> (2005), <i>Đại cương lịch sử cổ trung đại Việt Nam</i>, Nhà xuất bản Giáo dục</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AMinh+M%E1%BA%A1ng&amp;rft.au=Nguy%E1%BB%85n+Kh%E1%BA%AFc+Thu%E1%BA%A7n&amp;rft.aulast=Nguy%E1%BB%85n+Kh%E1%BA%AFc+Thu%E1%BA%A7n&amp;rft.btitle=%C4%90%E1%BA%A1i+c%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+c%E1%BB%95+trung+%C4%91%E1%BA%A1i+Vi%E1%BB%87t+Nam&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span>.</li> <li><span id="CITEREFV.C4.83n_T.E1.BA.A1o2006" class="citation">Văn Tạo (2006), <i>Mười cuộc cải cách, đổi mới lớn trong lịch sử Việt Nam</i>, Hà Nội: Nhà xuất bản Đại học sư phạm</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AMinh+M%E1%BA%A1ng&amp;rft.au=V%C4%83n+T%E1%BA%A1o&amp;rft.aulast=V%C4%83n+T%E1%BA%A1o&amp;rft.btitle=M%C6%B0%E1%BB%9Di+cu%E1%BB%99c+c%E1%BA%A3i+c%C3%A1ch%2C+%C4%91%E1%BB%95i+m%E1%BB%9Bi+l%E1%BB%9Bn+trong+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam&amp;rft.date=2006&amp;rft.genre=book&amp;rft.place=H%C3%A0+N%E1%BB%99i&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+s%C6%B0+ph%E1%BA%A1m&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span>.</li> </ul>
+<a name="doc-them"></a><h2>Đọc thêm</h2>
+<div class="div-col columns column-width" > <ul> <li>Quốc sử quán Triều Nguyễn (2007). <i>Đại Nam thực lục chính biên</i>, Việt Nam: Nhà xuất bản Giáo dục</li> <li>Nhiều tác giả (2007). <i>Sài Gòn xưa và nay</i>, Việt Nam: Nhà xuất bản Trẻ</li> <li>Nguyễn Đắc Xuân (2004). <i>Kiến Thức Về Triều Nguyễn Huế Xưa</i>, Việt Nam: Nhà xuất bản Thuận Hóa</li> <li>Tôn Thất Bình (2001). <i>12 danh tướng triều Nguyễn</i>, Việt Nam: Nhà xuất bản Thuận Hóa</li> <li>Tôn Thất Bình (2006). <i>Kể chuyện chín chúa mười ba vua triều Nguyễn</i>, Việt Nam: Nhà xuất bản Trẻ</li> <li><a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> (2004). <i>Thế Thứ Các Triều Vua Việt Nam</i>, Tái Bản lần thứ 10, Việt Nam: Nhà xuất bản Giáo dục</li> <li>Phạm Khắc Hoè (1986). <i>Kể chuyện vua quan nhà Nguyễn</i>, Việt Nam: Nhà xuất bản Thuận Hóa</li> <li><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, <i>Việt Nam sử lược</i>, bản điện tử</li> <li>Nguyễn Phan Quang (2006), <i>Một số công trình sử học Việt Nam</i>, Nhà xuất bản Tổng hợp TP <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a></li> <li>Đặng Việt Thủy; Đặng Thành Trung (2008), <i>54 vị Hoàng đế Việt Nam</i>, Nhà xuất bản Quân đội Nhân dân</li> <li>Báo Quảng Nam: Những nhân vật cải cách trong lịch sử: Minh Mạng</li> </ul> <table role="presentation" class="mbox-small plainlinks sistersitebox" > <tr> <td class="mbox-image"><img alt="" src="/images/wiki/minh-mang/283e8e578bb12a93aeb8fa9a7d84fc63.png" /></td> <td class="mbox-text plainlist">Wikisource có các tác phẩm gốc nói đến hoặc của: <div ><i><b>Minh Mạng</b></i></div> </td> </tr> </table> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/mai-hac-de" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Mai Hắc Đế            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/my-chau" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Mỵ Châu            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/minh-mang" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,1605 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được Phan Huy Chú đánh giá là người có &quot;học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Ngô Thì Sĩ - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"d62b5f29f1976671e0c4415da8b67f5a"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Ngô Thì Sĩ" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/ngo-thi-si" />
+	<meta property="og:image" content="https://nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Ngô Thì Sĩ", "item": "https://nguoikesu.com/nhan-vat/ngo-thi-si" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/ngo-thi-si" }, "headline": "Ngô Thì Sĩ", "description": "Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được Phan Huy Chú đánh giá là người có &quot;học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở Nam Châu&quot;.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/ngo-thi-si" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-28T18:22:27+07:00", "dateCreated": "2017-10-28T18:22:27+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Ngô Thì Sĩ</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Ngô Thì Sĩ        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+            
+            <ul class="tags list-inline">
+                                                                    <li class="list-inline-item tag-7 tag-list0" >
+                    <a href="/danh-nhan-van-hoa" class="btn btn-sm label label-info">
+                        Danh nhân văn hóa                    </a>
+                </li>
+                        </ul>
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-1"><a href="#tac-pham" title="">Tác phẩm</a></li>
+<li class="level-2"><a href="#su-hoc" title="">Sử học</a></li>
+<li class="level-2"><a href="#van-hoc" title="">Văn học</a></li>
+<li class="level-1"><a href="#trich-danh-gia" title="">Trích đánh giá</a></li>
+<li class="level-1"><a href="#tai-lieu-lien-quan" title="">Tài liệu liên quan</a></li>
+<li class="level-1"><a href="#nghi-van" title="">Nghi vấn</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div>
+<div class="infobox">
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2"><span class="fn">Ngô Thì Sĩ</span></th>
+</tr>
+<tr>
+<th scope="row">Sinh</th>
+<td><span class="birthplace">Hương Tả Thanh Oai, <a class="annotation" href="/dia-danh/huyen-thanh-oai" title="Thanh Oai là một huyện thuộc Hà Nội...." target="_blank" >huyện Thanh Oai</a>, <a class="annotation" href="/dia-danh/tran-son-nam" title="Trấn Sơn Nam hay xứ Sơn Nam hay là vùng đất phía nam Thăng Long từ thời nhà Lê sơ đến nhà Nguyễn. Dưới thời vua Lê Thánh Tông, bản đồ Việt Nam có 13 xứ (sau từ triều Tây Sơn đổi sang gọi là trấn). Đến đây, các vùng đất quanh Hà Nội trở thành tứ trấn gồm: vùng núi phía tây được gọi là trấn Sơn Tây (h..." target="_blank" >trấn Sơn Nam</a> Hạ, Đại Việt</span></td>
+</tr>
+<tr>
+<th scope="row">Mất</th>
+<td><span class="deathplace">Lạng Sơn</span></td>
+</tr>
+<tr>
+<th scope="row">Nguyên nhân mất</th>
+<td>Tuẫn tiết</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Nơi an nghỉ</span></th>
+<td class="label">Lạng Sơn</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Nơi cư trú</span></th>
+<td>Lạng Sơn</td>
+</tr>
+<tr>
+<th scope="row">Quốc gia</th>
+<td class="category">Đại Việt</td>
+</tr>
+<tr>
+<th scope="row">Tên khác</th>
+<td class="nickname">tên tự: Thế Lộc<br /> Tên hiệu: Ngọ Phong (午風)<br /> Đạo hiệu: Nhị Thanh cư sĩ</td>
+</tr>
+<tr>
+<th scope="row">Dân tộc</th>
+<td>Kinh</td>
+</tr>
+<tr>
+<th scope="row">Học vấn</th>
+<td>Hoàng giáp</td>
+</tr>
+<tr>
+<th scope="row">Nổi tiếng vì</th>
+<td>Nho sĩ</td>
+</tr>
+<tr>
+<th scope="row">Tác phẩm nổi bật</th>
+<td><i>Xem mục Tác phẩm</i></td>
+</tr>
+<tr>
+<th scope="row">Tôn giáo</th>
+<td class="category">Phật giáo</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><b>Ngô Thì Sĩ</b> (tiếng Trung: <span lang="zh" xml:lang="zh">吳時仕</span>, 1726 - 1780), tự <b>Thế Lộc</b>, hiệu <b>Ngọ Phong</b> (午峰), đạo hiệu <b>Nhị Thanh cư sĩ</b><sup class="annotation badge" title="^ Khi Ngô Thì Nhậm làm quan ở trấn Kinh Bắc, đã dâng ông Phật hiệu là Nhị Thanh trường thọ quan tự tại phúc lượng đại hải chân như vô tận ý bồ tát (theo Trần Văn Giáp, Tìm hiểu kho sách Hán Nôm (tập I),tr. 109).">1</sup> ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được <a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a> đánh giá là người có "học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở Nam Châu"<sup class="annotation badge" title="^ Phan Huy Chú, Lịch triều hiến chương loại chí (Tập I), phần Nhân vật chí, tr. 399). Nam Châu tức Sơn Nam thượng.">2</sup> .</p>
+<p></p>
+<p></p>
+<a name="tieu-su"></a><h2>Tiểu sử</h2>
+<p><b>Ngô Thì Sĩ</b> sinh ngày 20 tháng 9 năm Bính Ngọ (tức 15 tháng 10 năm 1726) tại làng Tả Thanh Oai (làng Tó), <a class="annotation" href="/dia-danh/huyen-thanh-oai" title="Thanh Oai là một huyện thuộc Hà Nội...." target="_blank" >huyện Thanh Oai</a>, <a class="annotation" href="/dia-danh/tran-son-nam" title="Trấn Sơn Nam hay xứ Sơn Nam hay là vùng đất phía nam Thăng Long từ thời nhà Lê sơ đến nhà Nguyễn. Dưới thời vua Lê Thánh Tông, bản đồ Việt Nam có 13 xứ (sau từ triều Tây Sơn đổi sang gọi là trấn). Đến đây, các vùng đất quanh Hà Nội trở thành tứ trấn gồm: vùng núi phía tây được gọi là trấn Sơn Tây (h..." target="_blank" >trấn Sơn Nam</a> (sau thuộc <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a>, và nay thuộc huyện Thanh Trì Hà Nội).</p>
+<p>Ông sinh ra trong một dòng họ lớn <sup class="annotation badge" title="^ Trong làng Tó có ba dòng họ lớn, đó là họ Nguyễn, họ Ngô Vi và Ngô Đình (trước Ngô Thì Sĩ, dòng họ Ngô của ông, tên có lót chữ Đình).">3</sup>  ở làng, có nhiều người nổi tiếng hay chữ...</p>
+<p>Ông nội ông là Ngô Trân, hiệu Đan Nhạc, là một người nổi tiếng về sức học uyên bác và tài văn chương, được người đương thời liệt là một trong "bảy con hổ của kinh <a class="annotation" href="/dia-danh/thanh-thang-long" title="Thành Hà Nội do Gia Long xây dựng cũng làm theo thể thức các tỉnh thành khác và điều chủ yếu là không được to rộng hơn Phú Xuân. Thành vuông xây theo kiểu Vauban của Pháp. Thành hình vuông mỗi bề chừng một cây số xung quanh là hào nước sâu. Bốn bức tường thành tương ứng với bốn con phố hiện nay là: ..." target="_blank" >thành Thăng Long</a>" (<i>Trường An thất hổ</i>).</p>
+<p>Ông là con trưởng Ngô Thì Ức, cũng nổi tiếng hay chữ. Năm 14 tuổi, ông Ức đỗ thứ hai kỳ thi Hương nhưng sau đó hỏng liền hai khoa thi Hội, nên không để chí vào khoa cử nữa. Khi Ngô Thì Sĩ lên 10 tuổi, thì ông Ức mất.</p>
+<p>Từ 7 đến 11 tuổi, Ngô Thì Sĩ được ông nội rèn dạy. Sau đó, ông được cho ra Thăng Long theo học các bậc danh nho như Nghiêm Bá Đĩnh, Nhữ Đình Toản <sup class="annotation badge" title="^ Thời điểm Ngô Thì Sĩ ra Thăng Long theo học với ông Đĩnh và ông Toản, ở đây chép theo Trần Thị Băng Thanh (Ngô Thì Sĩ, tr.14); Trần Văn Giáp thì cho rằng khi ông Sĩ đã đậu Hương Tiến (1743), mới theo học hai ông thầy vừa kể (Tìm hiểu kho sách Hán Nôm, tr. 109).">4</sup> . Năm Quý Hợi (1743), Ngô Thì Sĩ thi đỗ Hương tiến (Cử nhân), nhưng bị hỏng khoa thi Hội ngay sau đó.</p>
+<p>Năm 1752, Ngô Thì Sĩ lại đi thi Hội, nhưng bị khảo quan Trần Tố đánh hỏng (vì "nhầm")<sup class="annotation badge" title="^ Trần Thị Băng Thanh, Ngô Thì Sĩ, tr. 15.">5</sup> . Chúa Trịnh Doanh rất tiếc, truất chức của Trần Tố và trao cho Ngô Thì Sĩ chức Thiêm tri Công phiên thẩm ứng vụ (trước đó ông giữ một chức nhỏ trong Binh tào).</p>
+<p>Năm 1756, nhân đỗ đầu một kỳ thi tuyển người, Ngô Thì Sĩ trở thành một thành viên trong Văn ban của phủ chúa Trịnh, được giao trách nhiệm soạn thảo giấy tờ, và làm Tùy giảng cho con chúa là Thế tử <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a>.</p>
+<p>Năm 1761, ông được sai làm "bạn tiếp" tiếp sứ <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> sang sắc phong và điếu tang Lê Ý Tông.</p>
+<p>Năm 1763, ông được cử làm Cấp sự trung công khoa.</p>
+<p>Năm 1764, ông làm Giám sát ngự sử đạo Sơn Tây, rồi Đốc đồng Thái Nguyên (1765).</p>
+<p>Năm Bính Tuất (1766), đời Cảnh Hưng, ông thi đỗ Hoàng giáp, năm sau (1767), được thăng Đông các hiệu thư rồi đổi làm Hiến sát sứ Thanh Hoa (tức Thanh Hóa). Khi ở đây, ông khai thác núi Bàn A dựng chòi xem sóng biển và lập hội <i>Quan lan sào</i>, tự mình làm hội trưởng.</p>
+<p>Năm 1769, ông được về triều; năm sau (1770), làm Tham chính Nghệ An.</p>
+<p>Năm 1771, ông coi việc chấm thi ở trường thi Nghệ An, bị Nguyễn Văn Chu, người ở Hà Tĩnh kiện vì ăn của đút của học trò, bị án "hoàn dân thụ dịch" (nghĩa là trả về làm dân chịu sai dịch) vào năm 1772 <sup class="annotation badge" title="^ Đề cập đến vụ án này, Trần Thị Băng Thanh viết: Điều kỳ lạ là triều đình không nghị bàn, hạ lệnh cách chức ngay. Hoàng Ngũ Phúc, một quan đại thần rất có thế lực trong triều, lúc đó đang cầm quân ở Nghệ An, lại thêm vào án kỷ luật bốn chữ &quot;hoàn dân thụ dịch&quot; (nghĩa là trả về làm dân chịu sai dịch). Người đương thời và nhiều sử sách, kể cả Việt sử thông giám cương mục, đều xác nhận trong vụ án kỷ luật đó, Ngô Thì Sĩ chỉ là nạn nhân của sự gièm pha nghi kỵ lúc đó đang dấy lên gay gắt trong triều. Trịnh Sâm bấy giờ đã lên ngôi chúa được gần năm năm, trong thời gian đó cũng có một số hành vi lấn át vua Lê, nhiều đình thần bàn tán chê bai. Người ta lấy một câu thơ Ngô Thì Sĩ vịnh cảnh Hồ Tây: Tây Hồ tình vũ cánh nghi chu (Mưa hay tạnh, Tây Hồ đều đáng thả thuyền chơi), sửa thành một câu thơ nói bóng gió chuyện chính sự: Tây Hồ thảo thụ khủng phi Chu (Cây cỏ Hồ Tây e không còn là của nhà Chu nữa). Do vậy Trịnh Sâm sinh &quot;ngờ&quot; Ngô Thì Sĩ. Mặt khác vì sợ thế lực Hoàng Ngũ Phúc, một số triều sĩ viết thư nặc danh nhắc Trịnh Sâm nên hạn chế quyền hành của viên tướng đầy quyền uy này. Nhưng tin ấy khi đến tai Ngũ Phúc thì &quot;triều sĩ&quot; đã thành &quot;Ngô Sĩ&quot; và đây chính là duyên cớ để Phúc thêm vào bốn chữ &quot;hoàn dân thụ dịch&quot; trong lệnh cách chức ông. Theo [1].">6</sup> .</p>
+<p>Năm 1774, chúa <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> đi tuần phương Nam, biết ông bị oan, mới có ý cất dùng. Năm 1775, cho triệu ông vào kinh giữ chức Hiệu lý Viện Hàn lâm kiêm Hiệu chính quốc sử, sau đó thăng Thiêm đô ngự sử.</p>
+<p>Năm 1777, ông được bổ làm Đốc trấn Lạng Sơn. Trong thời gian ở đây, sau khi ổn định được tình hình địa phương, giúp dân an cư, ông đặt doanh Lộc Mã, dựng đình Kinh lược, sửa sang động Song Tiên, khai thác động Nhị Thanh làm cho nó trở thành một thắng tích.</p>
+<p>Ngày 29 tháng 8 năm Canh Tý (tức 22 tháng 10 năm 1780), ông có việc đi tới Nam Quan. Trên đường về qua động Nhị Thanh, ông vào nghỉ trong động. Khi về đến nhà người mệt nặng và từ trần.</p>
+<p>Sau này dân làng Vĩnh Trại thuộc huyện Thoát Lãng ở giáp động Nhị Thanh (Lạng Sơn) có lập đền thờ ông. Triều Tây Sơn cũng phong tặng ông là Lễ Thượng Thư Văn Dụ Hồng Liệt Đại Vương.</p>
+<p>Ngô Thì Sĩ là cha của các danh sĩ: <a class="annotation" href="/nhan-vat/ngo-thi-nham" title="Ngô Thì Nhậm (吳時壬; còn gọi là Ngô Thời Nhiệm 吳時任; 25/10/1746–1803), tự là Hy Doãn(希尹), hiệu là Đạt Hiên(達軒), là danh sĩ, nhà văn đời hậu Lê–Tây Sơn, người có công lớn trong việc giúp triều Tây Sơn đánh lui quân Thanh. Ngô Thì Nhậm xuất thân gia đình vọng tộc chốn Bắc Hà, là con Ngô Thì Sĩ, người làn..." target="_blank" >Ngô Thì Nhậm</a>, Ngô Thì Chí, Ngô Thì Trí, Ngô Thì Hương và là cha vợ của <a class="annotation" href="/nhan-vat/phan-huy-ich" title="Phan Huy Ích (chữ Hán: 潘輝益; 1751 – 1822), tự Khiêm Thụ Phủ, Chi Hòa, hiệu Dụ Am, Đức Hiên, là quan đại thần trải ba triều đại Lê trung hưng, Tây Sơn và Nguyễn...." target="_blank" >Phan Huy Ích</a>.</p>
+<a name="tac-pham"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Tác phẩm</h2>
+<a name="su-hoc"></a><h3>Sử học</h3>
+<ul>
+<li><b>Việt sử tiêu án</b> (Những nghi án nêu lên trong sử Việt)</li>
+<li><b>Đại Việt sử ký tiền biên</b></li>
+<li><b>Đại Việt sử ký tục biên</b> (soạn chung)</li>
+</ul>
+<a name="van-hoc"></a><h3>Văn học</h3>
+<ul>
+<li><b>Anh ngôn thi tập</b> (Tập thơ chim vẹt học nói), quyển thượng và quyển hạ</li>
+<li><b>Anh ngôn phú tập</b> (Tập phú chim vẹt học nói)</li>
+<li><b>Quan lan thi tập</b> (Tập thơ xem sóng)</li>
+<li><b>Nhị thanh động tập</b> (Tập thơ làm ở động Nhị Thanh)</li>
+<li><b>Khuê ai lục</b> (Ghi nỗi buồn đau về chuyện phòng khuê)</li>
+<li><b>Ngọ phong văn tập</b> (Tập văn Ngọ phong), quyển nhất và quyển nhị</li>
+<li><b>Hậu hiệu tần thi tập</b></li>
+<li><b>Bảo chương hoằng mô</b></li>
+<li><b>Sách chế khải tập</b></li>
+<li><b>Khoa sớ tập biên</b></li>
+</ul>
+<p>Theo <i>Từ điển nhân vật lịch sử Việt Nam</i>, ông còn có <b>Hải Dương chí lược</b> (hay <i>Hải Đông chí lược</i>).</p>
+<a name="trich-danh-gia"></a><h2>Trích đánh giá</h2>
+<ul>
+<li><a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a>:</li>
+</ul>
+<p>Tổ tiên (ông) trước mấy đời theo nghiệp Nho. Lúc trẻ ông sẵn nề nếp gia đình, càng chăm học; do văn chương mà được nổi tiếng. Trong cuộc tuyển cử để lấy người, ông được đứng đầu, rất được Nghị tổ (Trịnh Doanh) yêu và chú ý...Nhà vốn nghèo mà chí không nhụt. Ông có bài văn trách ma nghèo... Lúc tạm giữ chức Thiêm đô ngự sử, ông có điều trần 4 việc: <i>Xin định rõ phép khảo xét (các quan), xin sửa sang luật lệ kiện tụng, xin truy tôn bậc tiên nho, xin sửa lại thể thức làm văn</i>. Ông lại điều trần về việc binh, việc dân, chúa đều khen ngợi và nghe lời. Qua một tháng, ông được sai ra trấn Lạng Sơn. Bấy giờ hạt Lạng Sơn đói vì mất mùa, dân 7 châu phần nhiều đi nơi khác và chết đói ngoài đường. Khi ông đến, tìm cách cấp cứu. Rồi chiêu dụ dân lưu tán về khai khẩn ruộng hoang, tự mình đôn đốc việc cày bừa để khuyến khích dân biên giới. Đến vụ gặt mùa lúa tốt lắm. Do đó trộm giặc tiêu tan, trong hạt yên ổn. Khi việc tuần phòng rỗi rãi, ông lại nhởn nhơ nơi núi khe, tìm chốn thanh u, dò nơi hiểm trở, không có chỗ nào ông không đến. Ở phía Bắc trấn thành cách sông, ông mở mang động Nhị Thanh làm cảnh trí rất lạ. Khi việc quan thong thả ông thả thuyền tới động, leo lên bậc đá ngâm thơ, uống rượu; thật là hứng thú, phóng khoáng...<sup class="annotation badge" title="^ Phan Huy Chú, Lịch triều hiến chương lại chí (Tập 1), phần Nhân vật chí, tr. 398-399.">7</sup> </p>
+<ul>
+<li><a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a>:</li>
+</ul>
+<p>Ngô Thì Sĩ vốn là một người hăng hái làm việc. Ông thấu được rằng quyền lợi kẻ ăn lộc nước gắn bó mật thiết với cuộc sống yên lành của "dân đen"...Ngô Thì Sĩ cũng là người đưa ra nhiều dự án, đề nghị sửa đổi về các mặt: <i>thuế khoá khai hoang, chỉnh đốn văn thể, thay đổi chính sách, chấn chỉnh các cấp quan liêu</i>...Ông mong muốn "vua làm hết phận vua, tôi làm hết phận tôi" để cứu vãn tình trạng bê bối của xã hội Bắc Hà đương thời, nhưng rất tiếc ở hoàn cảnh ấy, ý muốn hay tài năng một cá nhân không dễ gì xoay chuyển nổi cục diện... Là một chính khách, một quan chức, nhưng bên cạnh đó, ở Ngô Thì Sĩ còn nổi bật lên một tư chất khác, đó là một tâm hồn nghệ sĩ, một con người đa cảm. Ở ông, mọi rung động đều mãnh liệt, sâu sắc. Ông luôn nhìn thấu tâm tư con người và cảm thông cùng họ, từ những bâng khuâng vì một duyên cớ mơ hồ đến những trăn trở, day dứt về số phận, cuộc sống... Với nội dung và số lượng phong phú của hơn 2000 trang tác phẩm, Ngô Thì Sĩ đã là một tác gia lớn không chỉ của dòng họ Ngô Thì. Ông đã đóng góp nhiều tư liệu quý qua hai hộ sử Tiền biên, Tục biên đồng thời còn là một ngòi bút bình luận sử, bình luận văn chương sắc sảo, nhiều ý kiến mới và giàu chất trữ tình qua <i>Việt sử tiêu án</i>. Ngô Thì Sĩ sáng tác nhiều, nhưng tựu trung có thể quy vào bốn đề tài lớn: <i>nông thôn, kẻ sĩ, quan chức, tình yêu</i> và <i>hạnh phúc gia đình</i>. Bốn mảng đề tài đó trong văn học các thế kỷ trước cũng đã được đề cập đến, nhưng đặc sắc riêng của Ngô Thì Sĩ là cách lý giải, nhìn nhận.</p>
+<p>Tài năng Ngô Thì Sĩ được tạo thành từ nhiều nguồn...tuy nhiên, điều kiện quan trọng nhất để Ngô Thì Sĩ có được sự nghiệp trước tác phong phú là tinh thần lao động nghiêm túc, say mê và tính năng động, sáng tạo trong học tập. Tất cả những điều đó cũng xuất phát từ một tấm lòng yêu dân, yêu đất nước, một tấm lòng đôn hậu, giàu tinh thần nhân ái. Ngày nay xem xét toàn bộ cuộc đời hoạt động và trước tác của Ngô Thì Sĩ, xem xét những đóng góp của ông trên các lĩnh vực chính sự và trước tác, có thể khẳng định ông là một nhân cách đẹp, một nhà văn, một nhà sử học có nhiều cống hiến, lãnh tụ của Ngô gia văn phái và là một trong không nhiều nhân vật lớn, tiên phong của thế kỷ 18<sup class="annotation badge" title="^ Lược theo Trần Thị Băng Thanh - Viện Văn học (bài viết in trong Danh nhân Hà Nội, do Vũ Khiêu chủ biên. Nhà xuất bản Hà Nội, 2004, tr. 453- 464). Xem bản điện tử ở đây: [2]">8</sup> .</p>
+<ul>
+<li><a class="annotation" href="/nhan-vat/nguyen-loc" title="Nguyễn Lộc (1912-1960) là một tôn sư võ thuật, sáng tổ môn võ Vovinam...." target="_blank" >Nguyễn Lộc</a>:</li>
+</ul>
+<p>Trong những công trình trước tác của Ngô Thì Sĩ, đáng chú ý hơn cả là quyển <i>Việt sử tiêu án</i>. Ông soạn sách này nhằm mục đích sửa chữa lại những sai lầm trong sử cũ. Trong sách, nhiều ý kiến của ông khá xác đáng, thể hiện tinh thần dân tộc sâu sắc, được các nhà sử học đời sau, trong đó có <a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a> trích dẫn lại. Về sáng tác thơ văn, hầu hết viết bằng thể thơ Đường luật, thỉnh thoảng mới có bài theo thể cổ phong, thể phú...Nội dung phần lớn viết về những phong cảnh ở những nơi ông có dịp đặt chân tới, không có gì thật đặc sắc. Ngoài đề tài thiên nhiên, ông dành riêng tập <i>Khuê ai lục</i> để viết về nỗi đau khổ của ông trước cái chết của người vợ thứ. Lời thơ thống thiết, xúc động. Về văn, ông có bài <i>Cách tệ sách</i> (Sách trừ tệ nạn) cũng đáng chú ý. Trong bài này, ông trình bày rất rõ tình cảnh khổ cực, đói nghèo, lưu tán của nhân dân lúc bấy giờ do nhiều nguyên nhân gây ra như chiến tranh, nạn hà hiếp cướp bóc của cường hào, thiên tai mất mùa và đề nghị phương hướng giải quyết tình trạng ấy.<sup class="annotation badge" title="^ Từ điển Văn học (bộ mới), tr. 1082-1083.">9</sup> </p>
+<ul>
+<li>Tạ Ngọc Liễn:</li>
+</ul>
+<p>Qua hàng loạt các bài biểu, bài khải...chứng tỏ ông là nhà chính trị có tầm nhìn xa rộng, có tâm huyết và có nhiều ý tưởng cải cách nền chính sự đương thời với mong muốn làm cho xã hội ổn định, nhân dân được sống, lao động yên vui. Trên lĩnh vực sử học, ông là một sử gia nổi tiếng, vì có tinh thần làm việc cẩn trọng, có ngòi bút sinh động, có nhiều phát hiện mới và có suy nghĩ riêng. Trong Ngô gia văn phái, có nhiều người viết sử tài ba, và ông chính là người mở đầu cho truyền thống ấy của dòng họ Ngô Thì. Về thơ cũng như văn xuôi, dù bàn chuyện chính sự hay bộc lộ tình cảm trữ tình, ngòi bút của ông thường khoáng đạt, đa dạng và hướng vào đời sống thực, ít dùng lối ước lệ, tượng trưng…Riêng ở văn, tính lạc quan, tính hài hước cũng là một phong cách văn chương của Ngô Thì Sĩ. Về quan niệm sáng tác, ông cho rằng văn chương phải thiết thực, hữu dụng, mới mẻ và có cốt cách riêng. Ông đả phá lối thơ chuộng hình thức, phù phiếm...<sup class="annotation badge" title="^ Lược theo Tạ Ngọc Liễn, tr. 206- 207.">10</sup> </p>
+<p>Đúc kết lại, Ngô Thì Sĩ là một <i>tác giả có nhiều bài thơ trữ tình, ngâm vịnh cảnh thiên nhiên, ca ngợi lòng ưu ái nhân hậu. Ông còn là người đi trước trong loại văn hồi ức, tự truyện, đã đưa lại cho văn học trung đại Việt Nam một nét trữ tình mới. Ông cũng có nhiều trang điều trần, ghi chép sắc sảo, in đậm phong cách nghị luận và ý thức chấn chỉnh, đổi mới đất nước</i>.</p>
+<a name="tai-lieu-lien-quan"></a><h2>Tài liệu liên quan</h2>
+<p>Trịnh Doanh và sau này cả <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> đều quý trọng tài thơ văn của Ngô Thì Sĩ. Có lần Trịnh Doanh giao cho các quan trong ban Văn làm bài phú về Chu Công, riêng Ngô Thì Sĩ, chúa đã sai Trung sứ chờ lấy từng đoạn đem về phủ cho chúa đọc, lại sai người thỉnh thoảng đem hoa quả ban cho...<sup class="annotation badge" title="^ Theo Trần Thị Băng Thanh [3].">11</sup> </p>
+<p>Tuy văn chương sắc sảo, nhiều ý tứ mới lạ nhưng vì phóng khoáng, không theo khuôn phép, nên mấy lần đi thi, khảo quan đều nhận ra văn bài của ông, cố tìm ra lỗi dù rất nhỏ để truất bỏ. Chúa Trịnh Doanh một đôi lần bắt phúc khảo nhưng việc đã rồi nên không thể sửa chữa được. Về sự việc này <a class="annotation" href="/nhan-vat/pham-dinh-ho" title="Phạm Đình Hổ (tiếng Trung: 範廷琥, 1768 - 1839), tự Tùng Niên (松年), Bỉnh Trực (秉直), bút hiệu Đông Dã Tiều (東野樵), biệt hiệu Chiêu Hổ tiên sinh (昭琥先生), là một danh sĩ sống ở giai đoạn cuối thế kỷ XVIII và đầu thế kỷ XIX...." target="_blank" >Phạm Đình Hổ</a> trong Vũ trung tùy bút chép như sau:</p>
+<dl>
+<dd><i>Đầu đời Cảnh Hưng (1740-1786) có ông Ngô Thì Sĩ nổi tiếng là bậc hay chữ, bị bọn quan đương thời ghen ghét, khi đến thi Hội các khảo quan dò xét hễ thấy quyển nào giọng văn hơi giống thì bảo nhau: "Quyển này hẳn là khẩu khí Ngô Thì Sĩ", thế là họ hết sức bới móc đánh hỏng đi. Trịnh chúa Nghị Tổ (Trịnh Doanh) biết có thói tệ ấy nên khi thi cử xong rồi, truyền đem quyển hỏng của Ngô Thì Sĩ ra duyệt lại. Các khảo quan bấy giờ, nhiều người bị truất phạt, nhưng vẫn không cấm chỉ được cái tệ ấy. Khoa Bính Tuất (1766), Ngô công bị bệnh tả, vào trường đệ tứ, cố làm qua loa cho xong quyển. Khảo quan chấm quyển bảo nhau: "Quyển này làm văn thì luyện đạt lắm, đáng là văn Hội nguyên, nhưng văn khí hơi yếu, không phải giọng văn Ngô Thì Sĩ". Chấm đến quyển của ông Nguyễn Bá Dương lại bảo nhau: "Quyển này văn khí khác thường, giống giọng văn Ngô Thì Sĩ nhưng làm văn lại kém, Thì Sĩ tất không làm như thế". Vì họ hồ đồ không biết định quyển nào là văn Ngô Thì Sĩ mà đánh hỏng nên Thì Sĩ mới đỗ hội nguyên."</i><sup class="annotation badge" title="^ Vũ trung tùy bút, mục Khoa cử, tr. 76.">12</sup> </dd>
+</dl>
+<a name="nghi-van"></a><h2>Nghi vấn</h2>
+<p>Theo <a class="annotation" href="/nhan-vat/tran-van-giap" title="Trần Văn Giáp (1902-1973), tự Thúc Ngọc là một học giả Việt Nam thế kỷ 20...." target="_blank" >Trần Văn Giáp</a> <sup class="annotation badge" title="^ Trần Văn Giáp, Tìm hiểu kho sách Hán Nôm (Tập 1), tr. 109.">13</sup>  và <a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a>, thì Ngô Thì Sĩ mất sau lần đi công cán trên ải Nam Quan trở về vào nằm nghỉ trong động Nhị Thanh, có lẽ là do bị cảm lạnh<sup class="annotation badge" title="^ [4].">14</sup> . Nhưng có sách lại cho rằng Ngô Thì Sĩ đã uống thuốc độc chết.</p>
+<p>Sách <i>Khâm định Việt sử thông giám cương mục</i> chép:</p>
+<dl>
+<dd><i>Trước khi Ngô (Thì) Nhậm tố cáo cơ mưu của <a class="annotation" href="/nhan-vat/trinh-khai" title="Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 1763 - 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh. 
+ Trịnh Tông là con trai trưởng của Thánh Tổ Thịnh vươn..." target="_blank" >Trịnh Khải</a>, có đem bàn với cha là Ngô (Thì) Sĩ. Ngô (Thì) Sĩ cố sức ngăn...Đến khi hay tin Ngô (Thì) Nhậm đã tố cáo, Ngô (Thì) Sĩ buồn bực mà uống thuốc độc tự tử. Ngô (Thì) Nhậm, vì có công tố giác, được thăng làm Hữu Thị lang bộ Công, nhưng thiên hạ lúc ấy lại có câu rằng: "Sát tứ phụ nhi Thị lang", nghĩa là "giết bốn người cha mà làm Thị lang".</i><sup class="annotation badge" title="^ Nguyễn Khắc Thuần giải thích: Bốn người cha ở đây gồm có: Ngô Thì Sĩ là cha ruột, Nguyễn Khản, Nguyễn Khắc Tuân và Nguyễn Phương Dĩnh đều là bạn của cha. Lại có người nói rằng Ngô Thì Sĩ là cha, Trịnh Khải là quân phụ, Nguyễn Khắc Tuân và Chu Xuân Hán đều là phụ chấp (bạn của bố)...(Nguyễn Khắc Thuần dẫn lại trong &quot;Việt sử giai thoại&quot; (Tập 7). Nhà xuất bản Giáo dục, 1988, tr. 100-102).">15</sup> </dd>
+</dl>
+<p>Sách <i>Lê quý dật sử</i> chép tương tự:</p>
+<dl>
+<dd><i>...(Ngô Thì) Sĩ thấy con bè đảng xu phụ Tuyên Phi (<a class="annotation" href="/nhan-vat/dang-thi-hue" title="Đặng Thị Huệ (chữ Hán: 鄧氏惠, không rõ năm sinh năm mất), thông gọi Đặng Tuyên phi (鄧宣妃), là một cung tần của chúa Trịnh Sâm, và là mẹ của vị chúa tiếp theo Trịnh Cán. Trong hậu phủ chúa Trịnh, bà được đánh giá là một giai nhân bậc nhất của phủ chúa và cũng rất được chúa Trịnh Sâm sủng ái. 
+ Theo Từ ..." target="_blank" >Đặng Thị Huệ</a>), vu khống Thế tử, ông bất bình, ra sức khuyên ngăn, nhưng (Ngô Thì) Nhậm không nghe, ông phẫn uất uống thuốc độc tự tử...(Sau vụ án) cất nhắc <a class="annotation" href="/nhan-vat/ngo-thi-nham" title="Ngô Thì Nhậm (吳時壬; còn gọi là Ngô Thời Nhiệm 吳時任; 25/10/1746–1803), tự là Hy Doãn(希尹), hiệu là Đạt Hiên(達軒), là danh sĩ, nhà văn đời hậu Lê–Tây Sơn, người có công lớn trong việc giúp triều Tây Sơn đánh lui quân Thanh. Ngô Thì Nhậm xuất thân gia đình vọng tộc chốn Bắc Hà, là con Ngô Thì Sĩ, người làn..." target="_blank" >Ngô Thì Nhậm</a> làm Công bộ tả thị lang, vì tố cáo Thế tử (<a class="annotation" href="/nhan-vat/trinh-khai" title="Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 1763 - 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh. 
+ Trịnh Tông là con trai trưởng của Thánh Tổ Thịnh vươn..." target="_blank" >Trịnh Khải</a>) nên được ban thưởng, thăng vượt cấp bảy lần.</i><sup class="annotation badge" title="^ Lê quý dật sử, tr. 42.">16</sup> </dd>
+</dl>
+<p>Chép khác có <i>Hoàng Lê nhất thống chí</i>. Theo sách này, chỉ có một mình Nguyễn Huy Bá đứng ra tố giác, còn <a class="annotation" href="/nhan-vat/ngo-thi-nham" title="Ngô Thì Nhậm (吳時壬; còn gọi là Ngô Thời Nhiệm 吳時任; 25/10/1746–1803), tự là Hy Doãn(希尹), hiệu là Đạt Hiên(達軒), là danh sĩ, nhà văn đời hậu Lê–Tây Sơn, người có công lớn trong việc giúp triều Tây Sơn đánh lui quân Thanh. Ngô Thì Nhậm xuất thân gia đình vọng tộc chốn Bắc Hà, là con Ngô Thì Sĩ, người làn..." target="_blank" >Ngô Thì Nhậm</a> thì đã có lời khuyên Nguyễn Khắc Tuân phải hỏa tốc về kinh can ngăn <a class="annotation" href="/nhan-vat/trinh-khai" title="Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 1763 - 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh. 
+ Trịnh Tông là con trai trưởng của Thánh Tổ Thịnh vươn..." target="_blank" >Trịnh Khải</a> dừng lại cơ mưu, nhưng không được nghe. Đến khi ông Tuân bị bắt giam, ông Nhậm định tìm cách gỡ tội, nhưng vì việc tang (cha mất) nên phải về.<sup class="annotation badge" title="^ Hoàng Lê nhất thống chí (tập I), tr. 21-24. Xem thêm: Vụ án năm Canh Tý.">17</sup> .</p>
+<p>Để sáng tỏ vấn đề này cần phải nghiên cứu thêm.</p>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<div class="reflist columns references-column-count references-column-count-4">
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <span class="reference-text">Khi <a class="annotation" href="/nhan-vat/ngo-thi-nham" title="Ngô Thì Nhậm (吳時壬; còn gọi là Ngô Thời Nhiệm 吳時任; 25/10/1746–1803), tự là Hy Doãn(希尹), hiệu là Đạt Hiên(達軒), là danh sĩ, nhà văn đời hậu Lê–Tây Sơn, người có công lớn trong việc giúp triều Tây Sơn đánh lui quân Thanh. Ngô Thì Nhậm xuất thân gia đình vọng tộc chốn Bắc Hà, là con Ngô Thì Sĩ, người làn..." target="_blank" >Ngô Thì Nhậm</a> làm quan ở trấn Kinh Bắc, đã dâng ông Phật hiệu là <i>Nhị Thanh trường thọ quan tự tại phúc lượng đại hải chân như vô tận ý bồ tát</i> (theo <a class="annotation" href="/nhan-vat/tran-van-giap" title="Trần Văn Giáp (1902-1973), tự Thúc Ngọc là một học giả Việt Nam thế kỷ 20...." target="_blank" >Trần Văn Giáp</a>, <i>Tìm hiểu kho sách Hán Nôm (tập I),</i>tr. 109).</span></li>
+<li id="cite_note-2"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a>, <i>Lịch triều hiến chương loại chí (Tập I)</i>, phần <i>Nhân vật chí</i>, tr. 399). Nam Châu tức Sơn Nam thượng.</span></li>
+<li id="cite_note-3"><b>^</b> <span class="reference-text">Trong làng Tó có ba dòng họ lớn, đó là họ Nguyễn, họ Ngô Vi và Ngô Đình (trước Ngô Thì Sĩ, dòng họ Ngô của ông, tên có lót chữ Đình).</span></li>
+<li id="cite_note-4"><b>^</b> <span class="reference-text">Thời điểm Ngô Thì Sĩ ra Thăng Long theo học với ông Đĩnh và ông Toản, ở đây chép theo <a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a> (<i>Ngô Thì Sĩ</i>, tr.14); <a class="annotation" href="/nhan-vat/tran-van-giap" title="Trần Văn Giáp (1902-1973), tự Thúc Ngọc là một học giả Việt Nam thế kỷ 20...." target="_blank" >Trần Văn Giáp</a> thì cho rằng khi ông Sĩ đã đậu Hương Tiến (1743), mới theo học hai ông thầy vừa kể (<i>Tìm hiểu kho sách Hán Nôm</i>, tr. 109).</span></li>
+<li id="cite_note-5"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a>, <i>Ngô Thì Sĩ</i>, tr. 15.</span></li>
+<li id="cite_note-6"><b>^</b> <span class="reference-text">Đề cập đến vụ án này, <a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a> viết: Điều kỳ lạ là triều đình không nghị bàn, hạ lệnh cách chức ngay. <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a>, một quan đại thần rất có thế lực trong triều, lúc đó đang cầm quân ở Nghệ An, lại thêm vào án kỷ luật bốn chữ "hoàn dân thụ dịch" (nghĩa là trả về làm dân chịu sai dịch). Người đương thời và nhiều sử sách, kể cả Việt sử thông giám cương mục, đều xác nhận trong vụ án kỷ luật đó, Ngô Thì Sĩ chỉ là nạn nhân của sự gièm pha nghi kỵ lúc đó đang dấy lên gay gắt trong triều. <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> bấy giờ đã lên ngôi chúa được gần năm năm, trong thời gian đó cũng có một số hành vi lấn át vua Lê, nhiều đình thần bàn tán chê bai. Người ta lấy một câu thơ Ngô Thì Sĩ vịnh cảnh <a class="annotation" href="/dia-danh/ho-tay" title="Hồ Tây trước đây còn có các tên gọi khác như Đầm Xác Cáo, Hồ Kim Ngưu, Lãng Bạc, Dâm Đàm, Đoài Hồ, là một hồ nước tự nhiên lớn nhất ở nội thành Hà Nội. Hồ có diện tích hơn 500 ha với chu vi là 18&amp;#160;km . Hồ nằm ở vị trí phía tây bắc trung tâm Hà Nội. Ngành địa lý lịch sử đã chứng minh, hồ Tây là m..." target="_blank" >Hồ Tây</a>: Tây Hồ tình vũ cánh nghi chu (Mưa hay tạnh, Tây Hồ đều đáng thả thuyền chơi), sửa thành một câu thơ nói bóng gió chuyện chính sự: Tây Hồ thảo thụ khủng phi Chu (Cây cỏ <a class="annotation" href="/dia-danh/ho-tay" title="Hồ Tây trước đây còn có các tên gọi khác như Đầm Xác Cáo, Hồ Kim Ngưu, Lãng Bạc, Dâm Đàm, Đoài Hồ, là một hồ nước tự nhiên lớn nhất ở nội thành Hà Nội. Hồ có diện tích hơn 500 ha với chu vi là 18&amp;#160;km . Hồ nằm ở vị trí phía tây bắc trung tâm Hà Nội. Ngành địa lý lịch sử đã chứng minh, hồ Tây là m..." target="_blank" >Hồ Tây</a> e không còn là của <a class="annotation" href="/nhan-vat/nha-chu" title="Nhà Chu (tiếng Trung: 周朝; bính âm: Zhōu Cháo; Wade–Giles: Chou Ch'ao [tʂóʊ tʂʰɑ̌ʊ]) là triều đại phong kiến trong lịch sử Trung Quốc, triều đại này nối tiếp sau nhà Thương và trước nhà Tần ở Trung Quốc. 
+ Nhà Chu tồn tại lâu hơn bất cứ một triều đại nào khác trong lịch sử Trung Quốc, khoảng 800 năm...." target="_blank" >nhà Chu</a> nữa). Do vậy <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> sinh "ngờ" Ngô Thì Sĩ. Mặt khác vì sợ thế lực <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a>, một số triều sĩ viết thư nặc danh nhắc <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> nên hạn chế quyền hành của viên tướng đầy quyền uy này. Nhưng tin ấy khi đến tai Ngũ Phúc thì "triều sĩ" đã thành "Ngô Sĩ" và đây chính là duyên cớ để Phúc thêm vào bốn chữ "hoàn dân thụ dịch" trong lệnh cách chức ông. Theo [1].</span></li>
+<li id="cite_note-7"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a>, <i>Lịch triều hiến chương lại chí</i> (Tập 1), phần <i>Nhân vật chí</i>, tr. 398-399.</span></li>
+<li id="cite_note-8"><b>^</b> <span class="reference-text">Lược theo <a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a> - Viện Văn học (bài viết in trong <i>Danh nhân Hà Nội</i>, do <a class="annotation" href="/nhan-vat/vu-khieu" title="Vũ Khiêu, tên thật là Đặng Vũ Khiêu (19/09/1916), là một học giả nghiên cứu về văn hóa Việt Nam, Viện trưởng đầu tiên của Viện Xã hội học Việt Nam, nguyên Phó Giám đốc Thông tấn xã Việt Nam, nguyên Phó Chủ nhiệm Ủy ban Khoa học Xã hội (nay là Viện Khoa học Xã hội Việt Nam)...." target="_blank" >Vũ Khiêu</a> chủ biên. Nhà xuất bản Hà Nội, 2004, tr. 453- 464). Xem bản điện tử ở đây: [2]</span></li>
+<li id="cite_note-9"><b>^</b> <span class="reference-text"><i>Từ điển Văn học (bộ mới)</i>, tr. 1082-1083.</span></li>
+<li id="cite_note-10"><b>^</b> <span class="reference-text">Lược theo Tạ Ngọc Liễn, tr. 206- 207.</span></li>
+<li id="cite_note-11"><b>^</b> <span class="reference-text">Theo <a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a> [3].</span></li>
+<li id="cite_note-12"><b>^</b> <span class="reference-text"><i>Vũ trung tùy bút</i>, mục <i>Khoa cử</i>, tr. 76.</span></li>
+<li id="cite_note-13"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/tran-van-giap" title="Trần Văn Giáp (1902-1973), tự Thúc Ngọc là một học giả Việt Nam thế kỷ 20...." target="_blank" >Trần Văn Giáp</a>, <i>Tìm hiểu kho sách Hán Nôm (Tập 1),</i> tr. 109.</span></li>
+<li id="cite_note-14"><b>^</b> <span class="reference-text">[4].</span></li>
+<li id="cite_note-15"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> giải thích: Bốn người cha ở đây gồm có: Ngô Thì Sĩ là cha ruột, Nguyễn Khản, Nguyễn Khắc Tuân và Nguyễn Phương Dĩnh đều là bạn của cha. Lại có người nói rằng Ngô Thì Sĩ là cha, <a class="annotation" href="/nhan-vat/trinh-khai" title="Đoan Nam Vương Trịnh Tông (chữ Hán: 鄭棕; 1763 - 1786), còn có tên khác là Trịnh Khải (鄭楷) là vị chúa Trịnh thứ 10 thời Lê Trung Hưng trong lịch sử Việt Nam, cầm quyền từ năm 1782 tới năm 1786, ở giai đoạn tan rã của tập đoàn phong kiến họ Trịnh. 
+ Trịnh Tông là con trai trưởng của Thánh Tổ Thịnh vươn..." target="_blank" >Trịnh Khải</a> là quân phụ, Nguyễn Khắc Tuân và Chu Xuân Hán đều là phụ chấp (bạn của bố)...(<a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> dẫn lại trong "Việt sử giai thoại" (Tập 7). Nhà xuất bản Giáo dục, 1988, tr. 100-102).</span></li>
+<li id="cite_note-16"><b>^</b> <span class="reference-text"><i>Lê quý dật sử</i>, tr. 42.</span></li>
+<li id="cite_note-17"><b>^</b> <span class="reference-text"><i>Hoàng Lê nhất thống chí</i> (tập I), tr. 21-24. Xem thêm: Vụ án năm Canh Tý.</span></li>
+</ol>
+</div>
+<ul>
+<li>Ngô gia văn phái, <i>Hoàng Lê nhất thống chí</i> (Tập I), Nhà xuất bản Văn học, 1984.</li>
+<li><a class="annotation" href="/nhan-vat/bui-duong-lich" title="Bùi Dương Lịch (chữ Hán: 裴楊瓑; 1757 – 1828) có tên tự là Tồn Thành(存成), hiệu Thạch Phủ(石甫) và Tồn Trai(存齋) ; là một nhà giáo và là văn thần trải ba triều đại khác nhau: Lê trung hưng, Tây Sơn và nhà Nguyễn trong lịch sử Việt Nam...." target="_blank" >Bùi Dương Lịch</a>, <i>Lê quý dật sử.</i> Bản dịch của Phạm Văn Thắm. Nhà xuất bản KHXH, Hà Nội, 1987.</li>
+<li><a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a>, <i>Lịch triều hiến chương loại chí</i> (Tập I). Nhà xuất bản Khoa học Xã hội, 1992.</li>
+<li><a class="annotation" href="/nhan-vat/pham-dinh-ho" title="Phạm Đình Hổ (tiếng Trung: 範廷琥, 1768 - 1839), tự Tùng Niên (松年), Bỉnh Trực (秉直), bút hiệu Đông Dã Tiều (東野樵), biệt hiệu Chiêu Hổ tiên sinh (昭琥先生), là một danh sĩ sống ở giai đoạn cuối thế kỷ XVIII và đầu thế kỷ XIX...." target="_blank" >Phạm Đình Hổ</a>, Vũ trung tùy bút. Nhà xuất bản Trẻ và Hội nghiên cứu giảng dạy Văn học TP. HCM cùng ấn hành, 1989.</li>
+<li><a class="annotation" href="/nhan-vat/tran-van-giap" title="Trần Văn Giáp (1902-1973), tự Thúc Ngọc là một học giả Việt Nam thế kỷ 20...." target="_blank" >Trần Văn Giáp</a>, <i>Tìm hiểu kho sách Hán Nôm</i> (Tập I). Nhà xuất bản Văn hóa, Hà Nội, 1984.</li>
+<li>Nhiều người soạn, <i>Từ điển Văn học (bộ mới</i>). Nhà xuất bản Thế giới, 2004.</li>
+<li><a class="annotation" href="/nhan-vat/tran-thi-bang-thanh" title="Trần Thị Băng Thanh (sinh 1938) là một nhà nghiên cứu văn học người Việt Nam. Bà được mệnh danh là &quot;Bà đồ nho&quot; với rất nhiều công trình nghiên cứu, biên soạn, viết sách, dịch thuật văn học phương Đông nổi tiếng và là nữ giảng viên đầu tiên dạy Hán Nôm bậc Đại học tại miền Bắc Việt Nam...." target="_blank" >Trần Thị Băng Thanh</a>, <i>Ngô Thì Sĩ</i>. Nhà xuất bản Hà Nội, 1987.</li>
+<li>Nguyễn Q. Thắng và Nguyễn Bá Thế, <i>Từ điển nhân vật lịch sử Việt Nam</i>. Nhà xuất bản KHXH, 1992.</li>
+<li>Tạ Ngọc Liễn, <i>Danh nhân văn hóa trong lịch sử Việt Nam</i>. Nhà xuất bản Thanh Niên, 2008.</li>
+<li>Ngô Thì Sĩ</li>
+<li>Ngô Thì Sĩ</li>
+</ul>
+<table id="persondata" class="persondata table table-striped">
+<tbody>
+<tr>
+<th colspan="2">Dữ liệu nhân vật</th>
+</tr>
+<tr>
+<td class="persondata-label">TÊN</td>
+<td>Ngô Thì Sĩ</td>
+</tr>
+<tr>
+<td class="persondata-label">TÊN KHÁC</td>
+<td>吳時士; Ngọ Phong (hiệu); 午風 (chữ Trung Quốc)</td>
+</tr>
+<tr>
+<td class="persondata-label">TÓM TẮT</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label">NGÀY SINH</td>
+<td>1726</td>
+</tr>
+<tr>
+<td class="persondata-label">NƠI SINH</td>
+<td>Hà Nội</td>
+</tr>
+<tr>
+<td class="persondata-label">NGÀY MẤT</td>
+<td>1780</td>
+</tr>
+<tr>
+<td class="persondata-label">NƠI MẤT</td>
+<td>Lạng Sơn</td>
+</tr>
+</tbody>
+</table><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ngo-thi-nham" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Ngô Thì Nhậm            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/ngo-thi-sy" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Ngô Thì Sỹ            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/ngo-thi-si" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chien-thang-dien-bien-phu" class="mod-articles-category-title ">Khu di tích chiến thắng Điện Biên Phủ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

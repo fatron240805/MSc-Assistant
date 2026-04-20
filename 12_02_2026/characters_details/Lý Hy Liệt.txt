@@ -1,0 +1,1407 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Lý Hi Liệt (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786), hay Đổng Hi Liệt (董希烈), là Tiết độ sứ Hoài Tây dưới thời đại nhà Đường trong lịch sử Trung Quốc. Ông tiến hành cuộc chính biến lật đổ Tiết độ sứ Lý Trung Thần năm 779 và nắm quyền cai trị ở Hoài Tây. Khi loạn tứ trấn bùng nổ, ông hưởng...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Lý Hy Liệt - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"918e33e061c3383df3b8d41f3d27998c"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Lý Hy Liệt" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Lý Hi Liệt (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786), hay Đổng Hi Liệt (董希烈), là Tiết độ sứ Hoài Tây d.." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/ly-hy-liet" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Lý Hy Liệt", "item": "https://nguoikesu.com/nhan-vat/ly-hy-liet" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/ly-hy-liet" }, "headline": "Lý Hy Liệt", "description": "Lý Hi Liệt (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786), hay Đổng Hi Liệt (董希烈), là Tiết độ sứ Hoài Tây dưới thời đại nhà Đường trong lịch sử Trung Quốc. Ông tiến hành cuộc chính biến lật đổ Tiết độ sứ Lý Trung Thần năm 779 và nắm quyền cai trị ở Hoài Tây. Khi loạn tứ trấn bùng nổ, ông hưởng ứng triều đình tham gia tiêu diệt Tiết độ sứ Lương Sùng Nghĩa ở Sơn Nam Đông Đạo, tuy nhiên sau đó lại bất mãn với triều đình và tự xưng là hoàng đế nước Đại Sở (784). Trong tình thế loạn Phụng Thiên sắp bị dẹp, Lý Hi Liệt vẫn cố gắng mở rộng lãnh thổ của mình, nhưng bị phản kháng liên tiếp từ các lực lượng ủng hộ nhà Đường. Năm 785, quốc đô Biện châu bị chiếm, Lý Hi Liệt bỏ chạy về Thái châu rồi bị tướng dưới quyền là Trần Tiên Kì đầu độc giết năm 786, chính quyền Đại Sở bị tiêu diệt. Trấn Hoài Tây sau đó thuộc quyền quản lý của Ngô Thiếu Thành.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/ly-hy-liet" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-31T11:32:51+07:00", "dateCreated": "2017-10-31T11:32:51+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Lý Hy Liệt</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Lý Hy Liệt        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#chiem-ngoi-tiet-do-su" title="">Chiếm ngôi Tiết độ sứ</a></li>
+<li class="level-1"><a href="#diet-luong-sung-nghia" title="">Diệt Lương Sùng Nghĩa</a></li>
+<li class="level-1"><a href="#chong-doi-trieu-dinh" title="">Chống đối triều đình</a></li>
+<li class="level-1"><a href="#xung-de-va-qua-doi" title="">Xưng đế và qua đời</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><p><b>Lý Hi Liệt</b> (chữ Hán: 李希烈, bính âm: Li Xilie, 9 tháng 5 năm 786<sup class="annotation badge" title="^ Academia Sinica - Chuyển hoán Trung Tây 2000 năm">1</sup> <sup class="annotation badge" title="^ a ă Tư trị thông giám, quyển 232 Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “TTTG232” được định rõ nhiều lần, mỗi lần có nội dung khác">2</sup> ), hay <b>Đổng Hi Liệt</b> (董希烈), là Tiết độ sứ Hoài Tây<sup class="annotation badge" title="^ Trị sở nay thuộc Trú Mã Điếm, Hà Nam, Trung Quốc">3</sup>  dưới thời đại <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a> trong lịch sử Trung Quốc. Ông tiến hành cuộc chính biến lật đổ Tiết độ sứ Lý Trung Thần năm 779 và nắm quyền cai trị ở Hoài Tây. Khi loạn tứ trấn bùng nổ, ông hưởng ứng triều đình tham gia tiêu diệt Tiết độ sứ Lương Sùng Nghĩa ở Sơn Nam Đông Đạo<sup class="annotation badge" title="^ Trị sở nay thuộc Tương Phàn, Hà Bắc, Trung Quốc">4</sup> , tuy nhiên sau đó lại bất mãn với triều đình và tự xưng là hoàng đế nước Đại Sở (784). Trong tình thế loạn Phụng Thiên sắp bị dẹp, Lý Hi Liệt vẫn cố gắng mở rộng lãnh thổ của mình, nhưng bị phản kháng liên tiếp từ các lực lượng ủng hộ <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a>. Năm 785, quốc đô Biện châu bị chiếm, Lý Hi Liệt bỏ chạy về Thái châu rồi bị tướng dưới quyền là Trần Tiên Kì đầu độc giết năm 786, chính quyền Đại Sở bị tiêu diệt. Trấn Hoài Tây sau đó thuộc quyền quản lý của Ngô Thiếu Thành.</p>
+<p></p>
+<p></p>
+<a name="chiem-ngoi-tiet-do-su"></a><h2>Chiếm ngôi Tiết độ sứ</h2>
+<p>Cha của Lý Hi Liệt là Đổng Đại Định, em họ của tiền tiết độ sứ Lý Trung Thần (nguyên họ Đổng)<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> , về sau do Trung Thần được ban quốc tính nên Đổng Hi Liệt cũng đổi sang họ Lý. Không rõ ông chào đời vào năm nào, sử sách chỉ cho biết nguyên quán của ông là vùng Liêu Tây<sup class="annotation badge" title="^ Tứ Bình, Cát Lâm, Trung Quốc ngày nay">6</sup> . Ban đầu ông là sĩ tốt ở trấn Bình Lư<sup class="annotation badge" title="^ Trị sở lúc này nằm ở Triều Dương, Liêu Ninh, Trung Quốc">7</sup> . Do anh họ cha ông là Lý Trung Thần có công trong việc dẹp loạn An Sử nên được phong làm Tiết độ sứ ở Hoài Tây, Lý Hi Liệt khi đó cũng cùng Lý Trung Thần vượt sông tới Hà Nam và sau đó trở thành tướng phục vụ dưới quyền Lý Trung Thần. Cuối những năm Bảo Ứng thời Đường Đại Tông, Lý Hi Liệt được thụ phong Tướng quân, Quang Lộc khanh, Điện Trung giám. Khi Lý Trung Thần tham gia vào chiến dịch tiêu diệt tướng làm phản Lý Linh Diệu (776) và được kiêm lĩnh Biện châu<sup class="annotation badge" title="^ Khai Phong, Hà Nam, Trung Quốc ngày nay">8</sup> , thì Lý Hi Liệt được thăng làm Tả sương đô ngu hậu, gia Khai phủ nghi đồng tam ti.</p>
+<p>Lý Trung Thần bị sử sách đánh giá là kẻ tham lam, hung bạo và háo sắc. Ông ta không tu quân chính, lại còn cưỡng dâm vợ và con gái của nhiều tướng dưới quyền. Ông phó thác việc trong phủ cho em rể là phó sứ Trương Huệ Quang; cha con người này lộng quyền quá, nhân dân oán hận. Lý Hi Liệt được mọi người hướng về, bèn nảy sinh ý khác. Ông liên kết Thiếu tướng Đinh Hạo, Cổ Tử Hoa, Giám quân quan tương Tri Chương... khởi binh, giết chết cha con Huệ Quang vào ngày 28 tháng 3 năm 779<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> , và đuổi Lý Trung Thần. Trung Thần bỏ trốn đến Trường An và được triều đình trọng vọng. Vua Đại Tông phong cho con trai mình là Hãn vương là phó đại sứ Hoài Tây (trên danh nghĩa), phong Lý Hi Liệt làm thứ sử Thái châu, kiêm Ngự sử trung thừa, Hoài Tây lưu hậu, tuy nhiên lại cắt đất Biện châu khỏi trấn Hoài Tây và giao cho Tiết độ sứ Hoạt Bạc Lý Miễn.</p>
+<a name="diet-luong-sung-nghia"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Diệt Lương Sùng Nghĩa</h2>
+<p>Năm 779, Đường Đức Tông lên ngôi<sup class="annotation badge" title="^ Tư trị thông giám, quyển 226">9</sup> . Gia phong Ngự sử đại phu, Hoài Tây tiết độ chi độ Doanh điền quan sát sứ, sau chính thức phong ông làm Tiết độ sứ Hoài Tây<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> . Năm Kiến Trung nguyên niên, gia Kiểm giáo Lễ bộ thượng thư. Lý Hi Liệt nhiều lần dâng tấu đề nghị Đức Tông hạn chế thế lực của các phiên trấn như Lý Chánh Kỉ ở Tri Thanh<sup class="annotation badge" title="^ Trị sở nay thuộc Thái An, Sơn Đông, Trung Quốc">10</sup> , Điền Thừa Tự ở Ngụy Bác<sup class="annotation badge" title="^ Trị sở nay thuộc Hàm Đan, Hà Bắc, Trung Quốc">11</sup>  và <a class="annotation" href="/nhan-vat/ly-bao-than" title="Lý Bảo Thần (chữ Hán: 李寶臣, 718 - tháng 6 năm 781), nguyên quán ở Phạm Dương, tên thật là Trương Trung Chí (張忠誌), còn gọi là Trương Bảo Thần (張寶臣) hay An Trung Chí (安忠志),, tên tự là Vi Phụ (為輔), tước hiệu Lũng Tây vương (隴西王), là tiết độ sứ Thành Đức thời nhà Đường trong lịch sử Trung Quốc. Ông từng ..." target="_blank" >Lý Bảo Thần</a> ở Thành Đức<sup class="annotation badge" title="^ Trị sở nay thuộc Thạch Gia Trang, Hà Bắc, Trung Quốc">12</sup>  và Lương Sùng Nghĩa ở Sơn Nam Đông Đạo; rất hợp với ý của Đức Tông, vì thế Lý Hi Liệt được tin tưởng hơn trước.</p>
+<p>Năm 781, <a class="annotation" href="/nhan-vat/ly-bao-than" title="Lý Bảo Thần (chữ Hán: 李寶臣, 718 - tháng 6 năm 781), nguyên quán ở Phạm Dương, tên thật là Trương Trung Chí (張忠誌), còn gọi là Trương Bảo Thần (張寶臣) hay An Trung Chí (安忠志),, tên tự là Vi Phụ (為輔), tước hiệu Lũng Tây vương (隴西王), là tiết độ sứ Thành Đức thời nhà Đường trong lịch sử Trung Quốc. Ông từng ..." target="_blank" >Lý Bảo Thần</a> ở Thành Đức qua đi, con là Lý Duy Nhạc lên nắm quyền, nhưng triều đình <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a> không công nhận. Lý Duy Nhạc liền liên kết với Điền Duyệt ở Ngụy Bác, Lương Sùng Nghĩa ở Sơn Nam Đông Đạo và Lý Chánh Kỉ ở Tri Thanh cùng nhau kháng cự triều mệnh. Trong bốn trấn này thì Lương Sùng Nghĩa là phiên trấn có thế lực yếu nhất, các trấn xung quanh ông đều vẫn còn trung thành với triều đình, vì thế Sùng Nghĩa tỏ ra thận trọng hơn, chưa dám công khai gây chiến. Vua Đức Tông biết tin hạ lệnh triệu hồi Lương Sùng Nghĩa đến Trường An, từ đó Sùng Nghĩa quyết tâm phản lại triều đình.</p>
+<p>Mùa hạ năm 781, tháng 6 ÂL, Đức Tông triệu tập các tiết độ sứ thảo phạt Lương Sùng Nghĩa, trong đó quân Hoài Tây là lực lượng chủ chốt. Có chiếu phong Lý Hi Liệt làm Nam Bình quận vương, kiêm Hán Bắc đô tri chư binh mã chiêu phủ xử trí sứ, ra quân đánh Lương Sùng Nghĩa<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> . Tể tướng Dương Viêm ra sức can ngăn, cho rằng trước kia Lý Hi Liệt đã phản lại chủ cũ, tức Lý Trung Thần thì quả là người không đáng tin. Đức Tông không nghe, còn hạ chiếu biểu dương sự trung thành của ông. Đại thần Lý Thừa dâng sớ cảnh báo rằng nếu Lý Hi Liệt đánh bại Lương Sùng Nghĩa rồi thì sẽ càng kiêu ngạo bất phục, về sau sẽ khó khống chế. Lúc Lý Hi Liệt tiến quân vào giữa mùa mưa nên hành quân chậm, gian tướng Lư Kỉ vốn có hiềm khích với Dương Viêm, tấu rằng Lý Hi Liệt chậm trễ trong việc tiến quân là do bất mãn với Dương Viêm, kết quả là Đức Tông bãi chức Dương Viêm, dùng Lư Kỉ làm tể tướng. Lúc này Lương Sùng Nghĩa cử quân tấn công Giang Lăng, mở đường tiến xuống phía nam, nhưng bị Lý Hi Liệt đánh bại một trận lớn ở Tứ Vọng (Tương Phàn hiện nay), phải lui về Tương châu, tập hợp quân lính ở hai châu Tương, Đặng cùng chống lại sự tấn công của triều đình. Lý Hi Liệt tiến quân về phía tây bắc, đến được Tương châu. Lương Sùng Nghĩa cho quân đánh úp trại của Lý Hi Liệt tại Lâm Hán (gần Tương châu), giết được vài trăm sĩ tốt. Lý Hi Liệt cử quân cứu viện. Các tướng Sơn Nam là Địch Huy và Đỗ Thiếu Thành bị tấn công và đánh bại quân Sơn Nam tại Man Thủy<sup class="annotation badge" title="^ Khúc sông Trường Giang chảy ngang qua vùng Tương, Phàn">13</sup>  và Sơ Khẩu (thuộc Tương châu), sau đó đầu hàng Lý Hi Liệt. Ông chia quân cho họ, giao nhiệm vụ tiến công vào Tương Dương (trị sở của Tương châu). Lương Sùng Nghĩa ra trận đốc thúc quân sĩ chiến đấu, nhưng chẳng ai nghe lệnh, quân sĩ phá cửa thành bỏ chạy. Sùng Nghĩa tuyệt vọng liền cùng thê thiếp và các con nhảy xuống giếng, tự tử<sup class="annotation badge" title="^ a ă â Tư trị thông giám, quyển 227.">14</sup> . Lý Hi Liệt cho lôi cái xác của Lương Sùng Nghĩa lên, cắt đầu rồi gửi đến Trường An, lại giết một số thân thích và thân hữu của Sùng Nghĩa, cùng khoảng 3000 quân sĩ tham gia vào chiến dịch Lâm Hán. Có chiếu lấy công phong cho Lý Hi Liệt là Kiểm giáo hữu phó xạ, Đồng trung thư môn hạ bình chương sự, thực phong 500 hộ.</p>
+<a name="chong-doi-trieu-dinh"></a><h2>Chống đối triều đình</h2>
+<p>Sau khi Tương châu bị chiếm thì đất Sơn Nam trở về với triều đình, nhưng Lý Hi Liệt vẫn giữ quân ở Hoài Tây, coi đó như lãnh địa của mình. Vua Đức Tông cử Lý Thừa là Tiết độ sứ Sơn Nam Đông Đạo, sai đến thủ dụ Hi Liệt. Khi Lý Thừa không đem theo một sĩ tốt nào, đến Tương châu, Lý Hi Liệt tiếp đãi sơ sài và chỉ cho ở nhà khách, lại tìm cách đe dọa Lý Thừa. Lý Thừa tỏ ra điềm tĩnh và không có ý rời khỏi Tương Phàn. Về phần Lý Hi Liệt thấy lực lượng còn chưa đủ mạnh để chống lại triều đình, nên cho quân cướp bóc ở Tương châu thêm mấy ngày rồi rút lui. Lúc này Lý Chánh Kỉ ở Tri Thanh đã chết, con là Lý Nạp lên thay, tiếp tục kháng lệnh triều đình. Vua Đức Tông phong ông là Kiểm giáo tư không, Tri Thanh Duyện Vận Đăng Lai Tề đẳng châu tiết độ chi doanh điền; Tân La, Bột Hải lưỡng phiên sứ, thảo phạt Lý Nạp. Tình hình ở Hà Bắc khi đó rất rối ren. Vương Vũ Tuấn giết được Lý Duy Nhạc nhưng oán triều đình thưởng bạc, lại liên kết với Lý Nạp, Điền Duyệt và Chu Thao ở Lư Long<sup class="annotation badge" title="^ Trị sở thuộc thủ đô Bắc Kinh, Trung Quốc hiện nay">15</sup>  ra quân làm phản, gọi là loạn tứ trấn<sup class="annotation badge" title="^ a ă â Tư trị thông giám, quyển 227.">14</sup> .</p>
+<p>Lý Hi Liệt thống lĩnh 30.000 quân mã, dời trị sở Hoài Tây đến Hứa châu<sup class="annotation badge" title="^ Hứa Xương, Hà Nam, Trung Quốc ngày nay">16</sup> , bề ngoài nói là để thuận tiện cho việc chiêu dụ hoặc tấn công Lý Nạp, nhưng thực chất là ông đã bí mật giao thông với chư tặc ở Hà Bắc, bàn kế làm loạn. Ông vờ sai sứ đến chỗ Tiết độ sứ Vĩnh Bình<sup class="annotation badge" title="^ Trị sở nay thuộc Khai Phong, Hà Nam, Trung Quốc">17</sup>  là Lý Miễn, xin mượn đường đánh Lý Nạp. Lý Miễn có ý nghi ngờ, tuy vẫn cho mượn đường nhưng lệnh binh sĩ phòng bị nghiêm ngặt, do vậy Lý Hi Liệt không dám tấn công. Nhưng cũng kể từ đó, Lý Hi Liệt tỏ ra kiêu căng, ngạo mạn và muốn chống triều đình.</p>
+<p>Ngày 9 tháng 12 năm 782, bốn trấn làm phản cùng nhau xưng vương hiệu: Chu Thao xưng là Kỳ vương, Điền Duyệt là Ngụy vương, Vương Vũ Tuấn là Triệu vương, Lý Nạp xưng Tề vương, chính thức li khai với triều đình<sup class="annotation badge" title="^ a ă â Tư trị thông giám, quyển 227.">14</sup> . Nhưng ở bốn trấn khi đó, quân lương thiếu thốn, còn Lý Hi Liệt binh lương nhiều, nên bốn trấn bàn tính việc lôi kéo Lý Hi Liệt về phía mình, thỉnh Hi Liệt xưng đế hiệu. Hi Liệt chưa bằng lòng hắn, bèn giả mệnh Đức Tông, tự lập Thiên hạ đô nguyên soái, Thái úy, Kiến Hưng vương. Năm sau, bốn trấn sai sứ đến chỗ Lý Hi Liệt, thượng biểu xưng thần, khuyến tiến.</p>
+<p>Mùa xuân năm 783, Hi Liệt cử quân xâm nhập Nhữ châu<sup class="annotation badge" title="^ Lạc Dương, Hà Nam, Trung Quốc của ngày hôm nay">18</sup> , bắt tướng Đường Lý Nguyên Bình rồi lui về. Cả thành Lạc Dương rúng động. Lý Hi Liệt sau đó còn đưa quân quấy nhiễu các châu xung quanh thành Lạc Dương. Triều đình bàng hoàng, tìm cách đối phó. Lư Kỉ do oán ghét Thái tử thái sư Nhan Chân Khanh nên tâu xin Đức Tông cho Chân Khanh đến chỗ Hi Liệt thủ dụ, khuyên ông trung thành với triều đình. Khi Nhan Chân Khanh đến nơi, Hi Liệt không chấp nhận đề nghị của ông, lớn tiếng bài xích, nhục mạ triều đình; lại cho quản thúc chặt chẽ, tuy để ông ở nơi thoải mái nhưng luôn sai người giám sát hành động. Hi Liệt lại tìm cách chặn đường giao thông từ Trường An đến Giang Hoài, khiến quân triều đình phải liên hệ với Giang Nam bằng con đường vòng. Ông sai bộ tướng Hàn Sương Lộ, Lưu Kính Tông, Trần Chất, Địch Huy đem quân cướp phá các châu huyện, đánh bại quân triều đình nhiều trận. Triều đình sai Lưu Đức Tín thảo phạt Lý Hi Liệt, cho Lý Miễn là Hoài Tây chiêu thảo sứ, Ca Thư Diệu làm phó. đến tháng 4 ÂL, Diệu suất quân đến Tương Thành nhưng không thắng được lực lượng của Lý Hi Liệt. Tháng 8 ÂL, Hi Liệt dẫn 20.000 quân vây Tương Thành, Lý Miễn sai Đường Hán Thần cùng Lưu Đức Tín đến cứu viện, đều thất bại. Đế mệnh Thư vương làm Kinh Tương, Giang Tây, Miện Ngạc đẳng đạo tiết độ chư quân hành doanh binh mã Đô nguyên soái, ra trận đốc chiến. Lại sai chư đạo ở Kinh Nguyên cùng xuất binh cứu Tương Thành đang bị quân của Lý Hi Liệt uy hiếp. Lúc này cấp dưới của Lý Hi Liệt là Chu Tằng lập mưu giết ông, nhưng thất bại. Sau cuộc nổi dậy đó, Lý Hi Liệt dời trị sở về Thái châu và gửi thư tạ lỗi với triều đình, song vẫn tiếp tục tính chuyện li khai.</p>
+<p>Đường Đức Tông triệu tiết độ sứ Kinh Nguyên<sup class="annotation badge" title="^ Trị sở nay thuộc Bình Lương, Cam Túc, Trung Quốc">19</sup>  là Diêu Lệnh Ngôn tới cứu Tương Thành. Ngày 2 tháng 11 năm 783, Diêu Lệnh Ngôn dẫn 5000 quân Kinh Nguyên đến Trường An, nhưng do bị tiếp đãi sơ sài, tướng sĩ Kinh Nguyên đều tức giận, cùng cùng nhau tấn công vào cung. Vua hoảng sợ, vội triệu quân cấm vệ đến hộ giá nhưng không có ai đến cả, bất đắc dĩ phải bỏ Trường An, chạy về Phụng Thiên<sup class="annotation badge" title="^ Hàm Dương, Thiểm Tây, Trung Quốc hiện nay">20</sup> . Quân nổi dậy lập Chu Thử làm hoàng đế<sup class="annotation badge" title="^ Tư trị thông giám, quyển 228">21</sup> .</p>
+<p>Nghe tin xa giá rời kinh, Hi Liệt ra quân tấn công, đại phá Ca Thư Diệu ở Tương Thành, Diệu chạy về Đông đô. Lại thừa thắng công hãm Biện châu, Lý Miễn cho quân phòng thủ, Hi Liệt công phá rất lâu chưa hạ được. Ông bắt thường dân nhập ngũ để tăng thêm lực lượng, lệnh vận chuyển gỗ và đất đến trước thành, bắt quân sĩ nếu ai không hoàn thành việc được giao là lấp các hào nước quanh thành đúng thời gian thì sẽ bị chôn sống ở ngay hào nước đó<sup class="annotation badge" title="^ a ă Tư trị thông giám, quyển 229.">22</sup> . Đầu năm 784, Lý Miễn thua trận chạy về Tống châu, Lý Hi Liệt chiếm được Biện châu. Ông dời trị sở Hoài Tây đến Biện châu. Thứ sử Hoạt châu dưới quyền Lý Thừa là Lý Trừng đem Hứa châu<sup class="annotation badge" title="^ An Dương, Hà Nam, Trung Quốc ngày nay">23</sup>  theo về với Lý Hi Liệt. Cả Giang Hoài rúng động. Tiết độ sứ Hoài Nam<sup class="annotation badge" title="^ Trị sở nay thuộc Dương Châu, Giang Tô, Trung Quốc">24</sup>  Trần Thiếu Du sợ hãi, sai Ôn Thuật đến Biện quy phục Lý Hi Liệt.</p>
+<a name="xung-de-va-qua-doi"></a><h2>Xưng đế và qua đời</h2>
+<p>Đầu năm 784, Hoàng thượng theo đề xuất của Lục Chí, ban chiếu thư tự trách mình không biết nghe lời can gián, để cho gian nhân thao túng mà nghi ngờ tướng lĩnh khiến họ nổi loạn, sau đó hạ lệnh xá tội cho tất cả những người đã tạo phản trước kia, trong đó có Lý Hi Liệt. Triều đình đề nghị các trấn quy thuận, hứa sẽ không can thiệp vào công việc nội bộ của họ nữa. Vương Vũ Tuấn, Điền Duyệt và Lý Nạp đều đồng ý từ bỏ vương hiệu, sai sứ dâng biểu tạ lỗi với triều đình<sup class="annotation badge" title="^ a ă Tư trị thông giám, quyển 229.">22</sup> . Lý Hi Liệt ý thế mạnh vẫn không phục và quyết định tự lập. Mùa xuân năm 784, Lý Hi Liệt tự xưng là hoàng đế nước Đại Sở, niên hiệu Vũ Thành<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> . Lấy Tôn Quảng, Trịnh Bí, Lý Thụ, Lý Nguyên Bình làm tể tướng, gọi Biện chây là Đại Lương phủ, phong Lý Thanh Khư làm phủ doãn.</p>
+<p>Do thứ sử Thọ châu (thuộc địa phận An Huy) không phục mình, Lý Hi Liệt sai Đỗ Thiếu Thành tấn công Thọ châu nhưng thất bại. Tại chiến dịch Ngạc châu<sup class="annotation badge" title="^ Vũ Hán, Hồ Bắc, Trung Quốc của ngày hôm nay">25</sup>  thì quân Sở bị Lý Kiêm đẩy lui. Hi Liệt đưa quân đánh Ninh Lăng<sup class="annotation badge" title="^ Thương Khâu, Hà Nam, Trung Quốc ngày nay">26</sup> , yêu cầu Lý Thừa giúp mình, Thừa tự chối. Không lâu sau tướng Lưu Xương ở Ninh Lăng nhận được viện binh từ Tiết độ sứ Chiết Giang Tây Đạo<sup class="annotation badge" title="^ Trấn Giang, Giang Tô, Trung Quốc hiện nay">27</sup>  là Hàn Hoảng bèn điều ra chống giữ, Lý Hi Liệt phải lui quân.</p>
+<p>Cuối năm 784, Chu Thử bị diệt, Đường Đức Tông trở về Trường An. Do anh của ông là Lý Hi Thiến tham gia vào lực lượng của Chu Thử và bị giết nên ông tỏ ra tức giận, liền cho giết chết Nhan Chân Khanh. Rồi sai Địch Huy quân đánh Trần châu<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> <sup class="annotation badge" title="^ Chu Khẩu, Hà Nam, Trung Quốc ngày nay">28</sup> , bị Lưu Hiệp và Lý Nạp đại phá, Địch Huy bị bắt. Lý Thừa cũng trở mặt và quay về với triều đình, hội quân cùng Lưu Hiệp đánh đến Biện châu<sup class="annotation badge" title="^ a ă Tư trị thông giám, quyển 232 Lỗi chú thích: Thẻ &amp;lt;ref&amp;gt; không hợp lệ: tên “TTTG232” được định rõ nhiều lần, mỗi lần có nội dung khác">2</sup> . Lý Hi Liệt hoảng sợ bỏ chạy về Thái châu. Các tướng Điền Hoài Trân đem Biện châu đầu hàng triều đình. Lý Hi Liệt cố gắng đem quân lấy được Đặng châu<sup class="annotation badge" title="^ Nam Dương, Hà Nam, Trung Quốc ngày nay">29</sup>  vào đầu năm 785. Vào mùa thu cùng năm, Đức Tông nghe lời của Lục Chí, lệnh quân tướng chỉ nên tự vệ nếu Lý Hi Liệt tấn công, chưa nên tấn công vào Thái châu. Đồng thời Đức Tông hạ chiếu thuyết phục Lý Hi Liệt đầu hàng, hứa sẽ không giết ông. Lý Hi Liệt không nghe và tiếp tục phản kháng triều đình, nhưng vẫn thất bại, lãnh thổ <a class="annotation" href="/dia-danh/nuoc-so" title="Sở quốc (chữ Hán: 楚國), đôi khi được gọi Kinh Sở (chữ Phạn: श्रीक्रुंग / Srikrung, chữ Hán: 荆楚), là một chư hầu của nhà Chu tồn tại thời Xuân Thu Chiến Quốc. Cương vực của quốc gia này án ngữ khoảng giữa Hoài Hà và Dương Tử. 
+ Suốt dọc lịch sử, Sở tận dụng được địa thế núi non hiểm trở cận Tây để thô..." target="_blank" >nước Sở</a> ngày một thu hẹp.</p>
+<p>Mùa xuân năm 786, Lý Hi Liệt ăn phải thịt bò có bệnh, mời thái y đến chữa. Tướng dưới quyền ông là Trần Tiên Kì thấy <a class="annotation" href="/dia-danh/nuoc-so" title="Sở quốc (chữ Hán: 楚國), đôi khi được gọi Kinh Sở (chữ Phạn: श्रीक्रुंग / Srikrung, chữ Hán: 荆楚), là một chư hầu của nhà Chu tồn tại thời Xuân Thu Chiến Quốc. Cương vực của quốc gia này án ngữ khoảng giữa Hoài Hà và Dương Tử. 
+ Suốt dọc lịch sử, Sở tận dụng được địa thế núi non hiểm trở cận Tây để thô..." target="_blank" >nước Sở</a> suy yếu, nảy ý giết ông rồi đầu hàng <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a>. Được sự khuyến khích của Dữu thị, một người thiếp yêu của Lý Hi Liệt, Trần Tiên Kì mua chuộc thái y đầu độc hạ sát Lý Hi Liệt. Con trai Hi Liệt tìm cách nắm quyền cai trị Hoài Tây rồi sẽ đầu hàng triều đình, nhưng nhanh chóng bị Trần Tiên Kì giết chết. Trần Tiên Kì giết vợ con, anh em của ông tổng cộng 16 người (kể cả ông là 17), gửi đầu của họ về Trường An<sup class="annotation badge" title="^ a ă â b c d đ Cựu Đường thư, quyển 145">5</sup> <sup class="annotation badge" title="^ Tư trị thông giám, quyển 232">30</sup> . Tướng Hoài Tây là Ngô Thiếu Thành muốn báo thù cho ông, đã nổi dậy giết Trần Tiên Kì và Dữu thị, tự xưng là Tiết độ sứ ở Hoài Tây. Triều đình <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a> công nhận Ngô Thiếu Thành là Tiết độ sứ.</p>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Cựu Đường thư</li> <li>Tân Đường thư</li> <li>Tư trị thông giám</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Academia Sinica - Chuyển hoán Trung Tây 2000 năm</span></li> <li id="cite_note-TTTG232-2">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 232 <span class="error mw-ext-cite-error" lang="vi" dir="ltr" xml:lang="vi">Lỗi chú thích: Thẻ <code>&lt;ref&gt;</code> không hợp lệ: tên “TTTG232” được định rõ nhiều lần, mỗi lần có nội dung khác</span></span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Trị sở nay thuộc Trú Mã Điếm, Hà Nam, Trung Quốc</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Trị sở nay thuộc Tương Phàn, Hà Bắc, Trung Quốc</span></li> <li id="cite_note-CDT145-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <span class="reference-text"><i>Cựu Đường thư</i>, quyển 145</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Tứ Bình, Cát Lâm, Trung Quốc ngày nay</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Trị sở lúc này nằm ở Triều Dương, Liêu Ninh, Trung Quốc</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Khai Phong, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 226</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Trị sở nay thuộc Thái An, Sơn Đông, Trung Quốc</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Trị sở nay thuộc Hàm Đan, Hà Bắc, Trung Quốc</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Trị sở nay thuộc Thạch Gia Trang, Hà Bắc, Trung Quốc</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Khúc <a class="annotation" href="/dia-danh/song-truong-giang" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Trường Giang</a> chảy ngang qua vùng Tương, Phàn</span></li> <li id="cite_note-TTTG227-14">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 227.</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Trị sở thuộc thủ đô Bắc Kinh, Trung Quốc hiện nay</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Hứa Xương, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Trị sở nay thuộc Khai Phong, Hà Nam, Trung Quốc</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">Lạc Dương, Hà Nam, Trung Quốc của ngày hôm nay</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text">Trị sở nay thuộc Bình Lương, Cam Túc, Trung Quốc</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text">Hàm Dương, Thiểm Tây, Trung Quốc hiện nay</span></li> <li id="cite_note-21"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 228</span></li> <li id="cite_note-TTTG229-22">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 229.</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text">An Dương, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-24"><b>^</b> <span class="reference-text">Trị sở nay thuộc Dương Châu, Giang Tô, Trung Quốc</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Vũ Hán, <a class="annotation" href="/dia-danh/ho-bac" title="Hồ Bắc (tiếng Trung: 湖北; bính âm: Húběi [nghe] , tiếng Vũ Hán: Hŭbě) là một tỉnh ở miền trung của Cộng hòa Nhân dân Trung Hoa. Giản xưng chính thức của tỉnh Hồ Bắc là &quot;Ngạc&quot; (鄂), lấy theo tên một nước chư hầu thời xưa, sau trở thành đất thuộc nước Sở và nhà Tần, nay nằm ở phía đông của tỉnh. Tên Hồ ..." target="_blank" >Hồ Bắc</a>, Trung Quốc của ngày hôm nay</span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text">Thương Khâu, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-27"><b>^</b> <span class="reference-text"><a class="annotation" href="/dia-danh/tran-giang" title="Trấn Giang (tiếng Hoa giản thể: 镇江市 bính âm Zhènjiāng Shì, âm Hán-Việt: Trấn Giang thị) là một địa cấp thị thuộc tỉnh Giang Tô, Trung Quốc. Trấn Giang nằm bờ Nam sông Dương Tử, giáp Nam Kinh về phía Tây, Thường Châu về phía Đông, Dương Châu về phía Bắc qua sông Trường Giang. Trấn Giang nằm gần nơi g..." target="_blank" >Trấn Giang</a>, Giang Tô, Trung Quốc hiện nay</span></li> <li id="cite_note-28"><b>^</b> <span class="reference-text">Chu Khẩu, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-29"><b>^</b> <span class="reference-text">Nam Dương, Hà Nam, Trung Quốc ngày nay</span></li> <li id="cite_note-30"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 232</span></li> </ol> </div>
+<table class="wikitable succession-box table table-striped" > <tr > <td width="30%" valign="top" align="center" rowspan="1">Tiền nhiệm:<br /> <b>Lý Trung Thần</b></td> <td width="40%"  rowspan="1"><b>Tiết độ sứ Hoài Tây</b><br /> 779-786</td> <td width="30%" valign="top" align="center" rowspan="1">Kế nhiệm:<br /> <b>Trần Tiên Kì</b></td> </tr> </table>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ly-hung" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Lý Hùng            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/ly-ke-nguyen" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Lý Kế Nguyên            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/ly-hy-liet" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

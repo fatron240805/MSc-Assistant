@@ -1,0 +1,956 @@
+[
+    {
+        "era": "931-1413",
+        "name": "Khúc Thừa Dụ",
+        "reign": "905-907",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_D%E1%BB%A5"
+    },
+    {
+        "era": "931-1413",
+        "name": "Khúc Hạo",
+        "reign": "907-917",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_H%E1%BA%A1o"
+    },
+    {
+        "era": "931-1413",
+        "name": "Khúc Thừa Mỹ",
+        "reign": "917-923",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_M%E1%BB%B9"
+    },
+    {
+        "era": "931-1413",
+        "name": "Dương Đình Nghệ",
+        "reign": "931-937",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_%C4%90%C3%ACnh_Ngh%E1%BB%87"
+    },
+    {
+        "era": "931-1413",
+        "name": "Kiều Công Tiễn",
+        "reign": "a",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ki%E1%BB%81u_C%C3%B4ng_Ti%E1%BB%85n"
+    },
+    {
+        "era": "931-1413",
+        "name": "Dương Như Ngọc",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Nh%C6%B0_Ng%E1%BB%8Dc"
+    },
+    {
+        "era": "931-1413",
+        "name": "Ngô Quyền",
+        "reign": "939-944",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n"
+    },
+    {
+        "era": "931-1413",
+        "name": "Dương Tam Kha",
+        "reign": "b",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Tam_Kha"
+    },
+    {
+        "era": "931-1413",
+        "name": "Ngô Xương Ngập",
+        "reign": "951-954",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ng%C3%B4_X%C6%B0%C6%A1ng_Ng%E1%BA%ADp"
+    },
+    {
+        "era": "931-1413",
+        "name": "Ngô Xương Văn",
+        "reign": "950-965",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ng%C3%B4_X%C6%B0%C6%A1ng_V%C4%83n"
+    },
+    {
+        "era": "931-1413",
+        "name": "Đinh Tiên Hoàng",
+        "reign": "968-979",
+        "wiki_link": "https://vi.wikipedia.org/wiki/%C4%90inh_Ti%C3%AAn_Ho%C3%A0ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Dương Vân Nga",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C3%A2n_Nga"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lê Đại Hành",
+        "reign": "980-1005",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Ho%C3%A0n"
+    },
+    {
+        "era": "931-1413",
+        "name": "Đinh Phế Đế",
+        "reign": "979-980",
+        "wiki_link": "https://vi.wikipedia.org/wiki/%C4%90inh_Ph%E1%BA%BF_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lê Thị Phất Ngân",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BB%8B_Ph%E1%BA%A5t_Ng%C3%A2n"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Thái Tổ",
+        "reign": "1010-1028",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lê Trung Tông",
+        "reign": "1005",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trung_T%C3%B4ng_(Ti%E1%BB%81n_L%C3%AA)"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lê Long Đĩnh",
+        "reign": "1005-1009",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Long_%C4%90%C4%A9nh"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Thái Tông",
+        "reign": "1028-1054",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Thánh Tông",
+        "reign": "1054-1072",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Ỷ Lan",
+        "reign": "?–1117",
+        "wiki_link": "https://vi.wikipedia.org/wiki/%E1%BB%B6_Lan"
+    },
+    {
+        "era": "931-1413",
+        "name": "Sùng Hiền hầu",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/S%C3%B9ng_Hi%E1%BB%81n_h%E1%BA%A7u"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Nhân Tông",
+        "reign": "1072-1127",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Thần Tông",
+        "reign": "1128-1138",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Anh Tông",
+        "reign": "1138-1175",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Anh_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Cao Tông",
+        "reign": "1176-1210",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Cao_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thừa",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%E1%BB%ABa"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Huệ Tông",
+        "reign": "1211-1224",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Hu%E1%BB%87_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thị Dung",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Linh_T%E1%BB%AB_qu%E1%BB%91c_m%E1%BA%ABu"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thủ Độ",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%E1%BB%A7_%C4%90%E1%BB%99"
+    },
+    {
+        "era": "931-1413",
+        "name": "Thuận Thiên",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Thu%E1%BA%ADn_Thi%C3%AAn_(c%C3%B4ng_ch%C3%BAa)"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thái Tông",
+        "reign": "1226-1258",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Lý Chiêu Hoàng",
+        "reign": "1224-1225",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Chi%C3%AAu_Ho%C3%A0ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thánh Tông",
+        "reign": "1258-1278",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Nhân Tông",
+        "reign": "1279-1293",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Anh Tông",
+        "reign": "1293-1314",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Anh_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Minh Tông",
+        "reign": "1314-1329",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Minh_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Hồ Quý Ly",
+        "reign": "1400",
+        "wiki_link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+    },
+    {
+        "era": "931-1413",
+        "name": "Công chúa",
+        "reign": "Huy Ninh",
+        "wiki_link": ""
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Nghệ Tông",
+        "reign": "1370-1372",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Dụ Tông",
+        "reign": "1341-1369",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Hiến Tông",
+        "reign": "1329-1341",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Duệ Tông",
+        "reign": "1372-1377",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Hoàng tử",
+        "reign": "Cung Túc",
+        "wiki_link": ""
+    },
+    {
+        "era": "931-1413",
+        "name": "Hồ Hán Thương",
+        "reign": "1401-1407",
+        "wiki_link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Công chúa",
+        "reign": "Lê Thánh Ngâu",
+        "wiki_link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Th%C3%A1nh_Ng%C3%A2u"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thuận Tông",
+        "reign": "1388-1398",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng"
+    },
+    {
+        "era": "931-1413",
+        "name": "Hoàng tử",
+        "reign": "Trần Ngạc",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ng%E1%BA%A1c"
+    },
+    {
+        "era": "931-1413",
+        "name": "Giản Định Đế",
+        "reign": "1407-1409",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3n_%C4%90%E1%BB%8Bnh_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Phế Đế",
+        "reign": "1377-1388",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%E1%BA%BF_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "931-1413",
+        "name": "Dương Nhật Lễ",
+        "reign": "c",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Nh%E1%BA%ADt_L%E1%BB%85"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Thiếu Đế",
+        "reign": "1398-1400",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thi%E1%BA%BFu_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trùng Quang Đế",
+        "reign": "1409-1413",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%C3%B9ng_Quang_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "931-1413",
+        "name": "Trần Cảo",
+        "reign": "1426-1428",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_C%E1%BA%A3o_(vua)"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thái Tổ",
+        "reign": "1428-1433",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_L%E1%BB%A3i"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thái Tông",
+        "reign": "1433-1442",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Nhân Tông",
+        "reign": "1442-1459",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thánh Tông",
+        "reign": "1460-1497",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Nghi Dân",
+        "reign": "1459-1460",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Nghi_D%C3%A2n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Hiến Tông",
+        "reign": "1497-1504",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Tân",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_T%C3%A2n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Túc Tông",
+        "reign": "1504",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_T%C3%BAc_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Uy Mục",
+        "reign": "1505-1509",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Uy_M%E1%BB%A5c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Sùng",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_S%C3%B9ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Tương Dực",
+        "reign": "1510-1516",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_T%C6%B0%C6%A1ng_D%E1%BB%B1c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Thái Tổ",
+        "reign": "1527-1529",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%C4%83ng_Dung"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Anh Tông",
+        "reign": "d",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Anh_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Kim",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Kim"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Quang Trị",
+        "reign": "1516",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Quang_Tr%E1%BB%8B"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Cung Hoàng",
+        "reign": "1522-1527",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Cung_Ho%C3%A0ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Chiêu Tông",
+        "reign": "1516-1522",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Thái Tông",
+        "reign": "1530-1540",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thế Tông",
+        "reign": "1573-1599",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%BF_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Hoàng",
+        "reign": "1600-1613",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ho%C3%A0ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Kiểm",
+        "reign": "1545-1570",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Ki%E1%BB%83m"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Thị",
+        "reign": "Ngọc Bảo",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Ng%E1%BB%8Dc_B%E1%BA%A3o"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Trang Tông",
+        "reign": "1533-1548",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trang_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Hiến Tông",
+        "reign": "1541-1546",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Kính Tông",
+        "reign": "1600-1619",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_K%C3%ADnh_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Phúc Nguyên",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Cối",
+        "reign": "1570",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%E1%BB%91i"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Tùng",
+        "reign": "1570-1623",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_T%C3%B9ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Trung Tông",
+        "reign": "1548-1556",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trung_T%C3%B4ng_(H%E1%BA%ADu_L%C3%AA)"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Tuyên",
+        "reign": "Tông",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thần Tông",
+        "reign": "e",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Phúc Lan",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Lan"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Tráng",
+        "reign": "1623-1652",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Tr%C3%A1ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Mậu Hợp",
+        "reign": "1562-1592",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Chân Tông",
+        "reign": "1643-1649",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Ch%C3%A2n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Huyền Tông",
+        "reign": "1663-1671",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Huy%E1%BB%81n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc Tần",
+        "reign": "1648-1687",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_T%E1%BA%A7n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Tạc",
+        "reign": "1653-1682",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_T%E1%BA%A1c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Mạc Toàn",
+        "reign": "1592",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_To%C3%A0n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Gia Tông",
+        "reign": "1672-1675",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Gia_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Hy Tông",
+        "reign": "1676-1704",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hy_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc Thái",
+        "reign": "1687-1691",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Th%C3%A1i"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Căn",
+        "reign": "1682-1709",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C4%83n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Dụ Tông",
+        "reign": "1705-1728",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_D%E1%BB%A5_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc Chu",
+        "reign": "1691-1725",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Chu"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Vịnh",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_V%E1%BB%8Bnh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Duy Phường",
+        "reign": "1729-1732",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Duy_Ph%C6%B0%E1%BB%9Dng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Thuần Tông",
+        "reign": "1732-1735",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Thu%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Ý Tông",
+        "reign": "1735-1740",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_%C3%9D_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc Chú",
+        "reign": "1725-1738",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Ch%C3%BA"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Bính",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_B%C3%ADnh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Phúc Khoát",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Kho%C3%A1t"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Cương",
+        "reign": "f",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Hiển Tông",
+        "reign": "1740-1786",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hi%E1%BB%83n_T%C3%B4ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Phúc Thuần",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Thu%E1%BA%A7n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Phúc Luân",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Lu%C3%A2n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Giang",
+        "reign": "1729-1740",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Giang"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Doanh",
+        "reign": "1740-1767",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Doanh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Nhạc",
+        "reign": "1778-1788",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nh%E1%BA%A1c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Huệ",
+        "reign": "1788-1793",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Ngọc Hân",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Ng%E1%BB%8Dc_H%C3%A2n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Duy Vĩ",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Duy_V%C4%A9"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Ngọc Bình",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Ng%E1%BB%8Dc_B%C3%ACnh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Gia Long",
+        "reign": "g",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Gia_Long"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Bồng",
+        "reign": "1786-1787",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_B%E1%BB%93ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Sâm",
+        "reign": "1767-1782",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_S%C3%A2m"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn",
+        "reign": "Quang Toản",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Quang_To%E1%BA%A3n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Lê Chiêu Thống",
+        "reign": "1787-1789",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Minh Mạng",
+        "reign": "1820-1840",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Khải",
+        "reign": "1782-1786",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Kh%E1%BA%A3i"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Trịnh Cán",
+        "reign": "1782",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C3%A1n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Thiệu Trị",
+        "reign": "1841-1847",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87u_Tr%E1%BB%8B"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Tự Đức",
+        "reign": "1848-1883",
+        "wiki_link": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_%C4%90%E1%BB%A9c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Hiệp Hòa",
+        "reign": "1883",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_H%C3%B2a"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc",
+        "reign": "Hồng Y",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Th%E1%BB%A5y_Th%C3%A1i_V%C6%B0%C6%A1ng"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Nguyễn Phúc",
+        "reign": "Hồng Cai",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_H%E1%BB%93ng_Cai"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Dục Đức",
+        "reign": "1883",
+        "wiki_link": "https://vi.wikipedia.org/wiki/D%E1%BB%A5c_%C4%90%E1%BB%A9c"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Đồng Khánh",
+        "reign": "1885-1888",
+        "wiki_link": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Kh%C3%A1nh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Hàm Nghi",
+        "reign": "1884-1885",
+        "wiki_link": "https://vi.wikipedia.org/wiki/H%C3%A0m_Nghi"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Kiến Phúc",
+        "reign": "1883-1884",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFn_Ph%C3%BAc"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Thành Thái",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_Th%C3%A1i"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Khải Định",
+        "reign": "1916-1925",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Duy Tân",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Duy_T%C3%A2n"
+    },
+    {
+        "era": "1428-1945",
+        "name": "Bảo Đại",
+        "reign": "1926-1945",
+        "wiki_link": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_%C4%90%E1%BA%A1i"
+    },
+    {
+        "era": "Sách",
+        "name": "Kinh Dương Vương",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kinh_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    },
+    {
+        "era": "Sách",
+        "name": "An Dương Vương",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Triệu Vũ Đế",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_%C4%90%C3%A0"
+    },
+    {
+        "era": "Sách",
+        "name": "Trưng Nữ Vương",
+        "reign": "",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Lý Nam Đế",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "Sách",
+        "name": "Mai Hắc Đế",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Mai_Th%C3%BAc_Loan"
+    },
+    {
+        "era": "Sách",
+        "name": "Khúc Tiên Chủ",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_D%E1%BB%A5"
+    },
+    {
+        "era": "Sách",
+        "name": "Tiền Ngô Vương",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n"
+    },
+    {
+        "era": "Sách",
+        "name": "Đinh Tiên Hoàng",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/%C4%90inh_Ti%C3%AAn_Ho%C3%A0ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Lê Đại Hành",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BA%A1i_H%C3%A0nh"
+    },
+    {
+        "era": "Sách",
+        "name": "Lý Thái Tổ",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+        "era": "Sách",
+        "name": "Trần Thái Tông",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Hồ Quý Ly",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+    },
+    {
+        "era": "Sách",
+        "name": "Giản Định Đế",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3n_%C4%90%E1%BB%8Bnh_%C4%90%E1%BA%BF"
+    },
+    {
+        "era": "Sách",
+        "name": "Lê Thái Tổ",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+        "era": "Sách",
+        "name": "Mạc Thái Tổ",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+        "era": "Sách",
+        "name": "Lê Trang Tông",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trang_T%C3%B4ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Trịnh Kiểm",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Ki%E1%BB%83m"
+    },
+    {
+        "era": "Sách",
+        "name": "Nguyễn Hoàng",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ho%C3%A0ng"
+    },
+    {
+        "era": "Sách",
+        "name": "Thái Đức",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nh%E1%BA%A1c"
+    },
+    {
+        "era": "Sách",
+        "name": "Gia Long",
+        "reign": "•",
+        "wiki_link": "https://vi.wikipedia.org/wiki/Gia_Long"
+    }
+]

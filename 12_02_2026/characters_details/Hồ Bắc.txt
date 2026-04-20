@@ -1,0 +1,1463 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Hồ Bắc (tiếng Trung&amp;#58; 湖北; bính âm&amp;#58; Húběi [nghe]&amp;#160;(trợ giúp·thông tin), tiếng Vũ Hán: Hŭbě) là một tỉnh ở miền trung của Cộng hòa Nhân dân Trung Hoa. Giản xưng chính thức của tỉnh Hồ Bắc là &quot;Ngạc&quot; (鄂), lấy theo tên một nước chư hầu thời xưa, sau trở thành đất thuộc nước Sở và Nhà Tần, nay ...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Hồ Bắc - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"71d7891ae63bbe903a8aae6537465562"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Hồ Bắc" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Hồ Bắc (tiếng Trung&#58; 湖北; bính âm&#58; Húběi [nghe]&#160;(trợ giúp·thông tin), tiếng Vũ Hán: Hŭbě) là một tỉnh ở mi.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/ho-bac" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/ho-bac/98723b497ffe06d07923954a917fb502.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Hồ Bắc", "item": "https://nguoikesu.com/nhan-vat/ho-bac" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/ho-bac" }, "headline": "Hồ Bắc", "description": "Hồ Bắc (tiếng Trung&amp;#58; 湖北; bính âm&amp;#58; Húběi [nghe]&amp;#160;(trợ giúp·thông tin), tiếng Vũ Hán: Hŭbě) là một tỉnh ở miền trung của Cộng hòa Nhân dân Trung Hoa. Giản xưng chính thức của tỉnh Hồ Bắc là &quot;Ngạc&quot; (鄂), lấy theo tên một nước chư hầu thời xưa, sau trở thành đất thuộc nước Sở và Nhà Tần, nay nằm ở phía đông của tỉnh. Tên Hồ Bắc ám chỉ về vị trí của tỉnh này nằm ở phía bắc của hồ Động Đình. Giản xưng không chính thức của Hồ Bắc là Sở (楚), gọi theo nước Sở hùng mạnh ở đây vào thời Xuân Thu Chiến Quốc. Năm 2018, Hồ Bắc là tỉnh đông thứ chín về số dân, đứng thứ bảy về kinh tế Trung Quốc với 59 triệu dân, tương đương với Ý và GDP đạt 3.937 tỉ NDT (594,9 tỉ USD) tương ứng với Ba Lan.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/ho-bac/98723b497ffe06d07923954a917fb502.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/ho-bac" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2021-03-10T10:57:15+07:00", "dateCreated": "2021-03-10T10:57:15+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Hồ Bắc</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Hồ Bắc        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#lich-su" title="">Lịch sử</a></li>
+<li class="level-2"><a href="#thoi-thanh" title="">Thời Thanh</a></li>
+<li class="level-2"><a href="#thoi-trung-hoa-dan-quoc" title="">Thời Trung Hoa Dân Quốc</a></li>
+<li class="level-2"><a href="#thoi-cong-hoa-nhan-dan-trung-hoa" title="">Thời Cộng hòa Nhân dân Trung Hoa</a></li>
+<li class="level-1"><a href="#dia-ly" title="">Địa lý</a></li>
+<li class="level-1"><a href="#nhan-khau" title="">Nhân khẩu</a></li>
+<li class="level-1"><a href="#cac-don-vi-hanh-chinh" title="">Các đơn vị hành chính</a></li>
+<li class="level-1"><a href="#kinh-te" title="">Kinh tế</a></li>
+<li class="level-1"><a href="#giao-thong" title="">Giao thông</a></li>
+<li class="level-2"><a href="#duong-sat" title="">Đường sắt</a></li>
+<li class="level-2"><a href="#duong-bo" title="">Đường bộ</a></li>
+<li class="level-2"><a href="#duong-thuy" title="">Đường thủy</a></li>
+<li class="level-2"><a href="#duong-khong" title="">Đường không</a></li>
+<li class="level-1"><a href="#giao-duc" title="">Giáo dục</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox geography vcard" ><tbody><tr><th colspan="2" ><span class="fn org">Hồ Bắc</span><br /><span class="nickname" ><b>湖北省 <br /> Hồ Bắc tỉnh</b></span></th></tr><tr><td colspan="2" ><span class="category">&#8212;&#160;&#160;Tỉnh&#160;&#160;&#8212;</span></td></tr><tr class="mergedtoprow"><th colspan="2" >Chuyển&#160;tự&#160;tên</th></tr><tr ><th colspan="2"> </th></tr><tr><td colspan="2" ><img alt="Yangxin-Fushui-River-fishermen-0044.jpg" src="/images/wiki/ho-bac/98723b497ffe06d07923954a917fb502.jpg" decoding="async" /></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" ><div > <div ></div></div></td></tr><tr class="mergedrow"><td colspan="2" ><img alt="Hubei in China (+all claims hatched).svg" src="/images/wiki/ho-bac/1fa500c8f18ea8244f22f66577075793.png" decoding="async" /></td></tr><tr class="mergedtoprow"><td colspan="2" ><div class="center"><div ><div ><div ><img alt="Hồ Bắc trên bản đồ Thế giới" src="/images/wiki/ho-bac/dae18beb08fd192f6bc6d186c095ec33.png" decoding="async" /><div ><div ><img alt="Hồ Bắc" src="/images/wiki/ho-bac/9378b7d4167fc565465ac6e6dff3d405.png" decoding="async" title="Hồ Bắc" /></div><div ><div >Hồ Bắc</div></div></div></div></div></div></div></td></tr><tr class="mergedtoprow"><th scope="row">Quốc gia</th><td><span class="flagicon"><img alt="" src="/images/wiki/ho-bac/f1e70f8e4b749f3e26479308e3f2496b.png" decoding="async" />&#160;</span>Trung Quốc</td></tr><tr class="mergedtoprow"><th scope="row">Thủ&#160;phủ</th><td>Vũ Hán <span class="noprint"><img alt="sửa dữ liệu" src="/images/wiki/ho-bac/5d02dedbdedc6f4b879e69958fad9b5a.png" decoding="async"  /></span></td></tr><tr class="mergedtoprow"><th colspan="2" >Chính&#160;quyền<span ></span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Bí thư Tỉnh ủy</th><td>Ứng Dũng 应勇</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Tỉnh trưởng</th><td>Vương Hiểu Đông 王晓东</td></tr><tr class="mergedtoprow"><th colspan="2" >Diện&#160;tích<span ></span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Tổng cộng</th><td>187,400&#160;km<sup>2</sup> (72,400&#160;mi<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">Thứ&#160;hạng&#160;diện&#160;tích</th><td>thứ 14</td></tr><tr class="mergedtoprow"><th colspan="2" >Dân&#160;số <span >(2018)</span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Tổng cộng</th><td>59,020,000</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Mật&#160;độ</th><td>319/km<sup>2</sup> (830/mi<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row">Múi&#160;giờ</th><td>UTC+8 <span class="noprint"><img alt="sửa dữ liệu" src="/images/wiki/ho-bac/5d02dedbdedc6f4b879e69958fad9b5a.png" decoding="async"  /></span></td></tr><tr class="mergedrow"><th scope="row">Mã&#160;ISO&#160;3166</th><td class="nickname">CN-HB <span class="noprint"><img alt="sửa dữ liệu" src="/images/wiki/ho-bac/5d02dedbdedc6f4b879e69958fad9b5a.png" decoding="async"  /></span></td></tr><tr class="mergedtoprow"><th scope="row">GDP (2018)<br />&#160;- trên đầu người</th><td>3.937 tỉ (594,9 tỉ USD) NDT (thứ 7)<br />66.700 (9.918 USD) NDT (thứ 11)</td></tr><tr class="mergedrow"><th scope="row">HDI (2014)</th><td>0,755 (thứ 13) &#8212; <font color="#ffcc00">trung bình</font></td></tr><tr class="mergedrow"><th scope="row">Các dân tộc chính</th><td>Hán - 95,6%<br />Thổ Gia - 3,7%<br />Miêu - 0,4%</td></tr><tr class="mergedrow"><th scope="row">Ngôn ngữ và phương ngôn</th><td>Quan thoại tây nam, Quan thoại Giang Hoài, tiếng Cám</td></tr><tr class="mergedtoprow"><th scope="row">Trang&#160;web</th><td>http://www.hubei.gov.cn <br /> (Chữ Hán giản thể)</td></tr><tr><td colspan="2" ><small>Nguồn lấy dữ liệu dân số và GDP: <br />《中国统计年鉴—2005》/ <i>Niên giám thống kê Trung Quốc 2005</i> ISBN 7503747382</small> <br /> <small>Nguồn lấy dữ liệu dân tộc: <br /> 《2000年人口普查中国民族人口资料》/ <i>Tư liệu nhân khẩu dân tộc dựa trên điều tra dân số năm 2000 của Trung Quốc</i> ISBN 7105054255</small></td></tr></tbody></table></div>
+<div role="note" class="hatnote navigation-not-searchable">Đối với các định nghĩa khác, xem Hồ Bắc (định hướng).</div>
+<p><b>Hồ Bắc</b> (tiếng Trung&#58; <span lang="zh">湖北</span>; bính âm&#58; <i><span lang="zh-Latn-pinyin">Húběi <span class="unicode haudio"><span class="fn"><span ><img alt="Về âm thanh này" src="/images/wiki/ho-bac/1cc3f8b466b45733213c15b77efeecda.png" decoding="async" /></span>[nghe]</span>&#160;<small class="metadata audiolinkinfo" >(<span >trợ giúp</span>·<span >thông tin</span>)</small></span></span></i>, tiếng Vũ Hán: Hŭbě) là một tỉnh ở miền trung của Cộng hòa Nhân dân Trung Hoa. Giản xưng chính thức của tỉnh Hồ Bắc là "Ngạc" (鄂), lấy theo tên một nước chư hầu thời xưa, sau trở thành đất thuộc nước Sở và Nhà Tần, nay nằm ở phía đông của tỉnh. Tên <i>Hồ Bắc</i> ám chỉ về vị trí của tỉnh này nằm ở phía bắc của hồ Động Đình.<sup id="cite_ref-1" class="reference">&#91;1&#93;</sup> Giản xưng không chính thức của Hồ Bắc là <b>Sở</b> (楚), gọi theo nước Sở hùng mạnh ở đây vào thời Xuân Thu Chiến Quốc. </p>
+<p>Năm 2018, Hồ Bắc là tỉnh đông thứ chín về số dân, đứng thứ bảy về kinh tế Trung Quốc với 59 triệu dân, tương đương với Ý <sup id="cite_ref-2" class="reference">&#91;2&#93;</sup> và GDP đạt 3.937 tỉ NDT (594,9 tỉ USD) tương ứng với Ba Lan.<sup id="cite_ref-3" class="reference">&#91;3&#93;</sup> </p>
+<p>Hồ Bắc giáp với Hà Nam về phía bắc, An Huy về phía đông, Giang Tây về phía đông nam, Hồ Nam về phía nam, Trùng Khánh về phía tây, và Thiểm Tây về phía tây bắc. Tỉnh này có đập Tam Hiệp vào hàng lớn nhất thế giới tại Nghi Xương ở phía tây. </p>
+<p>Tỉnh Hồ Bắc từng là tâm điểm của đại dịch COVID-19 tại Trung Quốc. </p>
+<a name="lich-su"></a><h2>Lịch sử</h2>
+<p>Hồ Bắc có một lịch sử lâu dài, khi khai quật khảo cổ tại Vân huyện, người ta đã phát hiện ra hóa thạch của người Vân Dương (郧阳人) và người Trường Dương (长阳人) thời viễn cổ. Tại di chỉ văn hóa Khuất Gia Lĩnh (屈家嶺文化) đã phát hiện được một số lượng lớn các công cụ bằng đá và đồ gốm thời đại đồ đá mới, phản ánh nền nông nghiệp, đánh bắt cá, săn bắn, thủ công nghiệp của khu vực đã có sự phát triển đáng kể. Từ thời nhà Hạ, văn minh Trung Nguyên đã có ảnh hưởng đến vùng đồng bằng Giang Hán. Đến thời nhà Thương, Hồ Bắc đã được sáp nhập vào cương vực Trung Hoa. Thời Tây Chu, trên địa phận Hồ Bắc là lãnh thổ của nhiều tiểu quốc chư hầu, có thể kể đến là Ngạc, Đặng, Quyền, Nhược (鄀), Tùy (隨), Tằng (曾), La (罗), Vân (郧), Lại (赖), Dong (庸), Đường (唐), Quân (麇), Đam (聃). Đến thời Xuân Thu (770 TCN - 476 TCN), nước Sở nguyên ở Hà Nam ngày nay trở nên lớn mạnh, dần dần thôn tính các nước khác ở phương nam. Đến khoảng cuối thế kỷ thứ VIII-đầu thế kỷ thứ VII, nước Sở đã dời quốc đô từ Đan Dương (丹阳, nay thuộc Tích Xuyên của Hà Nam), đến Dĩnh (郢, nay thuộc Dĩnh Châu của Hồ Bắc); Dĩnh vẫn vị thế là quốc đô nước Sở cho đến năm 278 TCN. Nước Sở đã góp phần mở rộng nền văn minh Trung Hoa xuống phía nam song cũng có nhiều nét văn hóa độc đáo. Từ lưu vực Trường Giang, Sở tiếp tục mở rộng lãnh thổ lên bình nguyên Hoa Bắc. Sở Trang Vương là một trong Ngũ Bá thời Xuân Thu. </p>
+<p>Đến thời Chiến Quốc (475 TCN - 221 TCN), Sở là một trong Chiến Quốc thất hùng. Theo thời gian, nước Sở và nước Tần trở thành hai nước có lãnh thổ rộng lớn nhất. Trong các cuộc chiến tranh giữa Sở và Tần, Sở đã để mất nhiều đất đai, đầu tiên là tầm ảnh hưởng tại bồn địa Tứ Xuyên, đến năm 278 TCN, thì để mất vùng lãnh thổ lõi là tỉnh Hồ Bắc hiện nay và phải dời quốc đô khỏi đất Dĩnh. Sở sau đó triệt thoái về phía đông song đã bị Tần tiêu diệt hoàn toàn vào năm 223 TCN. </p>
+<div class="thumb-img pull-left"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/4d5d227e874db561d65202e500579744.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Một phục trang lễ nghi bằng tơ lụa với các chi tiết thêu từ thế kỷ thứ IV TCN, được tìm thấy tại lăng mộ thời Chu ở Mã Sơn, Giang Lăng, Hồ Bắc</div></div></div>
+<p>Sau khi Tần thống nhất Trung Quốc, nếu muốn đi xuống phía nam cần qua Hồ Bắc nên vùng đất này đã trở thành yếu đạo về giao thông, nhân khẩu bắt đầu gia tăng. Các vùng đầm lầy tại Hồ Bắc đã được con người tiêu thoát nước để trở thành các vùng đất trồng trọt màu mỡ. Nhà Tần cũng thiết lập các đơn vị quận huyện tại địa phận tỉnh Hồ Bắc hiện nay. Do kị húy của Tần Trang Tương Vương (cha Tần Thủy Hoàng), triều đình Nhà Tần đã đổi tên đất Sở thành "Kinh" (荆). </p>
+<p>Sau đó, đến thời Nhà Hán, tại Hồ Bắc và Hồ Nam ngày nay đã thiết lập nên Kinh châu, đôi khi được gọi hợp lại thành "Kinh Sở". Thời kỳ cuối của Nhà Hán, tức đầu thế kỷ thứ III, Kinh châu do châu mục Lưu Biểu trấn giữ. Sau khi Lưu Biểu mất, Lưu Tông lên làm Kinh châu mục. Khi Tào Tháo đánh vào Kinh châu, Lưu Tông bèn ra hàng Tào Tháo.<sup id="cite_ref-4" class="reference">&#91;4&#93;</sup> Sau khi Tào Tháo thua trận Xích Bích, Lưu Bị lấy danh nghĩa tôn Lưu Kỳ làm thứ sử Kinh Châu<sup id="cite_ref-5" class="reference">&#91;5&#93;</sup> để đóng quân ở Kinh châu phát triển lực lượng. Trong và sau trận Xích Bích, phía Đông Ngô tổn thất và tốn kém nhân lực hơn phía Lưu Bị nên không bằng lòng việc Lưu Bị chiếm mấy quận Kinh châu, nhưng vì Lưu Kỳ là con Lưu Biểu - người cai trị cũ của Kinh châu - nhân danh làm chủ Kinh châu nên phía Tôn Quyền đành tạm chấp nhận. Kinh châu thời Lưu Biểu nguyên có 7 quận, lúc đó chiến tranh qua lại giữa 3 phe Tào - Tôn - Lưu sau trận Xích Bích, mỗi bên còn giữ một phần: Lưu Bị có 4 quận Linh Lăng, Quế Dương, Trường Sa, Vũ Lăng và một nửa quận Giang Hạ của Lưu Kỳ (con cả Lưu Biểu); Tôn Quyền chiếm được Giang Lăng, nửa quận Giang Hạ và nửa Nam quận; Tào Tháo còn giữ lại quận Nam Dương và nửa Nam quận. Năm 209, khi Lưu Kỳ qua đời, cuộc tranh chấp Kinh châu giữa Tôn Quyền và Lưu Bị lại căng thẳng, Lưu Bị bị mang tiếng "mượn" Kinh châu lâu ngày không trả. Tháng 12 năm 211, từ Kinh châu, Lưu Bị đưa quân đi đánh Ích châu (nay là Trùng Khánh và Tứ Xuyên), Quan Vũ được giao ở lại giữ Kinh châu. Sau đó, trong khi Quan Vũ mải đánh Vu Cấm (một tướng của Tào Tháo) thì Tôn Quyền sai Lã Mông mang quân đánh úp Kinh châu. Trong vài thập kỉ sau đó, Kinh châu hoàn toàn do Đông Ngô nắm giữ. </p>
+<p>Đến thời Tây Tấn, các bộ lạc du mục phía bắc Trung Quốc nổi nên và đến đầu thế kỷ thứ IV đã xâm nhập vào Trung Nguyên, khởi đầu cho gần 300 năm Trung Quốc bị phân liệt. Trong thời gian đó, phía bắc Trung Quốc là những quốc gia và triều đại của các dân tộc du mục (song bị Hán hóa ở các mức độ khác nhau), còn phía nam Trung Quốc do các triều đại của người Hán cai quản. Hồ Bắc thuộc miền Nam và nằm dưới quyền cai trị của Đông Tấn và các Nam triều. Sau loạn Hầu Cảnh, vào tháng 11 năm 552, Tiêu Dịch đã xưng đế ở Giang Lăng, tức Lương Nguyên Đế. Tuy nhiên, sau đó đại quân Tây Ngụy đã chiếm được Giang Lăng, bắt sống các tướng cùng Lương Nguyên Đế, giao cho Tiêu Sát trông giữ và sau đó hành hình Lương Nguyên Đế cùng các tôn thất nước Lương tại đây. Bách tính Giang Lăng hơn 1 vạn người bị Tây Ngụy chia cho tướng sĩ làm nô lệ và bị dẫn hết về Quan Trung. Khi thành Giang Lăng bị bao vây, Lương Nguyên Đế đã ra lệnh thiêu hủy 14 vạn quyển sách rất có giá trị, gây tổn thất cho kho tàng văn hóa Trung Quốc. Tây Ngụy đem Giang Lăng giao cho Tiêu Sát coi giữ, sau đó Tiêu Sát thành lập nước Hậu Lương, tức Lương Tuyên Đế, đóng đô ở Giang Lăng, thần phục nhà Tây Ngụy, tồn tại cho đến năm 587. </p>
+<p>Sau khi nhà Tùy thống nhất Trung Quốc, ngoại trừ khu vực phía tây bắc và góc phía đông, tuyệt đại bộ phận Hồ Bắc hiện nay thuộc Kinh châu, gồm các quận Nam, Di Lăng, Cạnh Lăng, Miện Dương, Thanh Giang, Tương Dương, Thung Lăng, Hán Giang, An Lục, Vĩnh An, Giang Hạ. Đến năm Khai Hoàng thứ 9 (589) thời Tùy Văn Đế, Giang Hạ quận trong một thời gian đã được đổi tên thành Ngạc Châu, sau đó Ngạc Châu trở thành tên trị sở của quận này. Giản xưng "Ngạc" hiện nay của Hồ Bắc bắt nguồn từ đây. </p>
+<p>Sau khi Nhà Đường thay thế nhà Tùy vào năm 617, toàn quốc được chia thành 10 đạo, tây bộ Hồ Bắc thuộc Sơn Nam Đông đạo còn đông bộ Hồ Bắc thuộc Hoài Nam đạo, đông nam bộ Hồ Bắc thuộc Giang Nam Tây đạo còn tây nam bộ của Hồ Bắc thuộc Kiềm Trung đạo. Trên địa phận Hồ Bắc khi đó có 15 châu. Về sau địa bàn Hồ Bắc hiện nay bị phân chia giữa Sơn Nam Đông đạo tiết độ sứ, Kinh Nam tiết độ sứ và Vũ Xương tiết độ sứ. Trong khoảng thời gian này, Hồ Bắc đã trở thành một trong những khu vực đứng đầu về sản xuất ngũ cốc tại Trung Quốc. Sản xuất và mậu dịch trà, cam quýt và các sản vật khác phát triển rất mạnh. Phát triển kinh tế cũng kéo theo sự phát triển về văn hóa, các thi nhân nổi tiếng đương thời như Lý Bạch, Đỗ Phủ, Bạch Cư Dị, Mạnh Hạo Nhiên, Sầm Than, Lục Vũ, Bì Nhật Hưu khi đi ngao du vùng Kinh Sở đã cho ra đời nhiều thi thiên tráng lệ. </p>
+<p>Thời Ngũ Đại Thập Quốc (907-960), bảy châu là Tương, Quân, Phòng, Tùy, Dĩnh, Phục, An tại Hồ Bắc thuộc quyền cai quản của Ngũ Đại; còn các châu Hoàng, Kì, Ngạc thì ban đầu thuộc nước Ngô, sau thuộc nước Nam Đường; hai châu Hoàng, Kì về sau lại rơi vào tay triều Hậu Chu; nước Nam Bình nằm ở khu vực Giang Lăng, chiếm cứ ba châu Kinh, Quy, Hạp; riêng châu Thi thì thuộc Thục. </p>
+<p>Nhà Tống đã tái thống nhất Trung Quốc vào năm 982, sau đó đặt Kinh Hồ Bắc lộ (giản xưng là Hồ Bắc lộ, tên gọi Hồ Bắc ra đời từ đây) tại đại bộ phận Hồ Bắc hiện nay, lộ này có các châu Ngạc, Phục, Hạp, Quy và Giang Lăng phủ, Đức An phủ, cùng với Kinh Môn quân, Hán Dương quân. Ở bắc bộ Hồ Bắc, triều đình thiết lập Kinh tây nam lộ, gồm các châu Tùy, Kim, Phòng, Quân, Dĩnh cùng Tương Dương phủ và Quang Hoa quân. Đông bộ Hồ Bắc lấy Trường Giang làm ranh giới, phía Bắc thuộc Hoài Nam Tây lộ, gồm hai châu Kì và Hoàng; phía nam thuộc Giang tây nam lộ, gồm Hưng Quốc quân; Thi châu ở tây bộ Hồ Bắc thuộc Quỳ Châu lộ. Đến cuối thời Bắc Tống, quân Kim Nữ Chân xâm nhập phương Bắc, chiến loạn xảy ra, vì thế có rất nhiều người đã di cư xuống phương Nam. Những di dân đem theo cả nền văn hóa và kỹ thuật nông nghiệp tiên tiến từ phương Bắc xuống, Hồ Bắc vì thế dần trở nên phồn vinh, trở thành vùng sản xuất lương thực trọng điểm. </p>
+<p>Sau khi quân Mông Cổ tiêu diệt cả hai triều Kim, Tống và lập ra Nhà Nguyên, đã thiết lập các hành tỉnh làm đơn vị hành chính cấp một. Hồ Bắc khi đó bị phân chia giữa Hà Nam Giang Bắc đẳng xứ hành trung thư tỉnh (河南江北等处行中书省) và Hồ Quảng đẳng xứ hành trung thư tỉnh (湖广等处行中书省). Hồ Quảng hành tỉnh bao gồm đông nam bộ Hồ Bắc và các tỉnh Hồ Nam, Quảng Tây, Hải Nam và góc tây nam của Quảng Đông hiện nay. Tại phần đông nam bộ Hồ Bắc, triều đình Nhà Nguyên đã thiết lập Vũ Xương lộ, Hưng Quốc lộ (Dương Tân) và Hán Dương phủ. Vũ Xương là thủ phủ của Hồ Quảng hành tỉnh, cũng là trung tâm về nông sản của lưu vực Lưỡng Hồ. Đại bộ phận Hồ Bắc thuộc Hà Nam Giang Bắc hành tỉnh, trên địa bàn có Tương Dương lộ, Hoàng Châu lộ, Kì Châu lộ, Hạp Châu lộ (Nghi Xương), Trung Hưng lộ (Kinh Châu) và các phủ Đức An, Miện Dương và An Lục (Chung Tường). </p>
+<p>Thời Minh sơ, Hồ Bắc thuộc Hồ Quảng hành tỉnh. Về sau, triều đình chia toàn quốc thành 13 bố chính sứ ti, toàn bộ Hồ Bắc hiện nay về cơ bản thuộc Hồ Quảng thừa tuyên bố chánh sử ti (湖广承宣布政使司), trị sở tại Giang Hạ (nay là Vũ Xương thuộc Vũ Hán). Trên địa bàn Vũ Hán khi đó có các phủ Vũ Xương, Hán Dương, Hoàng Châu, Thừa Thiên, Đức An, Kinh Châu, Tương Dương và Vân Dương. Thời Minh mạt, sau khi Hán Thủy đổi dòng, tại Hồ Bắc đã hình thành nên các thành trấn thương nghiệp mới nổi Hán Khẩu tại vùng bờ lõm phía bắc của dòng chảy mới, thu hút một số lớn bang thương nhân từ Huy Châu, Sơn Tây, Giang Tây đến kinh doanh muối, trà, gỗ, thuốc chữa bệnh và các mặt hàng khác. Khu đô thị ven bờ bắc Hán Thủy trải dài 20 lý, là một trong tứ đại danh trấn đương thời. </p>
+<a name="thoi-thanh"></a><h3>Thời Thanh</h3>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/a16b51ba21d60aa72c5a51f7e15f30ad.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Bản đồ tô giới các nước Anh, Đức, Nga, Pháp, Nhật tại Hán Khẩu</div></div></div>
+<p>Năm Khang Hi thứ 3 (1664) thời Nhà Thanh, Hồ Quảng bố chính sứ ti được phân thành tả và hữu bố chính sứ ti, đến năm Khang Hi thứ 6 (1667), Hồ Quảng tả và hữu bố chính sử ti đổi tên thành Hồ Bắc bố chính sứ ti và Hồ Nam bố chính sứ ti. Hồ Bắc và Hồ Nam ổn định về ranh giới và tên gọi từ đó. Hồ Bắc đặt trị sở tại Vũ Xương. Thời Thanh, ban đầu tỉnh Hồ Bắc được phân thành 8 phủ là Vũ Xương, Hán Dương, Hoàng Châu, An Lục, Đức An, Kinh Châu, Tương Dương, Vân Dương, đến cuối thời Thành thì tỉnh Hồ Bắc tổng cộng có 10 phủ là Vũ Xương, Hán Dương, Kinh Châu, Tương Dương, Hoàng Châu, An Lục, Đức An, Vân Xương, Nghi Xương, Thi Nam và Kinh Môn trực lệ châu. </p>
+<p>Năm 1860, Chiến tranh Nha phiến lần thứ hai kết thúc, tư bản ngoại quốc đổ vào các khu vực ven Trường Giang, Hán Khẩu trở thành một thương cảng hiệp ước, theo đó thiếp lập tô giới Anh tại Hán Khẩu ở hạ du thị trấn cũ. Từ năm 1895 đến 1898, lại tiếp tục thiết lập tô giới Đức tại Hán Khẩu, tô giới Nga tại Hán Khẩu, tô giới Pháp tại Hán Khẩu, tô giới Nhật tại Hán Khẩu. Ngoài ra, vào các năm 1877 và 1896, Nghi Xương và Sa Thị cũng trở thành các thương cảng hiệp ước. </p>
+<p>Trong cùng thời kỳ đó, Dương Vụ vận động (洋务运动, nghĩa là phong trào Tây hóa) đã nổi lên, tổng đốc Hồ Quảng Trương Chi Động khi nhậm chức đến Hồ Bắc đã cho thiết lập một số lượng lớn các xí nghiệp theo kiểu Tây, như xưởng luyện thép Hán Dương, xưởng công binh Hán Dương. Ông cũng đã thành lập Xưởng dệt tứ cục Hồ Bắc bao gồm dệt vải, kéo sợi, ươm tơ, chế biến gai. Ông còn lập kế hoạch xây dựng đường sắt Lô Hán (sau đổi tên là Kinh Hán, xây dựng từ năm 1896, hoàn thành năm 1905) nối liền hai miền nam bắc. Hồ Bắc trở thành một trong những tỉnh công nghiệp chủ yếu của Trung Quốc. </p>
+<a name="thoi-trung-hoa-dan-quoc"></a><h3>Thời Trung Hoa Dân Quốc</h3>
+<p>Thời kỳ Trung Hoa Dân Quốc, Hồ Bắc không có nhiều thay đổi về mặt hành chính tổng thể, các phủ, châu và thính đều được chuyển thành huyện. Đến năm 1949, Hồ Bắc có 1 thị (Vũ Xương), 8 khu đốc sát hành chính, 69 huyện. Hán Khẩu khi thì là một thành phố thuộc tỉnh, khi thì là một thành phố đặc biệt trực thuộc chính phủ trung ương. Từ năm 1927 trở đi, Cộng sản đảng bắt đầu tiến hành cách mạng vũ trang, thiết lập các chính quyền Xô viết. Đầu năm 1927, một thời gian ngắn trước khi Tưởng Giới Thạch chiếm giữ được Thượng Hải và chuyển thủ đô về Nam Kinh, phe cánh tả trong Quốc Dân đảng Uông Tinh Vệ đã tuyên bố thủ đô của chính quyền Dân quốc là Vũ Hán. Trong khi cố gắng chỉ đạo chính phủ từ Vũ Hán, Uông đã cộng tác chặt chẽ với những nhân vật cộng sản hàng đầu, bao gồm Mao Trạch Đông, Trần Độc Tú, và Mikhail Markovich Borodin. Tưởng Giới Thạch chiếm được Thượng Hải vào tháng 4 năm 1927, và bắt đầu một cuộc đàn áp đẫm máu đối với cộng sản gọi là thanh đảng. Trong vòng vài tuần lễ Tưởng đàn áp cộng sản tại Thượng Hải, chính phủ cánh tả của Uông đã bị một quân phiệt liên kết với Quốc Dân đảng tấn công và bị tan rã, điều này đã khiến Tưởng Giới Thạch trở thành lãnh đạo hợp pháp duy nhất của Trung Hoa Dân quốc. Trong Chiến tranh thế giới thứ hai, nửa phía đông của Hồ Bắc bị quân Nhật xâm chiếm trong khi nửa phía tây vẫn nằm trong tay các lực lượng Trung Quốc. </p>
+<a name="thoi-cong-hoa-nhan-dan-trung-hoa"></a><h3>Thời Cộng hòa Nhân dân Trung Hoa</h3>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/d792346115385642d444546a630e3aa2.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Đường hầm trong công trình 131, được xây vào cuối thập niên 1960 &amp; đầu thập niên 1970</div></div></div>
+<p>Trong Cách mạng Văn hóa, Vũ Hán là một trong những trọng điểm hoạt động của Hồng vệ binh. Do lo ngại có thể xảy ra chiến tranh hạt nhân trong thời điểm các xung đột biên giới Trung-Xô vào cuối thập niên 1960, chính quyền Trung Quốc khi đó đã lựa chọn Hàm Ninh làm nơi để xây dựng công trình 131, tên gọi "131" này là do nó được quyết định xây dựng vào ngày 31 tháng 1 năm 1969. Hệ thống đường hầm được thường thuật là dài 456 mét, và có chi phí xây dựng là 130 triệu NDT với mục đích sẽ trở thành trung tâm đầu não của đất nước khi chiến tranh hạt nhân xảy ra. Hồ Bắc nói chung và Vũ Hán nói riêng đã phải hứng chịu ảnh hưởng nặng nề của các trận lụt Trường Giang vào năm 1954. Sau đó, các dự án xây đập quy mô lớn đã được triển khai, đập Cát Châu Bá (葛洲坝) trên Trường Giang đã bắt đầu được xây dựng từ năm 1970 và hoàn thành vào năm 1988; việc xây dựng đập Tam Hiệp ở xa hơn về thượng nguồn đã bắt đầu vào năm 1993 và ngoại trừ thang nâng tàu, đập này đã hoàn thành với đầy đủ chức năng vào tháng 4 năm 2012.<sup id="cite_ref-6" class="reference">&#91;6&#93;</sup><sup id="cite_ref-7" class="reference">&#91;7&#93;</sup> Công trình đập Tam Hiệp đã khiến 1,3 triệu cư dân phải di dời, nó trị giá 60 tỷ USD và là công trình thủy điện lớn nhất thế giới.<sup id="cite_ref-ifn_8-0" class="reference">&#91;8&#93;</sup> </p>
+<a name="dia-ly"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Địa lý</h2>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/38c3671e539e1323da19d23a6923b23e.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Trường Giang chảy qua Tây Lương Hiệp tại Tỉ Quy</div></div></div>
+<p>Hồ Bắc thuộc khu vực Hoa Trung, do nằm ở phía nam giới tuyến "Tần Lĩnh-Hoài Hà" nên Hồ Bắc thuộc miền Nam Trung Quốc. Đồng bằng Giang Hán chiếm phần lớn trung bộ và đông bộ của Hồ Bắc, cùng với đồng bằng hồ Động Đình của Hồ Nam tạo thành một dải đồng bằng thống nhất. Trên vùng tây bộ và các vùng giáp ranh của Hồ Bắc thì có địa hình nhiều đồi núi hơn. phía tây Hồ Bắc, gần như theo thứ tự từ bắc xuống nam, là các dãy Vũ Đang Sơn, Kinh Sơn (荆山), Đại Ba Sơn (大巴山), Vu Hiệp (巫峡). Dãy Đại Biệt Sơn nằm ở phía đông bắc đồng bằng Giang Hán, tại vùng giáp giới giữa Hồ Bắc với hai tỉnh Hà Nam và An Huy. Dãy Đồng Bách Sơn (桐柏山) nằm ở phía bắc, trên ranh giới giữa Hồ Bắc và Hà Nam. Ở phía đông nam, dãy Mạc Phụ Sơn (幕阜山) tạo thành ranh giới giữa Hồ Bắc và Giang Tây. Đỉnh cao nhất tại Hồ Bắc là đỉnh Thần Nông (神农顶) với cao độ 3.105 m thuộc Đại Biệt Sơn và nằm trên địa phận của lâm khu Thần Nông Giá. Núi non chiếm 55,5% diện tích toàn tỉnh, vùng gò đồi và đồng ruộng chân đồi chiếm 24,5%, vùng đồng bằng và hồ chiếm 20%. </p>
+<p>Hai sông lớn tại Hồ Bắc là Trường Giang và phụ lưu tả ngạn của nó là Hán Thủy, đồng bằng Hán Thủy lấy theo tên của hai con sông này. Trường Giang tiến vào Hồ Bắc từ phía tây qua Tam Hiệp, tổng chiều dài đoạn chảy qua Hồ Bắc là 1061&#160;km; nửa phía đông của Tam Hiệp, tức Tây Lăng Hiệp (西陵峡) và một phần Vu Hiệp, nằm ở tây bộ của Hồ Bắc, trong khi nửa phía tây của Tam Hiệp thuộc về Trùng Khánh. Hán Thủy tiến vào Hồ Bắc từ tây bắc, đoạn chảy qua Hồ Bắc dài 878&#160;km. Sau khi chảy qua một đoạn lớn trên địa bàn Hồ Bắc, hai sông này hợp dòng tại tỉnh lị Vũ Hán. Trường Giang chảy dọc theo chiều đông-tây của tỉnh, Hồ Bắc nằm ở cả hai bên sông ngoài một đoạn khi sông tạo thành ranh giới tự nhiên giữa Hồ Nam và Hồ Bắc. Trong số các chi lưu nổi tiếng của Trường Giang, có suối Thần Nông (神农溪), song nó đã bị ảnh hưởng từ công trình đập Tam Hiệp; sông Thanh (清江), một tuyến thủy đạo chính ở tây nam Hồ Bắc; sông Hoàng Bách (黄柏河) gần Nghĩa Xương; và Phú Thủy (富水) ở phía đông nam tỉnh. </p>
+<p>Có hàng nghìn hồ nước nằm rải rác tại vùng đồng bằng Giang Hán của Hồ Bắc, vì thế tỉnh còn có biệt hiệu là "vùng hồ Hoa Trung" (华中屋脊). Các hồ lớn nhất trong số đó là hồ Lương Tử (梁子湖; 304,3&#160;km²) và Hồng Hồ (洪湖, 348&#160;km²). Nhiều đập thủy điện đã tạo nên các hồ chứa lớn, lớn nhất trong số đó là hồ chứa Đan Giang Khẩu (丹江口水库) trên Hán Thủy, ở ranh giới giữa Hồ Bắc và Hà Nam. Đông Hồ ở Vũ Hán với diện tích 33,7&#160;km² là hồ đô thị lớn nhất Trung Quốc, diện tích gấp 6 lần Tây Hồ của Hàng Châu. </p>
+<p>Hồ Bắc có khí hậu cận nhiệt đới ẩm (<i>Cfa</i> hay <i>Cwa</i> theo phân loại khí hậu Köppen), với bốn mùa rõ rệt. Mùa đông tại Hồ Bắc mát hoặc lạnh, với nhiệt trung bình là 1 đến 6&#160;°C (34 đến 43&#160;°F) vào tháng giêng, trong khi mùa hè nóng và ẩm, với nhiệt độ trung bình là 24 đến 30&#160;°C (75 đến 86&#160;°F) vào tháng 7; tỉnh lị Vũ Hán đôi khi có nhiệt độ lên đến 40&#160;°C (104&#160;°F) hoặc cao hơn. Các khu vực núi non ở phía tây Hồ Bắc, đặc biệt là Thần Nông Giá, có mùa hè mát mẻ hơn, vì thế đã thu hút nhiều du khách từ Vũ Hán và các thành phố vùng thấp khác. </p>
+<a name="nhan-khau"></a><h2>Nhân khẩu</h2>
+<div class="thumb-img pull-right"><div class="thumbnail" > <div > <div class="transborder" ></div><div class="transborder" ></div><div class="transborder" ></div> </div> <div class="caption"> <p>Tôn giáo tại Hồ Bắc<sup id="cite_ref-Wang2015_9-0" class="reference">&#91;9&#93;</sup> </p> <style data-mw-deduplicate="TemplateStyles:r64160510">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}</style><div class="legend"><span class="legend-color" >&#160;</span>&#160;Tín ngưỡng truyền thống Trung Hoa (6.5%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64160510"/><div class="legend"><span class="legend-color" >&#160;</span>&#160;Kitô giáo (0.58%)</div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64160510"/><div class="legend"><span class="legend-color" >&#160;</span>&#160;Phật giáo (92.92%)</div> </div> </div></div>
+<p>Năm 2011, số nhân khẩu thường trú của tỉnh Hồ Bắc là 57,6 triệu người, trong đó nam có 29,56 triệu người (51,34%), nữ là 28,02 triệu người (48,66%). Số người trong độ tuổi 0-14 tuổi là 7,99 triệu người (13,88%), từ 15-64 tuổi là 44,33 triệu người (77%), số người trên 65 tuổi là 5,25 triệu người (9,12%). Năm 2010, tuổi thọ bình quân của cư dân Hồ Nam là 75,9 năm. Riêng công trình đập Tam Hiệp đã khiến 1,3 triệu cư dân phải tái định cư.<sup id="cite_ref-ifn_8-1" class="reference">&#91;8&#93;</sup> Dân cư Hồ Bắc tập trung cư trú tại đồng bằng Giang Hán. </p>
+<p>Tỉnh Hồ Bắc có thành phần dân tộc đa dạng. Theo tổng điều tra nhân khẩu lần thứ 6 vào năm 2010, số người thuộc các dân tộc thiểu số tại Hồ Bắc là 2.468.500 người người, chiếm 4,31% tổng dân số toàn tỉnh. Trong số các dân tộc thiểu số, những dân tộc có dân số trên 10.000 người tại Hồ Bắc là người Thổ Gia (2,1 triệu), người Miêu (177.000), người Hồi (67.000), người Động (52.000), người Mãn (13.000), người Choang (12.000) và người Mông Cổ (~10.000). Tỉnh Hồ Bắc có châu tự trị Ân Thị của người Thổ Gia và Miêu, 2 huyện tự trị là Trường Dương và Ngũ Phong của người Thổ Gia, ngoài ra còn có 12 hương trấn dân tộc của các dân tộc Hồi, Thổ Gia, Động, Bạch và 20 thôn/nhai dân tộc. Tổng diện tích các khu vực tự trị dân tộc của Hồ Bắc là 30.000&#160;km², chiếm khoảng 1/6 diện tích của tỉnh; tổng dân số của các địa phương tự trị dân tộc là 3,87 triệu, chiếm 6,76% tổng dân số toàn tỉnh.<sup id="cite_ref-gov_10-0" class="reference">&#91;10&#93;</sup> </p>
+<p>Cư dân Hồ Bắc chủ yếu nói Quan thoại tây nam, Quan thoại Giang Hoài và tiếng Cám. </p>
+<a name="cac-don-vi-hanh-chinh"></a><h2>Các đơn vị hành chính</h2>
+<div role="note" class="hatnote navigation-not-searchable">Bài chi tiết: Danh sách các đơn vị hành chính Hồ Bắc</div>
+<p>Hồ Bắc được chia ra 13 đơn vị cấp địa khu (trong đó có 12 địa cấp thị và 1 châu tự trị), cũng như 3 phó địa cấp thị là các đô thị cấp huyện trực thuộc và một lâm khu cấp huyện trực thuộc. </p>
+<table class="wikitable table table-striped"  align="center">  <tbody><tr> <th>Bản đồ </th> <th># </th> <th>Tên </th> <th>Thủ phủ </th> <th>Chữ Hán<br />Bính âm </th> <th>Dân số (2010) </th> <th>Diện tích </th></tr> <tr> <td rowspan="23"><img alt="Hubei prfc map.png" src="/images/wiki/ho-bac/fec14b2927bcba35fa3cb907c551ce97.png" decoding="async" /> <big><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64160510"/><div class="legend"><span class="legend-color" >&#160;</span>&#160;Đơn vị cấp huyện</div></big> </td></tr> <tr bgcolor="lightblue"> <td colspan="6" align="center"><b>— Thành thị cấp phó tỉnh —</b> </td></tr> <tr> <td>1 </td> <td>Vũ Hán </td> <td>Giang Ngạn </td> <td><font size="3">武汉市</font><br />Wǔhàn Shì </td> <td>9.785.392 </td> <td>8494,41 </td></tr> <tr bgcolor="lightblue"> <td colspan="6" align="center"><b>— Thành thị cấp địa khu —</b> </td></tr> <tr> <td>2 </td> <td>Ngạc Châu </td> <td>Ngạc Thành </td> <td><font size="3">鄂州市</font><br />Èzhōu Shì </td> <td>1.048.672 </td> <td>1.594 </td></tr> <tr> <td>3 </td> <td>Hoàng Cương </td> <td>Hoàng Châu </td> <td><font size="3">黄冈市</font><br />Huánggāng Shì </td> <td>6.162.072 </td> <td>17.446 </td></tr> <tr> <td>4 </td> <td>Hoàng Thạch </td> <td>Hoàng Thạch Cảng </td> <td><font size="3">黄石市</font><br />Huángshí Shì </td> <td>2.429.318 </td> <td>4.583 </td></tr> <tr> <td>5 </td> <td>Kinh Môn </td> <td>Đông Bảo </td> <td><font size="3">荆门市</font><br />Jīngmén Shì </td> <td>2.873.687 </td> <td>12.404 </td></tr> <tr> <td>6 </td> <td>Kinh Châu </td> <td>Sa Thị </td> <td><font size="3">荆州市</font><br />Jīngzhōu Shì </td> <td>5.691.707 </td> <td>14.104 </td></tr> <tr> <td>7 </td> <td>Thập Yển </td> <td>Mao Tiễn </td> <td><font size="3">十堰市</font><br />Shíyàn Shì </td> <td>3.340.843 </td> <td>23.681,6 </td></tr> <tr> <td>8 </td> <td>Tùy Châu </td> <td>Tằng Đô </td> <td><font size="3">随州市</font><br />Suízhōu Shì </td> <td>2.162.222 </td> <td>9.636 </td></tr> <tr> <td>9 </td> <td>Tương Dương </td> <td>Tương Thành </td> <td><font size="3">襄阳市</font><br />Xiāngyang Shì </td> <td>5.500.307 </td> <td>19.724,41 </td></tr> <tr> <td>10 </td> <td>Hàm Ninh </td> <td>Hàm An </td> <td><font size="3">咸宁市</font><br />Xiánníng Shì </td> <td>2.462.583 </td> <td>9.861 </td></tr> <tr> <td>11 </td> <td>Hiếu Cảm </td> <td>Hiếu Nam </td> <td><font size="3">孝感市</font><br />Xiàogǎn Shì </td> <td>4.814.542 </td> <td>8.910 </td></tr> <tr> <td>12 </td> <td>Nghi Xương </td> <td>Tây Lăng </td> <td><font size="3">宜昌市</font><br />Yíchāng Shì </td> <td>4.059.686 </td> <td>21.227 </td></tr> <tr bgcolor="lightblue"> <td colspan="6" align="center"><b>— Châu tự trị —</b> </td></tr> <tr> <td>13 </td> <td>Ân Thi<br /><span class="nowrap">(của người Thổ Gia &amp; Miêu)</span> </td> <td>Ân Thi </td> <td><font size="3"><span class="nowrap">恩施土家族苗族自治州</span></font><br /><span class="nowrap"> Ēnshī Tǔjiāzú Miáozú Zìzhìzhōu</span> </td> <td>3.290.294 </td> <td>24.061 </td></tr> <tr bgcolor="lightblue"> <td colspan="6" align="center"><b>— Phó địa cấp thị —</b> </td></tr> <tr> <td>14 </td> <td>Thiên Môn </td> <td>nhai đạo Cánh Lăng </td> <td><font size="3">天门市</font><br />Tiānmén Shì </td> <td>1.418.913 </td> <td>2.622 </td></tr> <tr> <td>15 </td> <td>Tiềm Giang </td> <td>nhai đạo Viên Lâm </td> <td><font size="3">潜江市</font><br />Qiánjiāng Shì </td> <td>946.277 </td> <td>2.004 </td></tr> <tr> <td>16 </td> <td>Tiên Đào </td> <td>nhai đạo Sa Chủy </td> <td><font size="3">仙桃市</font><br />Xiāntáo Shì </td> <td>1.175.085 </td> <td>2.538 </td></tr> <tr bgcolor="lightblue"> <td colspan="6" align="center"><b>— Lâm khu —</b> </td></tr> <tr> <td>17 </td> <td>Thần Nông Giá </td> <td>trấn Tùng Bách </td> <td><font size="3">神农架林区</font><br />Shénnóngjià Línqū </td> <td>76.140 </td> <td>3.253 </td></tr></tbody></table>
+<p>Các đơn vị trên được chia ra thành 102 đơn vị cấp huyện (38 quận nội thành, 24 thành phố cấp huyện, 37 huyện, 2 huyện tự trị, một lâm khu). Các đơn vị này lại được chia ra thành 1234 đơn vị cấp hương (737 trấn, 215 hương, 9 hương dân tộc và 273 nhai đạo). </p>
+<a name="kinh-te"></a><h2>Kinh tế</h2>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/50d23e8e292c9ccb6d4affed0a7deac1.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Đập Tam Hiệp năm 2009</div></div></div>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/328e3faee8241f698b1c57ee23dcb9a1.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Ruộng lúa tại Hàm Ninh</div></div></div>
+<p>Nắm 2011, tổng GDP của Hồ Bắc là 1,96 nghìn tỉ NDT, tăng trưởng 13,8% so với năm trước đó và là năm thứ 8 liên tục tăng trưởng hai con số. Trong đó, khu vực một của nền kinh tế đạt giá trị 256,9 tỉ NDT, tăng trưởng 4,4%; khu vực hai của nền kinh tế đạt giá trị 981,9 tỉ NDT, tăng trưởng 17,9%; khu vực ba của nền kinh tế đạt giá trị 853,8 tỉ NDT, tăng trưởng 19,1%. Tỉ lệ giữa ba khu vực của nền kinh tế biến đổi từ 13,6:49,1:37,3 vào năm 2009 thành 13,1:50,1:36,8 vào năm 2011.<sup id="cite_ref-gov_10-1" class="reference">&#91;10&#93;</sup> </p>
+<p>Hồ Bắc là khu vực quá độ giữa nền nông nghiệp sản xuất lúa mì ở phía bắc và nền nông nghiệp sản xuất lúa gạo ở phía nam, vì thế có thể trồng một vụ lúa gạo, một vụ lúa mì. Đặc biệt, ở nam bộ Hồ Bắc, còn trồng thêm được vụ màu thứ ba, do vậy sản lượng nông nghiệp ở mức cao. Do Hồ Bắc có nhiều hồ, nuôi trồng thủy sản là một thế mạnh của tỉnh, và là một trong ba tỉnh nuôi trồng thủy sản nước ngọt lớn nhất Trung Quốc. Ngoài ra, nguồn lợi thủy sản tại Trường Giang cũng phong phú. Hồ Bắc thường được gọi là "ngư mễ chi hương" (鱼米之乡), nghĩa đen là vùng đất của cá và gạo, nghĩa bóng có nghĩa là vùng đất sung túc. Các loại nông sản có thế mạnh khác của Hồ Bắc là bông và trà. Năm 2011, giá trị nông lâm mục ngư nghiệp của Hồ Bắc đạt 256,9 tỉ NDT, tăng trưởng 4,4% so với năm trước. Tổng sản lượng lương thực đạt 23,89 triệu tấn, liên tục 8 năm liền được mùa, so với năm trước thì sản lượng tăng 3,14%.<sup id="cite_ref-gov_10-2" class="reference">&#91;10&#93;</sup> </p>
+<p>Các ngành công nghiệp nặng và công nghiệp nhẹ tại Hồ Bắc cũng đạt được những bước phát triển nhất định, giá trị sản lượng công nghiệp chiếm hơn một nửa tổng GDP. Trong đó, các ngành công nghiệp nặng tập trung nhiều tại Vũ Hán, Nghi Xương, Hoàng Thạch, Tương Dương và Thập Yển. Các công ty, tập đoàn lớn của Trung Quốc đặt trụ sở tại Hồ Bắc có thể kể đến như Công ty Tập đoàn Gang thép Vũ Hán (Wuhan Iron and Steel), Công ty Ô tô Đông Phong (Dongfeng Motor). Năm 2011, giá trị quy mô ngành công nghiệp toàn tỉnh Hồ Bắc là 856 tỉ NDT, so với năm trước tăng tới 226 tỉ NDT, đạt tốc độ tăng trưởng 20,5%. Các mặt hàng công nghiệp chính của Hồ Bắc là ô tô, sắt thép, hóa dầu, chế biến thực phẩm, thông tin điện tử, dệt may, sản xuất thiết bị và vật liệu xây dựng. Trong năm 2011, đã có 339 dự án đầu tư trực tiếp nước ngoài mới được phê duyệt; với số vốn ký kết đạt 4,97 tỷ USD, số vốn giải ngân trên thực tế là 4,66 tỷ USD.<sup id="cite_ref-gov_10-3" class="reference">&#91;10&#93;</sup> </p>
+<p>Hồ Bắc là tỉnh có tài nguyên khoáng sản phong phú, trên toàn tỉnh đã phát hiện được 136 chủng loại khoáng sản, chiếm khoảng 81% chủng loại khoáng sản đã được tìm thấy tại Trung Quốc. Trong đó đã xác minh được trữ lượng của 87 chủng loại khoáng sản, chiếm 56% của cả nước. Theo biểu trữ lượng khoáng sản tỉnh Hồ Bắc, tỉnh có 956 khu khai khoáng, 1287 điểm khoáng sản. Một số loại khoáng sản trên địa bàn Hồ Bắc là borac, wollastonite, đá thạch lựu, marl, sắt, phốtpho, đồng, thạch cao, rutile, thạch diêm, hỗn hợp vàng, mangan, vanadi và hongshiite (có chứa đồng và bạch kim), đá vôi. Trữ lượng than đá có thể khai thác của Hồ Bắc là 548 triệu tấn, khá khiêm tốn so với các tỉnh khác của Trung Quốc. Ngoài ra, Hồ Bắc cũng có các mỏ ngọc lam nguyên chất và faustite lục (một loại khoáng sản có chứa nhôm, đồng, hydro, oxy, phốt pho, và kẽm). </p>
+<p>Khi hoàn thành, đập Tam Hiệp là công trình thủy điện hàng đầu thế giới. Tổng công suất phát điện của công trình này là 22.500&#160;MW.<sup id="cite_ref-Xinhua20081007_11-0" class="reference">&#91;11&#93;</sup><sup id="cite_ref-inventspot_12-0" class="reference">&#91;12&#93;</sup> Cùng với chức năng sản xuất điện, công trình còn giúp ngăn lũ lụt, tăng cường năng lực vận chuyển ở vùng hạ du của Trường Giang.<sup id="cite_ref-13" class="reference">&#91;13&#93;</sup> Một số đập thủy điện khác tại Hồ Bắc là đập Cát Châu Bá (葛洲坝水利枢纽), đập Đan Giang Khẩu (丹江口大坝), đập Cách Hà Nham (隔河岩大坝), đập Phú Thủy (富水大坝). </p>
+<p>Năm 2018, Hồ Bắc là tỉnh đông thứ chín về số dân, đứng thứ bảy về kinh tế Trung Quốc với 59 triệu dân, tương đương với Ý<sup id="cite_ref-:15_14-0" class="reference">&#91;14&#93;</sup> và GDP đạt 3.937 tỉ NDT (594,9 tỉ USD)<sup id="cite_ref-:4_15-0" class="reference">&#91;15&#93;</sup> tương ứng với Đài Loan.<sup id="cite_ref-:7_16-0" class="reference">&#91;16&#93;</sup> Năm 2010, GDP Hồ Bắc đứng hạng 11/31, đến năm 2018 xếp hạng bảy, tốc độ tăng trưởng năm 2018 đạt tớn 7,8%.<sup id="cite_ref-17" class="reference">&#91;17&#93;</sup> GDP bình quân đạt 9.917 USD/người. Đó cũng là thành quả bởi nỗ lực chỉ đạo kinh tế của Lý Hồng Trung, Vương Quốc Sinh hay Vương Hiểu Đông giai đoạn 2007 đến nay, và cũng là lý do bầu nhiệm, tin tưởng và thăng cấp. </p>
+<p>Đối với Hồ Bắc, tỉnh có vị trí kinh tế đáng chú ý. Tỉnh Hồ Bắc ở miền trung Trung Quốc, khu Hoa Trung, tại ngã ba Vành đai kinh tế sông Dương Tử từ đông sang tây vành đai kinh tế đường sắt Bắc Kinh – Quảng Châu từ bắc xuống nam. GDP của Hồ Bắc kể từ năm 2015 đứng thứ nhì trong số sáu tỉnh ở miền Trung. Đây là nơi có trung tâm giao thông toàn diện lớn nhất ở miền Trung, sở hữu những lợi thế mạnh mẽ trong khu vực, bao gồm có các tổ chức giáo dục và khoa học mạnh, giàu tài nguyên thiên nhiên, có cơ sở hạ tầng giao thông và truyền thông tốt, các cơ sở công nghiệp mạnh. Trung ương vì thế đã phê duyệt kế hoạch tạo thuận lợi cho sự phát triển kinh tế miền Trung, và lãnh tụ Tập Cận Bình đã thúc giục Hồ Bắc trở thành trụ cột trong sự trỗi dậy của miền Trung trong chuyến thăm tỉnh năm 2013. Hồ Bắc đã và đang tập trung vào phát triển các ngành sản xuất tiên tiến và mới nổi, thúc đẩy mạng lưới và số hóa thông minh ngành sản xuất, khuyến khích các doanh nghiệp tư nhân với sự trợ giúp của các công nghệ tiên tiến và Internet. Từ năm 2016, Hồ Bắc được phép thành lập Khu vực thương mại tự do với mục tiêu đảm bảo di chuyển công nghiệp có trật tự sang các khu vực trung tâm, thành lập một nhóm các cơ sở công nghiệp cho các ngành công nghiệp công nghệ cao và mới nổi, và là tiêu điểm cho việc thực hiện <i>"Chiến lược phát triển khu vực miền Trung"</i> và phát triển vành đai kinh tế sông Dương Tử.<i><sup id="cite_ref-:30095_18-0" class="reference">&#91;18&#93;</sup> Và đối với Hồ Bắc nói riêng, Hoa Trung nói chung, Thành phố phó tỉnh Vũ Hán là trái tim kinh tế.</i> </p>
+<a name="giao-thong"></a><h2>Giao thông</h2>
+<a name="duong-sat"></a><h3>Đường sắt</h3>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/0b9246fc594d434e296be18c96f6e0b8.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Sân ga của ga Nghi Xương Đông</div></div></div>
+<p>Đến cuối năm 2011, tổng chiều dài đường sắt của Hồ Bắc là 3.340&#160;km. Cũng trong năm này, mạng lưới đường sắt Hồ Bắc đã vận chuyển được 85 triệu lượt người, và vận chuyển được 100,59 triệu tấn hàng hóa. Các tuyến đường sắt trên địa bàn Hồ Bắc là: </p>
+<ul><li>Đường sắt Kinh-Quảng (京广铁路), từ Bắc Kinh đến Quảng Châu.</li> <li>Đường sắt Vũ-Quảng (武广高铁), đường sắt cao tốc từ Vũ Hán đến Quảng Châu.</li> <li>Đường sắt Kinh-Cửu (京九铁路), từ Bắc Kinh đến Hồng Kông</li> <li>Đường sắt Hán-Đan (襄渝铁路), từ Vũ Hán đến Đan Giang Khẩu</li> <li>Đường sắt Tương-Du (襄渝铁路), từ Tương Dương đến Trùng Khánh</li> <li>Đường sắt Tiêu-Liễu (焦柳铁路), từ Tiêu Tác (Hà Nam) đến Liễu Châu (Quảng Tây)</li> <li>Đường sắt Nha-Nghi (鸦宜铁路), từ trấn Nha Tước Lĩnh (鸦宜铁) của huyện Di Lăng đến Nghi Xương</li> <li>Đường sắt Nghi-Vạn (宜万铁路), từ Nghi Xương đến Vạn Châu (Trùng Khánh)</li> <li>Đường sắt Hán-Nghi (汉宜铁路), từ Vũ Hán đến Nghi Xương</li> <li>Đường sắt Hợp-Vũ (合武铁路), từ Hợp Phì đến Vũ Hán</li> <li>Đường sắt Vũ-Cửu (武九铁路), từ Vũ Hán đến Cửu Giang (Giang Tây)</li> <li>Đường sắt Vũ-Ma (武麻铁路), nối giữa đường sắt Kinh-Quảng và đường sắt Kinh-Cửu tại Hồ Bắc, từ Vũ Hán đến Ma Thành</li> <li>Đường sắt Trường-Kinh (武麻铁路), nối đường sắt Hán-Đan với phụ trạm Trường Giang.</li></ul>
+<a name="duong-bo"></a><h3>Đường bộ</h3>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ho-bac/1bdb229b01feaf46ed11609a8bb53e26.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Cầu Trường Giang Vũ Hán, đưa vào sử dụng từ năm 1957</div></div></div>
+<p>Trong năm 2011, mạng lưới công lộ của Hồ Bắc đã vận chuyển được 1,05 tỉ triệu lượt hành khách và vận chuyển được 827,4 triệu tấn hàng hóa. Tính đến năm này, toàn tỉnh Hồ Bắc có 4007&#160;km đường bộ cao tốc. </p>
+<dl><dt>Quốc lộ</dt> <dd></dd></dl>
+<ul><li><img alt="Kokudou 316(China).svg" src="/images/wiki/ho-bac/bb9b729ae2812e1900f96ec98ace19f1.png" decoding="async" /> Quốc lộ 316, từ Phúc Châu đến Lan Châu</li> <li><img alt="Kokudou 318(China).svg" src="/images/wiki/ho-bac/9ba79a59fe185b5f8d7dad894a5f75eb.png" decoding="async" /> Quốc lộ 318, từ Thượng Hải đến biên giới Trung Quốc-Nepal thuộc trấn Zangmu, huyện Nyalam, Tây Tạng</li> <li><img alt="Kokudou 106(China).svg" src="/images/wiki/ho-bac/f051024cda92cfc7d4f38f51a9719a73.png" decoding="async" /> Quốc lộ 106, từ Bắc Kinh đến Quảng Châu</li> <li><img alt="Kokudou 107(China).svg" src="/images/wiki/ho-bac/011a4beb5ee794c70664d244dfad94a0.png" decoding="async" /> Quốc lộ 107, từ Bắc Kinh đến Thâm Quyến</li> <li><img alt="Kokudou 207(China).svg" src="/images/wiki/ho-bac/28f80c79e4ebccd86e5da7044ce476a1.png" decoding="async" /> Quốc lộ 207, từ Xilinhot (Nội Mông) đến Từ Văn (Quảng Đông)</li> <li><img alt="Kokudou 209(China).svg" src="/images/wiki/ho-bac/1932cffff943003f192266f9d789c782.png" decoding="async" /> Quốc lộ 209, từ Hohhot (Nội Mông) đến Bắc Hải (Quảng Tây)</li></ul>
+<dl><dt>Đường bộ cao tốc</dt></dl>
+<ul><li><img alt="China Expwy G4 sign with name.svg" src="/images/wiki/ho-bac/238d87d89a84ebcbe870308193f4836e.png" decoding="async" /> Đường cao tốc Kinh-Cảng-Áo (京港澳高速公路), từ Bắc Kinh đến Hồng Kông và Macau</li> <li><img alt="China Expwy G45 sign with name.svg" src="/images/wiki/ho-bac/3cd95ae1b87c614f51813d14d31bfaee.png" decoding="async" /> Đường cao tốc Đại-Quảng (大广高速公路), từ Đại Khánh (Hắc Long Giang) đến Quảng Châu</li> <li><img alt="China Expwy G42 sign with name.svg" src="/images/wiki/ho-bac/c0baedbfca5e7d8695ca3d04a1c4bed7.png" decoding="async" /> Đường cao tốc Hỗ-Dong (沪蓉高速公路), từ Thượng Hải đến Thành Đô</li> <li><img alt="China Expwy G70 sign with name.svg" src="/images/wiki/ho-bac/670e646ce83700991a873861305fd393.png" decoding="async" /> Đường cao tốc Phúc-Ngân (福银高速公路), từ Phúc Châu đến Ngân Xuyên</li></ul>
+<a name="duong-thuy"></a><h3>Đường thủy</h3>
+<p>Trong năm 2011, hệ thống giao thông đường thủy của tỉnh Hồ Bắc đã vận chuyển được 3,48 triệu lượt hành khách, vận chuyển được 173,58 triệu tấn hàng hóa. Trong đó, hai tuyến thủy đạo chính là Trường Giang và Hán Thủy. Tại Hồ Bắc có trên 20 cầu vượt Trường Giang. </p>
+<a name="duong-khong"></a><h3>Đường không</h3>
+<p>Năm 2011, chi nhánh Hồ Bắc của ba công ty lớn là Air China, China Eastern Airlines và China Southern Airlines đã vận chuyển được 9,1 triệu lượt hành khách, khối lượng hàng hóa vận chuyển là 94.300 tấn. Hồ Bắc có bốn sân bay dân dụng lớn và trung bình là: sân bay quốc tế Thiên Hà Vũ Hán (sân bay trung tâm của vùng Hoa Trung), sân bay Tam Hiệp Nghi Xương, sân bay Lưu Tập Tương Phàn, sân bay Hứa Gia Bình Ân Thi </p>
+<a name="giao-duc"></a><h2>Giáo dục</h2>
+<p>Thủ phủ Vũ Hán của tỉnh Hồ Bắc là một trong 5 trung tâm giáo dục lớn nhất Trung Quốc. </p>
+<dl><dt>Trực thuộc Bộ Giáo dục Trung Quốc</dt> <dd></dd></dl>
+<ul><li>Đại học Vũ Hán (武汉大学)</li> <li>Đại học Khoa học-Kỹ thuật Hoa Trung (华中科技大学)</li> <li>Đại học Khoa học-Công nghệ Vũ Hán (武汉理工大学)</li> <li>Đại học Địa chất Trung Quốc (中国地质大学), khu trường sở Vũ Hán</li> <li>Đại học Sư phạm Hoa Trung (华中师范大学)</li> <li>Đại học Pháp luật-Chính trị-Kinh tế-Tài chính Trung Nam (中南财经政法大学)</li> <li>Đại học Nông nghiệp Hoa Trung (华中农业大学)</li> <li>Đại học Dân tộc Trung Nam (中南民族大学)</li></ul>
+<dl><dt>Trường quân sự</dt> <dd></dd></dl>
+<ul><li>Học viện Kinh tế Quân sự (军事经济学院)</li> <li>Đại học Công trình Hải quân (海军工程大学)</li> <li>Học viện Radar Không quân (空军雷达学院)</li> <li>Học viện Chỉ huy Pháo binh số 2 (第二炮兵指挥学院)</li> <li>Học viện Chỉ huy Thông tín (通信指挥学院)</li> <li>Học viện Chỉ huy Cảnh sát vũ trang Vũ Hán (武警武汉指挥学院)</li></ul>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r64477808">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"“""”""‘""’"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1">“趣味文字：中国各省及自治区名称历史由来和变化”. 人民网<span class="reference-accessdate">. Truy cập ngày 9 tháng 11 năm 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E8%B6%A3%E5%91%B3%E6%96%87%E5%AD%97%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%8F%8A%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%90%8D%E7%A7%B0%E5%8E%86%E5%8F%B2%E7%94%B1%E6%9D%A5%E5%92%8C%E5%8F%98%E5%8C%96&amp;rft.pub=%E4%BA%BA%E6%B0%91%E7%BD%91&amp;rft_id=http%3A%2F%2Fwww.people.com.cn%2FGB%2Fshenghuo%2F1090%2F2435218.html&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-2"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Dân số thế giới”. <i>https://www.worldometers.info/world-population/</i><span class="reference-accessdate">. Truy cập Ngày 26 tháng 09 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=https%3A%2F%2Fwww.worldometers.info%2Fworld-population%2F&amp;rft.atitle=D%C3%A2n+s%E1%BB%91+th%E1%BA%BF+gi%E1%BB%9Bi&amp;rft_id=https%3A%2F%2Fwww.worldometers.info%2Fworld-population%2F&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Liên kết ngoài trong <code class="cs1-code">&#124;website=</code> (trợ giúp)</span></span> </li> <li id="cite_note-3"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“GDP thế giới năm 2018” <span class="cs1-format">(PDF)</span>. <i>Ngân hàng Thế giới</i><span class="reference-accessdate">. Truy cập Ngày 26 tháng 09 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ng%C3%A2n+h%C3%A0ng+Th%E1%BA%BF+gi%E1%BB%9Bi&amp;rft.atitle=GDP+th%E1%BA%BF+gi%E1%BB%9Bi+n%C4%83m+2018&amp;rft_id=http%3A%2F%2Fdatabank.worldbank.org%2Fdata%2Fdownload%2FGDP.pdf&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-4"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite id="CITEREFDịch_Trung_Thiên2010" class="citation book cs1">Dịch Trung Thiên (2010). <i>Phẩm Tam Quốc, tập 2</i>. Nhà xuất bản Công an nhân dân. tr.&#160;359.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ph%E1%BA%A9m+Tam+Qu%E1%BB%91c%2C+t%E1%BA%ADp+2&amp;rft.pages=359&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+C%C3%B4ng+an+nh%C3%A2n+d%C3%A2n&amp;rft.date=2010&amp;rft.au=D%E1%BB%8Bch+Trung+Thi%C3%AAn&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Theo quan chế nhà Đông Hán đương thời, địa vị Thứ sử Kinh châu của Lưu Kỳ chưa bằng Châu mục Kinh châu như Lưu Biểu.</span> </li> <li id="cite_note-6"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“三峡工程最后一台机组结束72小时试运行”. ctg.com.cn<span class="reference-accessdate">. Truy cập ngày 23 tháng 6 năm 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E4%B8%89%E5%B3%A1%E5%B7%A5%E7%A8%8B%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%B0%E6%9C%BA%E7%BB%84%E7%BB%93%E6%9D%9F72%E5%B0%8F%E6%97%B6%E8%AF%95%E8%BF%90%E8%A1%8C&amp;rft.pub=ctg.com.cn&amp;rft_id=http%3A%2F%2Fwww.ctg.com.cn%2Fxwzx%2Fnews.php%3Fmnewsid%3D60653&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Three Gorges underground power station electrical and mechanical equipment is fully handed over production”. 三峡地下电站机电设备全面移交投产<span class="reference-accessdate">. Truy cập ngày 8 tháng 7 năm 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Three+Gorges+underground+power+station+electrical+and+mechanical+equipment+is+fully+handed+over+production&amp;rft.pub=%E4%B8%89%E5%B3%A1%E5%9C%B0%E4%B8%8B%E7%94%B5%E7%AB%99%E6%9C%BA%E7%94%B5%E8%AE%BE%E5%A4%87%E5%85%A8%E9%9D%A2%E7%A7%BB%E4%BA%A4%E6%8A%95%E4%BA%A7&amp;rft_id=http%3A%2F%2Fwww.ctg.com.cn%2Fxwzx%2Fnews.php%3Fmnewsid%3D62169&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-ifn-8">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Trung Quốc chính thức khánh thành đập Tam Hiệp”. Infonet<span class="reference-accessdate">. Truy cập ngày 10 tháng 11 năm 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Trung+Qu%E1%BB%91c+ch%C3%ADnh+th%E1%BB%A9c+kh%C3%A1nh+th%C3%A0nh+%C4%91%E1%BA%ADp+Tam+Hi%E1%BB%87p&amp;rft.pub=Infonet&amp;rft_id=http%3A%2F%2Finfonet.vn%2Fkhoa-hoc%2Ftrung-quoc-chinh-thuc-khanh-thanh-dap-tam-hiep%2Fa23966.html&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-Wang2015-9"><b>^</b> <span class="reference-text">China General Social Survey 2009, Chinese Spiritual Life Survey (CSLS) 2007. Report by: Xiuhua Wang (2015, p. 15) Lưu trữ 2015-09-25 tại Wayback Machine</span> </li> <li id="cite_note-gov-10">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“湖北”. 中国政府网.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E6%B9%96%E5%8C%97&amp;rft.pub=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BD%91&amp;rft_id=http%3A%2F%2Fwww.gov.cn%2Ftest%2F2012-04%2F09%2Fcontent_2108968.htm&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-Xinhua20081007-11"><b>^</b> <span class="reference-text"> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation news cs1">“:: Three Gorges reservoir raises water to target level”. Xinhua. ngày 7 tháng 10 năm 2008<span class="reference-accessdate">. Truy cập ngày 23 tháng 11 năm 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%3A%3A+Three+Gorges+reservoir+raises+water+to+target+level&amp;rft.date=2008-10-07&amp;rft_id=http%3A%2F%2Fnews.xinhuanet.com%2Fenglish%2F2008-10%2F07%2Fcontent_10162045.htm&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-inventspot-12"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Final Turbine at China's Three Gorges Dam Begins Testing”. Inventor Spot<span class="reference-accessdate">. Truy cập ngày 15 tháng 5 năm 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Final+Turbine+at+China%27s+Three+Gorges+Dam+Begins+Testing&amp;rft.pub=Inventor+Spot&amp;rft_id=http%3A%2F%2Finventorspot.com%2Farticles%2Ffinal_turbine_chinas_three_gorges_dam_begins_testing&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-13"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“中国长江三峡工程开发总公司”. Ctgpc.com.cn. ngày 8 tháng 4 năm 2009<span class="reference-accessdate">. Truy cập ngày 1 tháng 8 năm 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E4%B8%AD%E5%9B%BD%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%8F%91%E6%80%BB%E5%85%AC%E5%8F%B8&amp;rft.pub=Ctgpc.com.cn&amp;rft.date=2009-04-08&amp;rft_id=http%3A%2F%2Fwww.ctgpc.com.cn%2Fsx%2Fnews.php%3FmNewsId%3D32819&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-:15-14"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Dân số thế giới”. <i>Worldometers</i><span class="reference-accessdate">. Truy cập Ngày 26 tháng 09 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Worldometers&amp;rft.atitle=D%C3%A2n+s%E1%BB%91+th%E1%BA%BF+gi%E1%BB%9Bi&amp;rft_id=https%3A%2F%2Fwww.worldometers.info%2Fworld-population%2F&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-:4-15"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Thống kê kinh tế các đơn vị hành chính Trung Quốc”. <i>Tổng cục Thống kê Trung Quốc</i><span class="reference-accessdate">. Truy cập ngày 18 tháng 11 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=T%E1%BB%95ng+c%E1%BB%A5c+Th%E1%BB%91ng+k%C3%AA+Trung+Qu%E1%BB%91c&amp;rft.atitle=Th%E1%BB%91ng+k%C3%AA+kinh+t%E1%BA%BF+c%C3%A1c+%C4%91%C6%A1n+v%E1%BB%8B+h%C3%A0nh+ch%C3%ADnh+Trung+Qu%E1%BB%91c&amp;rft_id=http%3A%2F%2Fdata.stats.gov.cn%2Fenglish%2Feasyquery.htm%3Fcn%3DE0103&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-:7-16"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“GDP thế giới năm 2018” <span class="cs1-format">(PDF)</span>. <i>Ngân hàng Thế giới</i><span class="reference-accessdate">. Truy cập ngày 10 tháng 10 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ng%C3%A2n+h%C3%A0ng+Th%E1%BA%BF+gi%E1%BB%9Bi&amp;rft.atitle=GDP+th%E1%BA%BF+gi%E1%BB%9Bi+n%C4%83m+2018&amp;rft_id=http%3A%2F%2Fdatabank.worldbank.org%2Fdata%2Fdownload%2FGDP.pdf&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-17"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Tổng sản phẩm nội địa Hồ Bắc (1952 – 2018)”. <i>Global Economic Data</i><span class="reference-accessdate">. Truy cập ngày 3 tháng 12 năm 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+Economic+Data&amp;rft.atitle=T%E1%BB%95ng+s%E1%BA%A3n+ph%E1%BA%A9m+n%E1%BB%99i+%C4%91%E1%BB%8Ba+H%E1%BB%93+B%E1%BA%AFc+%281952+%E2%80%93+2018%29.&amp;rft_id=https%3A%2F%2Fwww.ceicdata.com%2Fen%2Fchina%2Fgross-domestic-product-hubei&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span></span> </li> <li id="cite_note-:30095-18"><b>^</b> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r64477808"/><cite class="citation web cs1">“Economic Profile of China's Hubei Province (Định hướng kinh tế tỉnh Hồ Bắc, Trung Quốc) <i>(tiếng Anh)</i>”. <i>Baike.Baidu – Bách khoa toàn thư Trung Quốc</i>. ngày 1 tháng 10 năm 2016<span class="reference-accessdate">. Truy cập ngày 13 tháng 1 năm 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Baike.Baidu+%E2%80%93+B%C3%A1ch+khoa+to%C3%A0n+th%C6%B0+Trung+Qu%E1%BB%91c&amp;rft.atitle=Economic+Profile+of+China%27s+Hubei+Province+%28%C4%90%E1%BB%8Bnh+h%C6%B0%E1%BB%9Bng+kinh+t%E1%BA%BF+t%E1%BB%89nh+H%E1%BB%93+B%E1%BA%AFc%2C+Trung+Qu%E1%BB%91c%29+%28ti%E1%BA%BFng+Anh%29&amp;rft.date=2016-10-01&amp;rft_id=https%3A%2F%2Fwww.tradecommissioner.gc.ca%2Fchina-chine%2Fmarket-facts-faits-sur-le-marche%2F112025.aspx%3Flang%3Deng&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AH%E1%BB%93+B%E1%BA%AFc" class="Z3988"></span> <span class="cs1-visible-error error citation-comment"><code class="cs1-code">&#124;archive-url=</code> bị hỏng: lệnh lưu (trợ giúp)</span></span> </li> </ol></div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ho-ba-on" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Hồ Bá Ôn            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/ho-cam-dao" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Hồ Cẩm Đào            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/ho-bac" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chien-thang-dien-bien-phu" class="mod-articles-category-title ">Khu di tích chiến thắng Điện Biên Phủ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-thai-binh" class="mod-articles-category-title ">Đền Trần (Thái Bình)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,1453 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất, đặc biệt hơn là được chính Phụ hoà...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Lý Chiêu Hoàng - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"7dceaf386f7cb3d27014d45ea436157d"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Lý Chiêu Hoàng" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu .." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/ly-chieu-hoang" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Lý Chiêu Hoàng", "item": "https://nguoikesu.com/nhan-vat/ly-chieu-hoang" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/ly-chieu-hoang" }, "headline": "Lý Chiêu Hoàng", "description": "Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất, đặc biệt hơn là được chính Phụ hoàng Lý Huệ Tông ra chỉ truyền ngôi, dù bên trong là sự sắp đặt đầy cưỡng ép của Điện tiền chỉ huy sứ Trần Thủ Độ, hiện đang nắm quyền lực trong triều. Năm 1225, Chiêu Hoàng được Trần Thủ Độ sắp xếp nhường ngôi cho Trần Thái Tông, triều đại nhà Lý cai trị Đại Việt hơn 200 năm đã chính thức kết thúc. Sau khi nhượng vị, Chiêu Hoàng trở thành Hoàng hậu của Thái Tông cho đến khi bị phế truất vào năm 1237, vì bấy giờ bà không sinh được con nối dõi. Hiển Từ Thuận Thiên hoàng hậu, người kế vị ngôi Hoàng hậu sau đó, chính là chị ruột của bà.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/ly-chieu-hoang" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-30T15:48:44+07:00", "dateCreated": "2017-10-30T15:48:44+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Lý Chiêu Hoàng</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Lý Chiêu Hoàng        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#hoang-de-cuoi-cung" title="">Hoàng đế cuối cùng</a></li>
+<li class="level-1"><a href="#hoang-hau-bat-hanh" title="">Hoàng hậu bất hạnh</a></li>
+<li class="level-1"><a href="#phu-nhan-cua-le-phu-tran" title="">Phu nhân của Lê Phụ Trần</a></li>
+<li class="level-1"><a href="#qua-doi" title="">Qua đời</a></li>
+<li class="level-1"><a href="#quan-he-voi-tran-binh-trong" title="">Quan hệ với Trần Bình Trọng</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >Lý Chiêu Hoàng<br /> <font size="2">李昭皇</font></th> </tr> <tr> <td colspan="2" >Vua Việt Nam <small>(chi tiết...)</small></td> </tr> <tr> <th colspan="2" >Nữ hoàng Đại Việt</th> </tr> <tr> <th scope="row">Tại vị</th> <td>1224 - 1225 <div class="timeline-wrapper"><map name="timeline_196be89de1385b691aaa97f9fb66eb96" id="timeline_196be89de1385b691aaa97f9fb66eb96"></map><img usemap="#timeline_196be89de1385b691aaa97f9fb66eb96" src="/images/wiki/ly-chieu-hoang/322346939659838a9744a38d4efd53e7.png" /></div> </td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td><font color="grey"><a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a></font></td> </tr> <tr> <th scope="row">Nhiếp chính</th> <td><a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a></td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td><font color="red"><b>Triều đại sụp đổ</b></font></td> </tr> <tr> <th colspan="2" >Hoàng hậu Đại Việt</th> </tr> <tr> <th scope="row">Tại vị</th> <td>1225 - 1237</td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td><b>Không có</b><br /> <small>Hoàng hậu đầu tiên của <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a></small></td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td>Hiến Từ Thuận Thiên Hoàng Hậu</td> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Phu quân</th> <td><a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a><br /> <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a></td> </tr> <tr> <th scope="row">Hậu duệ</th> <td> <table width="100%" class="collapsible collapsed" cellpadding="0" cellspacing="0" > <tr> <th >Hậu duệ</th> </tr> <tr> <td>Thái tử Trần Thịnh<br /> Thượng vị hầu Lê Tông<br /> Ứng Thụy công chúa Lê Ngọc Khuê</td> </tr> </table> </td> </tr> <tr> <th scope="row">Tên húy</th> <td>Lý Thiên Hinh (李天馨)</td> </tr> <tr> <th scope="row">Tước hiệu</th> <td>Chiêu Thánh công chúa<br /> Chiêu Hoàng<br /> Hoàng hậu<br /> Chiêu Thánh công chúa</td> </tr> <tr> <th scope="row">Niên hiệu</th> <td>Thiên Chương Hữu Đạo (天彰有道)</td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Lý</td> </tr> <tr> <th scope="row">Thân phụ</th> <td><a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a></td> </tr> <tr> <th scope="row">Thân mẫu</th> <td>Linh Từ Quốc mẫu</td> </tr> <tr> <th scope="row">Sinh</th> <td>Tháng 9, 1218<br /> Thăng Long</td> </tr> <tr> <th scope="row">Mất</th> <td>Tháng 3, 1278<br /> Cổ Pháp</td> </tr> <tr> <th scope="row">An táng</th> <td>rừng Báng</td> </tr> <tr> <th scope="row">Tôn giáo</th> <td>Phật giáo</td> </tr> </table></div>
+<p><b>Lý Chiêu Hoàng</b> (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là <b>Lý Phế hậu</b> (李廢后) hay <b>Chiêu Thánh hoàng hậu</b> (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất<sup class="annotation badge" title="^ Lý Chiêu Hoàng là vị nữ hoàng duy nhất nhưng không phải là vị vua là nữ duy nhất, bởi trước đó Trưng Trắc đã lên làm Trưng Nữ Vương - Là vị vua nữ đầu tiên của nước ta. Việc này có thể giải thích như sau: &quot;Nữ Vương&quot; và &quot;Nữ hoàng&quot; đều có nghĩa là vị vua nữ, nhưng &quot;Hoàng đế&quot; thì lớn hơn &quot;Vương&quot; nên Trưng nữ Vương là vị vua nữ đầu tiên còn Lý Chiêu Hoàng là vị nữ hoàng đầu tiên của nước ta.">1</sup> , đặc biệt hơn là được chính Phụ hoàng <a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a> ra chỉ truyền ngôi, dù bên trong là sự sắp đặt đầy cưỡng ép của Điện tiền chỉ huy sứ <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a>, hiện đang nắm quyền lực trong triều.</p>
+<p>Năm 1225, Chiêu Hoàng được <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> sắp xếp nhường ngôi cho <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>, triều đại <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> cai trị Đại Việt hơn 200 năm đã chính thức kết thúc. Sau khi nhượng vị, Chiêu Hoàng trở thành Hoàng hậu của Thái Tông cho đến khi bị phế truất vào năm 1237, vì bấy giờ bà không sinh được con nối dõi. Hiển Từ Thuận Thiên hoàng hậu, người kế vị ngôi Hoàng hậu sau đó, chính là chị ruột của bà.</p>
+<p>Sau năm 1258, bà tái giá lấy <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a>, một viên tướng có công cứu giúp Thái Tông. Hai người sống với nhau hơn 20 năm và sinh được 1 trai, Thượng vị hầu Lê Tông và 1 gái, Ứng Thụy công chúa Ngọc Khuê. Bà qua đời ngay sau Thái Tông khoảng 1 năm.</p>
+<p></p>
+<p></p>
+<a name="than-the"></a><h2>Thân thế</h2>
+<p>Chiêu Hoàng ban đầu có tên là <b>Lý Phật Kim</b> (李佛金), sau đổi là <b>Lý Thiên Hinh</b> (李天馨); con gái thứ hai của Huệ Tông Hoành Hiếu hoàng đế và Linh Từ quốc mẫu Trần thị, sinh vào tháng 9 năm Mậu Dần (1218) tại kinh đô Thăng Long, Đại Việt, tước hiệu là <b>Chiêu Thánh công chúa</b> (昭聖公主). Mẹ bà (tức Linh Từ quốc Mẫu Trần Thị Dung) là em gái ruột của <a class="annotation" href="/nhan-vat/tran-thua" title="Trần Thừa (chữ Hán: 陳承, 1184 – 17 tháng 2, 1234), hay đôi khi còn được gọi là Trần Thái Tổ (陳太祖) hoặc Trần Huy Tông (陳徽宗), là Thái thượng hoàng đầu tiên của nhà Trần. Ông tại vị Thái Thượng hoàng khi con ông, Trần Thái Tông trở thành Hoàng đế và lập ra nhà Trần. Khi ấy, Thái Tông còn nhỏ, ông cùng T..." target="_blank" >Trần Thừa</a>, cha của <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> và <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>.</p>
+<p>Bà có một chị gái là Thuận Thiên công chúa (順天公主), sau được gả cho Khâm Minh đại vương <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>, là con trưởng của Thái Tổ Chí Hiếu hoàng đế <a class="annotation" href="/nhan-vat/tran-thua" title="Trần Thừa (chữ Hán: 陳承, 1184 – 17 tháng 2, 1234), hay đôi khi còn được gọi là Trần Thái Tổ (陳太祖) hoặc Trần Huy Tông (陳徽宗), là Thái thượng hoàng đầu tiên của nhà Trần. Ông tại vị Thái Thượng hoàng khi con ông, Trần Thái Tông trở thành Hoàng đế và lập ra nhà Trần. Khi ấy, Thái Tông còn nhỏ, ông cùng T..." target="_blank" >Trần Thừa</a>, và là anh trưởng của <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>.</p>
+<a name="hoang-de-cuoi-cung"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Hoàng đế cuối cùng</h2>
+<p>Năm 1224, Điện tiền chỉ huy sứ <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> chuyên quyền, mọi việc triều chính đều do ông nắm hết. <a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a> không có con trai, ông phải lập Chiêu Thánh công chúa làm <b>Hoàng thái nữ</b> (皇太女), rồi truyền ngôi, đổi niên hiệu là <b>Thiên Chương Hữu Đạo</b> (天彰有道), với tôn hiệu là <b>Chiêu Hoàng</b> (昭皇).</p>
+<p>Năm 1225, họ Trần do nắm quyền hành, lần được ban tước quan trọng cho con em trong họ. Trần Bất Cập là cháu gọi <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> bằng chú được phong <i>Cận thị thự lục cục chi hậu</i><sup class="annotation badge" title="^ Chức chi hậu ở sáu cục của cận thị thự, là thự giữ việc hầu cận Hoàng đế">2</sup> , Trần Thiêm làm <i>Chi ứng cục</i>, <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> làm <i>Chính thủ</i>.</p>
+<p><a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> là con quan Thái úy <a class="annotation" href="/nhan-vat/tran-thua" title="Trần Thừa (chữ Hán: 陳承, 1184 – 17 tháng 2, 1234), hay đôi khi còn được gọi là Trần Thái Tổ (陳太祖) hoặc Trần Huy Tông (陳徽宗), là Thái thượng hoàng đầu tiên của nhà Trần. Ông tại vị Thái Thượng hoàng khi con ông, Trần Thái Tông trở thành Hoàng đế và lập ra nhà Trần. Khi ấy, Thái Tông còn nhỏ, ông cùng T..." target="_blank" >Trần Thừa</a>, mới 8 tuổi được đưa vào hầu gần Chiêu Hoàng. <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> cùng gần tuổi với Chiêu Hoàng, được Chiêu Hoàng gần gũi, yêu mến, hay trêu đùa. <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> lấy dịp đó dựng nên cuộc hôn nhân giữa Chiêu Hoàng và <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> rồi chuyển giao triều chính bằng cách để Chiêu Hoàng nhường ngôi cho chồng. Từ đó, <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> được thành lập.</p>
+<p>Đại Việt Sử ký Toàn thư chép:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td > <p><i>"...Một hôm, Cảnh lúc ấy mới lên 8 tuổi, phải giữ việc bưng nước rửa, nhân thế vào hầu bên trong. Chiêu Hoàng trông thấy làm ưa, mỗi khi chơi đêm cho gọi Cảnh đến cùng chơi, thấy Cảnh ở chỗ tối thì thân đến trêu chọc, hoặc nắm lấy tóc, hoặc đứng lên bóng. Có một hôm, Cảnh bưng chậu nước hầu, Chiêu Hoàng rửa mặt lấy tay vốc nước té ướt cả mặt Cảnh rồi cười trêu, đến khi Cảnh bưng khăn chầu thì lấy khăn ném cho Cảnh. Cảnh không dám nói gì, về nói ngầm với Thủ Độ. Thủ Độ nói: "Nếu thực như thế thì họ ta thành hoàng tộc hay bị diệt tộc đây?".</i></p> <p><i>Lại một hôm, Chiêu Hoàng lại lấy khăn chầu ném cho Cảnh, Cảnh lạy rồi nói: "Bệ hạ có tha tội cho thần không? Thần xin vâng mệnh". Chiêu Hoàng cười và nói: "Tha tội cho ngươi. Nay ngươi đã biết nói khôn đó". Cảnh lại về nói với Thủ Độ. Thủ Độ sợ việc tiết lộ thì bị giết cả, bấy giờ mới tự đem gia thuộc thân thích vào trong cung cấm. Thủ Độ đóng cửa thành và các cửa cung, sai người coi giữ, các quan vào chầu không được vào. Thủ Độ loan báo rằng: "Bệ hạ đã có chồng rồi".</i></p> <p><i>Các quan đều vâng lời, xin chọn ngày vào chầu. Tháng ấy, ngày 21, các quan vào chầu lạy mừng. Xuống chiếu rằng:</i></p> <p><i>"Từ xưa nước Nam Việt ta đã có đế vương trị thiên hạ. Duy triều Lý ta vâng chịu mệnh trời, có cả bốn biển, các tiên thánh truyền nối hơn hai trăm năm, chỉ vì thượng hoàng có bệnh, không người nối dõi, thế nước nghiêng nguy, sai trẫm nhận minh chiếu, cố gượng lên ngôi, từ xưa đến giờ chưa từng có việc ấy. Khốn nổi trẫm là nữ chúa, tài đức đều thiếu, không người giúp đỡ, giặc cướp nổi lên như ong, làm sao mà giữ nổi ngôi báu nặng nề? Trẫm dậy sớm thức khuya, chỉ sợ không cáng đáng nổi, vẫn nghĩ tìm người hiền lương quân tử để cùng giúp chính trị, đêm ngày khẩn khoản đến thế là cùng cực rồi, Kinh thi có nói "Quân tử tìm bạn, tìm mãi không được, thức ngủ không nguôi, lâu thay lâu thay". Nay trẫm suy đi tính lại một mình, duy có <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> là người văn chất đủ vẻ, thực thể cách quân tử hiền nhân, uy nghi đường hoàng, có tư chất thánh thần văn võ, dù đến Hán Cao Tổ, Đường Thái Tông cũng không hơn được. Sớm hôm nghĩ chín từ lâu nghiệm xem nên nhường ngôi báu, để thỏa lòng trời, cho xứng lòng trẫm, mong đồng lòng hết sức, cùng giúp vận nước, hưởng phúc thái bình. Vậy bố cáo thiên hạ để mọi người điều biết"</i>.</p> </td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Đại Việt Sử ký Toàn thư</cite></div> </td> </tr> </table>
+<p>Ngày 21 tháng 10 năm Ất Dậu (tức 22 tháng 11 năm 1225), Chiêu Hoàng xuống chiếu nhường ngôi cho <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a>. Ngày mồng 1 tháng 12 năm ấy (tức 31 tháng 12 năm 1225), Chiêu Hoàng bỏ hoàng bào mời <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> lên ngôi Hoàng đế ở điện Thiên An, dựng lên <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>, sử gọi là <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>. Chiêu Hoàng được Thái Tông phong làm Hoàng hậu.</p>
+<p>Từ đây, <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> hoàn toàn chấm dứt sau 215 năm cai trị.</p>
+<a name="hoang-hau-bat-hanh"></a><h2>Hoàng hậu bất hạnh</h2>
+<p>Sau khi nhường ngôi, Lý Thiên Hinh được phong làm Hoàng hậu, trở thành vị Hoàng hậu trẻ tuổi nhất trong lịch sử, vì khi đó bà mới 7 tuổi. Bà chung sống với Thái Tông hoàng đế hơn 10 năm, tình cảm khá sâu sắc, được Thái Tông rất yêu thương và kính trọng.</p>
+<p>Năm 1233, Lý hoàng hậu hạ sinh ra Thái tử <b>Trần Trịnh</b> (陳鄭), nhưng Thái tử chết ngay sau khi sinh không lâu.</p>
+<p>Năm 1237, Thái sư <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> cùng Quốc mẫu lo sợ huyết thống hoàng gia bị đứt đoạn, nên ép Thái Tông phải bỏ Lý Thiên Hinh để lấy chị dâu là Thuận Thiên công chúa đang có thai 3 tháng. Thái Tông hoàng đế phản đối, đang đêm trốn khỏi kinh thành để lên gặp sư Phù Vân ở Yên Tử nương nhờ. Thái sư vừa dỗ vừa gây sức ép, cuối cùng hoàng đế cũng phải chịu nghe theo.</p>
+<p>Thuận Thiên công chúa được lập làm Hoàng hậu thay thế. Thiên Hinh bị giáng làm <i>Chiêu Thánh công chúa</i> và bị giam lỏng trong cung cấm 20 năm.</p>
+<p>Vì chuyện này, Hoài Vương <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> nổi loạn ở <a class="annotation" href="/dia-danh/song-cai" title="Cụm từ Sông Cái có thể có một trong các nghĩa sau: 
+ Tham khảo:..." target="_blank" >sông Cái</a>, nhiều năm nhiều tháng không ngừng. Cuối cùng, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> đến xin Thái Tông tha tội, hai anh em ôm nhau khóc thảm thiết, tuy nhiên <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> dựa vào tội trạng của Liễu mà giáng Liễu làm <i>An Sinh vương</i> (安生王), được ban các vùng Yên Sinh, Yên Phụ, Yên Dưỡng, Yên Hưng, Yên Bang làm ấp thang mộc. Những tướng sĩ, quân lính đi theo làm loạn đều bị xử tử.</p>
+<a name="phu-nhan-cua-le-phu-tran"></a><h2>Phu nhân của <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a></h2>
+<p>Năm 1259, sau cuộc chiến với quân đội Mông Cổ vào năm 1258, <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> gả Chiêu Thánh công chúa cho <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a>, một thuộc tướng dòng dõi của Minh Càn Quảng Hiếu hoàng đế <a class="annotation" href="/nhan-vat/nha-tien-le" title="Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nhà Tiền Lê • Tiền Lê triều) là một triều đại trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hi..." target="_blank" >nhà Tiền Lê</a>. <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a> vốn tên Lê Tần (黎秦), người Ái Châu, con của danh tướng Lê Khâm có công giúp <a class="annotation" href="/nhan-vat/tran-thai-to" title="Trần Thừa (chữ Hán: 陳承, 1184 – 17 tháng 2, 1234), hay đôi khi còn được gọi là Trần Thái Tổ (陳太祖) hoặc Trần Huy Tông (陳徽宗), là Thái thượng hoàng đầu tiên của nhà Trần. Ông tại vị Thái Thượng hoàng khi con ông, Trần Thái Tông trở thành Hoàng đế và lập ra nhà Trần. Khi ấy, Thái Tông còn nhỏ, ông cùng T..." target="_blank" >Trần Thái Tổ</a> đánh dẹp Hoài Đạo vương <a class="annotation" href="/nhan-vat/nguyen-non" title="Nguyễn Nộn (阮嫩,&amp;#160;?-1219 hoặc 1229) là một sứ quân nổi dậy chống lại triều đình vào cuối thời Nhà Lý, đầu thời Nhà Trần trong lịch sử Việt Nam. Nguyễn Nộn người xã Phù Dực (huyện Tiên Du), nay là xã Phù Đổng, Gia Lâm, Hà Nội, Việt Nam. 
+ Theo Đại Việt sử lược, Nguyễn Nộn là người có gương mặt đẹp..." target="_blank" >Nguyễn Nộn</a>.</p>
+<p>Lý Thiên Hinh sống với <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a> được 20 năm, sinh ra con trai là Thượng vị hầu Lê Tông, con gái là Ứng Thụy công chúa Lê Ngọc Khuê. Sách Đại Việt Sử ký Toàn thư của <a class="annotation" href="/nhan-vat/nha-hau-le" title="Nhà Hậu Lê (Hán-Nôm: 家後黎・後黎朝, nhà Hậu Lê • Hậu Lê triều; 1427-1789) là một triều đại phong kiến Việt Nam, tồn tại sau thời Bắc thuộc lần 4 và đồng thời với nhà Mạc, nhà Tây Sơn trong một thời gian, trước nhà Nguyễn. 
+ Nhà Hậu Lê do Lê Thái Tổ lập ra, được phân biệt với nhà Tiền Lê (980-1009) do Lê Đ..." target="_blank" >nhà Hậu Lê</a> chê trách nặng lời việc vua <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> mang bà là vợ cũ gả cho <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a> là bầy tôi.</p>
+<p>Ở Từ Sơn (Bắc Ninh) vẫn còn câu ca dao thác lời Chiêu Hoàng trách <a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a> về việc này:</p>
+<dl> <dd><i>Trách người quân tử bạc tình</i></dd> <dd><i>Chơi hoa rồi lại bẻ cành bán rao!</i><sup class="annotation badge" title="^ Tuyển tập Nguyễn Tường Phượng, Nhà xuất bản Văn học, 1996, tr 585">3</sup> </dd> </dl>
+<a name="qua-doi"></a><h2>Qua đời</h2>
+<p>Đầu năm 1278, bà về thăm quê Cổ Pháp (Bắc Ninh). Tháng 3 âm lịch năm đó, bà mất, thọ 61 tuổi<sup class="annotation badge" title="^ Đại Việt Sử ký Toàn thư: Bản kỷ - Kỷ nhà Trần: Thánh Tông hoàng đế">4</sup> .</p>
+<p>Tương truyền khi qua đời, tóc bà vẫn đen nhánh, môi vẫn đỏ như son, má vẫn tươi như hoa đào<sup class="annotation badge" title="^ a ă Lê Thái Dũng, sách đã dẫn, tr 69">5</sup> . Bà được táng ở bìa rừng Báng, phía tây Thọ Lăng Thiên Đức. Bà được người đời sau lập đền thờ, gọi là Long miếu (đền Rồng). Sở dĩ Chiêu Hoàng không được thờ chung tại đền Đô mà phải thờ riêng vì bà là người bị xem là có tội với dòng họ Lý khi để mất <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a><sup class="annotation badge" title="^ a ă Lê Thái Dũng, sách đã dẫn, tr 69">5</sup> .</p>
+<p>Đền thờ của bà hiện nay tại Đình Bảng, <a class="annotation" href="/dia-danh/thi-xa-tu-son" title="Từ Sơn là một thị xã cửa ngõ phía nam của tỉnh Bắc Ninh cửa ngõ phía bắc của thành phố Hà Nội được Thủ tướng Chính phủ ký quyết định thành lập ngày 24 tháng 9 năm 2008...." target="_blank" >thị xã Từ Sơn</a>, (<a class="annotation" href="/dia-danh/tinh-bac-ninh" title="Bắc Ninh là tỉnh có diện tích nhỏ nhất Việt Nam thuộc đồng bằng sông Hồng và nằm trên Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tiếp giáp với vùng trung du Bắc bộ tại tỉnh Bắc Giang. Thành phố Bắc Ninh nằm cách trung tâm Hà Nội 30 km về phía đông bắc. phía tây và tây nam giáp thủ đô Hà Nội, phía bắc ..." target="_blank" >tỉnh Bắc Ninh</a>), còn gọi là <i>Đền Rồng</i>. Tháng 1 năm 2009, đền được nhà nước Việt Nam công nhận là di tích lịch sử cấp tỉnh. Tháng 4 năm 2009, đền đã bị đập bể hoàn toàn để chuẩn bị xây dựng mới, gây đau lòng cho người dân<sup class="annotation badge" title="^ Vụ đập nát để xây mới đền thờ Lý Chiêu Hoàng... trên báo Thanh Niên ra ngày 12 tháng 4 năm 2009">6</sup> .</p>
+<p>Nhà thơ Tản Đà có bài thơ <b>Vịnh Lý Chiêu Hoàng</b> như sau:</p>
+<dl> <dd><i>Quả núi Tiên Sơn có nhớ công</i></dd> <dd><i>Mà em đem nước để theo chồng</i></dd> <dd><i>Ấy ai khôn khéo tài dan díu</i></dd> <dd><i>Những chuyện hoa tình có biết không?</i></dd> <dd><i>Một gốc mận già<sup class="annotation badge" title="^ Mận là chữ Lý, ám chỉ nhà Lý đã suy">7</sup>  thôi cũng phải</i></dd> <dd><i>Hai trăm năm lẻ thế là xong</i></dd> <dd><i>Hỏi thăm sư cụ chùa Chân Giáo<sup class="annotation badge" title="^ Chùa Chân Giáo là nơi Lý Huệ Tông đi tu sau khi bị Trần Thủ Độ ép rời ngôi">8</sup> </i></dd> <dd><i>Khách khứa nhà ai áo mũ đông</i></dd> </dl>
+<a name="quan-he-voi-tran-binh-trong"></a><h2>Quan hệ với <a class="annotation" href="/nhan-vat/tran-binh-trong" title="Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm Bảo Nghĩa vương (保義王)...." target="_blank" >Trần Bình Trọng</a></h2>
+<p>Sử sách không ghi chép giữa bà với <a class="annotation" href="/nhan-vat/tran-binh-trong" title="Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm Bảo Nghĩa vương (保義王)...." target="_blank" >Trần Bình Trọng</a> có quan hệ ruột thịt gì hay không, ngoài yếu tố Bình Trọng là con cháu hậu duệ vua <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> còn Phụ Trần thì mang họ Lê. Tuy nhiên, có ý kiến cho rằng <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a> là cha của <a class="annotation" href="/nhan-vat/tran-binh-trong" title="Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm Bảo Nghĩa vương (保義王)...." target="_blank" >Trần Bình Trọng</a> và <a class="annotation" href="/nhan-vat/tran-binh-trong" title="Trần Bình Trọng (chữ Hán: 陳平仲, 1259 - tháng 2, 1285) là một danh tướng nhà Trần, có công lớn hộ giá bảo vệ cho Trần Thánh Tông và Trần Nhân Tông trong cuộc chiến với quân Nguyên-Mông vào năm 1285. Ông hy sinh khi chặn quân Nguyên ở bãi Thiên Mạc, được truy phong làm Bảo Nghĩa vương (保義王)...." target="_blank" >Trần Bình Trọng</a> có thể là con của <a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a> với Lý Chiêu Hoàng<sup class="annotation badge" title="^ Trần Bá Chi (2005), &quot;Bàn thêm về sự nghiệp cứu nước và hậu duệ của Lê Hoàn&quot;, trong cuốn Bối cảnh định đô Thăng Long và sự nghiệp của Lê Hoàn, Nhà xuất bản Hà Nội.">9</sup> .</p>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Nhiều tác giả (2006), <i>Bối cảnh định đô Thăng Long và sự nghiệp của <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a></i>, Nhà xuất bản Hà Nội</li> <li>Lê Thái Dũng (2008), <i>Giở trang sử Việt</i>, Nhà xuất bản Đại học Quốc gia Hà Nội.</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Lý Chiêu Hoàng là vị nữ hoàng duy nhất nhưng không phải là vị vua là nữ duy nhất, bởi trước đó <a class="annotation" href="/nhan-vat/trung-trac" title="Trưng Trắc là nữ anh hùng dân tộc của người Việt, người đứng đầu cuộc khởi nghĩa chống lại sự đô hộ của nhà Đông Hán trong lịch sử Việt Nam, lập ra một chính quyền riêng của người Việt với trung ương tại Mê Linh. Tuy về sau cuộc khởi nghĩa bị quân Hán dưới sự chỉ huy của Mã Viện đánh bại, nhưng tron..." target="_blank" >Trưng Trắc</a> đã lên làm <a class="annotation" href="/nhan-vat/trung-nu-vuong" title="Hai Bà Trưng (chữ Nôm: ?婆徵) là thời kỳ xen giữa Bắc thuộc lần 1 và Bắc thuộc lần 2 trong lịch sử Việt Nam. Đây là tên gọi chung của hai chị em Trưng Trắc (chữ Hán: 徵側) và Trưng Nhị (徵貳), là anh hùng dân tộc của người Việt, những thủ lĩnh khởi binh chống lại nhà Đông Hán của Trung Quốc, lập ra một qu..." target="_blank" >Trưng Nữ Vương</a> - Là vị vua nữ đầu tiên của nước ta. Việc này có thể giải thích như sau: "Nữ Vương" và "Nữ hoàng" đều có nghĩa là vị vua nữ, nhưng "Hoàng đế" thì lớn hơn "Vương" nên Trưng nữ Vương là vị vua nữ đầu tiên còn Lý Chiêu Hoàng là vị nữ hoàng đầu tiên của nước ta.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Chức chi hậu ở sáu cục của cận thị thự, là thự giữ việc hầu cận Hoàng đế</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Tuyển tập Nguyễn Tường Phượng, Nhà xuất bản Văn học, 1996, tr 585</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Đại Việt Sử ký Toàn thư: Bản kỷ - Kỷ <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>: Thánh Tông hoàng đế</span></li> <li id="cite_note-LTD-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Lê Thái Dũng, sách đã dẫn, tr 69</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Vụ đập nát để xây mới đền thờ Lý Chiêu Hoàng... trên báo Thanh Niên ra ngày 12 tháng 4 năm 2009</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Mận là chữ Lý, ám chỉ <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> đã suy</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Chùa Chân Giáo là nơi <a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a> đi tu sau khi bị <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> ép rời ngôi</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Trần Bá Chi (2005), "Bàn thêm về sự nghiệp cứu nước và hậu duệ của <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>", trong cuốn <i>Bối cảnh định đô Thăng Long và sự nghiệp của <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a></i>, Nhà xuất bản Hà Nội.</span></li> </ol> </div>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Nhà Lý</li> <li>Nhà Trần</li> <li><a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a></li> <li><a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a></li> <li><a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a></li> <li><a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a></li> <li>Hoàng hậu Thuận Thiên</li> <li><a class="annotation" href="/nhan-vat/le-phu-tran" title="Lê Phụ Trần (chữ Hán: 黎輔陳,&amp;#160;? -?), tức Lê Tần (黎秦), người Ái Châu, là một danh tướng của triều đại nhà Trần, phục vụ trải các triều Trần Thái Tông, Trần Thánh Tông và Trần Nhân Tông. 
+ Sử sách không ghi chép gì về ngày, tháng, năm sinh mất của ông. Trong Đại Việt Sử ký toàn thư, những ghi chép đ..." target="_blank" >Lê Phụ Trần</a></li> </ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ly-cao-tong" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Lý Cao Tông            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/ly-cong-binh" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Lý Công Bình            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/ly-chieu-hoang" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-thai-binh" class="mod-articles-category-title ">Đền Trần (Thái Bình)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

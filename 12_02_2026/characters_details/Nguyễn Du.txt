@@ -1,0 +1,1624 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nguyễn Du (chữ Hán: 阮攸; sinh ngày 3 tháng 1 năm 1766–1820) tên tự Tố Như (素如), hiệu Thanh Hiên (清軒), biệt hiệu Hồng Sơn lạp hộ (鴻山獵戶), Nam Hải điếu đồ (南海釣屠), là một nhà thơ, nhà văn hóa lớn thời Lê mạt, Nguyễn sơ ở Việt Nam. Ông được người Việt kính trọng tôn xưng là &quot;Đại thi hào dân tộc&quot;. Tác phẩm...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nguyễn Du - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"8e01bf5bf4fcada54435e55fb5a8f0ed"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nguyễn Du" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nguyễn Du (chữ Hán: 阮攸; sinh ngày 3 tháng 1 năm 1766–1820) tên tự Tố Như (素如), hiệu Thanh Hiên (清軒), biệt hiệu Hồ.." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/danh-hao-nguyen-du" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/wiki/nguyen-du/2eaf909b6232be6d764985645012a427.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nguyễn Du", "item": "https://nguoikesu.com/nhan-vat/danh-hao-nguyen-du" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/danh-hao-nguyen-du" }, "headline": "Nguyễn Du", "description": "Nguyễn Du (chữ Hán: 阮攸; sinh ngày 3 tháng 1 năm 1766–1820) tên tự Tố Như (素如), hiệu Thanh Hiên (清軒), biệt hiệu Hồng Sơn lạp hộ (鴻山獵戶), Nam Hải điếu đồ (南海釣屠), là một nhà thơ, nhà văn hóa lớn thời Lê mạt, Nguyễn sơ ở Việt Nam. Ông được người Việt kính trọng tôn xưng là &quot;Đại thi hào dân tộc&quot;. Tác phẩm Truyện Kiều của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nguyen-du/2eaf909b6232be6d764985645012a427.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/danh-hao-nguyen-du" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2018-11-14T15:30:57+07:00", "dateCreated": "2018-11-14T15:30:57+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nguyễn Du</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nguyễn Du        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+            
+            <ul class="tags list-inline">
+                                                                    <li class="list-inline-item tag-7 tag-list0" >
+                    <a href="/danh-nhan-van-hoa" class="btn btn-sm label label-info">
+                        Danh nhân văn hóa                    </a>
+                </li>
+                        </ul>
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-1"><a href="#tac-pham" title="">Tác phẩm</a></li>
+<li class="level-2"><a href="#van-ban" title="">Văn bản</a></li>
+<li class="level-2"><a href="#tac-pham-bang-chu-han" title="">Tác phẩm bằng chữ Hán</a></li>
+<li class="level-2"><a href="#tac-pham-bang-chu-nom" title="">Tác phẩm bằng chữ Nôm</a></li>
+<li class="level-2"><a href="#truoc-nam-1930" title="">Trước năm 1930</a></li>
+<li class="level-2"><a href="#tu-1930-den-1945" title="">Từ 1930 đến 1945</a></li>
+<li class="level-2"><a href="#tu-1945-den-1975" title="">Từ 1945 đến 1975</a></li>
+<li class="level-2"><a href="#tu-1980-den-nay" title="">Từ 1980 đến nay</a></li>
+<li class="level-2"><a href="#tho-van-viet-ve-nguyen-du-trich" title="">Thơ văn viết về Nguyễn Du (trích)</a></li>
+<li class="level-2"><a href="#trong-mat-nguoi-nuoc-ngoai" title="">Trong mắt người nước ngoài</a></li>
+<li class="level-1"><a href="#tuong-niem" title="">Tưởng niệm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div>
+<div class="infobox">
+<table class="infobox vcard">
+<tbody>
+<tr>
+<th colspan="2" class="fn">Nguyễn Du<br />阮攸</th>
+</tr>
+<tr>
+<td colspan="2"><img alt="" src="/images/wiki/nguyen-du/2eaf909b6232be6d764985645012a427.jpg" />
+<div>Tượng đài Nguyễn Du</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Sinh</th>
+<td>3 tháng 1, 1766<br />Bích Câu, Thăng Long</td>
+</tr>
+<tr>
+<th scope="row">Mất</th>
+<td>16 tháng 9, 1820 (54 tuổi)<br />Huế</td>
+</tr>
+<tr>
+<th scope="row">Bút danh</th>
+<td class="nickname">Tố Như, Thanh Hiên, Hồng Sơn lạp hộ, Nam Hải điếu đồ</td>
+</tr>
+<tr>
+<th scope="row">Công việc</th>
+<td class="role">Nhà thơ<br />Quan <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> trung hưng<br />Quan nhà Nguyễn</td>
+</tr>
+<tr>
+<th scope="row">Quốc gia</th>
+<td class="category">Đại Nam</td>
+</tr>
+<tr>
+<th scope="row">Tác phẩm nổi bật</th>
+<td><i>Truyện Kiều</i></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><b>Nguyễn Du</b> (chữ Hán: 阮攸; sinh ngày 3 tháng 1 năm 1766–1820)<sup class="noprint Inline-Template Template-Fact">[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy.">cần dẫn nguồn</span></i>]</sup> tên tự <b>Tố Như</b> (素如), hiệu <b>Thanh Hiên</b> (清軒), biệt hiệu <b>Hồng Sơn lạp hộ</b> (鴻山獵戶), <b>Nam Hải điếu đồ (</b>南海釣屠), là một nhà thơ, nhà văn hóa lớn thời Lê mạt, Nguyễn sơ ở Việt Nam. Ông được người Việt kính trọng tôn xưng là "Đại thi hào dân tộc".<sup class="annotation badge" title="^ “Long trọng Kỷ niệm 250 năm sinh Đại thi hào Nguyễn Du”. Báo điện tử Dân Trí. Truy cập 23 tháng 5 năm 2017. ">1</sup> </p>
+<p>Tác phẩm <i>Truyện Kiều</i> của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam.</p>
+<a name="tieu-su"></a><h2>Tiểu sử</h2>
+<p>Theo một bản gia phả của dòng họ Nguyễn ở làng Nghi Xuân, Nguyễn Du sinh ngày 23 tháng 11 năm Ất Dậu (tức ngày 3 tháng 1 năm 1766) tại <a class="annotation" href="/dia-danh/phuong-bich-cau" title="Bích Câu là một địa danh cũ thuộc Hà Nội, hiện nay ở đây cũng có một con phố tên Bích Câu (là con phố cắt ngang, nối phố Đoàn Thị Điểm và phố Cát Linh)...." target="_blank" >phường Bích Câu</a>, Thăng Long. Cha là <a class="annotation" href="/nhan-vat/nguyen-nghiem" title="Nguyễn Nghiễm (14 tháng 4 năm 1708 - 7 tháng 1 năm 1776) là quan chức, sử gia, nhà thơ thời nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công ổn định tình hình Bắc Hà và tham gia chiến dịch đánh chiếm Phú Xuân của Đàng Trong năm 1774-1775...." target="_blank" >Nguyễn Nghiễm</a> (1708 - 1775), sinh ở làng Tiên Điền, <a class="annotation" href="/dia-danh/huyen-nghi-xuan" title="Nghi Xuân là huyện đồng bằng ven biển, nằm phía Đông Bắc tỉnh Hà Tĩnh, cách thành phố Hà Tĩnh 47 Km, cách thị xã Hồng Lĩnh 15&amp;#160;km về phía Nam, phía Bắc giáp với thành phố Vinh (Nghệ An), phía Đông giáp biển Đông; đây là vùng đất “Địa linh nhân kiệt” hội tụ đầy đủ tinh hoa của núi Hồng, sông Lam...." target="_blank" >huyện Nghi Xuân</a>, Hà Tĩnh, tên tự <i>Hy Tư</i>, hiệu <i>Nghị</i> <i>Hiên</i>, có biệt hiệu là <i>Hồng Ngự cư sĩ</i> đậu Nhị giáp tiến sĩ, làm quan đến chức Đại tư đồ (Tể tướng), tước Xuân Quận công. Mẹ là bà Trần Thị Tần <sup class="annotation badge" title="^ Theo &quot;Tuyển tập Trương Chính&quot; Nhà xuất bản Văn học 1997. Bà Tần là vợ trắc thất hàng thứ ba, bà sinh ngày mồng 6 tháng 7 năm Canh Thân, niên hiệu Cảnh Hưng. Bà lấy chồng năm 16 tuổi, năm 17 tuổi bà sinh con đầu lòng là Nguyễn Trụ (1757), sau bà còn có năm bà khác nữa">2</sup>  (24 tháng 8 năm 1740 - 27 tháng 8 năm 1778), con gái một người làm chức câu kế. Bà Tần quê ở làng Hoa Thiều, xã Minh Đạo, <a class="annotation" href="/dia-danh/huyen-tien-du" title="Tiên Du là một huyện trực thuộc tỉnh Bắc Ninh, nằm trong vùng đồng bằng sông Hồng ở miền Bắc Việt Nam...." target="_blank" >huyện Tiên Du</a> (Đông Ngàn), <a class="annotation" href="/dia-danh/xu-kinh-bac" title="Kinh Bắc (chữ Hán: 京北) là tên một địa danh cũ ở phía bắc Việt Nam, bao gồm toàn bộ ranh giới 2 tỉnh Bắc Giang, Bắc Ninh và một phần nhỏ các tỉnh thành lân cận là Hà Nội (toàn bộ khu vực phía bắc sông Hồng là: Gia Lâm, Long Biên, Đông Anh, Mê Linh, Sóc Sơn); Hưng Yên (Văn Giang, Văn Lâm) và Lạng Sơn ..." target="_blank" >xứ Kinh Bắc</a>, nay thuộc <a class="annotation" href="/dia-danh/tinh-bac-ninh" title="Bắc Ninh là tỉnh có diện tích nhỏ nhất Việt Nam thuộc đồng bằng sông Hồng và nằm trên Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tiếp giáp với vùng trung du Bắc bộ tại tỉnh Bắc Giang. Thành phố Bắc Ninh nằm cách trung tâm Hà Nội 30 km về phía đông bắc. phía tây và tây nam giáp thủ đô Hà Nội, phía bắc ..." target="_blank" >tỉnh Bắc Ninh</a>. Bà Tần là vợ thứ ba của <a class="annotation" href="/nhan-vat/nguyen-nghiem" title="Nguyễn Nghiễm (14 tháng 4 năm 1708 - 7 tháng 1 năm 1776) là quan chức, sử gia, nhà thơ thời nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công ổn định tình hình Bắc Hà và tham gia chiến dịch đánh chiếm Phú Xuân của Đàng Trong năm 1774-1775...." target="_blank" >Nguyễn Nghiễm</a> (kém chồng 32 tuổi sinh được năm con, bốn trai và một gái).<sup class="annotation badge" title="^ Từ điển văn học (bộ mới), tr. 1120.)">3</sup> <sup class="annotation badge" title="^ Nguyễn Du về tác gia và tác phẩm, nxb Giáo dục, 2002, tr 27">4</sup> </p>
+<p>Tổ tiên của Nguyễn Du có nguồn gốc từ làng Canh Hoạch, <a class="annotation" href="/dia-danh/huyen-thanh-oai" title="Thanh Oai là một huyện thuộc Hà Nội...." target="_blank" >huyện Thanh Oai</a>, <a class="annotation" href="/dia-danh/tran-son-nam" title="Trấn Sơn Nam hay xứ Sơn Nam hay là vùng đất phía nam Thăng Long từ thời nhà Lê sơ đến nhà Nguyễn. Dưới thời vua Lê Thánh Tông, bản đồ Việt Nam có 13 xứ (sau từ triều Tây Sơn đổi sang gọi là trấn). Đến đây, các vùng đất quanh Hà Nội trở thành tứ trấn gồm: vùng núi phía tây được gọi là trấn Sơn Tây (h..." target="_blank" >trấn Sơn Nam</a> (nay thuộc Hà Nội), sau di cư vào Hà Tĩnh, có truyền thống khoa hoạn nổi danh ở làng Tiên Điền về thời Lê mạt. Trước ông, sáu bảy thế hệ viễn tổ đã từng đỗ đạt làm quan.</p>
+<p>Năm Đinh Hợi (1767), khi Nguyễn Du mới một tuổi, <a class="annotation" href="/nhan-vat/nguyen-nghiem" title="Nguyễn Nghiễm (14 tháng 4 năm 1708 - 7 tháng 1 năm 1776) là quan chức, sử gia, nhà thơ thời nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công ổn định tình hình Bắc Hà và tham gia chiến dịch đánh chiếm Phú Xuân của Đàng Trong năm 1774-1775...." target="_blank" >Nguyễn Nghiễm</a> được thăng Thái tử Thái bảo, hàm tòng nhất phẩm, tước Xuân Quận công nên Nguyễn Du thời đó sống trong giàu sang phú quý.</p>
+<p>Năm Giáp Ngọ (1774), cha Nguyễn Du sung chức tể tướng, cùng <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> đi đánh chúa Nguyễn ở Đàng Trong. Từ thời gian này Nguyễn Du chịu nhiều mất mát liền kề. Cụ thể, vào năm Ất Mùi 1775, anh trai Nguyễn Trụ (sinh năm 1757 qua đời). Năm Bính Thân 1776 thân phụ ông mất. Năm Mậu Tuất 1778 thân mẫu Nguyễn Du là bà Trần Thị Tần cũng tạ thế. Cũng trong năm này, anh thứ hai của Nguyễn Du là Nguyễn Điều (sinh năm 1745) được bổ làm Trấn thủ Hưng Hóa. Mới 13 tuổi, Nguyễn Du mồ côi cả cha lẫn mẹ nên ông phải ở với người anh khác mẹ là Nguyễn Khản (hơn ông 31 tuổi)</p>
+<p>Năm Canh Tý (1780), Nguyễn Khản là anh cả của Nguyễn Du đang làm Trấn thủ Sơn Tây bị khép tội mưu loạn trong Vụ án năm Canh Tý, bị bãi chức và bị giam ở nhà Châu Quận công. Lúc này Nguyễn Du được một người thân của <a class="annotation" href="/nhan-vat/nguyen-nghiem" title="Nguyễn Nghiễm (14 tháng 4 năm 1708 - 7 tháng 1 năm 1776) là quan chức, sử gia, nhà thơ thời nhà Lê trung hưng trong lịch sử Việt Nam. Ông có công ổn định tình hình Bắc Hà và tham gia chiến dịch đánh chiếm Phú Xuân của Đàng Trong năm 1774-1775...." target="_blank" >Nguyễn Nghiễm</a> là Đoàn Nguyễn Tuấn đón về Sơn Nam Hạ nuôi ăn học.</p>
+<p>Năm Nhâm Dần (1782), <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> mất, Kiêu binh phế <a class="annotation" href="/nhan-vat/trinh-can" title="Điện Đô vương Trịnh Cán (chữ Hán: 鄭檊, 1777 – 1782) là vị chúa Trịnh thứ 9 thời Lê Trung Hưng trong lịch sử Việt Nam, ở ngôi từ tháng 9 đến tháng 11 năm 1782, là con trai của chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ. Trịnh Cán sinh và mất tại thành Thăng Long khi mới 6 tuổi...." target="_blank" >Trịnh Cán</a>, lập Trịnh Tông lên ngôi chúa. Hai anh của Nguyễn Du là Nguyễn Khản được làm Thượng thư bộ Lại, tước Toản Quận công, Nguyễn Điều làm Trấn thủ Sơn Tây.</p>
+<p>Năm Quý Mão (1783) Nguyễn Du thi Hương ở trường Sơn Nam, đậu Tam trường (Sinh đồ). Ông lấy vợ là con gái Đoàn Nguyễn Thục và ông được tập ấm chức Chánh thủ hiệu hiệu quân Hùng hậu của cha nuôi họ Hà ở Thái Nguyên. Cũng trong năm này anh cùng mẹ của Nguyễn Du là Nguyễn Đề (sinh 1761) đỗ Giải nguyên khoa thi Hương ở điện Phụng Thiên, và Nguyễn Khản đầu năm thăng chức Thiếu Bảo, cuối năm thăng chức Tham tụng.</p>
+<p>Năm Giáp Thìn Tháng 2 năm (1784), kiêu binh nổi dậy đưa hoàng tôn <a class="annotation" href="/nhan-vat/le-duy-ky" title="Lê Duy Kỳ có thể là:..." target="_blank" >Lê Duy Kỳ</a> lên làm thái tử. Tư dinh của Nguyễn Khản ở <a class="annotation" href="/dia-danh/phuong-bich-cau" title="Bích Câu là một địa danh cũ thuộc Hà Nội, hiện nay ở đây cũng có một con phố tên Bích Câu (là con phố cắt ngang, nối phố Đoàn Thị Điểm và phố Cát Linh)...." target="_blank" >phường Bích Câu</a>, Thăng Long bị phá, Nguyễn Khản phải trốn lên ở với em là Nguyễn Điều đang là trấn thủ Sơn Tây. Đến năm 1786 thì Nguyễn Khản bị mắc bệnh rồi chết ở Thăng Long.</p>
+<p>Năm Kỷ Hợi (1789) <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đại phá quân Thanh. Đoàn Nguyễn Tuấn hợp tác với Tây Sơn, giữ chức Thị lang bộ Lại. Lúc này Nguyễn Du về ở quê vợ (Quỳnh Côi, Thái Bình).</p>
+<p>Tháng mười, năm Tân Hợi (1791), anh thứ tư cùng cha khác mẹ với Nguyễn Du là Nguyễn Quýnh do chống Tây Sơn nên bị bắt và bị giết, dinh cơ họ Nguyễn ở Tiên Điền Hà Tĩnh bị Tây Sơn phá hủy.</p>
+<p>Năm Quý Sửu (1793), Nguyễn Du về thăm quê Tiên Điền và đến cuối năm ông vào kinh đô Phú Xuân thăm anh là Nguyễn Đề đang làm thái sử ở viện cơ mật và anh vợ là Đoàn Nguyễn Tuấn.</p>
+<p>Năm Giáp Dần (1794), Nguyễn Đề được thăng Tả phụng nghi bộ Binh và vào Quy Nhơn giữ chức Hiệp tán nhung vụ. Đến năm 1795 Nguyễn Đề đi sứ sang Yên Kinh dự lễ nhường ngôi của vua Càn Long <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>, đến năm 1796 trở về được thăng chức Tả đồng nghị Trung thư sảnh.</p>
+<p>Mùa đông năm Bính Thìn (1796), Nguyễn Du trốn vào Gia Định theo chúa <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> nhưng bị Quận công Nguyễn Thận bắt giam ba tháng ở Nghệ An. sau khi được tha ông về sống ở Tiên Điền. Trong thời gian bị giam ông có làm thơ <i>My trung mạn hứng</i> (Cảm hứng trong tù)</p>
+<p>Mùa thu năm Nhâm Tuất (1802), Vua Gia Long diệt <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a>. Nguyễn Du ra làm quan Tri huyện Phù Dung, phủ Khoái Châu, <a class="annotation" href="/dia-danh/tran-son-nam" title="Trấn Sơn Nam hay xứ Sơn Nam hay là vùng đất phía nam Thăng Long từ thời nhà Lê sơ đến nhà Nguyễn. Dưới thời vua Lê Thánh Tông, bản đồ Việt Nam có 13 xứ (sau từ triều Tây Sơn đổi sang gọi là trấn). Đến đây, các vùng đất quanh Hà Nội trở thành tứ trấn gồm: vùng núi phía tây được gọi là trấn Sơn Tây (h..." target="_blank" >trấn Sơn Nam</a> (nay thuộc <a class="annotation" href="/dia-danh/tinh-hung-yen" title="Hưng Yên là một tỉnh nằm ở trung tâm đồng bằng sông Hồng Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hưng Yên nằm cách thủ đô Hà Nội 64&amp;#160;km về phía đông nam, cách thành phố Hải Dương 50&amp;#160;km về phía tây nam. Phía bắc giáp tỉnh Bắc Ninh, phía đông giáp tỉnh Hải Dương, phía tây và tây ..." target="_blank" >tỉnh Hưng Yên</a>). Mấy tháng sau thăng tri phủ Thường Tín, <a class="annotation" href="/dia-danh/tran-son-nam" title="Trấn Sơn Nam hay xứ Sơn Nam hay là vùng đất phía nam Thăng Long từ thời nhà Lê sơ đến nhà Nguyễn. Dưới thời vua Lê Thánh Tông, bản đồ Việt Nam có 13 xứ (sau từ triều Tây Sơn đổi sang gọi là trấn). Đến đây, các vùng đất quanh Hà Nội trở thành tứ trấn gồm: vùng núi phía tây được gọi là trấn Sơn Tây (h..." target="_blank" >trấn Sơn Nam</a> Thượng (nay thuộc Hà Nội).</p>
+<p>Năm Quý Hợi (1803), Nguyễn Du được cử lên ải Nam Quan tiếp sứ <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> sang phong sắc cho vua Gia Long.</p>
+<p>Năm Ất Sửu (1805) ông được thăng Đông các đại học sĩ (hàm Ngũ phẩm), tước Du Đức hầu và vào nhậm chức ở kinh đô Phú Xuân. Năm Đinh Mão (1807) được cử làm giám khảo kỳ thi Hương ở Hải Dương. Mùa thu năm Mậu Thìn (1808), ông xin về quê nghỉ.</p>
+<p>Năm Kỷ Tỵ (1809) ông được bổ chức Cai bạ (hàm Tứ phẩm) ở Quảng Bình</p>
+<p>Năm Quý Dậu (1813) ông được thăng Cần chánh điện học sĩ (hàm Chính tam phẩm) và được cử làm chánh sứ sang <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>. Năm 1814 ông đi sứ về, được thăng Hữu tham tri bộ Lễ (hàm Tòng nhị phẩm).</p>
+<p>Năm Bính Tý (1816), anh rể Nguyễn Du là Vũ Trinh vì liên quan đến vụ án cha con Tổng trấn <a class="annotation" href="/nhan-vat/nguyen-van-thanh" title="Nguyễn Văn Thành (chữ Hán: 阮文誠; 1758 – 1817), là một trong những vị khai quốc công thần của triều Nguyễn đồng thời là một trong những người có công lớn nhất trong việc đưa Nguyễn Phúc Ánh lên ngôi, trở thành vị vua đầu tiên (vua Gia Long) của triều Nguyễn - triều đại quân chủ cuối cùng của Việt Nam ..." target="_blank" >Nguyễn Văn Thành</a> nên bị đày vào Quảng Nam.</p>
+<p>Năm (Canh Thìn) 1820 Gia Long qua đời Minh Mạng nối ngôi. Lúc này Nguyễn Du được cử đi làm chánh sứ sang <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> báo tang và cầu phong nhưng ông bị bệnh dịch chết ngày mồng 10 tháng 8 âm lịch (16 tháng 9 năm Canh Thìn (1820) lúc 54 tuổi.</p>
+<p>Năm Giáp Thân (1824), di cốt của ông được cải táng về quê nhà là làng Tiên Điền, Hà Tĩnh<sup class="annotation badge" title="^ Nguyễn Du về tác gia và tác phẩm, Nhà xuất bản Giáo dục, 2002, tr 27-30.">5</sup> .</p>
+<p>Đại Nam thực lục chép về Nguyễn Du: <i>Du là người Nghệ An, học rộng giỏi thơ, càng giỏi về Quốc ngữ. Nhưng là người nhút nhát, mỗi khi ra mắt vua thì sợ sệt không hay nói gì</i>.<sup class="annotation badge" title="^ Quốc sử quán triều Nguyễn, Đại Nam thực lục, tập 2, Nhà xuất bản Giáo dục, 2007, tr. 82-83. Dẫn lại tại [1]">6</sup>  Đại Nam liệt truyện chép: <i>Du là người ngạo nghễ tự phụ, mà bề ngoài tõ ra kính cẩn, mỗi khi vào yết kiến, sợ hãi như không nói được</i>.<sup class="annotation badge" title="^ Quốc sử quán triều Nguyễn, Đại Nam liệt truyện, tập 2, Nhà xuất bản Thuận Hóa, Huế, 1997, tr. 357. Dẫn lại tại [2]">7</sup>  Người đời sau, như ý kiến của các ông Trịnh Vân Định, Trần Nho Thìn cho đó là một cách khéo léo để giữ toàn mạng và thăng tiến trong thời loạn, mặc dù trong văn thơ của Nguyễn Du thường đề cao những anh hùng thời loạn, nhưng ông chọn cách sống khác, cống hiến nhưng "ẩn dật" trong chốn quan trường.<sup class="annotation badge" title="^ Trịnh Văn Định, Những cách thế lựa chọn của kẻ sĩ tinh hoa trong lịch sử, Tạp chí Khoa học Đại học Quốc gia Hà Nội, Tập 29, số 2 (2013), trang 10-18">8</sup> </p>
+<a name="tac-pham"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Tác phẩm</h2>
+<p>Qua các tác phẩm của Nguyễn Du, nét nổi bật chính là sự đề cao xúc cảm. Nguyễn Du là nhà thơ có học vấn uyên bác, nắm vững nhiều thể thơ của Trung Quốc, như: ngũ ngôn cổ thi, ngũ ngôn luật, thất ngôn luật, ca, hành... nên ở thể thơ nào, ông cũng có bài xuất sắc. Đặc biệt hơn cả, là tài làm thơ bằng chữ Nôm của ông, mà đỉnh cao là <i>Truyện Kiều</i>, đã cho thấy, thể thơ lục bát có khả năng chuyển tải nội dung tự sự và trữ tình to lớn trong thể loại truyện thơ.</p>
+<p>Chính trên cơ sở này, mà trong thơ Nguyễn Du luôn luôn vang lên âm thanh, bừng lên màu sắc của sự sống, hằn lên những đường nét sắc cạnh của bức tranh hiện thực đa dạng. Và giữa những âm thanh, màu sắc, đường nét vô cùng phong phú đó, Nguyễn Du hiện ra: vừa dạt dào yêu thương, vừa bừng bừng căm giận. Đây là chỗ đặc sắc và cũng là chỗ tích cực nhất trong nghệ thuật của Nguyễn Du. Từ thơ chữ Hán đến <i>Truyện Kiều</i>, nó tạo nên cái sức sống kỳ lạ ở hầu hết tác phẩm của ông.<sup class="annotation badge" title="^ Nguyễn Huệ Chi, Tạp chí Văn học, tháng 11-1966(Nguyễn Du-Về tác gia và tác phẩm)">9</sup> </p>
+<a name="van-ban"></a><h3>Văn bản</h3>
+<p>Sáng tác của Nguyễn Du được lưu hành ngay từ lúc ông còn sống. Tương truyền, <i>Truyện Kiều</i> được Phạm Quý Thích nhuận sắc và cho in ở phố Hàng Gai (Hà Nội lúc ấy). Sau khi Nguyễn Du mất chỉ vài chục năm, vua Tự Đức từng có sớ cho quan <a class="annotation" href="/dia-danh/tinh-nghe-an" title="Nghệ An là tỉnh có diện tích lớn nhất Việt Nam thuộc vùng Bắc Trung Bộ. Trung tâm hành chính của tỉnh là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam.. Trước đây, Nghệ An cùng với Hà Tĩnh có cùng một tên chung là Hoan Châu (thời bắc thuộc), Nghệ An châu (đời nhà Lý, Trần), xứ Nghệ (năm ..." target="_blank" >tỉnh Nghệ An</a> thu thập tất cả di cảo của Nguyễn Du để đưa về kinh. Từ đó đến nay, việc sưu tập, nghiên cứu phổ biến di sản văn học của Nguyễn Du vẫn còn tiếp tục. Còn có những ý kiến hồ nghi tác giả một số bài thơ chữ Hán vẫn được coi là của Nguyễn Du. Việc xác định thời điểm ra đời của các tác phẩm chưa được giải quyết, kể cả thời điểm Nguyễn Du viết <i>Truyện Kiều</i>. Mặc dù đã mất nhiều công sức, nhưng các ý kiến trong giới nghiên cứu vẫn còn rất khác nhau.<sup class="annotation badge" title="^ Nguyễn Du về tác gia và tác phẩm, nxb Giáo dục, 2002, trang 11-12">10</sup> </p>
+<a name="tac-pham-bang-chu-han"></a><h3>Tác phẩm bằng chữ Hán</h3>
+<p>Theo gia phả họ Nguyễn Tiền Điền, thì Nguyễn Du để lại ba tập thơ chữ Hán: Thanh Hiên tiền hậu tập, Nam trung tạp ngâm, Bắc hành tạp lục.</p>
+<p>Những năm đầu thế kỷ XX, khi biên soạn cuốn Truyện cụ Nguyễn Du, các cụ <a class="annotation" href="/nhan-vat/le-thuoc" title="Lê Thước (1891 - 1975) hiệu Tĩnh Lạc; là nhà giáo dục, nhà biên khảo Việt Nam ở đầu thế kỷ 20...." target="_blank" >Lê Thước</a> và Phan Sĩ Bàng đã thu thập được một phần lớn những bài thơ đó, nhưng chưa công bố, chỉ mới trích dẫn một số bài lẻ tẻ mà thôi. Khoảng năm 1940-41, ông Đào Duy Anh lại làm công việc đó một lần nữa. Ông cho chúng ta biết tình hình như sau:</p>
+<p>Ba tập thơ chữ Hán chính họ Nguyễn Tiên Điền cũng không giữ được tập nào. Những tác phẩm bằng chữ Hán của Nguyễn Du rất nhiều, nhưng mãi đến năm 1959 mới được ba nhà nho là: <a class="annotation" href="/nhan-vat/bui-ky" title="Bùi Kỷ (5 tháng 1 năm 1888 - 19 tháng 5 năm 1960), tên chữ là Ưu Thiên, hiệu là Tử Chương, là nhà giáo, nhà Nho học và nhà nghiên cứu văn hóa có ảnh hưởng trong những năm đầy biến động của lịch sử Việt Nam giai đoạn đầu thế kỷ 20. Con ông là Bùi Diễm, một chính khách của Việt Nam Cộng hòa...." target="_blank" >Bùi Kỷ</a>, Phan Võ và Nguyễn Khắc Hanh sưu tầm, phiên dịch, chú thích và giới thiệu tập: Thơ chữ Hán Nguyễn Du (Nhà xuất bản Văn hóa, 1959) chỉ gồm có 102 bài. Đến năm 1965 Nhà xuất bản Văn học đã ra Thơ chữ Hán Nguyễn Du tập mới do <a class="annotation" href="/nhan-vat/le-thuoc" title="Lê Thước (1891 - 1975) hiệu Tĩnh Lạc; là nhà giáo dục, nhà biên khảo Việt Nam ở đầu thế kỷ 20...." target="_blank" >Lê Thước</a> và Trương Chính sưu tầm, chú thích, phiên dịch, sắp xếp, gồm 249 bài như sau:</p>
+<p><b>Thanh Hiên thi tập</b> (Tập thơ của Thanh Hiên) gồm 78 bài, viết chủ yếu trong những năm tháng trước khi làm quan nhà Nguyễn. Tập thơ được sáng tác trong ba gia đoạn:</p>
+<p>Giai đoạn "Mười năm gió bụi", từ năm 1786, năm Tây Sơn bắt đầu đưa quân ra Bắc Hà, cho đến năm Nguyễn Du trở về quê nhà ở Hồng Lĩnh, khoảng cuối những năm 1795 đầu năm 1796.</p>
+<p>Giai đoạn "Dưới chân núi Hồng", từ năm 1796 đến năm 1802</p>
+<p>Giai đoạn 3 "Ra làm quan ở Bắc Hà", từ năm 1802 đến cuối năm 1804 (trong giai đoạn này có lần nhà thơ được cử đi nghênh tiếp sứ thần <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> sang phong sắc cho Gia Long).</p>
+<p><b>Nam trung tạp ngâm</b> (Ngâm nga lặt vặt lúc ở miền Nam) gồm 40 bài thơ làm từ năm 1805 đến cuối năm 1812, tức là từ khi được thăng hàm đông các học sĩ vào làm quan ở Kinh (gần 4 năm) cho đến hết thời kỳ làm cái cai bạ dinh Quảng Bình (3 năm, 5 tháng). Ông viết khi làm quan ở Huế, Quảng Bình và những địa phương ở phía nam Hà Tĩnh.</p>
+<p>Bài đầu tập thơ, Phượng hoàng lộ thượng tỏa hành, đúng là bài làm trên đường đi vào Kinh nhậm chức: Từ tỉnh lỵ Hà Tĩnh đi vào có núi Phượng Hoàng và quán Phượng hoàng, và bài Nễ giang khẩu hương vọng, gần cuối tập, có câu:</p>
+<p>Độc bão hương tâm dĩ tứ niên</p>
+<p>(Ôm nỗi nhớ quê đã bốn năm trời).</p>
+<p>Như vậy là rất khớp.    </p>
+<p><b>Bắc hành tạp lục</b> (Ghi chép linh tinh trong chuyến đi sang phương Bắc) gồm 131 bài thơ, viết trong chuyến đi sứ sang Trung Quốc. Chúng tôi có theo dõi cuộc đi xứ này trên bản đồ theo những tài liệu mà các phái đoàn của ta gần đây đi tham quan Trung Quốc tìm được và đã đối chiếu với các bài thơ, thì thấy cách sắp xếp các bài thơ đã ổn. Bài Thăng Long (tháng 2 năm 1813) và bài cuối tập là bài Chu Phát làm khi trở lại. Võ Xương (cuối năm 1813). Từ đó, nhà thơ lên thuyền về Nam quan theo con đường đã đi lần trước, nên không có thơ nữa. Chỉ có một vài bài còn Cối, Vương thị (vợ Tần Cối), không ở chỗ thích đáng của nó, làm ta ngờ rằng nhà thơ nhân nhớ đến những nhân vật đó mà làm thơ, chứ không phải tức cảnh sinh tình như tuyệt đại đa số các bài trong tập này. Trường hợp này giống trường hợp bài Độc Tiểu Thanh ký (số 78 Thanh hiên thi tập), bài này không phải làm khi nhà thơ đi qua mộ Tiểu Thanh ở Tây Hồ, mà làm khi còn ở nhà, nên không ở trong Bắc hành tạp lục.</p>
+<p>Với cách sắp xếp đó có thể hiểu được tâm sự của Nguyễn Du trong từng giai đoạn. Có thể xem ba tập thơ này là ba tập nhật ký ghi trong một khoảng thời gian dài, từ năm nhà thơ 21 tuổi (1786) cho đến năm nhà thơ 49 tuổi (1814), trước lúc chết 5 năm. Bài thơ nào cũng chứa đựng một lời tâm sự. Ngay những bài tức cảnh vịnh sử khi đi sứ Trung Quốc cũng không phải là những bài tức cảnh, vịnh sử thuần túy mà đều có bao hàm tâm sự của nhà thơ, bộc lộ thái độ sống của nhà thơ một cách hết sức rõ rệt.</p>
+<p>Tập thơ 249 bài thơ chữ Hán của Nguyễn Du  là một công trình tập thể đã được Cụ <a class="annotation" href="/nhan-vat/le-thuoc" title="Lê Thước (1891 - 1975) hiệu Tĩnh Lạc; là nhà giáo dục, nhà biên khảo Việt Nam ở đầu thế kỷ 20...." target="_blank" >Lê Thước</a> và Trương Chính thu thập tài liệu, dịch nghĩa, chú thích, sắp xếp.</p>
+<ul>
+<li class="mw-empty-elt"></li>
+</ul>
+<a name="tac-pham-bang-chu-nom"></a><h3>Tác phẩm bằng chữ Nôm</h3>
+<p>Về văn thơ nôm,  Nguyễn Du sử dụng tài tình hai thể thơ dân tộc lục bát và song thất lục bát. Ông đã làm mới ngôn ngữ văn học Tiếng Việt.</p>
+<p>Những tác phẩm bằng chữ Nôm của Nguyễn Du gồm có:</p>
+<p>Nguyễn Du lưu lại trong kho tàng văn học Việt Nam thiên trường thi bất hủ Đoạn Trường Tân Thanh được truyền tụng trong dân gian và được liệt vào tài liệu giáo khoa dạy ở bậc trung học.  Đoạn Trường Tân Thanh là áng văn chương tuyệt tác, viết theo thể thơ lục bát gồm 3254 câu, dài nhất trong các tác phẩm xưa nay.</p>
+<p>Đoạn trường tân thanh (Tiếng kêu mới về nỗi đau đứt ruột. Tên phổ biến là Truyện Kiều), được viết bằng chữ Nôm, gồm 3.254 câu thơ theo thể lục bát. Nội dung của truyện dựa theo tác phẩm Kim Vân Kiều truyện của Thanh Tâm Tài Nhân, Trung Quốc. Nội dung chính của truyện xoay quanh quãng đời lưu lạc sau khi bán mình chuộc cha của Thuý Kiều, nhân vật chính trong truyện, một cô gái có tài sắc. Về thời điểm sáng tác, Từ điển văn học (bộ mới) ghi: "Có thuyết cho rằng Nguyễn Du viết ra sau khi ông đi sứ Trung Quốc (1814-1820), có thuyết cho nói ông viết trước khi đi sứ, có thể vào khoảng thời gian làm Cai bạ ở Quảng Bình (1804-1809). Thuyết sau được nhiều người chấp nhận hơn".</p>
+<p>Ngoài ra, Văn chiêu hồn (tức Văn tế thập loại chúng sinh, dịch nghĩa: Văn tế mười loại chúng sinh), là một ngâm khúc gồm có 184 câu theo thể song thất lục bát, trong đó chứa đựng tấm lòng từ bi của người Phật tử Nguyễn Du đối với cảnh khổ của muôn vạn sinh linh, cũng là một tác phẩm giá trị được nhiều học giả nghiên cứu, trích giảng.  hiện chưa rõ thời điểm sáng tác. Trong văn bản do Đàm Quang Thiện hiệu chú có dẫn lại ý của ông Trần Thanh Mại trên “Đông Dương tuần báo” năm 1939, thì Nguyễn Du viết bài văn tế này sau một mùa dịch khủng khiếp làm hằng triệu người chết, khắp non sông đất nước âm khí nặng nề, và ở khắp các chùa, người ta đều lập đàn giải thoát để cầu siêu cho hàng triệu linh hồn. Ông <a class="annotation" href="/nhan-vat/hoang-xuan-han" title="Hoàng Xuân Hãn (1908–1996) là một nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hóa, giáo dục Việt Nam đồng thời là một kỹ sư, nhà toán học. Ông là người soạn thảo và ban hành Chương trình Trung học Việt Nam đầu tiên...." target="_blank" >Hoàng Xuân Hãn</a> cho rằng có lẽ Nguyễn Du viết Văn chiêu hồn trước cả Truyện Kiều, khi ông còn làm cai bạ ở Quảng Bình (1802-1812).</p>
+<p>Thác lời trai phường nón, 48 câu, được viết bằng thể lục bát. Nội dung là thay lời anh con trai phường nón làm thơ tỏ tình với cô gái phường vải.</p>
+<p>Văn tế sống Trường Lưu nhị nữ, 98 câu, viết theo lối văn tế, để bày tỏ nỗi uất hận vì mối tình với hai cô gái phường vải khác.</p>
+<p>Thơ Nôm của Nguyễn Du đều thấy chỗ đậm, chỗ nhạt những yếu tố hoặc biểu hiện của chủ nghĩa cổ điển, chủ nghĩa lãng mạn và chủ nghĩa hiện thực trong văn học. Các tác phẩm thơ Nôm của ông đều thể hiện tư tưởng, tình cảm sâu sắc, tài năng nghệ thuật của ông xuyên suốt các tác phẩm của ông, xuyên suốt cuộc đời ông và thể hiện rõ nhất qua áng văn chương bất hủ là Truyện Kiều.</p>
+<a name="truoc-nam-1930"></a><h3>Trước năm 1930</h3>
+<p>Trong quãng thời gian hơn một trăm năm này, người bình luận các tác phẩm của Nguyễn Du là các nhà nho. Ở thế kỷ XIX, các nhà nho thường qua những bài thơ vịnh, những bài tựa mà bộc lộ cách nhìn, chính kiến của mình với tác phẩm. Sang thế kỷ XX, các nhà nho lại phát biểu bằng những bài văn chính luận. Nhưng bình luận ở giai đoạn nào họ cũng đều chia làm hai dòng khen và chê. Tuy nhiên, dù khen hay chê thì tất cả họ đều đánh giá cao nghệ thuật văn chương của Nguyễn Du. Nhưng văn chương được nhìn như có sự tách rời của hình thức với nội dung.</p>
+<a name="tu-1930-den-1945"></a><h3>Từ 1930 đến 1945</h3>
+<p>Nghiên cứu phê bình văn học thời gian này đã thành một bộ môn riêng biệt, mang ý nghĩa hiện đại. Các tác phẩm của Nguyễn Du trong giới nghiên cứu, phê bình thấy rõ ba khuynh hướng sau:</p>
+<ol>
+<li><i>Khuynh hướng phê bình ấn tượng chủ quan</i> với các ông Hoài Thanh, Lê Tràng Kiều, Lưu Trọng Lư</li>
+<li><i>Khuynh Hướng giáo khoa</i> qua những công trình của các ông Đào Duy Anh, <a class="annotation" href="/nhan-vat/duong-quang-ham" title="Dương Quảng Hàm (tiếng Trung: 楊廣涵), tự Hải Lượng (海量), là nhà nghiên cứu văn học, nhà giáo dục Việt Nam. 
+ Tác phẩm Việt Nam văn học sử yếu, do ông dày công biên soạn, được xem là cuốn văn học sử phổ thông bằng chữ quốc ngữ đầu tiên của Việt Nam...." target="_blank" >Dương Quảng Hàm</a></li>
+<li><i>Cách tiếp cận kiểu khoa học</i> của ông Nguyễn Bách Khoa</li>
+</ol>
+<a name="tu-1945-den-1975"></a><h3>Từ 1945 đến 1975</h3>
+<p>Trong giai đoạn chia đôi đất nước này, tại miền Bắc, việc nghiên cứu các tác phẩm của Nguyễn Du trong quan hệ với hiện thực đời sống xã hội theo quan điểm mỹ học mácxít. Tác phẩm văn học được nhìn nhận như là sự phản ánh đời sống xã hội và bộc lộ thái độ của nhà văn đối với hiện thực đó. Hai công trình theo hướng này xuất hiện sớm và đáng chú ý hơn cả là cuốn: <i>Quyền sống của con người trong "Truyện Kiều"</i> của Hoài Thanh (1949) và bài báo <i>Đặc sắc của văn học cổ điển Việt Nam qua nội dung "Truyện Kiều"</i> của <a class="annotation" href="/nhan-vat/dang-thai-mai" title="Đặng Thai Mai (1902-1984), còn được biết đến dưới tên gọi Đặng Thái Mai và những bút danh Thanh Tuyền, Thanh Bình. Ông là giáo sư, nhà giáo, nhà văn, nhà phê bình văn học Việt Nam; và nguyên là Bộ trưởng Bộ Giáo dục, Viện trưởng đầu tiên của Viện Văn học Việt Nam...." target="_blank" >Đặng Thai Mai</a> (1955). Vấn đề tinh thần nhân đạo và tính hiện thực của "Truyện Kiều" được hai tác giả chú ý đặc biệt và coi là giá trị cơ bản của tác phẩm.</p>
+<p>Ở miền Nam, thời kỳ 1954–1975 cũng có nhiều người để tâm phê bình nghiên cứu các tác phẩm của Nguyễn Du. Dịp kỷ niệm 200 năm ngày sinh Nguyễn Du trên các tập san <i>Văn</i> (số 43, 44) và <i>Bách khoa thời đại</i> (số 209) nhiều bài phê bình được công bố. Trước đó, năm 1960, có cuốn <i>Chân dung Nguyễn Du</i> tập hợp một loạt bài viết về Nguyễn Du của nhiều tác giả. Trước sau năm 1970 cũng thấy một số công trình khá công phu của Phạm Thế Ngũ, Đặng Tiến, Nguyễn Đăng Thục...</p>
+<a name="tu-1980-den-nay"></a><h3>Từ 1980 đến nay</h3>
+<p>Trong giai đoạn này, các tác phẩm của Nguyễn Du được tiếp cận bởi nhiều phương pháp mới: phong cách học, thi pháp học, ký hiệu học... Đã xuất hiện một số công trình đáng chú ý của Phan Ngọc, Trần Đình Sử, Đỗ Đức Hiểu...</p>
+<p>Nhìn chung các tác giả đều cố gắng khách quan hóa việc phân tích tác phẩm, muốn làm cho các kết kuận của mình là hiển nhiên, "không còn tranh cãi". Tuy vậy mọi việc không đơn giản, các ý kiến vẫn cứ rất xa nhau, điều đó có nghĩa là những cuộc tranh luận sẽ vẫn tiếp diễn và như vậy nghiên cứu, phê bình về các tác phẩm của Nguyễn Du sẽ tiếp tục tiến triển.</p>
+<p>Sáng tác của Nguyễn Du không thật đồ sộ về khối lượng, nhưng có vị trí đặc biệt quan trọng trong di sản văn học và văn hóa dân tộc. Hơn nữa nó lại rất năng sản. Từ Truyện Kiều đã nảy sinh biết bao những hình thức sáng tạo văn học và văn hóa khác nhau: thơ ca về Kiều, các phóng tác Truyện Kiều bằng văn học, sân khấu, điện ảnh; rồi rất nhiều những dạng thức của nghệ thuật dân gian: đố Kiều, giảng Kiều, lẩy Kiều, bói Kiều... Đặc biệt là số lượng rất lớn những bài bình luận, những công trình phê bình, nghiên cứu.</p>
+<a name="tho-van-viet-ve-nguyen-du-trich"></a><h3>Thơ văn viết về Nguyễn Du (trích)</h3>
+<dl>
+<dd>
+<dl>
+<dd><i>Khi <a class="annotation" href="/nhan-vat/nguyen-trai" title="Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc,..." target="_blank" >Nguyễn Trãi</a> làm thơ và đánh giặc</i></dd>
+<dd><i>Nguyễn Du viết Kiều, đất nước hóa thành văn</i></dd>
+<dd><i>Khi <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> cưỡi voi vào cửa Bắc</i></dd>
+<dd><i>Hưng Đạo diệt quân Nguyên trên sóng Bạch Đằng</i>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>(<i>Tổ quốc bao giờ đẹp thế này chăng</i> – Chế Lan Viên)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><i>Tiếng thơ ai động đất trời</i></dd>
+</dl>
+</dd>
+<dd><i>Nghe như non nước vọng lời ngàn thu</i>
+<dl>
+<dd><i>Nghìn năm sau nhớ Nguyễn Du</i></dd>
+</dl>
+</dd>
+<dd><i>Tiếng thương như tiếng mẹ ru những ngày</i>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>(Kính gửi cụ Nguyễn Du - Tố Hữu)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><i>Đời nay đẹp gấp trăm lần thuở trước</i></dd>
+<dd><i>Giở trang Kiều còn rung động ý thơ</i></dd>
+<dd><i>Thơ Người mãi sống cùng đất nước</i></dd>
+<dd><i>Dù mai sau dù có bao giờ</i>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>(Thăm mộ cụ Nguyễn Du - Hoàng Trung Thông)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="trong-mat-nguoi-nuoc-ngoai"></a><h3>Trong mắt người nước ngoài</h3>
+<p>Nguyễn Du là một nhà thơ văn lớn của thế giới lúc bấy giờ.Trong mắt những người nước ngoài, họ coi ông là một vị thánh của nền thơ ca Việt Nam. Họ quý trọng ông vì ông đã góp công vào nền thơ ca thế giới. Ông là một nhân vật kiệt xuất của thơ ca Việt Nam</p>
+<a name="tuong-niem"></a><h2>Tưởng niệm</h2>
+<p>Ngày 17/11/2015, tại Hà Nội, Bộ Văn hóa Thể thao và Du lịch, UBND <a class="annotation" href="/dia-danh/tinh-ha-tinh" title="Hà Tĩnh là một tỉnh của Việt Nam, nằm ở khu vực Bắc Trung Bộ. Trước đây, Hà Tĩnh cùng với Nghệ An là một miền đất có cùng tên chung là Hoan Châu (thời Bắc thuộc), Nghệ An châu (thời Lý, Trần), xứ Nghệ (năm 1490, đời vua Lê Thánh Tông), rồi trấn Nghệ An. Năm 1831, vua Minh Mạng chia trấn Nghệ An thàn..." target="_blank" >tỉnh Hà Tĩnh</a> đã tổ chức họp báo giới thiệu về các hoạt động kỷ niệm 250 năm ngày sinh của ông. Lễ kỷ niệm cấp quốc gia 250 năm sinh Đại thi hào Nguyễn Du (1765-2015) diễn ra ngày 05/12/2015 tại <a class="annotation" href="/dia-danh/thanh-pho-ha-tinh" title="Thành phố Hà Tĩnh là thủ phủ của tỉnh Hà Tĩnh, ở vùng Bắc Trung Bộ Việt Nam...." target="_blank" >thành phố Hà Tĩnh</a>, <a class="annotation" href="/dia-danh/tinh-ha-tinh" title="Hà Tĩnh là một tỉnh của Việt Nam, nằm ở khu vực Bắc Trung Bộ. Trước đây, Hà Tĩnh cùng với Nghệ An là một miền đất có cùng tên chung là Hoan Châu (thời Bắc thuộc), Nghệ An châu (thời Lý, Trần), xứ Nghệ (năm 1490, đời vua Lê Thánh Tông), rồi trấn Nghệ An. Năm 1831, vua Minh Mạng chia trấn Nghệ An thàn..." target="_blank" >tỉnh Hà Tĩnh</a>.<sup class="annotation badge" title="^ “Nhiều hoạt động kỷ niệm 250 ngày sinh Đại thi hào Nguyễn Du”. ">11</sup>  với chương trình nghệ thuật “Tiếng thơ ai động đất trời” do Cục Nghệ thuật biểu diễn, Bộ Văn hóa Thể thao và Du lịch chỉ đạo và Nhà hát Nghệ thuật đương đại Việt Nam thực hiện với sự tham gia của gần 650 nghệ sĩ<sup class="annotation badge" title="^ “650 nghệ sĩ tham gia đêm nghệ thuật kỷ niệm 250 năm Ngày sinh Nguyễn Du”. ">12</sup> </p>
+<p>Lễ kỷ niệm có các chuỗi hoạt động chính: Tổ chức các hội thảo khoa học trong nước và quốc tế; xuất bản Truyện Kiều, các tác phẩm của Nguyễn Du ra nhiều thứ tiếng khác nhau; xây dựng phim tư liệu, các tác phẩm âm nhạc, hội họa… về thời đại, cuộc đời, sự nghiệp, tác phẩm của Nguyễn Du và dòng họ Nguyễn Tiên Điền; tổ chức các cuộc thi tìm hiểu, thi ngâm Kiều, lẩy Kiều, bình Kiều, diễn trò Kiều, nói chuyện về tác phẩm của Nguyễn Du; tổ chức các hoạt động hưởng ứng kỷ niệm tại Thủ đô Hà Nội là nơi sinh và tại <a class="annotation" href="/dia-danh/tinh-bac-ninh" title="Bắc Ninh là tỉnh có diện tích nhỏ nhất Việt Nam thuộc đồng bằng sông Hồng và nằm trên Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tiếp giáp với vùng trung du Bắc bộ tại tỉnh Bắc Giang. Thành phố Bắc Ninh nằm cách trung tâm Hà Nội 30 km về phía đông bắc. phía tây và tây nam giáp thủ đô Hà Nội, phía bắc ..." target="_blank" >tỉnh Bắc Ninh</a> (quê mẹ của ông); tuần Văn hóa, Du lịch Nguyễn Du, bắt đầu từ ngày 28/11 đến 05/12/2015 tại Hà Tĩnh.</p>
+<p>Bên cạnh đó, từ 17/11 đến 25/11/2015 tại Thư viện Khoa học tổng hợp Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a> diễn ra Tuần triển lãm về Nguyễn Du do Thư viện Khoa học tổng hợp Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a> và Công ty Cổ phần Văn hóa và Truyền thông Nhã Nam tổ chức. Triển lãm quy tụ tương đối đầy đủ các ấn bản bằng chữ Quốc ngữ, chữ Hán, chữ Nôm những sáng tác của Nguyễn Du cũng như các công trình nghiên cứu, biên khảo, chú thích về Nguyễn Du của nhiều lớp học giả. Điểm nhấn của triển lãm là những bản Nôm gốc như bản in Kim Vân Kiều tân tập (năm Bính Ngọ, niên hiệu <a class="annotation" href="/dia-danh/thanh-thai" title="Thành Thái (chữ Hán: 成泰, 14 tháng 3 năm 1879 – 20 tháng 3 năm 1954), tên khai sinh là Nguyễn Phúc Bửu Lân (阮福寶嶙), là vị Hoàng đế thứ 10 của triều đại nhà Nguyễn, tại vị từ 1889 đến 1907. 
+ Do chống Pháp nên ông, cùng với các vua Hàm Nghi và Duy Tân, là 3 vị vua yêu nước trong lịch sử Việt Nam thời P..." target="_blank" >Thành Thái</a> - 1906), bản chép tay Kim Vân Kiều thích chú (Kỷ Mão 1879). Ngoài ra, còn có 20 bức thư pháp của các thành viên Chi hội Thư pháp (Hội Văn học Nghệ thuật các dân tộc thiểu số Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>) cũng sẽ được trưng bày với nội dung là những trích đoạn các sáng tác của Nguyễn Du (Truyện Kiều, Văn tế thập loại chúng sinh…).<sup class="annotation badge" title="^ “Hoạt động Kỷ niệm 250 năm ngày sinh đại thi hào Nguyễn Du”. ">13</sup> </p>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist">
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <span class="reference-text"><span class="citation web">“Long trọng Kỷ niệm 250 năm sinh Đại thi hào Nguyễn Du”. Báo điện tử Dân Trí<span class="reference-accessdate">. Truy cập 23 tháng 5 năm 2017</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANguy%E1%BB%85n+Du&amp;rft.btitle=Long+tr%E1%BB%8Dng+K%E1%BB%B7+ni%E1%BB%87m+250+n%C4%83m+sinh+%C4%90%E1%BA%A1i+thi+h%C3%A0o+Nguy%E1%BB%85n+Du&amp;rft.date=23+th%C3%A1ng+5+n%C4%83m+2017&amp;rft.genre=book&amp;rft.place=B%C3%A1o+%C4%91i%E1%BB%87n+t%E1%BB%AD+D%C3%A2n+Tr%C3%AD&amp;rft_id=http%3A%2F%2Fdantri.com.vn%2Fxa-hoi%2Flong-trong-ky-niem-250-nam-sinh-dai-thi-hao-nguyen-du-2015120603111071.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span> </span></span></span></li>
+<li id="cite_note-2"><b>^</b> <span class="reference-text">Theo "Tuyển tập Trương Chính" Nhà xuất bản Văn học 1997. Bà Tần là vợ trắc thất hàng thứ ba, bà sinh ngày mồng 6 tháng 7 năm Canh Thân, niên hiệu Cảnh Hưng. Bà lấy chồng năm 16 tuổi, năm 17 tuổi bà sinh con đầu lòng là Nguyễn Trụ (1757), sau bà còn có năm bà khác nữa</span></li>
+<li id="cite_note-3"><b>^</b> <span class="reference-text"><i>Từ điển văn học</i> (bộ mới), tr. 1120.)</span></li>
+<li id="cite_note-4"><b>^</b> <span class="reference-text">Nguyễn Du về tác gia và tác phẩm, nxb Giáo dục, 2002, tr 27</span></li>
+<li id="cite_note-5"><b>^</b> <span class="reference-text">Nguyễn Du về tác gia và tác phẩm, Nhà xuất bản Giáo dục, 2002, tr 27-30.</span></li>
+<li id="cite_note-6"><b>^</b> <span class="reference-text">Quốc sử quán triều Nguyễn, Đại Nam thực lục, tập 2, Nhà xuất bản Giáo dục, 2007, tr. 82-83. Dẫn lại tại [1]</span></li>
+<li id="cite_note-7"><b>^</b> <span class="reference-text">Quốc sử quán triều Nguyễn, Đại Nam liệt truyện, tập 2, Nhà xuất bản Thuận Hóa, Huế, 1997, tr. 357. Dẫn lại tại [2]</span></li>
+<li id="cite_note-8"><b>^</b> <span class="reference-text">Trịnh Văn Định, Những cách thế lựa chọn của kẻ sĩ tinh hoa trong lịch sử, Tạp chí Khoa học Đại học Quốc gia Hà Nội, Tập 29, số 2 (2013), trang 10-18</span></li>
+<li id="cite_note-9"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> Chi, Tạp chí Văn học, tháng 11-1966(Nguyễn Du-Về tác gia và tác phẩm)</span></li>
+<li id="cite_note-ReferenceA-10"><b>^</b> <span class="reference-text">Nguyễn Du về tác gia và tác phẩm, nxb Giáo dục, 2002, trang 11-12</span></li>
+<li id="cite_note-11"><b>^</b> <span class="reference-text"><span class="citation web">“Nhiều hoạt động kỷ niệm 250 ngày sinh Đại thi hào Nguyễn Du”.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANguy%E1%BB%85n+Du&amp;rft.btitle=Nhi%E1%BB%81u+ho%E1%BA%A1t+%C4%91%E1%BB%99ng+k%E1%BB%B7+ni%E1%BB%87m+250+ng%C3%A0y+sinh+%C4%90%E1%BA%A1i+thi+h%C3%A0o+Nguy%E1%BB%85n+Du&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.antv.gov.vn%2Ftin-tuc%2Fvan-hoa-the-thao%2Fnhieu-hoat-dong-ky-niem-250-ngay-sinh-dai-thi-hao-nguyen-du-178037.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span> </span></span></span></li>
+<li id="cite_note-12"><b>^</b> <span class="reference-text"><span class="citation web">“650 nghệ sĩ tham gia đêm nghệ thuật kỷ niệm 250 năm Ngày sinh Nguyễn Du”.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANguy%E1%BB%85n+Du&amp;rft.btitle=650+ngh%E1%BB%87+s%C4%A9+tham+gia+%C4%91%C3%AAm+ngh%E1%BB%87+thu%E1%BA%ADt+k%E1%BB%B7+ni%E1%BB%87m+250+n%C4%83m+Ng%C3%A0y+sinh+Nguy%E1%BB%85n+Du&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdantri.com.vn%2Fvan-hoa%2F650-nghe-sy-tham-gia-dem-nghe-thuat-ky-niem-250-nam-ngay-sinh-nguyen-du-2015111716145401.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span> </span></span></span></li>
+<li id="cite_note-13"><b>^</b> <span class="reference-text"><span class="citation web">“Hoạt động Kỷ niệm 250 năm ngày sinh đại thi hào Nguyễn Du”.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3ANguy%E1%BB%85n+Du&amp;rft.btitle=Ho%E1%BA%A1t+%C4%91%E1%BB%99ng+K%E1%BB%B7+ni%E1%BB%87m+250+n%C4%83m+ng%C3%A0y+sinh+%C4%91%E1%BA%A1i+thi+h%C3%A0o+Nguy%E1%BB%85n+Du&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nguyendu.vn%2Fvi%2Fhoat-dong-ky-niem-250-nam-ngay-sinh-dai-thi-hao-nguyen-du-6E6C563195B459FDBD05D8F9BED67F45.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span> </span></span></span></li>
+</ol>
+</div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul>
+<li><i>Từ điển văn học</i> (bộ mới). Nhà xuất bản Thế giới, 2004.</li>
+<li><i>Thơ chữ Hán Nguyễn Du</i> (phần giới thiệu của Trương Chính). Nhà xuất bản Văn học, 1978</li>
+<li>Phạm Thế Ngũ, <i>Việt Nam văn học sử giản ước tân biên (Quyển 2)</i>. Quốc học tùng thư xuất bản, Sài Gòn, 1963.</li>
+<li>Thạch Trung Giả, <i>Văn học phân tích toàn thư</i>. Nhà xuất bản Lá Bối, 1973.</li>
+<li>Thanh Lãng, <i>Bảng lược đồ văn học Việt Nam</i> (quyển Thượng). Nhà xuất bản Trình Bày, Sài Gòn, 1967.</li>
+</ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nguyen-du" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nguyễn Dư            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nguyen-duc-tong" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nguyễn Dực Tông            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/danh-hao-nguyen-du" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-loa" class="mod-articles-category-title ">thành Cổ Loa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-thai-binh" class="mod-articles-category-title ">Đền Trần (Thái Bình)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

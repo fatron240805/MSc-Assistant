@@ -1,0 +1,1570 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. Ông nổi tiếng tr...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Trần Quốc Tuấn - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"060eb74b1ffac33f4f0a94ceb84e65b4"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Trần Quốc Tuấn" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Trần Hưng Đạo (chữ Hán: 陳興道;&#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân .." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/tran-quoc-tuan" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/tran-quoc-tuan/4e26eb78991136f888c040b2ee362b89.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Trần Quốc Tuấn", "item": "https://nguoikesu.com/nhan-vat/tran-quoc-tuan" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/tran-quoc-tuan" }, "headline": "Trần Quốc Tuấn", "description": "Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. Ông nổi tiếng trong lịch sử nước Việt với vai trò chỉ huy quân đội Đại Việt ba lần đẩy lùi quân Nguyên - Mông trong thế kỷ 13 (1258-1288). Chiến thắng của ông trước đội quân Nguyên - Mông dưới thời Hốt Tất Liệt được đánh giá là một trong những chiến công vĩ đại của lịch sử quân sự thế giới. Được coi là một trong những nhà quân sự kiệt xuất nhất trong lịch sử dân tộc.Tư tưởng quân sự của ông đã được thể hiện rõ trong các luận thuyết, tác phẩm của mình.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/tran-quoc-tuan/4e26eb78991136f888c040b2ee362b89.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/tran-quoc-tuan" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-30T15:54:07+07:00", "dateCreated": "2017-10-30T15:54:07+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Trần Quốc Tuấn</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Trần Quốc Tuấn        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#bien-dong-gia-dinh" title="">Biến động gia đình</a></li>
+<li class="level-1"><a href="#su-nghiep" title="">Sự nghiệp</a></li>
+<li class="level-2"><a href="#ba-lan-chong-quan-nguyen-mong" title="">Ba lần chống quân Nguyên Mông</a></li>
+<li class="level-3"><a href="#lan-thu-nhat-1258" title="">Lần thứ nhất (1258)</a></li>
+<li class="level-3"><a href="#lan-thu-hai-1285" title="">Lần thứ hai (1285)</a></li>
+<li class="level-3"><a href="#lan-thu-ba-cuoi-nam-1287" title="">Lần thứ ba (cuối năm 1287)</a></li>
+<li class="level-3"><a href="#tran-bach-dang-1288" title="">Trận Bạch Đằng (1288)</a></li>
+<li class="level-2"><a href="#lui-ve-van-kiep" title="">Lui về Vạn Kiếp</a></li>
+<li class="level-1"><a href="#qua-doi" title="">Qua đời</a></li>
+<li class="level-1"><a href="#nhan-cach-pham-chat" title="">Nhân cách, phẩm chất</a></li>
+<li class="level-2"><a href="#gat-bo-hiem-khich-rieng" title="">Gạt bỏ hiềm khích riêng</a></li>
+<li class="level-2"><a href="#kheo-tien-cu-nguoi-tai-gioi-kinh-can-giu-tiet-lam-toi" title="">Khéo tiến cử người tài giỏi, kính cẩn giữ tiết làm tôi</a></li>
+<li class="level-1"><a href="#tac-pham" title="">Tác phẩm</a></li>
+<li class="level-1"><a href="#ghi-nhan-cong-lao" title="">Ghi nhận công lao</a></li>
+<li class="level-1"><a href="#gia-quyen" title="">Gia quyến</a></li>
+<li class="level-1"><a href="#den-tho" title="">Đền thờ</a></li>
+<li class="level-1"><a href="#cau-noi-noi-tieng" title="">Câu nói nổi tiếng</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#sach-tham-khao" title="">Sách tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" ><a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a><br /> <font size="2">陳興道</font></th> </tr> <tr> <td colspan="2" >Hưng Đạo Đại vương</td> </tr> <tr> <td colspan="2" ><img alt="Statue of Tran Hung Dao, Ho Chi Minh City, Vietnam.jpg" src="/images/wiki/tran-quoc-tuan/4e26eb78991136f888c040b2ee362b89.jpg" /> <div >Tượng <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> của điêu khắc gia <a class="annotation" href="/nhan-vat/pham-thong" title="Phạm Thông (12/8/1943 - &amp;#160;03/11/2016) là một điêu khắc gia và nhà báo người Việt, đặc biệt là tác giả của nhiều pho tượng Đức ông Trần Hưng Đạo tại Việt Nam trước 1975 và sau này tại Hoa Kỳ. 
+ Ông sinh ngày 12 tháng 8/1943 tại Thái Bình, tốt nghiệp Trường Cao đẳng Mỹ thuật Sài Gòn năm 1965, mất ..." target="_blank" >Phạm Thông</a> dựng vào giữa thập niên 1960 tại bến Bạch Đằng, Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a></div> </td> </tr> <tr> <th colspan="2" >Tôn thất Hoàng gia Đại Việt<br /> Quốc công tiết chế thống lĩnh chư quân</th> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Vợ</th> <td>Nguyên Từ quốc mẫu</td> </tr> <tr> <th scope="row">Tên thật</th> <td>Trần Quốc Tuấn (陳國峻)</td> </tr> <tr> <th scope="row">Thụy hiệu</th> <td>Nhân Vũ Hưng Đạo Đại Vương<br /> (仁武興道大王)</td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Trần</td> </tr> <tr> <th scope="row">Thân phụ</th> <td>Khâm Minh đại vương <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a></td> </tr> <tr> <th scope="row">Thân mẫu</th> <td>Thiện Đạo quốc mẫu (?)</td> </tr> <tr> <th scope="row">Sinh</th> <td>còn nghi vấn<br /> huyện Tức Mặc, Nam Định.</td> </tr> <tr> <th scope="row">Mất</th> <td>20 tháng 8, 1300<br /> Vạn Kiếp, Đại Việt (Chí Linh, Việt Nam)</td> </tr> <tr> <th scope="row">An táng</th> <td>Vườn An Lạc</td> </tr> <tr> <th scope="row">Tôn giáo</th> <td>Phật giáo</td> </tr> </table></div>
+<p><b><a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a></b> (chữ Hán: 陳興道;&#160;? - 20 tháng 8, 1300), còn được gọi là <b>Hưng Đạo đại vương</b> (興道大王) hay <b>Nhân Vũ Hưng Đạo Đại Vương</b> (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>.</p>
+<p>Ông nổi tiếng trong lịch sử <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> với vai trò chỉ huy quân đội Đại Việt ba lần đẩy lùi quân Nguyên - Mông trong thế kỷ 13 (1258-1288). Chiến thắng của ông trước đội quân Nguyên - Mông dưới thời Hốt Tất Liệt được đánh giá là một trong những chiến công vĩ đại của lịch sử quân sự thế giới. Được coi là một trong những nhà quân sự kiệt xuất nhất trong lịch sử dân tộc.Tư tưởng quân sự của ông đã được thể hiện rõ trong các luận thuyết, tác phẩm của mình.</p>
+<p></p>
+<p></p>
+<a name="than-the"></a><h2>Thân thế</h2>
+<p><a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> tên thật là <b>Trần Quốc Tuấn</b> (陳國峻), con trai thứ ba của Khâm Minh đại vương <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>, gọi <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> bằng chú ruột. Cho đến nay vẫn không rõ mẹ ông là ai, có giả thiết đó là <i>Thiện Đạo quốc mẫu</i> (善道國母), huý là Nguyệt, một người trong tôn thất họ Trần.<sup class="annotation badge" title="^ Trần triều thế phả hành trạng, tr.542, 543.">1</sup>  Vì Thuận Thiên công chúa là con của vua <a class="annotation" href="/nhan-vat/ly-hue-tong" title="Lý Huệ Tông (chữ Hán: 李惠宗, 1194 – 1226), là vị Hoàng đế thứ tám của nhà Lý, cai trị từ năm 1210 đến năm 1224. Ông tên thật là Lý Sảm (李旵) hay Lý Hạo Sảm, sinh tại kinh đô Thăng Long, Đại Việt...." target="_blank" >Lý Huệ Tông</a>, nên theo luật lệ của triều đình xưa, dù hoàng nữ có là thiếp hoặc vợ thứ thì cũng được đưa lên hàng chính thất (vợ cả). Sau khi <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> mất (1251), bà Trần Thị Nguyệt đã xuất gia làm ni sư, hiệu là <b>Diệu Hương</b>.</p>
+<p>Năm sinh của ông không rõ ràng, có tài liệu cho rằng là năm 1228, nhưng cũng có tài liệu cho là năm 1230, hay 1231. Nhưng điều đó cũng cho thấy khi ông sinh ra thì triều đại <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> cũng vừa mới thành lập được không lâu (thành lập năm 1225).</p>
+<p>Ông có người mẹ nuôi đồng thời là cô ruột, Thụy Bà công chúa (瑞婆公主)<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 21 và 77.">2</sup> . Ông sinh ra ở kinh đô Thăng Long, quê quán ở thôn Tức Mặc, phường Lộc Vượng, TP Nam Định ngày nay<sup class="annotation badge" title="^ Long Hưng, vùng đất phát nghiệp đế">3</sup> .</p>
+<p>Đại Việt sử ký toàn thư mô tả ông là người <i>có dung mạo khôi ngô, thông minh hơn người</i>, nhờ được những người tài giỏi đến giảng dạy mà ông sớm trở thành người đọc thông hiểu rộng, có tài văn võ <i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 77.">4</sup> .</i></p>
+<a name="bien-dong-gia-dinh"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Biến động gia đình</h2>
+<p>Năm 1237, gia đình ông đã xảy ra biến động. Do chú ông là <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> lên ngôi và kết hôn đã lâu nhưng chưa có con nối dõi, Thái sư <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> đang nắm thực quyền phụ chính ép cha ông là <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> phải nhường vợ là Thuận Thiên công chúa (chị của <a class="annotation" href="/nhan-vat/ly-chieu-hoang" title="Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất, đặc biệt hơn là được chính Phụ hoà..." target="_blank" >Lý Chiêu Hoàng</a>) cho <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> dù bà đang mang thai với <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> được ba tháng, đồng thời giáng Lý hoàng hậu xuống làm công chúa.</p>
+<p>Phẫn uất, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> họp quân chống lại nhưng thế cô không làm gì được, phải xin đầu hàng. Vì Thái Tông cũng thương anh nên xin với <a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a> tha tội cho <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>, nhưng quân lính đều bị giết<sup class="annotation badge" title="^ Lược kể theo Đại Việt sử ký toàn thư (tập 2), tr. 33-34.">5</sup> . Mang lòng hậm hực, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> tìm người tài nghệ để dạy văn, võ cho Trần Quốc Tuấn.</p>
+<p>Khi trưởng thành, Trần Quốc Tuấn (19 tuổi) đem lòng yêu công chúa Thiên Thành, không biết rõ gốc tích của bà, nhưng các nhà nghiên cứu phần lớn đều đồng tình với quan điểm bà là con gái trưởng của <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> tức là em họ của ông. Đầu năm 1251, <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> muốn gả công chúa cho Trung Thành vương, nên đã cho công chúa đến ở trong dinh Nhân Đạo vương (cha của Trung Thành vương). Ngày rằm tháng giêng, <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> mở hội lớn, ý muốn cho công chúa làm lễ kết tóc với Trung Thành vương. Trần Quốc Tuấn muốn lấy công chúa, nhưng không làm thế nào được, mới nhân ban đêm lẻn vào chỗ ở của công chúa thông dâm với nàng<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">6</sup> .</p>
+<p>Mẹ nuôi Trần Quốc Tuấn là Thụy Bà công chúa biết chuyện, sợ ông bị hại trong phủ, liền chạy đến cung điện cáo cấp, xin <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> cứu Trần Quốc Tuấn. Vua hỏi việc gì, Thụy Bà trả lời:<i>"Quốc Tuấn ngông cuồng, đêm lẻn vào chỗ Thiên Thành, Nhân Đạo bắt giữ rồi, e sẽ bị hại, xin bệ hạ rủ lòng thương, sai người đến cứu".</i> <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> vội sai người đến dinh Nhân Đạo vương, vào chỗ Thiên Thành, thì thấy Trần Quốc Tuấn đã ở đấy. Hôm sau, Thụy Bà công chúa dâng 10 mâm vàng đến chỗ <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> xin lễ cưới Thiên Thành công chúa cho Trần Quốc Tuấn. Thái Tông bắt đắc dĩ phải gả công chúa cho ông và lấy 2000 khoảnh ruộng ở phủ Ứng Thiên để hoàn lại sính vật cho Trung Thành vương<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">6</sup> .</p>
+<p>Tháng 4 năm đó, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> ốm nặng. Lúc sắp mất, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> cầm tay Trần Quốc Tuấn, trăng trối: <i>"Con không vì cha lấy được thiên hạ, thì cha chết dưới suối vàng cũng không nhắm mắt được"</i>. Trần Quốc Tuấn ghi để trong lòng, nhưng không cho là phải.</p>
+<a name="su-nghiep"></a><h2>Sự nghiệp</h2>
+<a name="ba-lan-chong-quan-nguyen-mong"></a><h3>Ba lần chống quân Nguyên Mông</h3>
+<a name="lan-thu-nhat-1258"></a><h4>Lần thứ nhất (1258)</h4>
+<p><a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> trở thành võ quan <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> lúc nào không rõ, chỉ biết vào tháng Chín (âm lịch) năm Đinh Tỵ (1257), ông giao trách nhiệm phòng thủ biên giới trước thời điểm quân Mông Cổ xâm lược vào tháng 12 năm 1257. Sách <i>Đại Việt sử ký toàn thư</i> chép: <i>"Tháng 9 (1257), (<a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>) xuống chiếu, lệnh cho tả hữu tướng quân đem quân thủy bộ ra ngăn giữ biên giới (phía Bắc) theo sự tiết chế của Quốc Tuấn"</i> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 25.">7</sup> .</p>
+<p>Viết về cuộc chiến này, các bộ sử của hai bên như Đại Việt Sử ký Toàn thư, Nguyên sử, An Nam chí lược đều không đề cập chi tiết gì về vai trò của Hưng Đạo vương trong các trận đánh lớn của cuộc chiến. Các ngày 12-13 tháng 12 âm lịch năm 1257 (tức 17-18 tháng 1 năm 1258), quân Mông Cổ đánh bại quân Đại Việt do vua <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> đích thân chỉ huy ở Bình Lệ Nguyên và Phù Lỗ. Thái Tông rời bỏ kinh đô, lui về giữ sông Thiên Mạc. Quân Mông Cổ vào Thăng Long nhưng thiếu lương thực trầm trọng, phải chia nhau đi cướp lương thực và bị chặn đánh quyết liệt. Ngày 24 tháng 12 âm lịch năm 1257 (tức 28 tháng 1 năm 1258), vua <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> cùng thái tử 18 tuổi <a class="annotation" href="/nhan-vat/tran-hoang" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Hoảng</a> ngự lâu thuyền tiến quân đến Đông Bộ Đầu, đánh tan quân Mông Cổ, giải phóng Thăng Long. Chiến tranh kết thúc, Quốc Tuấn vẫn giữ nguyên tước cũ và trở về thái ấp ở Vạn Kiếp. Sách <i>Đại Việt sử ký toàn thư</i> chép: <i>"Theo quy chế <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>, các vương hầu đều ở phủ đệ nơi hương ấp của mình, khi chầu hầu thì đến kinh đô, xong việc lại về phủ đệ. Như Quốc Tuấn ở Vạn Kiếp, Thủ Độ ở Quắc Hương, Quốc Chẩn ở Chí Linh đều thế cả"</i>. Sau chiến thắng quân Mông Cổ, vua Thái Tông nhường ngôi cho con là <a class="annotation" href="/nhan-vat/tran-hoang" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Hoảng</a>, tức vua <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a>. Thánh Tông phong em là <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> là Thái úy, tước Đại vương.</p>
+<a name="lan-thu-hai-1285"></a><h4>Lần thứ hai (1285)</h4>
+<p>Tuy bị đánh bại nhưng Mông Cổ vẫn lớn mạnh ở phía bắc, thành lập <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> và tiêu diệt Nam Tống vào năm 1279, tiếp giáp với biên giới Đại Việt. Trước sự bành trường của <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a>, <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> đã đề phòng, chuẩn bị kháng cự. Trần Quốc Tuấn mở trường dạy võ, dạy con em hoàng tộc và những người tài giỏi trong nước. Ông thường đi khắp các lộ, kiểm soát các giảng võ đường địa phương, thu dụng nhiều người tài giỏi trong nước như Yết Kiêu, Dã Tượng, <a class="annotation" href="/nhan-vat/pham-ngu-lao" title="Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem ..." target="_blank" >Phạm Ngũ Lão</a>, <a class="annotation" href="/nhan-vat/nguyen-che-nghia" title="Nguyễn Chế Nghĩa (阮制義,&amp;#160;?-?) là một tướng lĩnh thời nhà Trần. 
+ Tư liệu lịch sử ít ỏi, không rõ năm sinh, năm mất, chỉ biết ông quê ở xã Cối Xuyên, huyện Trường Tân, lộ Hồng Châu (nay là thôn Hội Xuyên, thị trấn Gia Lộc, huyện Gia Lộc, tỉnh Hải Dương). Sinh ra trong một gia đình có danh vọng, từ..." target="_blank" >Nguyễn Chế Nghĩa</a>, Đỗ Hành...<sup class="annotation badge" title="^ Trần Xuân Sinh, sách đã dẫn, tr 255">8</sup> .</p>
+<p>Đầu năm 1277, <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a> thân chinh đánh các bộ tộc thiểu số ở động Nẫm Bà La (nay thuộc Quảng Bình). <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> đi theo, ghế tể tướng bỏ không, vừa lúc có sứ phương Bắc đến. Thượng hoàng <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> gọi Trần Quốc Tuấn tới, tỏ ý định lấy ông làm Tư đồ để tiếp sứ phương Bắc. Trần Quốc Tuấn trả lời:</p>
+<dl> <dd><i>"Việc tiếp sứ giả, thần không dám từ chối, còn như phong thần làm Tư đồ thì thần không dám vâng chiếu. Huống chi Quan gia đi đánh giặc xa, Quang Khải theo hầu mà bệ hạ lại tự ý phong chức, thì tình nghĩa trên dưới, e có chỗ chưa ổn, sẽ không làm vui lòng Quan gia và Quang Khải. Đợi khi xa giá trở về, sẽ xin vâng mệnh cũng chưa muộn".</i></dd> </dl>
+<p>Khi Thánh Tông trở về, việc ấy lại bỏ đấy, vì hai người vốn không ưa nhau<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">9</sup> .</p>
+<p>Sau đó, Trần Quốc Tuấn chủ động gạt bỏ hiềm khích với <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> vì việc nước. Một hôm, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> từ Vạn Kiếp tới, <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> xuống thuyền chơi suốt ngày mới trở về. <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> vốn sợ tắm gội, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> thì thích tắm thơm, từng đùa bảo <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a>: <i>"Mình mẩy cáu bẩn, xin tắm giùm"</i>, rồi cởi áo <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> ra, dùng nước thơm tắm cho ông và nói: <i>"Hôm nay được tắm cho Thượng tướng"</i>. <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> cũng nói: <i>"Hôm nay được Quốc công tắm rửa cho"</i>. Từ đó, tình nghĩa qua lại giữa hai ông ngày càng tốt<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 70.">10</sup> .</p>
+<p>Đầu năm 1281, vua Nguyên Mông là Hốt Tất Liệt sai Sài Thung đem ngàn quân hộ tống nhóm Trần Di Ái về nước. Sách <i>Đại Việt sử ký toàn thư</i> chép: <i>"Sài Thung ngạo mạn vô lễ, cưỡi ngựa đi thẳng vào cửa <a class="annotation" href="/dia-danh/duong-minh" title="Dương Minh (chữ Hán giản thể: 阳明区, âm Hán Việt: Dương Minh khu) là một quận thuộc địa cấp thị Mẫu Đơn Giang, tỉnh Hắc Long Giang, Cộng hòa Nhân dân Trung Hoa. Quận Dương Minh có diện tích 1338&amp;#160;km², dân số 250.000 người. Mã số bưu chính của quận Dương Minh là 157013. Quận Dương Minh được chia th..." target="_blank" >Dương Minh</a>. Quân sĩ Thiên Trường ngăn lại, Thung dùng roi ngựa quất họ bị thương ở đầu... Vua (<a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a>) sai <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a> đến sứ quán khoản tiếp. Thung nằm khểnh không ra, Quang Khải vào hẳn trong phòng, hắn cũng không dậy tiếp. Hưng Đạo Vương Quốc Tuấn nghe thấy thế, tâu xin đến sứ quán xem Thung làm gì. Lúc ấy Quốc Tuấn đã gọt tóc, mặc áo vải. Đến sứ quán, ông đi thẳng vào trong phòng. Thung đứng dậy vái chào mời ngồi. Mọi người đều kinh ngạc, có biết đâu gọt tóc, mặc áo vải là hình dạng nhà sư phương Bắc. Ông ngồi xuống pha trà, cùng uống với hắn. Người hầu của Thung cầm mũi tên đứng sau Quốc Tuấn, chọc vào đầu đến chảy máu, nhưng sắc mặt Quốc Tuấn vẫn không hề thay đổi. Khi trở về, Thung ra cửa tiễn ông..."</i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 44.">11</sup> </p>
+<p>Năm 1282, <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> sai Toa Đô mang quân vượt biển đánh Chiêm Thành ở phía nam Đại Việt. Chiến tranh giữa Đại Việt với <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> đến gần. Tháng Mười (âm lịch) năm 1283, để chuẩn bị kháng chiến lần hai, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> được thượng hoàng <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a>, vua <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a> phong làm Quốc công tiết chế thống lĩnh chư quân. Ông chọn các quân hiệu tài giỏi, cho chia nhau chỉ huy các đơn vị quân đội. Tháng Tám (âm lịch) năm sau (1284), ông cho duyệt quân ở bến Đông Bộ Đầu (gần dốc Hàng Than, Hà Nội ngày nay), đọc bài "Hịch tướng sĩ" nổi tiếng, rồi chia quân đóng giữ Bình Than và các nơi hiểm yếu khác.<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">9</sup> </p>
+<p>Tháng 7 âm lịch năm 1284, <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> sai Trấn Năm vương Thoát Hoan, A Lý Hải Nha tập trung 50 vạn quân ở hành tỉnh <a class="annotation" href="/nhan-vat/ho-quang" title="Hồ Quảng có thể là:..." target="_blank" >Hồ Quảng</a>, dự đinh sang năm xâm lược Đại Việt. Tháng 11 âm lịch năm 1284, <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a> sai <a class="annotation" href="/nhan-vat/tran-phu-tran-nghe-tong" title="Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394). 
+ Tr..." target="_blank" >Trần Phủ</a> sang hành tỉnh <a class="annotation" href="/nhan-vat/ho-quang" title="Hồ Quảng có thể là:..." target="_blank" >Hồ Quảng</a> (Đại Nguyên) xin hoãn binh. Khi trở về, <a class="annotation" href="/nhan-vat/tran-phu-tran-nghe-tong" title="Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394). 
+ Tr..." target="_blank" >Trần Phủ</a> báo tin Hốt Tất Liệt sai Thoát Hoan, A Lý Hải Nha lấy danh nghĩa mượn đường đánh Chiêm Thành, mang đại quân tiến vào đất Việt. Đầu năm 1285, quân Nguyên Mông lại ào ạt tiến công vào phía bắc và vùng Thanh Hóa-Nghệ An. Hưng Đạo vương đốc các quân đánh chặn ở biên giới nhưng thất bại, quân Đại Việt bị tổn thất. <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> phải thu quân về Vạn Kiếp. Theo Đại Việt sử ký toàn thư, quân Đại Việt đã tan vỡ; Trần Quốc Tuấn thoát được là nhờ có Yết Kiêu kiên quyết giữ thuyền đợi chủ tướng. Sử chép rằng:<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">9</sup> </p>
+<dl> <dd><i>"Trước đây, Hưng Đạo Vương có người nô là Dã Tượng và Yết Kiêu, đối xử rất hậu. Khi quân Nguyên tới, Yết Kiêu giữ thuyền ở Bãi Tân, Dã Tượng thì đi theo. Đến lúc quan quân thu trận, thuỷ quân tan cả. [Hưng Đạo] Vương định rút theo lối chân núi. Dã Tượng nói:</i></dd> <dd><i>"Yết Kiêu chưa thấy Đại Vương thì nhất định không dời thuyền".</i></dd> <dd><i>Vương đến Bãi Tân, chỉ có thuyền Yết Kiêu vẫn còn ở đó. Vương mừng lắm, nói:</i></dd> <dd><i>"Chim hồng hộc muốn bay cao phải nhờ ở sáu trụ cánh. Nếu không có sáu chiếc trụ cánh ấy thì cũng chim thường thôi".</i></dd> <dd><i>Nói xong cho chèo thuyền đi, Kỵ binh giặc đuổi theo không kịp. Vương đến Vạn Kiếp, chia quân đón giữ ở Bắc Giang."</i></dd> </dl>
+<p>Thủy quân Nguyên do Ô Mã Nhi chỉ huy tấn công vào Vạn Kiếp, quân Nguyên vây quân của Trần Quốc Tuấn. Một trận thủy chiến lớn giữa 2 bên đã diễn ra. Vua Trần đã đem quân đến trợ chiến cho Trần Quốc Tuấn. Ô Mã Nhi đã không ngăn nổi quân Đại Việt rút lui. Toàn bộ quân Đại Việt rút khỏi Vạn Kiếp, Phả Lại, Bình Than về dàn trận bên bờ <a class="annotation" href="/dia-danh/song-hong" title="Sông Hồng có tổng chiều dài là 1,149 km bắt nguồn từ Trung Quốc chảy qua Việt Nam và đổ ra biển Đông. Đoạn chảy trên đất Việt Nam dài 510&amp;#160;km. Đây là dòng sông quan trọng của nền văn hóa lúa nước Việt Nam...." target="_blank" >sông Hồng</a> gần <a class="annotation" href="/dia-danh/thanh-thang-long" title="Thành Hà Nội do Gia Long xây dựng cũng làm theo thể thức các tỉnh thành khác và điều chủ yếu là không được to rộng hơn Phú Xuân. Thành vuông xây theo kiểu Vauban của Pháp. Thành hình vuông mỗi bề chừng một cây số xung quanh là hào nước sâu. Bốn bức tường thành tương ứng với bốn con phố hiện nay là: ..." target="_blank" >thành Thăng Long</a>. Quân Nguyên tiến theo đường bộ về Thăng Long.<sup class="annotation badge" title="^ Hà Văn Tấn và Phạm Thị Tâm (1972), trang 212-216.">12</sup> . Để bảo toàn lực lượng và thực hiện kế "thanh dã" (vườn không nhà trống), <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ra lệnh rút quân.</p>
+<p>Quân xâm lược vào Thăng Long rồi tiến xuống Thiên Trường (vùng Nam Định) đuổi theo vua Trần. Thượng hoàng Thánh Tông lo ngại, vờ hỏi ông xem có nên hàng không. Ông khảng khái trả lời <i>"Bệ hạ chém đầu tôi rồi hãy hàng"</i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 79.">13</sup> .</p>
+<p>Sau trận quân Đại Việt phản công quân Nguyên không thành và việc mặt trận Thanh-Nghệ bị tan vỡ (do sự phản bội của <a class="annotation" href="/nhan-vat/tran-kien" title="Trần Kiện (chữ Hán: 陳鍵,&amp;#160;? - 1285) là một quý tộc nhà Trần trong lịch sử Việt Nam. Trong cuộc chiến tranh với nhà Nguyên, Trần Kiện đã đầu hàng quân Nguyên và cộng tác đắc lực cho lực lượng quân Nguyên. Sau khi quân Nguyên bị đại bại tại chiến trường Đại Việt, Trần Kiện theo quân Nguyên rút về p..." target="_blank" >Trần Kiện</a>), đại quân Việt chỉ lâm vào thế bị ép từ 2 mặt Bắc-Nam. <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> đưa thượng hoàng Thánh Tông và vua Nhân Tông rút về vùng bờ biển ở Quảng Ninh và Hải Phòng ngày nay, là nơi mà quân Nguyên chưa vươn tới. Trong hành trình rút lui, quân Đại Việt bị quân Nguyên đuổi gấp. Trước thế quân Nguyên Mông bức bách, ông đưa hai vua Trần ngầm đi chiếc thuyền nhỏ đến Tam Trĩ nguyên (<a class="annotation" href="/dia-danh/song-ba-che" title="Sông Ba Chẽ là một trong những con sông lớn tại tỉnh Quảng Ninh 
+ Sông được bắt nguồn từ huyện Hoành Bồ, chảy quanh co theo hướng đông bắc sang huyện Ba Chẽ và theo hướng đông từ xã Thanh Lâm, Ba Chẽ chảy qua thị trấn Ba Chẽ đổ ra biển..." target="_blank" >sông Ba Chẽ</a>, thuộc <a class="annotation" href="/dia-danh/tinh-quang-ninh" title="Quảng Ninh là tỉnh ven biển thuộc vùng Đông Bắc Việt Nam. Quảng Ninh được ví như một Việt Nam thu nhỏ, vì có cả biển, đảo, đồng bằng, trung du, đồi núi, biên giới. Trong quy hoạch phát triển kinh tế, Quảng Ninh vừa thuộc vùng kinh tế trọng điểm phía bắc vừa thuộc vùng duyên hải Bắc Bộ. Đây là tỉnh k..." target="_blank" >tỉnh Quảng Ninh</a> ngày nay), sai người đưa thuyền ngự ra Ngọc Sơn địch. Lúc ấy, xa giá nhà vua đang phiêu giạt, lại còn mối hiềm cũ của <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>, nên có nhiều người nghi ngại. Trần Quốc Tuấn theo vua, tay cầm chiếc gậy có bịt sắt nhọn. Mọi người đều gườm mắt nhìn. Trần Quốc Tuấn liền rút đầu sắt nhọn vứt đi, chỉ chống gậy không mà đi, bởi vậy hai vua Trần và mọi người khỏi nghi ngại<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 52.">14</sup> .</p>
+<p>Khi thấy đạo quân của Toa Đô đã rời Thanh Hóa tiến lên đóng ở Trường Yên (Ninh Bình), ngày 7 tháng 4 năm 1285, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> lại đưa 2 vua Trần cùng đại quân vượt biển vào Thanh Hóa, thoát khỏi thế bị kìm kẹp của đối phương.<sup class="annotation badge" title="^ Hà Văn Tấn và Phạm Thị Tâm (1972), trang 239-243.">15</sup>  Hàng loạt tông thất <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> ra hàng quân Nguyên như hoàng tử <a class="annotation" href="/nhan-vat/tran-ich-tac" title="Trần Ích Tắc (chữ Hán: 陳益稷, 1254 - 1329), thường được biết đến với tước hiệu Chiêu Quốc vương (昭國王), là một hoàng tử nhà Trần. Ông là con của Trần Thái Tông, em cùng cha khác mẹ với Trần Thánh Tông và Chiêu Minh đại vương Trần Quang Khải. Ngoài ra, ông cũng là chú của Trần Nhân Tông. 
+ Là hoàng thân..." target="_blank" >Trần Ích Tắc</a>, các hoàng thân Trần Lộng, <a class="annotation" href="/nhan-vat/tran-kien" title="Trần Kiện (chữ Hán: 陳鍵,&amp;#160;? - 1285) là một quý tộc nhà Trần trong lịch sử Việt Nam. Trong cuộc chiến tranh với nhà Nguyên, Trần Kiện đã đầu hàng quân Nguyên và cộng tác đắc lực cho lực lượng quân Nguyên. Sau khi quân Nguyên bị đại bại tại chiến trường Đại Việt, Trần Kiện theo quân Nguyên rút về p..." target="_blank" >Trần Kiện</a>.</p>
+<p>Tháng 5 (dương lịch) năm ấy (1285), ông vạch kế hoạch tổng phản công. Chỉ sau một tháng chiến đấu quyết liệt với quân Nguyên, các cánh quân Đại Việt do <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> cùng Chiêu Minh Đại vương <a class="annotation" href="/nhan-vat/tran-quang-khai" title="Trần Quang Khải (chữ Hán: 陳光啓; tháng 10 âm lịch năm 1241 – 26 tháng 7 dương lịch năm 1294), hay Chiêu Minh Đại vương (昭明大王), là một nhà chính trị, quân sự, tôn thất hoàng gia Đại Việt thời Trần. Ông làm đến chức Tể tướng đời Trần Thánh Tông, Trần Nhân Tông và Trần Anh Tông, coi cả mọi việc trong nướ..." target="_blank" >Trần Quang Khải</a>, Chiêu Văn vương <a class="annotation" href="/nhan-vat/tran-nhat-duat" title="Trần Nhật Duật (chữ Hán: 陳日燏, 1255 – 1330), được biết qua tước hiệu Chiêu Văn vương (昭文王) hay Chiêu Văn đại vương (昭文大王), là một nhà chính trị, quân sự Đại Việt thời Trần. Ông là con trai thứ sáu của Trần Thái Tông và là một danh tướng của vương triều nhà Trần trong lịch sử Việt Nam. Ông là người có..." target="_blank" >Trần Nhật Duật</a> chỉ huy thắng lợi ở Hàm Tử, Chương Dương, Tây Kết, Vạn Kiếp,... quân dân Đại Việt đã tiến vào Thăng Long, Thoát Hoan bỏ chạy. <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> và anh là Hưng Ninh vương <a class="annotation" href="/nhan-vat/tran-quoc-tung" title="Tuệ Trung Thượng sĩ (慧中上士; 1230 - 1291) tên thật là Trần Tung (陳嵩, hay Trần Quốc Tung), là một thành viên trong hoàng tộc nhà Trần với tước hiệu Hưng Ninh Vương và là một thiền sư Việt Nam. Ông là người hướng dẫn vua Trần Nhân Tông vào cửa Thiền và có nhiều ảnh hưởng đến tư tưởng của vị vua sáng lập..." target="_blank" >Trần Quốc Tung</a> dẫn hơn 2 vạn quân tấn công quân Nguyên ở bờ Bắc <a class="annotation" href="/dia-danh/song-hong" title="Sông Hồng có tổng chiều dài là 1,149 km bắt nguồn từ Trung Quốc chảy qua Việt Nam và đổ ra biển Đông. Đoạn chảy trên đất Việt Nam dài 510&amp;#160;km. Đây là dòng sông quan trọng của nền văn hóa lúa nước Việt Nam...." target="_blank" >sông Hồng</a>. Quân Nguyên đại bại rút chạy về phía Bắc.<sup class="annotation badge" title="^ Hà Văn Tấn và Phạm Thị Tâm (1972), trang 254.">16</sup> . Quân Đại Việt do con <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> là Trần Quốc Hiến (Trần Quốc Nghiễn) chỉ huy truy kích đến tận biên giới, quân Nguyên phải giấu Thoát Hoan trong ống đồng để chạy trốn<sup class="annotation badge" title="^ Hà Văn Tấn và Phạm Thị Tâm (1972), trang 256-257.">17</sup> . Trong cuộc chiến này, quân Đại Việt giết được tướng Nguyên là Toa Đô và <a class="annotation" href="/nhan-vat/ly-hang" title="Lý Hằng (chữ Hán: 李恒), tự là Đức Khanh (德卿), (1236 – 1285), người Đảng Hạng, là một trong những tướng lĩnh xuất sắc của nhà Nguyên. Lý Hằng mất vì trúng tên độc khi xâm lăng Đại Việt. 
+ Theo Nguyên sử, Lý Hằng là dòng dõi tôn thất của Tây Hạ. Tổ tiên của ông vốn họ Vu Di (于彌) nhưng từ cuối thời nhà ..." target="_blank" >Lý Hằng</a>.</p>
+<a name="lan-thu-ba-cuoi-nam-1287"></a><h4>Lần thứ ba (cuối năm 1287)</h4>
+<p>Tháng 3 âm lịch năm 1286, hoàng đế <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> Hốt Tất Liệt sai Thượng thư tỉnh Áo Lỗ Xích (Auruyvci), Bình chương sự Ô Mã Nhi (Omar) huy động 50 vạn quân, rồi sai hành tỉnh <a class="annotation" href="/nhan-vat/ho-quang" title="Hồ Quảng có thể là:..." target="_blank" >Hồ Quảng</a> đóng 300 thuyền chiến, định đến tháng 8 hội quân ở Khâm Châu, Liêm Châu. Hốt Tất Liệt còn sai quân ba hành tỉnh Giang Chiết, <a class="annotation" href="/nhan-vat/ho-quang" title="Hồ Quảng có thể là:..." target="_blank" >Hồ Quảng</a>, Giang Tây chuẩn bị đánh Đại Việt, mượn danh nghĩa đưa phản thần <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> là <a class="annotation" href="/nhan-vat/tran-ich-tac" title="Trần Ích Tắc (chữ Hán: 陳益稷, 1254 - 1329), thường được biết đến với tước hiệu Chiêu Quốc vương (昭國王), là một hoàng tử nhà Trần. Ông là con của Trần Thái Tông, em cùng cha khác mẹ với Trần Thánh Tông và Chiêu Minh đại vương Trần Quang Khải. Ngoài ra, ông cũng là chú của Trần Nhân Tông. 
+ Là hoàng thân..." target="_blank" >Trần Ích Tắc</a> về làm An Nam Quốc vương. Tháng 6 âm lịch, vua <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a> xuống chiếu cho vương hầu, tôn thất chiêu mộ binh sĩ. Nhà vua hỏi Hưng Đạo vương:<sup class="annotation badge" title="^ a ă â b c Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.">18</sup> </p>
+<dl> <dd><i>"Thế giặc năm nay thế nào?"</i>.<sup class="annotation badge" title="^ a ă â b c Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.">18</sup> </dd> </dl>
+<p>Trần Quốc Tuấn trả lời:<sup class="annotation badge" title="^ a ă â b c Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.">18</sup> </p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Nước ta thái bình lâu ngày, dân không biết việc binh. Cho nên, năm trước quân Nguyên vào cướp, thì có kẻ đầu hàng chốn chạy. Nhờ uy tín của tổ tông và thần võ của bệ hạ, nên quét sạch được bụi Hồ. Nay nếu nó lại sang thì quân ta đã quen việc chiến trận, mà quân nó thì sợ phải đi xa. Vả lại, chúng còn nơm lớp cái thất bại của Hằng, Quán không còn chí chiến đấu. Theo như thần thấy, phá được chúng là điều chắc chắn.</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Trần Quốc Tuấn</cite></div> </td> </tr> </table>
+<p>Vua <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a> cử Hưng Đạo vương thống lĩnh vương hầu luyện tập binh sĩ, sửa sang khí giới, đóng thuyền chiến. Tháng 2 âm lịch năm 1287, <a class="annotation" href="/nhan-vat/nha-nguyen-mong-co" title="Nhà Nguyên (chữ Hán: 元朝, Hán Việt: Nguyên triều, tiếng Mông Cổ trung cổ:  Dai Ön Yeke Mongghul Ulus; tiếng Mông Cổ hiện đại:  Их Юань улс) là một triều đại do người Mông Cổ thành lập, là triều đại dân tộc thiểu số đầu tiên hoàn thành sự nghiệp thống nhất Trung Quốc. Triều Nguyên do Nguyên Thế Tổ Hốt..." target="_blank" >nhà Nguyên</a> điều động quân Mông Cổ, quân Hán Nam (người Hán ở miền Nam Trung Quốc), quân 3 hành tỉnh Giang Hoài, Giang Tây, <a class="annotation" href="/nhan-vat/ho-quang" title="Hồ Quảng có thể là:..." target="_blank" >Hồ Quảng</a>, quân Vân Nam, quân người Lê ở 4 châu ngoài biển, chia làm nhiều cánh tràn vào Đại Việt. Vạn hộ <a class="annotation" href="/nhan-vat/truong-van-ho" title="Trương Văn Hổ (giản thể: 张文虎; phồn thể: 張文虎; bính âm: Zhāng Wénhǔ;&amp;#160;?-?) là một tướng người Hán của nhà Nguyên. Ông từng cầm đầu nhóm cướp biển hoạt động tại vùng Phúc Kiến và Quảng Đông. Sau đó, ông đầu hàng nhà Nguyên, được phong tước Vạn hộ, trở thành tướng thủy binh. 
+ Trong kế hoạch tấn côn..." target="_blank" >Trương Văn Hổ</a> dẫn quân thủy chở 70 vạn thạch lương theo sau. Hốt Tất Liệt còn lập Chinh Giao Chỉ hành thượng thư tỉnh do Bình chương sự Áo Lỗ Xích, các Tham tri chính sự Ô Mã Nhi, Phàn Tiếp đứng đầu; cơ quan này phải chịu sự sai khiến của Thoát Hoan. Các quan Đại Việt xin bắt tráng đinh sung quân để quân đội đông hơn, nhưng Hưng Đạo Vương không đồng ý:<sup class="annotation badge" title="^ a ă â b c Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.">18</sup> </p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Quân quý ở tinh nhuệ, không quý ở số đông. Dẫu đến 100 vạn quân mà như Bồ Kiên thì cũng làm gì được?</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Trần Quốc Tuấn</cite></div> </td> </tr> </table>
+<p>Ngày 14 tháng 11 âm lịch 1287, Trịnh Xiển báo tin cánh quân Vân Nam của Nguyên đánh ải Phú Lương. <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a> hỏi Hưng Đạo vương: <i>"Năm nay đánh giặc thế nào?"</i>. Ông vẫn quả quyết: <i>"Năm nay đánh giặc nhàn"</i>.<sup class="annotation badge" title="^ a ă â b c Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.">18</sup>  Lần này biết <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> đã phòng bị ở Thanh - Nghệ, Thoát Hoan tiến thẳng vào từ phía bắc và đông bắc. Sau những cuộc đụng độ bất lợi ở biên giới, quân Đại Việt rút lui. Khác với lần trước, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> không bỏ kinh đô mà tổ chức phòng thủ ở Thăng Long. Tháng 2 năm 1288, quân Nguyên đánh thành, quân Đại Việt nấp trong thành bắn tên đạn ra. Trần Quốc Tuấn sai Trần Cao vài lần đến trại Thoát Hoan xin giảng hoà, nhưng ban đêm thường kéo ra từng toán nhỏ đánh lén vào trại quân Nguyên, đốt phá lương thực rồi rút lui. Thoát Hoan điều quân ra ngoài truy kích, nhưng quân Đại Việt thường ẩn nấp khó phát hiện ra<sup class="annotation badge" title="^ Trần Xuân Sinh, sách đã dẫn, tr 221">19</sup> . Quân Nguyên bao vây tấn công vài lần không có kết quả, cuối cùng phải rút lui.</p>
+<p>Trong khi đó, đoàn thuyền lương của <a class="annotation" href="/nhan-vat/truong-van-ho" title="Trương Văn Hổ (giản thể: 张文虎; phồn thể: 張文虎; bính âm: Zhāng Wénhǔ;&amp;#160;?-?) là một tướng người Hán của nhà Nguyên. Ông từng cầm đầu nhóm cướp biển hoạt động tại vùng Phúc Kiến và Quảng Đông. Sau đó, ông đầu hàng nhà Nguyên, được phong tước Vạn hộ, trở thành tướng thủy binh. 
+ Trong kế hoạch tấn côn..." target="_blank" >Trương Văn Hổ</a> bị <a class="annotation" href="/nhan-vat/tran-khanh-du" title="Trần Khánh Dư (chữ Hán: 陳慶餘,&amp;#160;? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia ch..." target="_blank" >Trần Khánh Dư</a> chặn đánh tiêu diệt ở Vân Đồn. Thoát Hoan bỏ Thăng Long về hành dinh Vạn Kiếp. Do bị thiếu lương và bệnh dịch, Thoát Hoan buộc phải rút lui, một ngả của thủy quân do Ô Mã Nhi và Phàn Tiếp chỉ huy, một ngả của bộ binh do Thoát Hoan chỉ huy. <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> bố trí lực lượng mai phục ở cửa <a class="annotation" href="/dia-danh/song-bach-dang" title="Sông Bạch Đằng, còn gọi là Bạch Đằng Giang (chữ Nho: 白藤江; tên Nôm: sông Rừng), hiệu là sông Vân Cừ, là một con sông chảy giữa thị xã Quảng Yên (Quảng Ninh) và huyện Thủy Nguyên (Hải Phòng), cách vịnh Hạ Long, cửa Lục khoảng 40&amp;#160;km. Nó nằm trong hệ thống sông Thái Bình. 
+ Sông Bạch Đằng là con đư..." target="_blank" >sông Bạch Đằng</a> trực tiếp tổ chức chiến trường tiêu diệt toàn bộ binh thuyền của Ô Mã Nhi vào tháng Tư (âm lịch) năm Mậu Tý (1288), bắt sống Ô Mã Nhi, Phàn Tiếp và Tích Lệ Cơ. Thoát Hoan dẫn quân bộ tháo chạy theo đường Lạng Sơn, dọc đường bị quân Việt đón đánh khiến <i>"quân sĩ mười phần, tổn hại mất 5, 8 phần"</i><sup class="annotation badge" title="^ Việt Nam sử lược, tr. 154.">20</sup> .</p>
+<a name="tran-bach-dang-1288"></a><h4>Trận Bạch Đằng (1288)</h4>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/f291a2d6f4d3a8ddcad7c4a092247f2d.jpg" /> <div class="caption"> <div class="magnify"></div> Cọc gỗ Bạch Đằng thời <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a></div> </div> </div>
+<p>Trận đánh nổi bật nhất trong cuộc kháng chiến chống quân Nguyên - Mông lần thứ ba, mang tính chất khẳng định cũng là lần cuối cùng quân Nguyên - Mông xâm lược Đại Việt.</p>
+<p>Thuỷ quân Mông Cổ vốn không biết về chu trình thuỷ triều của sông.&#160;Trước ngày diễn ra trận đánh quyết định này, ông đã đoán tuyến đường tháo chạy của chúng và nhanh chóng cho quân cắm cọc gỗ vót nhọn ở đáy sông, tạo thành thế trận cọc ngầm độc đáo giống như hồi thời <a class="annotation" href="/nhan-vat/ngo-quyen" title="Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một ..." target="_blank" >Ngô Quyền</a>, <a class="annotation" href="/nhan-vat/le-hoan" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Hoàn</a>.&#160;Khi Ô Mã Nhi cho quân vào sông, quân ta cử các tàu nhỏ vào nhử chúng khi nước còn lên cao che hết cọc gỗ.&#160;Khi nước xuống, thuyền giặc liền bị mắc kẹt, "không tiến cũng không lui được", ngay lập tức quân <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> xông ra tấn công. Cuối cùng, 400 thuyền Mông Cổ bị đốt cháy hết. &#160;Toàn bộ hạm đội giặc bị phá tan nát, Ô Mã Nhi bị bắt sống.</p>
+<a name="lui-ve-van-kiep"></a><h3>Lui về Vạn Kiếp</h3>
+<p>Do đã có những công lao to lớn trên con đường vệ quốc, gìn giữ độc lập, Vua đã trao cho ông vị trí tối cao toàn quyền chỉ huy quân đội toàn quốc, đồng thời cho phép ông phong tước, hiệu cho bất kỳ ai mà ông muốn. Nhưng trong suốt cuộc đời, ông không hề sử dụng đặc quyền này.</p>
+<p>Tháng Tư (âm lịch) năm Kỷ Sửu (1289), luận công ba lần đánh đuổi quân Nguyên Mông, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> được phong tước Hưng Đạo đại vương. Sau đó, ông lui về ở Vạn Kiếp, là nơi ông được phong ấp (nay thuộc <a class="annotation" href="/dia-danh/xa-hung-dao" title="Hưng Đạo có thể là một số địa danh Việt Nam sau đây:..." target="_blank" >xã Hưng Đạo</a>, <a class="annotation" href="/dia-danh/thi-xa-chi-linh" title="Chí Linh là một thị xã ở phía Bắc tỉnh Hải Dương, Việt Nam...." target="_blank" >thị xã Chí Linh</a>, <a class="annotation" href="/dia-danh/tinh-hai-duong" title="Hải Dương là một tỉnh nằm ở đồng bằng sông Hồng, thuộc Vùng kinh tế trọng điểm Bắc bộ, Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hải Dương nằm cách thủ đô Hà Nội 57&amp;#160;km về phía Tây, cách thành phố Hải Phòng 45&amp;#160;km về phía Đông. phía tây bắc giáp tỉnh Bắc Ninh, phía bắc giáp tỉnh B..." target="_blank" >tỉnh Hải Dương</a>). Nhân dân lúc bấy giờ kính trọng ông, lập đền thờ sống ông ở Vạn Kiếp. Tại đền có bài văn bia của vua <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a>, ví ông với Thượng phụ (tức Khương Tử Nha)<sup class="annotation badge" title="^ Theo Nguyễn Huệ Chi (tr. 1799) và Đại Việt sử ký toàn thư (tập 2) tr. 78.">21</sup> </p>
+<a name="qua-doi"></a><h2>Qua đời</h2>
+<p>Tháng Sáu (âm lịch) năm Canh Tý (1300), <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ốm nặng. Vua <a class="annotation" href="/nhan-vat/tran-anh-tong" title="Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 – 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon..." target="_blank" >Trần Anh Tông</a> ngự tới nhà thăm, hỏi rằng: <i>"Nếu có điều chẳng may, mà giặc phương Bắc lại sang xâm lược thì kế sách như thế nào?"</i>. Ông trả lời: <i>"Ngày xưa <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> (tức <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a>) dựng nước, vua <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> cho quân đánh, nhân dân làm kế thanh dã (vườn không nhà trống), đại quân ra Khâm Châu, Liêm Châu đánh vào Trường Sa, <a class="annotation" href="/dia-danh/ho-nam" title="Hồ Nam (tiếng Trung: 湖南; bính âm: Húnán; nghe ) là một tỉnh của Cộng hòa Nhân dân Trung Hoa, nằm ở khu vực trung-nam của quốc gia. Hồ Nam nằm ở phía nam của trung du Trường Giang và phía nam của hồ Động Đình (vì thế mới có tên gọi là Hồ Nam). Hồ Nam có giản xưng là &quot;Tương&quot; (湘), theo tên sông Tương c..." target="_blank" >Hồ Nam</a>, còn đoản binh thì đánh úp phía sau. Đó là một thời. Đời <a class="annotation" href="/nhan-vat/nha-dinh" title="Nhà Đinh (chữ Hán: 丁朝, Đinh Triều) là triều đại phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường cho Lê Hoàn. 
+ Nhà Đinh là triều đại mở đầu chế độ phong kiến ..." target="_blank" >nhà Đinh</a>, <a class="annotation" href="/nhan-vat/nha-tien-le" title="Nhà Lê (Hán-Nôm: 家黎 • 黎朝, nhà Lê • Lê triều), hay còn được gọi là nhà Tiền Lê (Hán-Nôm: 家前黎 • 前黎朝, nhà Tiền Lê • Tiền Lê triều) là một triều đại trong lịch sử Việt Nam, bắt đầu khi Đinh Phế Đế nhường ngôi cho Lê Hoàn vào năm 980, trải qua ba đời quân chủ và chấm dứt khi Lê Long Đĩnh qua đời. Quốc hi..." target="_blank" >nhà Tiền Lê</a> dùng người tài giỏi, đất phương nam mới mạnh mà phương bắc thì mệt mỏi suy yếu, trên dưới một dạ, lòng dân không lìa, xây <a class="annotation" href="/dia-danh/thanh-binh-lo" title="Bình Lỗ là tên một thành cổ được ghi nhận trong lịch sử Việt Nam, nhờ có thành này mà năm 981 Lê Đại Hành đã đánh tan được quân Tống. Tuy nhiên vị trí, hình dáng và kích thước của thành tương ứng ngày nay vẫn chưa được xác định. Có thuyết cho là ở gần khu vực sông Cầu và sông Cà Lồ, thuộc huyện Sóc ..." target="_blank" >thành Bình Lỗ</a> mà phá được quân Tống. Đó lại là một thời. Vua <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> mở nền, <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> xâm phạm địa giới, dùng <a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a> đánh Khâm, Liêm, đến tận Mai Lĩnh là vì có thế. Vừa rồi Toa Đô, Ô Mã Nhi bốn mặt bao vây. Vì vua tôi đồng tâm, anh em hòa mục, cả nước góp sức, giặc phải bị bắt. Đó là trời xui nên vậy. Đại khái, nó cậy trường trận, ta dựa vào đoản binh. Dùng đoản binh chế trường trận là sự thường của binh pháp. Nếu chỉ thấy quân nó kéo đến như lửa, như gió thì thế dễ chế ngự. Nếu nó tiến chậm như các tằm ăn, không cầu thắng chóng, thì phải chọn dùng tướng giỏi, xem xét quyền biến, như đánh cờ vậy, tùy thời tạo thế, có được đội quân một lòng như cha con thì mới dùng được. Vả lại, khoan thư sức dân để làm kế sâu rễ bền gốc, đó là thượng sách giữ nước vậy"</i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 76-77.">22</sup> .</p>
+<p>Chữa mãi không khỏi bệnh, ông mất vì tuổi già vào ngày 20 tháng Tám (âm lịch) năm ấy.</p>
+<p>Khi sắp mất, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> vương dặn các con rằng: <i>"Ta chết thì phải hỏa táng, lấy vật tròn đựng xương, bí mật chôn trong vườn An Lạc, rồi san đất và trồng cây như cũ, để người đời không biết chỗ nào, lại phải làm sao cho mau mục"</i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2, tr. 78). Lời di chúc này liệu có gắn với &quot;Viên Lăng&quot; (tức là vườn mộ của ông) mà dân gian thường gọi ở một quả đồi nhỏ cách Kiếp Bạc 100 m về phía Nam (?). Cho đến nay, các nhà khảo cổ, các nhà nghiên cứu vẫn chưa xác định được mộ phần của Trần Hưng Đạo ở đâu. Theo [1].">23</sup> </p>
+<p>Nghe tin <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> vương mất, triều đình <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> phong tặng ông là <i>"Thái sư Thượng Phụ Thượng Quốc công Nhân Vũ Hưng Đạo Đại Vương"</i>. Ông được nhân dân cả nước tôn vinh là <i>"Đức Thánh Trần"</i> và lập đền thờ ở nhiều nơi, song nổi tiếng hơn cả là Đền Kiếp Bạc ở <a class="annotation" href="/dia-danh/xa-hung-dao" title="Hưng Đạo có thể là một số địa danh Việt Nam sau đây:..." target="_blank" >xã Hưng Đạo</a> (Chí Linh, Hải Dương). Đây là nơi ông lập căn cứ, tích trữ lương thực, huấn luyện quân sĩ trong các cuộc kháng chiến chống quân Nguyên Mông.</p>
+<a name="nhan-cach-pham-chat"></a><h2>Nhân cách, phẩm chất</h2>
+<a name="gat-bo-hiem-khich-rieng"></a><h3>Gạt bỏ hiềm khích riêng</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/0428c12c86d18666bf30c9193fcf8e55.jpg" /> <div class="caption"> <div class="magnify"></div> Tranh vẽ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>, thời Nguyễn</div> </div> </div>
+<p>Năm&#160;Đinh Dậu&#160;(1237), Thái sư&#160;<a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a>&#160;ép&#160;<a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>&#160;(cha <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>) phải nhường vợ là&#160;Thuận Thiên Công chúa&#160;(chị của&#160;<a class="annotation" href="/nhan-vat/ly-chieu-hoang" title="Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất, đặc biệt hơn là được chính Phụ hoà..." target="_blank" >Lý Chiêu Hoàng</a>) cho em ruột là vua<a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>&#160;(<a class="annotation" href="/nhan-vat/tran-canh" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Cảnh</a>) dù bà này đã có thai với <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> được ba tháng, đồng giáng <a class="annotation" href="/nhan-vat/ly-chieu-hoang" title="Lý Chiêu Hoàng (chữ Hán: 李昭皇; Tháng 9, 1218 - Tháng 3, 1278), còn gọi là Lý Phế hậu (李廢后) hay Chiêu Thánh hoàng hậu (昭聖皇后), vị Hoàng đế thứ 9 và cuối cùng của triều đại nhà Lý từ năm 1224 đến năm 1225. Trong lịch sử Việt Nam, bà là vị Nữ hoàng đầu tiên và duy nhất, đặc biệt hơn là được chính Phụ hoà..." target="_blank" >Lý Chiêu Hoàng</a> (đang là Hoàng hậu) xuống làm Công chúa. Phẫn uất, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> họp quân làm loạn. <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> chán nản bỏ đi lên&#160;Yên Tử. Sau <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> biết không làm gì được phải đóng giả làm người đánh cá trốn lên thuyền vua <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a> xin tha tội.&#160;<a class="annotation" href="/nhan-vat/tran-thu-do" title="Trần Thủ Độ (chữ Hán: 陳守度, 1194 - 1264), cũng gọi Trung Vũ đại vương (忠武大王), là một nhà chính trị Đại Việt thời cuối Lý đầu Trần. Ông đóng vai trò quan trọng trong các sự kiện lật đổ nhà Lý, lập nên nhà Trần, thu phục các thế lực người Man làm phản loạn và trong cuộc chiến kháng quân Nguyên lần thứ ..." target="_blank" >Trần Thủ Độ</a>&#160;biết được, cầm gươm đến định giết <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> nhưng Thái Tông lấy thân mình che cho <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>. <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> được tha tội nhưng quân lính theo ông đều bị giết. Mang lòng hậm hực, <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> tìm khắp những người tài nghệ để dạy Trần Quốc Tuấn (tức <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>). Lúc sắp mất, ông cầm tay Quốc Tuấn, trăn trối rằng:&#160;<i>"Con không vì cha lấy được thiên hạ, thì cha chết dưới suối vàng cũng không nhắm mắt được"</i>. Quốc Tuấn ghi để trong lòng, nhưng không cho là phải. Đến khi vận nước lung lay, quyền quân quyền nước đều do ở mình, Trần Quốc Tuấn đem lời cha trăn trối để dò ý hai thuộc tướng thân tín là&#160;Dã Tượng&#160;và&#160;Yết Kiêu. Hai người thuộc hạ ấy can rằng:&#160;<i>"Làm kế ấy tuy được phú quý một thời nhưng để lại tiếng xấu ngàn năm. Nay Đại Vương há chẳng đủ phú và quý hay sao? Chúng tôi thề xin chết già làm gia nô, chứ không muốn làm quan mà không có trung hiếu"</i>...Trần Quốc Tuấn cảm phục đến khóc, khen ngợi hai người.</p>
+<p>Dù cha ông có hiềm khích lớn với <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> Thái Tông, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> luôn đặt việc nước lên trên, một lòng trung thành, hết lòng phò tá các vua Trần đánh ngoại xâm cứu nước. Đối với lời dặn của <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a> trước khi mất, Trần Quốc Tuấn từng vờ hỏi các con. Ông hỏi Hưng Vũ vương Trần Quốc Nghiễn: <i>"Người xưa có cả thiên hạ để truyền cho con cháu, con nghĩ thế nào?</i> Hưng Vũ vương thưa: <i>"Dẫu khác họ cũng không nên, huống chi là cùng một họ!"</i>. Trần Quốc Tuấn ngẫm cho là phải. Lại một hôm ông đem chuyện ấy hỏi người con thứ là Hưng Nhượng vương <a class="annotation" href="/nhan-vat/tran-quoc-tang" title="Hưng Nhượng vương Trần Quốc Tảng (chữ Hán: 興讓王陳國顙, 1252 - 1313) một vị tướng quân nhà Trần, ông được biết đến là con trai thứ ba của Hưng Đạo đại vương Trần Quốc Tuấn và Thiên Thành công chúa...." target="_blank" >Trần Quốc Tảng</a>. Quốc Tảng tiến lên thưa: <i>"Tống Thái Tổ vốn là một ông lão làm ruộng, đã thừa cơ dấy vận nên có được thiên hạ"</i>. Trần Quốc Tuấn rút gươm kể tội: <i>"Tên loạn thần là từ đứa con bất hiếu mà ra"</i> và định giết Quốc Tảng, Hưng Vũ vương vội chạy tới khóc lóc xin chịu tội thay, Trần Quốc Tuấn mới tha. Sau đó, ông dặn Hưng Vũ vương: <i>"Sau khi ta chết, đậy nắp quan tài đã rồi mới cho Quốc Tảng vào viếng"</i> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2) tr. 77-78.">24</sup> .</p>
+<p>Hưng Vũ vương Nghiễn được lấy Công chúa Thiên Thụy, thế nhưng tướng <a class="annotation" href="/nhan-vat/tran-khanh-du" title="Trần Khánh Dư (chữ Hán: 陳慶餘,&amp;#160;? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia ch..." target="_blank" >Trần Khánh Dư</a> lại thông dâm với Thiên Thụy, khiến nhà vua phải xuống chiếu trách phạt và đuổi Khánh Dư về Chí Linh vì "sợ phật ý Quốc Tuấn". Tuy nhiên khi quân Nguyên Mông sang xâm lược Đại Việt lần thứ 3, <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> đã gạt bỏ hiềm riêng, tin cậy "giao hết công việc biên thùy cho phó tướng Vân Đồn là Nhân Huệ vương <a class="annotation" href="/nhan-vat/tran-khanh-du" title="Trần Khánh Dư (chữ Hán: 陳慶餘,&amp;#160;? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia ch..." target="_blank" >Trần Khánh Dư</a>" khi ông này được phục chức. Ngoài ra, khi soạn xong <i>Vạn Kiếp tông bí truyền thư</i>, thì <a class="annotation" href="/nhan-vat/tran-khanh-du" title="Trần Khánh Dư (chữ Hán: 陳慶餘,&amp;#160;? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia ch..." target="_blank" >Trần Khánh Dư</a> cũng là người được ông chọn để viết bài Tựa cho sách<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 46, 58 và 82.">25</sup> .</p>
+<a name="kheo-tien-cu-nguoi-tai-gioi-kinh-can-giu-tiet-lam-toi"></a><h3>Khéo tiến cử người tài giỏi, kính cẩn giữ tiết làm tôi</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/c29c5c580b558413d8b45b9eab1a708f.jpg" /> <div class="caption"> <div class="magnify"></div> Cổng vào đền thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở quận 1, Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a></div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/ad7a41e9a355300d93f37d4ebc5110a9.jpg" /> <div class="caption"> <div class="magnify"></div> Đền thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở địa chỉ trên</div> </div> </div>
+<p><a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> khéo tiến cử người tài giỏi cho đất nước, như Dã Tượng, Yết Kiêu là gia thần của ông, có dự công dẹp Ô Mã Nhi, Toa Đô. Các người nổi tiếng khác như <a class="annotation" href="/nhan-vat/pham-ngu-lao" title="Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem ..." target="_blank" >Phạm Ngũ Lão</a>, <a class="annotation" href="/nhan-vat/tran-thi-kien" title="Trần Thì Kiến (陳時見, 1260–1330?) người làng Cự Xạ, huyện Đông Triều, phủ Tân Hưng (nay là thị xã Đông Triều, tỉnh Quảng Ninh). Ông từng là môn khách của Trần Hưng Đạo, và được Trần Hưng Đạo tiến cử với Vua Trần Nhân Tông, được vua bổ nhiệm làm An phủ sứ phủ Thiên Trường, sau đó là thiên qua nhiều chứ..." target="_blank" >Trần Thì Kiến</a>, <a class="annotation" href="/nhan-vat/truong-han-sieu" title="Trương Hán Siêu (chữ Hán: 張漢超；?-1354), tên tự là Thăng Phủ hoặc Thăng Am, hiệu Đôn Tẩu, là một vị quan, một danh nhân văn hóa đời Trần, kiệt tác văn chương nổi tiếng nhất trong sự nghiệp sáng tác của ông là bài Bạch Đằng giang phú - một áng thiên cổ hùng văn rất được lưu truyền......" target="_blank" >Trương Hán Siêu</a>, Phạm Lãm, Trịnh Dũ, Ngô Sĩ Thường, Nguyễn Thế Trực vốn là môn khách của ông, đều nổi tiếng thời đó về văn chương và chính sự <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 78-79.">26</sup> </p>
+<p>Vì có công lao lớn nên nhà vua gia phong ông là Thượng quốc công, cho phép ông được quyền phong tước cho người khác, từ minh tự trở xuống, chỉ có tước hầu thì phong trước rồi tâu sau. Nhưng <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> chưa bao giờ phong tước cho một người nào. Khi quân Nguyên vào xâm chiếm <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a>, ông lệnh cho nhà giàu bỏ thóc ra cấp lương quân, mà cũng chỉ cho họ làm lang tướng giả chứ không cho họ tước lang thực, ông rất kính cẩn giữ tiết làm tôi...<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 78.">27</sup> </p>
+<a name="tac-pham"></a><h2>Tác phẩm</h2>
+<ul> <li><b>Dụ chư tỳ tướng hịch văn</b> (<i>Bài văn hịch hiểu dụ các tỳ tướng</i>, quen gọi là <b>Hịch tướng sĩ</b>).</li> <li><b>Binh gia diệu lý yếu lược</b> (<i>Tóm lược chỗ cốt yếu trong nguyên lý kỳ diệu của nhà binh</i>, còn gọi là <b>Binh thư yếu lược</b>)</li> <li><b>Vạn Kiếp tông bí truyền thư</b> (<i>Sách bí truyền của tông phái Vạn Kiếp</i>) nhưng văn bản đã thất lạc, chỉ còn lại bài Tựa của tướng <a class="annotation" href="/nhan-vat/tran-khanh-du" title="Trần Khánh Dư (chữ Hán: 陳慶餘,&amp;#160;? - 1340), hiệu là Nhân Huệ vương (仁惠王), là một chính khách, nhà quân sự Đại Việt dưới thời Trần. Ông nổi bật với việc giữ chức Phó đô tướng quân trong trong kháng chiến chống Nguyên lần 2 và 3, tiêu diệt đoàn thuyền lương quân Nguyên ở Vân Đồn năm 1288, tham gia ch..." target="_blank" >Trần Khánh Dư</a> đề ở đầu sách, được <i>Đại Việt sử ký toàn thư</i> (quyển VI) ghi lại.</li> </ul>
+<a name="ghi-nhan-cong-lao"></a><h2>Ghi nhận công lao</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/e843e1d47731ee251b489f7afa62ccc3.jpg" /> <div class="caption"> <div class="magnify"></div> Tượng đài <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> tại bến Bạch Đằng (TP. <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>)</div> </div> </div>
+<p>Dưới sự lãnh đạo của <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>, quân đội <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> đã vượt qua vô vàn khó khăn và nguy hiểm, chỉ với số đội quân ít thiện chiến, yếu hơn so quân giặc lại ba lần đánh tan hàng vạn quân Mông Nguyên xâm lược hùng mạnh, giành thắng lợi lẫy lừng, "tiếng vang đến phương Bắc, khiến chúng thường gọi ông là An Nam Hưng Đạo Vương mà không dám gọi thẳng tên"<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 79.">28</sup> . Chiến lược của ông đã góp phần rất lớn đến thắng lợi này nên chiến công vĩ đại này thường gắn liền với tên tuổi của ông. Công lao to lớn này đã đưa ông lên hàng <i>"thiên tài quân sự có tầm chiến lược, và là một anh hùng dân tộc bậc nhất của <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>"</i> <sup class="annotation badge" title="^ a ă â Nguyễn Huệ Chi, tr. 1799.">29</sup> , một bậc thầy về chiến lược thực sự. Chiến thắng của ông và quân đội Nhà Trần đã góp phần đánh dấu chấm hết thời kỳ đỉnh cao của quân Nguyên - Mông trong lịch sử.</p>
+<p>Là một người có tài dụng người, dụng binh thao lược, ông tiến cử người tài giỏi giúp nước, như Dã Tượng, Yết Kiêu là gia thần của ông đã có công đánh dẹp&#160;Ô Mã Nhi,&#160;Toa Đô. Các người nổi tiếng khác như&#160;<a class="annotation" href="/nhan-vat/pham-ngu-lao" title="Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem ..." target="_blank" >Phạm Ngũ Lão</a>,&#160;<a class="annotation" href="/nhan-vat/tran-thi-kien" title="Trần Thì Kiến (陳時見, 1260–1330?) người làng Cự Xạ, huyện Đông Triều, phủ Tân Hưng (nay là thị xã Đông Triều, tỉnh Quảng Ninh). Ông từng là môn khách của Trần Hưng Đạo, và được Trần Hưng Đạo tiến cử với Vua Trần Nhân Tông, được vua bổ nhiệm làm An phủ sứ phủ Thiên Trường, sau đó là thiên qua nhiều chứ..." target="_blank" >Trần Thì Kiến</a>,&#160;<a class="annotation" href="/nhan-vat/truong-han-sieu" title="Trương Hán Siêu (chữ Hán: 張漢超；?-1354), tên tự là Thăng Phủ hoặc Thăng Am, hiệu Đôn Tẩu, là một vị quan, một danh nhân văn hóa đời Trần, kiệt tác văn chương nổi tiếng nhất trong sự nghiệp sáng tác của ông là bài Bạch Đằng giang phú - một áng thiên cổ hùng văn rất được lưu truyền......" target="_blank" >Trương Hán Siêu</a>,Phạm Lãm,&#160;Trịnh Dũ,&#160;Ngô Sĩ Thường,&#160;Nguyễn Thế Trực&#160;vốn là môn khách của ông, đều nổi tiếng về văn chương và chính sự, bởi vì ông có tài mưu lược, anh hùng, lại một lòng giữ gìn người trung nghĩa nên đã giữ được những nhân tài chung quanh ông. Ví dụ như khi vua <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a> vờ bảo với Trần Quốc Tuấn rằng: “Thế giặc như vậy, ta phải hàng thôi”. Trần Quốc Tuấn trả lời: “Bệ hạ chém đầu tôi trước rồi hãy hàng giặc”. Nhân dân Việt Nam vô cùng kính trọng ông và tôn ông là vị anh hùng dân tộc có công trạng lớn vào hàng bậc nhất đối với tổ quốc và là tấm gương uy vũ sáng ngời cho nhiều thế hệ mai sau.</p>
+<p>Là một Tiết chế đầy tài năng, khi <i>"dụng binh biết đợi thời, biết thừa thế tiến thoái"</i><sup class="annotation badge" title="^ Việt Nam sử lược, tr. 147.">30</sup> . Ông nổi tiếng với chiến lược "tấn công và rút lui". Ngoài ra, ông còn đặc biệt có một lòng tin sắt đá vào sức mạnh và ý chí của nhân dân, của tướng sĩ, nên <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> đã đề ra một đường lối kháng chiến ưu việt, tiêu biểu là các cuộc rút lui chiến lược khỏi kinh <a class="annotation" href="/dia-danh/thanh-thang-long" title="Thành Hà Nội do Gia Long xây dựng cũng làm theo thể thức các tỉnh thành khác và điều chủ yếu là không được to rộng hơn Phú Xuân. Thành vuông xây theo kiểu Vauban của Pháp. Thành hình vuông mỗi bề chừng một cây số xung quanh là hào nước sâu. Bốn bức tường thành tương ứng với bốn con phố hiện nay là: ..." target="_blank" >thành Thăng Long</a>, để bảo toàn lực lượng. Kế hoạch "thanh dã" (vườn không nhà trống) và những hoạt động phối hợp nhịp nhàng giữa "hương binh" và quân triều đình, những trận tập kích và phục kích có ý nghĩa quyết định đối với cả chiến dịch như ở Chương Dương, Hàm Tử, Tây Kết, Vân Đồn, và nhất là ở Bạch Đằng...đã làm cho tên tuổi ông bất tử <sup class="annotation badge" title="^ a ă â Nguyễn Huệ Chi, tr. 1799.">29</sup> .</p>
+<p>Có thể nói tư tưởng quán xuyến suốt đời của <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>, là <i>một tấm lòng tận tụy đối với đất nước, là ý muốn đoàn kết mọi tầng lớp trong dân tộc thành một lực lượng thống nhất, là tinh thần yêu thương dân. Cho nên trước khi mất, ông vẫn còn dặn vua <a class="annotation" href="/nhan-vat/tran-anh-tong" title="Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 – 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon..." target="_blank" >Trần Anh Tông</a> rằng: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc" cho sự nghiệp lâu dài của nước nhà</i><sup class="annotation badge" title="^ a ă â Nguyễn Huệ Chi, tr. 1799.">29</sup> .</p>
+<a name="gia-quyen"></a><h2>Gia quyến</h2>
+<ul> <li>Cha: Khâm Minh đại vương <a class="annotation" href="/nhan-vat/tran-lieu" title="Trần Liễu (chữ Hán: 陳柳; 1211 - 23 tháng 4, 1251), hay An Sinh vương (安生王) hoặc Khâm Minh đại vương (欽明大王), một tôn thất thuộc hoàng tộc nhà Trần trong lịch sử Việt Nam. Ông là con đích trưởng của Trần Thái Tổ, anh ruột của Trần Thái Tông, cha ruột của Trần Quốc Tuấn và Hoàng hậu của Trần Thánh Tông ..." target="_blank" >Trần Liễu</a>.</li> <li>Mẹ: Có lẽ là Thiện Đạo quốc mẫu (善道國母), húy Nguyệt. Sau khi Khâm Minh đại vương mất, bà xuất gia làm ni.</li> <li>Vợ: Nguyên Từ quốc mẫu (1235 - 1288), tức <i>Thiên Thành công chúa</i>, con gái/ em gái của <a class="annotation" href="/nhan-vat/tran-thai-tong" title="Trần Thái Tông (chữ Hán: 陳太宗; 9 tháng 7 năm 1218 – 5 tháng 5 năm 1277), là vị hoàng đế đầu tiên của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ năm 1225 tới năm 1258, sau đó làm Thái thượng hoàng cho đến khi qua đời. 
+ Trần Cảnh sinh ra vào thời Lý, quê ở làng Tức Mặc (Thiên Trường). Lên 7 tuổi, ..." target="_blank" >Trần Thái Tông</a>.</li> <li>Con cái:</li> </ul>
+<ol> <li>Hưng Vũ vương Trần Quốc Nghiễn (陳國巘), trở thành phò mã của <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a>, cưới Thiên Thụy công chúa. Sau khi đánh đuổi quân Nguyên Mông, tháng 4 năm 1289, được phong làm <i>Khai Quốc công</i>.</li> <li>Hưng Trí vương Trần Quốc Hiện (陳國峴): là người có công tổ chức khẩn hoang nhiều vùng đất hoang vu của khu vực <a class="annotation" href="/dia-danh/tinh-hai-duong" title="Hải Dương là một tỉnh nằm ở đồng bằng sông Hồng, thuộc Vùng kinh tế trọng điểm Bắc bộ, Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hải Dương nằm cách thủ đô Hà Nội 57&amp;#160;km về phía Tây, cách thành phố Hải Phòng 45&amp;#160;km về phía Đông. phía tây bắc giáp tỉnh Bắc Ninh, phía bắc giáp tỉnh B..." target="_blank" >tỉnh Hải Dương</a> ngày nay<sup class="annotation badge" title="^ Danh tướng Việt Nam (tập 1), tr. 98.">31</sup> . Khi xét công đánh đuổi quân Nguyên, Hưng Trí vương không được thăng trật, vì <i>"đã có chiếu cho người Nguyên về nước, các tướng không được cản trở, mà lại còn đón đánh chúng"</i> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (tập 2), tr. 62.">32</sup> .</li> <li>Hưng Nhượng vương <a class="annotation" href="/nhan-vat/tran-quoc-tang" title="Hưng Nhượng vương Trần Quốc Tảng (chữ Hán: 興讓王陳國顙, 1252 - 1313) một vị tướng quân nhà Trần, ông được biết đến là con trai thứ ba của Hưng Đạo đại vương Trần Quốc Tuấn và Thiên Thành công chúa...." target="_blank" >Trần Quốc Tảng</a> (陳國顙), cha của Thuận Thánh hoàng hậu, vợ <a class="annotation" href="/nhan-vat/tran-anh-tong" title="Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 – 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon..." target="_blank" >Trần Anh Tông</a>. Khi xét công chống giặc, được phong làm Tiết độ sứ.</li> <li>Hưng Hiển Vương Trần Quốc Uy.</li> <li>Bảo Thánh hoàng hậu Trần Trinh (陳貞), hoàng hậu của <a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a>, mẹ đẻ của <a class="annotation" href="/nhan-vat/tran-anh-tong" title="Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 – 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon..." target="_blank" >Trần Anh Tông</a><sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Bản kỷ quyển 5">6</sup> .</li> <li>Anh Nguyên quận chúa (英元郡主), con gái nuôi, vợ của danh tướng <a class="annotation" href="/nhan-vat/pham-ngu-lao" title="Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem ..." target="_blank" >Phạm Ngũ Lão</a><sup class="annotation badge" title="^ Tên và tước phong các người con của Hưng Đạo Vương chép theo Đại Việt sử ký toàn thư (tr. 49). Danh tướng Việt Nam (tập 1, tr. 98-99) chép khác.">33</sup> . Có thuyết cho rằng quận chúa là con gái ruột của Hưng Đạo Vương nhưng ông đã đổi thành con gái nuôi để tránh quy định khắt khe của <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> (chỉ người trong dòng tộc mới được kết hôn) và gả cho <a class="annotation" href="/nhan-vat/pham-ngu-lao" title="Phạm Ngũ Lão (chữ Hán: 范五老; 1255–1320) là danh tướng nhà Trần trong lịch sử Việt Nam. Ông là người góp công rất lớn trong cả hai cuộc kháng chiến chống Mông-Nguyên lần thứ hai năm 1285 và lần thứ ba năm 1288 . Đương thời, danh tiếng của ông chỉ xếp sau Hưng Đạo Vương Trần Quốc Tuấn - người được xem ..." target="_blank" >Phạm Ngũ Lão</a></li> </ol>
+<a name="den-tho"></a><h2>Đền thờ</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/5372123cdba49a9b99b45c29264bfbd1.jpg" /> <div class="caption"> <div class="magnify"></div> Tượng đài <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> trên phố Bolsa, <a class="annotation" href="/dia-danh/thanh-pho-westminster" title="Thành phố Westminster (tiếng Anh: City of Westminster, (phiên âm: /ˈwɛstmɪnstər/) là một khu tự quản Luân Đôn, chiếm phần lớn diện tích khu vực trung tâm của Luân Đôn, Anh và khu vực West End. Thành phố nằm tại phía tây đồng thời nối liền vào Thành phố Luân Đôn xưa, ngay hướng chính đông của Khu hoà..." target="_blank" >thành phố Westminster</a>, California.</div> </div> </div>
+<ul> <li>Đền Kiếp Bạc, Chí Linh, Hải Dương. Đệ Nhất Linh từ.</li> <li>Đền Trần, Tiến Đức, Hưng Hà, Thái Bình.</li> <li>Đền Trần, xã Khánh Lợi, Yên Khánh, Ninh Bình.</li> <li>Đền A Sào, <a class="annotation" href="/dia-danh/xa-an-thai" title="An Thái là một xã thuộc huyện An Lão, thành phố Hải Phòng, Việt Nam. 
+ Xã An Thái có diện tích 5,77&amp;#160;km², dân số năm 1999 là 7538 người, mật độ dân số đạt 1306 người/km²...." target="_blank" >xã An Thái</a>, <a class="annotation" href="/dia-danh/huyen-quynh-phu" title="Quỳnh Phụ là huyện cực Bắc tỉnh Thái Bình, Việt Nam. Được hợp nhất từ hai huyện Quỳnh Côi và huyện Phụ Dực vào năm 1969..." target="_blank" >huyện Quỳnh Phụ</a>, <a class="annotation" href="/dia-danh/tinh-thai-binh" title="Thái Bình là một tỉnh ven biển ở đồng bằng sông Hồng, miền Bắc Việt Nam. Trung tâm tỉnh là thành phố Thái Bình cách thủ đô Hà Nội 110&amp;#160;km về phía đông nam, cách thành phố Hải Phòng 70&amp;#160;km về phía đông bắc. Thái Bình tiếp giáp với 5 tỉnh, thành phố: Hải Dương ở phía bắc, Hưng Yên ở phía tây b..." target="_blank" >tỉnh Thái Bình</a>. Đệ Nhị Linh từ.</li> <li>Đền Bảo Lộc, <a class="annotation" href="/dia-danh/tinh-nam-dinh" title="Nam Định là một tỉnh lớn với 2 triệu dân nằm ở phía Nam đồng bằng Bắc Bộ. Theo quy định năm 2008 thì Nam Định thuộc vùng duyên hải Bắc Bộ...." target="_blank" >tỉnh Nam Định</a>.</li> <li>Đền Cao An Phụ, <a class="annotation" href="/dia-danh/xa-an-phu" title="An Phụ là một xã thuộc huyện Kinh Môn, tỉnh Hải Dương, Việt Nam. 
+ Xã An Phụ có diện tích 8,17&amp;#160;km², dân số năm 1999 là 9176 người, mật độ dân số đạt 1123 người/km²...." target="_blank" >xã An Phụ</a>, <a class="annotation" href="/dia-danh/huyen-kinh-mon" title="Kinh Môn là một huyện của tỉnh Hải Dương giáp với Hải Phòng và Quảng Ninh. Kinh Môn tương đối đặc biệt so với các huyện khác của tỉnh vốn được mệnh danh là tỉnh nông nghiệp. Một dãy núi đất trong hệ thống núi vòng cung Đông Triều làm xương sống của cả Huyện. Về núi non, Kinh Môn cảnh trí tương đối g..." target="_blank" >huyện Kinh Môn</a>, Hải Dương.</li> <li>Đền <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>, xã Khánh Cư, Yên Khánh, Ninh Bình.</li> <li>Đền Trần, Thanh Hóa ở làng Thổ Khối, xã&#160;Hà Dương, huyện&#160;Hà Trung,&#160;Thanh Hóa&#160;thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>.</li> <li>Đền <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a>, Làng <a class="annotation" href="/dia-danh/thanh-an" title="Thành An có thể là:..." target="_blank" >Thành An</a>, xã Nghĩa Phong, Nghĩa Hưng, Nam Định.</li> <li>Đình An Quý, xã Cộng Hiền, huyện Vĩnh Bảo, Hải Phòng thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a></li> <li>Đền Tân Phẩm, tỉnh Thừa Thiên Huế.</li> <li>Đền Linh Quang,Phường Phú Hiệp.Tỉnh Thừa Thiên Huế</li> <li>Đền Trần Thương, <a class="annotation" href="/dia-danh/tinh-ha-nam" title="Hà Nam là một tỉnh nằm ở vùng đồng bằng sông Hồng Việt Nam. Phía Bắc tiếp giáp với Hà Nội, phía Đông giáp với tỉnh Hưng Yên và Thái Bình, phía Nam giáp tỉnh Ninh Bình, Đông Nam giáp tỉnh Nam Định và phía Tây giáp tỉnh Hòa Bình. Trong quy hoạch xây dựng, tỉnh này thuộc vùng Hà Nội. Tỉnh lị là thành p..." target="_blank" >tỉnh Hà Nam</a>.</li> <li><a class="annotation" href="/dia-danh/den-thai-vi" title="Hành cung Vũ Lâm là một căn cứ quân sự thời Trần, nằm ngay trong vùng núi thành Nam của kinh đô Hoa Lư xưa. Các vua đầu nhà Trần lập căn cứ địa ở Vũ Lâm để củng cố lực lượng, phản công giải phóng Đại Việt trong cuộc kháng chiến đánh tan quân xâm lược Nguyên Mông lần thứ hai. Nơi đây còn gắn với sự k..." target="_blank" >Đền Thái Vi</a> ở Hành cung <a class="annotation" href="/dia-danh/vu-lam" title="Vũ Lâm là một xã thuộc huyện Lạc Sơn, tỉnh Hòa Bình, Việt Nam. 
+ Xã Vũ Lâm có diện tích 7,13&amp;#160;km², dân số năm 1999 là 3712 người, mật độ dân số đạt 521 người/km²...." target="_blank" >Vũ Lâm</a>, <a class="annotation" href="/dia-danh/huyen-hoa-lu" title="Hoa Lư là một huyện nằm ở trung tâm tỉnh Ninh Bình, liền kề hai thành phố Ninh Bình và Tam Điệp. Huyện Hoa Lư được thành lập năm 1907 và mang tên kinh đô Hoa Lư của Việt Nam thế kỷ X vì phần lớn các di tích của cố đô Hoa Lư hiện nay nằm trên huyện này. Hoa Lư thuộc vùng bán sơn địa, có nhiều cảnh qu..." target="_blank" >huyện Hoa Lư</a>, Ninh Bình.</li> <li>Đền thờ Đức Thánh <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở Thành phố <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>.</li> <li>Đền thờ Đức Thánh <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở 92, Dương Khuê, Phường Hiệp Tân, <a class="annotation" href="/dia-danh/quan-tan-phu" title="Quận Tân Phú là một quận của Thành phố Hồ Chí Minh. Quận Tân Phú hiện đang sở hữu cũng khá nhiều địa điểm tham quan như địa đạo Phú Thọ Hoà, đình Tân Thới.....và nhiều địa điểm khác. 
+ Dân số của quận Tân Phú tính đến 2011 là 419.227 người...." target="_blank" >Quận Tân Phú</a>, TP <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a></li> <li>Đình Tân Phong, thôn Sào Thượng, xã Lạng Phong, huyện Nho Quan, <a class="annotation" href="/dia-danh/tinh-ninh-binh" title="Ninh Bình là một tỉnh nằm ở cửa ngõ cực nam miền Bắc Việt Nam, thuộc khu vực đồng bằng sông Hồng dù chỉ có 2 huyện duyên hải là Yên Khánh và Kim Sơn có địa hình bằng phẳng. Quy hoạch xây dựng phát triển kinh tế xếp Ninh Bình vào vùng duyên hải Bắc Bộ. Vùng đất Ninh Bình xưa là kinh đô của Việt Nam g..." target="_blank" >tỉnh Ninh Bình</a>.</li> <li>Điện thờ Đức Thánh Trần, thôn Quang Trung, xã Diên Hông, <a class="annotation" href="/dia-danh/huyen-thanh-mien" title="Thanh Miện là một huyện của tỉnh Hải Dương, Việt Nam. Trung tâm huyện cách Hà Nội 60&amp;#160;km; cách thành phố Hải Dương 23&amp;#160;km và cách thành phố Hưng Yên 25&amp;#160;km. Cùng với mạng lưới giao thông thông suốt, Thanh Miện có nhiều điều kiện thuận lợi để phát triển sản xuất hàng hoá trong nông nghiệp..." target="_blank" >huyện Thanh Miện</a>, <a class="annotation" href="/dia-danh/tinh-hai-duong" title="Hải Dương là một tỉnh nằm ở đồng bằng sông Hồng, thuộc Vùng kinh tế trọng điểm Bắc bộ, Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hải Dương nằm cách thủ đô Hà Nội 57&amp;#160;km về phía Tây, cách thành phố Hải Phòng 45&amp;#160;km về phía Đông. phía tây bắc giáp tỉnh Bắc Ninh, phía bắc giáp tỉnh B..." target="_blank" >tỉnh Hải Dương</a>.</li> <li>Đền thờ Đức Thánh Trần: Tọa lạc tại thôn <a class="annotation" href="/dia-danh/hoang-son" title="Hoàng Sơn (chữ Hán: 黄山; bính âm: Huáng Shān; nghĩa núi màu vàng) là một dãy núi ở phía nam tỉnh An Huy, đông Trung Quốc. Khu vực này nổi tiếng vì có cảnh quan đẹp, nằm bên các vách đá, đỉnh núi đá granite có hình dạng khác thường, trong khu rừng thông Hoàng Sơn cảnh trí thay đổi theo mùa và phủ đầy ..." target="_blank" >Hoàng Sơn</a>, xã Ninh Tiến, <a class="annotation" href="/dia-danh/thanh-pho-ninh-binh" title="Thành phố Ninh Bình là trung tâm chính trị, kinh tế, văn hóa, khoa học và du lịch của tỉnh Ninh Bình. Thành phố Ninh Bình hiện là đô thị loại II, nằm cách thủ đô Hà Nội 93&amp;#160;km về phía nam, tại đầu mối giao thông của 3 tuyến đường cao tốc Cầu Giẽ - Ninh Bình, Ninh Bình - Thanh Hóa - Vinh và Ninh ..." target="_blank" >thành phố Ninh Bình</a>, Ninh Bình.</li> <li>Đền thờ Đức Thánh Trần, ấp Lai Khê, xã Lai Hưng, <a class="annotation" href="/dia-danh/huyen-ben-cat" title="Bến Cát là một thị xã thuộc tỉnh Bình Dương, nằm trong khu vực kinh tế trọng điểm phía Nam, trung tâm thị xã cách Thành phố Thủ Dầu Một 20&amp;#160;km, cách Thành phố Hồ Chí Minh khoảng 50&amp;#160;km. 
+ Thị xã có đường Quốc lộ 13 cách Thành phố Thủ Dầu Một khoảng 20&amp;#160;km về hướng bắc, tỉnh lộ 744 theo h..." target="_blank" >huyện Bến Cát</a>, <a class="annotation" href="/dia-danh/tinh-binh-duong" title="Bình Dương là tỉnh thuộc vùng Đông Nam Bộ Việt Nam. Tỉnh lỵ của Bình Dương hiện nay là thành phố Thủ Dầu Một, cách trung tâm Thành phố Hồ Chí Minh 30&amp;#160;km theo đường Quốc lộ 13. Đây là tỉnh có dân số đông thứ 7 trong 63 Tỉnh thành Việt Nam. 
+ Bình Dương là vùng đất chiến trường năm xưa với những ..." target="_blank" >tỉnh Bình Dương</a>.</li> <li>Đền thờ Đức Thánh Trần, đường <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a>, TP Biên Hòa, <a class="annotation" href="/dia-danh/tinh-dong-nai" title="Đồng Nai là tỉnh thuộc vùng Đông Nam Bộ Việt Nam. Đây là tỉnh có dân số đông thứ nhì miền nam (sau Thành phố Hồ Chí Minh) có diện tích lớn thứ nhì ở miền đông (sau Tỉnh Bình Phước) và thứ ba ở miền nam (sau Tỉnh Bình Phước và Tỉnh Kiên Giang). Đồng Nai có thành phố Biên Hòa là thành phố trực thuộc t..." target="_blank" >tỉnh Đồng Nai</a>.</li> <li>Đền thờ Hồi Nguyên Đường, xã Mão Điền, huyện Thuận Thành, <a class="annotation" href="/dia-danh/tinh-bac-ninh" title="Bắc Ninh là tỉnh có diện tích nhỏ nhất Việt Nam thuộc đồng bằng sông Hồng và nằm trên Vùng kinh tế trọng điểm Bắc bộ. Bắc Ninh tiếp giáp với vùng trung du Bắc bộ tại tỉnh Bắc Giang. Thành phố Bắc Ninh nằm cách trung tâm Hà Nội 30 km về phía đông bắc. phía tây và tây nam giáp thủ đô Hà Nội, phía bắc ..." target="_blank" >tỉnh Bắc Ninh</a></li> <li>Đền thờ Đức Thánh <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở Thôn Cao Trung <a class="annotation" href="/dia-danh/xa-duc-giang" title="Đức Giang có thể là:..." target="_blank" >xã Đức Giang</a> <a class="annotation" href="/dia-danh/huyen-hoai-duc" title="21°04′0″B 105°43′0″Đ / 21,06667°B 105,71667°Đ / 21.06667; 105.71667 
+ Hoài Đức là một huyện của Hà Nội...." target="_blank" >huyện Hoài Đức</a> TP Hà Nội.</li> <li>Di tích <a class="annotation" href="/dia-danh/chua-dau-long" title="Chùa Đẩu Long là ngôi chùa cổ, có lịch sử hình thành từ thời Đinh - Lê thế kỷ X. Chùa đã được xếp hạng di tích lịch sử văn hóa quốc gia. Mặc dù là kiến trúc chùa nhưng nơi đây cũng đồng thời là một đền thờ 9 vị thần của các làng xung quanh. Chùa Đẩu Long tọa lạc ở trung tâm thành phố Ninh Bình...." target="_blank" >chùa Đẩu Long</a>, phường Tân Thành, <a class="annotation" href="/dia-danh/thanh-pho-ninh-binh" title="Thành phố Ninh Bình là trung tâm chính trị, kinh tế, văn hóa, khoa học và du lịch của tỉnh Ninh Bình. Thành phố Ninh Bình hiện là đô thị loại II, nằm cách thủ đô Hà Nội 93&amp;#160;km về phía nam, tại đầu mối giao thông của 3 tuyến đường cao tốc Cầu Giẽ - Ninh Bình, Ninh Bình - Thanh Hóa - Vinh và Ninh ..." target="_blank" >thành phố Ninh Bình</a>, Ninh Bình.</li> <li>Tượng đài <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> nằm trên một ngọn đồi của bán đảo Phương Mai ở Làng chài Hải Minh thuộc phường Hải Cảng, TP Quy Nhơn, <a class="annotation" href="/dia-danh/tinh-binh-dinh" title="Bình Định là một tỉnh thuộc vùng duyên hải Nam Trung Bộ Việt Nam. Tỉnh lỵ của Bình Định là thành phố cảng Quy Nhơn nằm cách thủ đô Hà Nội 1.070&amp;#160;km về phía Nam và cách Thành phố Hồ Chí Minh 652&amp;#160;km về phía Bắc theo đường Quốc lộ 1A...." target="_blank" >tỉnh Bình Định</a>.</li> <li>Đền thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> tọa lạc tại số 124 đường <a class="annotation" href="/nhan-vat/nguyen-trai" title="Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc,..." target="_blank" >Nguyễn Trãi</a> - Tp.Nha Trang tỉnh Khánh Hòa được xây dựng nhằm đáp ứng nhu cầu tấm linh hướng về cội nguồn của những người dân miền Bắc vào Khánh Hòa sinh sống vào đầu những năm 20 của thế kỷ trước. Đây là ngôi đền duy nhất ở miền Trung thờ Đức Hưng Đạo Đại vương Trần Quốc Tuấn. Năm 1995, Đền thờ <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> (Nha Trang) được công nhận là Di tích lịch sử - văn hoá.</li> <li>Tượng đài <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> nằm Công viên Bạch Đằng Tp.Nha Trang tỉnh Khánh Hòa</li> <li>Đền thờ Đức Thánh Trần, Số 68 Hạ Long, P. 2, TP. Vũng Tàu</li> </ul>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tran-quoc-tuan/7fa7f116a9d45ab2923aa4428971f13f.jpg" /> <div class="caption"> <div class="magnify"></div> Tượng đài <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> nằm trên một ngọn đồi của bán đảo Phương Mai ở Làng chài Hải Minh thuộc phường Hải Cảng, TP Quy Nhơn.</div> </div> </div>
+<a name="cau-noi-noi-tieng"></a><h2>Câu nói nổi tiếng</h2>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Bệ hạ chém đầu tôi trước rồi hãy hàng</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Trả lời Thái thượng hoàng <a class="annotation" href="/nhan-vat/tran-thanh-tong" title="Trần Thánh Tông (chữ Hán: 陳聖宗; 12 tháng 10 năm 1240 – 3 tháng 7 năm 1290) là vị hoàng đế thứ hai của nhà Trần trong lịch sử Việt Nam, ở ngôi từ tháng 3 năm 1258 đến tháng 11 năm 1278. Sau đó, ông làm Thái thượng hoàng từ cuối năm 1278 cho đến khi qua đời. Ông được sử sách ca ngợi là một vị vua nhân ..." target="_blank" >Trần Thánh Tông</a> trong cuộc kháng chiến lần 2</cite></div> </td> </tr> </table>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Ta thường tới bữa quên ăn, nửa đêm vỗ gối, ruột đau như cắt, nước mắt đầm đìa; chỉ giận chưa thể xẻ thịt, lột da, ăn gan, uống máu quân thù; dẫu cho trăm thân này phơi ngoài nội cỏ, nghìn xác này gói trong da ngựa, ta cũng cam lòng.</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Hịch tướng sĩ</cite></div> </td> </tr> </table>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Vua tôi đồng tâm, anh em hòa mục, cả nước góp sức, giặc phải bị bắt. (Nên) khoan thư sức dân để làm kế sâu rễ bền gốc, đó là thượng sách giữ nước vậy.</i></td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— Trả lời <a class="annotation" href="/nhan-vat/tran-anh-tong" title="Trần Anh Tông (chữ Hán: 陳英宗; 25 tháng 10 năm 1276 – 21 tháng 4 năm 1320), là vị hoàng đế thứ tư của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi từ tháng 4 năm 1293 đến tháng 4 năm 1314, rồi làm Thái thượng hoàng từ năm 1314 đến khi qua đời. Trong thời gian trị vì ông chỉ có một niên hiệu là Hưng Lon..." target="_blank" >Trần Anh Tông</a> về quốc sách giữ nước trước khi mất</cite></div> </td> </tr> </table>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Chiến tranh Nguyên Mông-Đại Việt lần 1</li> <li>Chiến tranh Nguyên Mông-Đại Việt lần 2</li> <li>Chiến tranh Nguyên Mông-Đại Việt lần 3</li> </ul>
+<a name="sach-tham-khao"></a><h2>Sách tham khảo</h2>
+<ul> <li><a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a>, <i>Đại Việt sử ký toàn thư</i> (bản dịch, tập 2). Nhà xuất bản Khoa học xã hội, 1985.</li> <li><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, <i>Việt Nam sử lược</i>. Nhà xuất bản Tân Việt, Sài Gòn, 1968.</li> <li><a class="annotation" href="/nhan-vat/nguyen-hue-chi" title="Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội..." target="_blank" >Nguyễn Huệ Chi</a>, mục từ "Trần Quốc Tuấn" trong <i>Từ điển văn học</i> (bộ mới). Nhà xuất bản Thế giới, 2004.</li> <li>Nguyển Khắc Thuần, <i>Danh tướng Việt Nam</i> (tập 1). Nhà xuất bản Giáo dục, 2006.</li> <li>Trịnh Vân Thanh, <i>Thành ngữ điển tích danh nhân từ điển</i>. Nhà xuất bản Hồn thiêng, Sài Gòn, 1966.</li> <li>Trần Xuân Sinh (2006), <i>Thuyết Trần</i>, Nhà xuất bản Hải Phòng</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Trần triều thế phả hành trạng, tr.542, 543.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 21 và 77.</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Long Hưng, vùng đất phát nghiệp đế</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 77.</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Lược kể theo <i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 33-34.</span></li> <li id="cite_note-ReferenceA-6">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Đại Việt sử ký toàn thư, Bản kỷ quyển 5</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 25.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Trần Xuân Sinh, sách đã dẫn, tr 255</span></li> <li id="cite_note-autogenerated1-9">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Đại Việt sử ký toàn thư, Bản kỷ quyển 5</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 70.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 44.</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Hà Văn Tấn và Phạm Thị Tâm (1972), trang 212-216.</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 79.</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 52.</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Hà Văn Tấn và Phạm Thị Tâm (1972), trang 239-243.</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Hà Văn Tấn và Phạm Thị Tâm (1972), trang 254.</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Hà Văn Tấn và Phạm Thị Tâm (1972), trang 256-257.</span></li> <li id="cite_note-daiviettoanthu195-18">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Nhiều tác giả (1993), Đại Việt Sử ký Toàn thư, Nhà xuất bản Khoa học Xã hội - Hà Nội, các trang 195-196.</span></li> <li id="cite_note-TXS221-19"><b>^</b> <span class="reference-text">Trần Xuân Sinh, sách đã dẫn, tr 221</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text"><i>Việt Nam sử lược</i>, tr. 154.</span></li> <li id="cite_note-21"><b>^</b> <span class="reference-text">Theo <a class="annotation" href="/nhan-vat/nguyen-hue-chi" title="Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội..." target="_blank" >Nguyễn Huệ Chi</a> (tr. 1799) và <i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 78.</span></li> <li id="cite_note-22"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 76-77.</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2, tr. 78). Lời di chúc này liệu có gắn với "Viên Lăng" (tức là vườn mộ của ông) mà dân gian thường gọi ở một quả đồi nhỏ cách Kiếp Bạc 100 m về phía Nam (?). Cho đến nay, các nhà khảo cổ, các nhà nghiên cứu vẫn chưa xác định được mộ phần của <a class="annotation" href="/nhan-vat/tran-hung-dao" title="Trần Hưng Đạo (chữ Hán: 陳興道;&amp;#160;? - 20 tháng 8, 1300), còn được gọi là Hưng Đạo đại vương (興道大王) hay Nhân Vũ Hưng Đạo Đại Vương (仁武興道大王) là một anh hùng dân tộc kiệt xuất, một nhà chính trị, nhà văn cũng như là Tư lệnh tối cao chỉ huy quân đội toàn quốc của Đại Việt thời nhà Trần. 
+ Ông nổi tiếng ..." target="_blank" >Trần Hưng Đạo</a> ở đâu. Theo [1].</span></li> <li id="cite_note-24"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2) tr. 77-78.</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư (tập 2), tr. 46, 58 và 82.</span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 78-79.</span></li> <li id="cite_note-27"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 78.</span></li> <li id="cite_note-28"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 79.</span></li> <li id="cite_note-NHC-29">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><a class="annotation" href="/nhan-vat/nguyen-hue-chi" title="Nguyễn Huệ Chi, sinh ngày 4 tháng 7 năm 1938, là một giáo sư người Việt Nam, nhà nghiên cứu văn học Việt Nam cổ, trung và cận đại; nguyên trưởng phòng Văn học Việt Nam cổ cận đại của Viện Văn học; nguyên Chủ tịch Hội đồng Khoa học của Viện Văn học thuộc Viện Khoa học Xã hội Việt Nam, là hội viên Hội..." target="_blank" >Nguyễn Huệ Chi</a>, tr. 1799.</span></li> <li id="cite_note-30"><b>^</b> <span class="reference-text"><i>Việt Nam sử lược</i>, tr. 147.</span></li> <li id="cite_note-31"><b>^</b> <span class="reference-text"><i>Danh tướng Việt Nam</i> (tập 1), tr. 98.</span></li> <li id="cite_note-autogenerated2-32"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (tập 2), tr. 62.</span></li> <li id="cite_note-33"><b>^</b> <span class="reference-text">Tên và tước phong các người con của Hưng Đạo Vương chép theo <i>Đại Việt sử ký toàn thư</i> (tr. 49). <i>Danh tướng Việt Nam</i> (tập 1, tr. 98-99) chép khác.</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/tran-quoc-toan" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Trần Quốc Toản            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/tran-quoc-tung" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Trần Quốc Tung            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/tran-quoc-tuan" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chien-thang-dien-bien-phu" class="mod-articles-category-title ">Khu di tích chiến thắng Điện Biên Phủ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-thai-binh" class="mod-articles-category-title ">Đền Trần (Thái Bình)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-tran-nam-dinh" class="mod-articles-category-title ">Đền Trần (Nam Định)</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

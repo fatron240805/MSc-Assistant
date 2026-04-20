@@ -1,0 +1,1412 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nguyễn Khoan (chữ Hán: 阮寬; 906 - 967) hay Nguyễn Thái Bình (阮太平) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10, cát cứ vùng Tam Đái (Yên Lạc, tỉnh Vĩnh Phúc). Ông có công chiêu mộ và huấn luyện dân binh vùng chiếm đóng để xây dựng lực lượng và phát triển kinh tế ...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nguyễn Khoan - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"572799372a870f39993730a06ac85af8"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nguyễn Khoan" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nguyễn Khoan (chữ Hán: 阮寬; 906 - 967) hay Nguyễn Thái Bình (阮太平) là một sứ quân nổi dậy trong thời loạn 12 sứ quân.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nguyen-khoan" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nguyen-khoan/fa7afee4414fa440583558d0f8af1fea.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nguyễn Khoan", "item": "https://nguoikesu.com/nhan-vat/nguyen-khoan" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nguyen-khoan" }, "headline": "Nguyễn Khoan", "description": "Nguyễn Khoan (chữ Hán: 阮寬; 906 - 967) hay Nguyễn Thái Bình (阮太平) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10, cát cứ vùng Tam Đái (Yên Lạc, tỉnh Vĩnh Phúc). Ông có công chiêu mộ và huấn luyện dân binh vùng chiếm đóng để xây dựng lực lượng và phát triển kinh tế nên được dân bản xứ tôn xưng là Quảng Trí Quân, nghĩa là vị vua có đức lớn tài cao, rộng hiểu biết và đầy tình bác ái, biết canh tân mỹ tục cai trị triều đình nhỏ ở Tam Đái. Hiện một số nơi ở Vĩnh Phúc còn đền thờ phụng. Năm 967 ông bị Đinh Bộ Lĩnh ở Hoa Lư đánh dẹp, phát triển thêm một bước trong quá trình thống nhất, lập ra nhà nước Đại Cồ Việt trong lịch sử.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nguyen-khoan/fa7afee4414fa440583558d0f8af1fea.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nguyen-khoan" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-29T20:53:35+07:00", "dateCreated": "2017-10-29T20:53:35+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nguyễn Khoan</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nguyễn Khoan        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#xuat-than" title="">Xuất thân</a></li>
+<li class="level-1"><a href="#su-quan" title="">Sứ quân</a></li>
+<li class="level-1"><a href="#duoc-dan-tho-tu" title="">Được dân thờ tự</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-khoan/fa7afee4414fa440583558d0f8af1fea.jpg" /> <div class="caption"> <div class="magnify"></div> Sơ đồ vị trí 12 sứ quân</div> </div> </div>
+<p><b>Nguyễn Khoan</b> (chữ Hán: <i>阮寬</i>; 906 - 967) hay <i><a class="annotation" href="/nhan-vat/nguyen-thai-binh" title="Nguyễn Thái Bình (14 tháng 1, 1948(1948-01-14) - 2 tháng 7, 1972) là một sinh viên phản chiến Việt Nam bị bắn chết tại phi trường Tân Sơn Nhất vì tội khủng bố sau khi khống chế một chiếc máy bay. Sau cái chết, anh trở thành một biểu tượng cho phong trào phản chiến của sinh viên miền Nam Việt Nam vào..." target="_blank" >Nguyễn Thái Bình</a></i> (<i>阮太平</i>) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10, cát cứ vùng Tam Đái (Yên Lạc, <a class="annotation" href="/dia-danh/tinh-vinh-phuc" title="Vĩnh Phúc là một tỉnh vùng đồng bằng sông Hồng, Việt Nam vốn bao gồm tỉnh Vĩnh Yên và tỉnh Phúc Yên trước đây. Trong thời kỳ Pháp tạm chiếm đóng miền Bắc giai đoạn 1946-1954, tỉnh này còn có tên gọi là tỉnh Vĩnh Phúc Yên. Vĩnh Phúc là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Theo kết quả điều tr..." target="_blank" >tỉnh Vĩnh Phúc</a>). Ông có công chiêu mộ và huấn luyện dân binh vùng chiếm đóng để xây dựng lực lượng và phát triển kinh tế nên được dân bản xứ tôn xưng là <i>Quảng Trí Quân</i>, nghĩa là vị vua có đức lớn tài cao, rộng hiểu biết và đầy tình bác ái, biết canh tân mỹ tục<sup class="annotation badge" title="^ Hào khí miền đất yên vui">1</sup>  cai trị <i>triều đình nhỏ ở Tam Đái</i>. Hiện một số nơi ở Vĩnh Phúc còn đền thờ phụng. Năm 967 ông bị <a class="annotation" href="/nhan-vat/dinh-bo-linh" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Bộ Lĩnh</a> ở Hoa Lư đánh dẹp, phát triển thêm một bước trong quá trình thống nhất, lập ra nhà nước Đại Cồ Việt trong lịch sử.</p>
+<p></p>
+<p></p>
+<a name="xuat-than"></a><h2>Xuất thân</h2>
+<p>Về ba anh em sứ quân họ Nguyễn: Nguyễn Khoan, <a class="annotation" href="/nhan-vat/nguyen-thu-tiep" title="Nguyễn Thủ Tiệp (chữ Hán: 阮守捷; 908 - 967) hay Nguyễn Lệnh công (阮令公) là một sứ tướng trong thời Loạn 12 sứ quân cuối triều nhà Ngô trong lịch sử Việt Nam. 
+ Ông là một Sứ quân giàu tham vọng, sau khi xưng làm Lệnh công, Thủ Tiệp xưng Vũ Ninh vương (武宁王), chiếm đóng ở châu Vũ Ninh, vùng đất thuộc Bắc..." target="_blank" >Nguyễn Thủ Tiệp</a>, <a class="annotation" href="/nhan-vat/nguyen-sieu" title="Nguyễn Siêu (chữ Hán: 阮超; 924 - 967) hay Nguyễn Hữu Công (阮右公) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10. Ông là vốn là người gốc Trung Hoa, cát cứ ở Thanh Trì (Hà Nội, Việt Nam) để xây dựng lực lượng và trở thành một sứ quân mạnh. Tháng 8 năm 967, Đinh Bộ Lĩ..." target="_blank" >Nguyễn Siêu</a>, theo thần tích xã Văn Uyên và xã Đông Phù Liệt, Thanh Trì, Hà Nội thì họ là cháu của Nguyễn Hãng – một danh tướng Bắc triều. Con của Nguyễn Hãng là Nguyễn Nê đem quân sang <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> đòi họ Khúc triều cống.<sup class="annotation badge" title="^ Xanh thắm Ném Đông">2</sup>  Nguyễn Nê dựng bản doanh ở Thành Quả lấy vợ Việt sinh ra ba con trai. Sau khi Nguyễn Nê chết ba anh em tranh nhau giữ binh quyền, theo mẹ ở <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> gây nghiệp, người nào cũng nhiều của cải, nhiều quân quyền. Họ cùng trở thành thủ lĩnh các sứ quân cát cứ vào khoảng năm 945.<sup class="annotation badge" title="^ Viện Khoa học xã hội Việt Nam. Thần phả Nguyễn Siêu.">3</sup> . Nguyễn Khoan là anh cả, sinh năm 906, <a class="annotation" href="/nhan-vat/nguyen-thu-tiep" title="Nguyễn Thủ Tiệp (chữ Hán: 阮守捷; 908 - 967) hay Nguyễn Lệnh công (阮令公) là một sứ tướng trong thời Loạn 12 sứ quân cuối triều nhà Ngô trong lịch sử Việt Nam. 
+ Ông là một Sứ quân giàu tham vọng, sau khi xưng làm Lệnh công, Thủ Tiệp xưng Vũ Ninh vương (武宁王), chiếm đóng ở châu Vũ Ninh, vùng đất thuộc Bắc..." target="_blank" >Nguyễn Thủ Tiệp</a> sinh năm 908 và <a class="annotation" href="/nhan-vat/nguyen-sieu" title="Nguyễn Siêu (chữ Hán: 阮超; 924 - 967) hay Nguyễn Hữu Công (阮右公) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10. Ông là vốn là người gốc Trung Hoa, cát cứ ở Thanh Trì (Hà Nội, Việt Nam) để xây dựng lực lượng và trở thành một sứ quân mạnh. Tháng 8 năm 967, Đinh Bộ Lĩ..." target="_blank" >Nguyễn Siêu</a> sinh năm 924<sup class="annotation badge" title="^ Nguyễn Bạt Tụy 1954: Tên người Việt Nam. - In trong: tập kỷ yếu hội Khuyến Học Việt Nam, Sài Gòn, tr49-50.">4</sup> </p>
+<a name="su-quan"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Sứ quân</h2>
+<p>Dưới thời <a class="annotation" href="/nhan-vat/ngo-quyen" title="Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một ..." target="_blank" >Ngô Quyền</a>, Nguyễn Khoan là một hào trưởng ở vùng Tam Đái. Về quân sự, ông xây dựng thủ phủ trên gò Biện Sơn (Độc Nhĩ Sơn) và đóng đồn ở gò Đồng Đậu, chiêu mộ và huấn luyện dân binh để xây dựng lực lượng quân sự dùng khi hữu sự<sup class="annotation badge" title="^ Sách Đại Việt Sử ký toàn thư, bản Ngoại kỷ, có ghi chú: &quot;Tam Đái nay ở vùng huyện Vĩnh Lạc, tỉnh Vĩnh Phú. Nay ở xã Minh Tâm, huyện Vĩnh Lạc có di tích thành cũ, và ở xã Vĩnh Mỹ (cùng huyện) có đền thờ của sứ quân Nguyễn Khoan.&quot;">5</sup> . Tuy nhiên, ông cũng chú ý đến phát triển kinh tế, chủ trương khuyến khích và chăm sóc nghề nông, canh tân tập tục nông thôn. Với sự giúp đỡ của hai tùy tướng tài và hai người vợ tài giỏi, ông đã xây dựng được vùng Tam Đái được thái bình thịnh trị, nhân dân ấm no vui vẻ. Khu vực Tam Đái xưa vốn nổi tiếng trù phú với câu ca "<i>Nhất Tam Đái, nhị Khoái Châu</i>". Nay có Đồng Đậu là một di chỉ cư trú của người Việt cổ lớn nhất ở trung tâm vùng tam giác châu thổ Bắc Bộ, phạm vi diện tích phân bố rộng nhất, tầng văn hoá dày nhất, chứa đựng khối lượng hiện vật khảo cổ rất lớn và phong phú.<sup class="annotation badge" title="^ Di chỉ khảo cổ học Đồng Đậu">6</sup> </p>
+<p>Năm 944, <a class="annotation" href="/nhan-vat/ngo-quyen" title="Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một ..." target="_blank" >Ngô Quyền</a> qua đời. <a class="annotation" href="/nhan-vat/duong-tam-kha" title="Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam. 
+ Với thân phận là anh/ em vợ của Ngô Quyền, ông đã tạo nên thế lực đủ mạnh để cướp ngôi nhà Ngô, tự lập triều đại riêng của mình trong vòng 6 năm, cho đến..." target="_blank" >Dương Tam Kha</a> cướp ngôi nhưng triều đình rối loạn và mất dần khả năng kiểm soát đối với các địa phương. Lực lượng thôn Đường Lâm của <a class="annotation" href="/nhan-vat/ngo-nhat-khanh" title="Ngô Nhật Khánh (chữ Hán: 吳日慶;&amp;#160;? - 979), còn gọi Ngô Lãm công (吳覽公) hoặc Ngô An vương (吳安王), là một sứ quân nổi dậy cuối thời nhà Ngô trong lịch sử Việt Nam giữa thế kỷ 10. Đó là thời kỳ mà sử sách gọi là loạn 12 sứ quân. Sau ông hàng phục Đinh Bộ Lĩnh và trở thành phò mã nhà Đinh hơn 10 năm tro..." target="_blank" >Ngô Nhật Khánh</a> và thôn Nguyễn Gia Loan của ông là những thế lực chống đối đầu tiên bị triều đình họ Dương điều quân tiến đánh.</p>
+<p>Năm 965, <a class="annotation" href="/nhan-vat/ngo-xuong-van" title="Ngô Xương Văn (chữ Hán: 吳昌文;&amp;#160;? – 965) là một vị vua nhà Ngô, trị vì từ 950 đến 965. Trong đó khoảng 951 – 954 cùng với anh trai là Ngô Xương Ngập. Sử gọi chung đó là thời Hậu Ngô Vương...." target="_blank" >Ngô Xương Văn</a> đem quân đi đánh hai thôn Đường và Nguyễn ở Thái Bình bị phục binh bắn nỏ trúng, tử trận. Các nhà nghiên cứu xác định thôn Đường tức Đường Lâm, thuộc phạm vi kiểm soát của sứ quân <a class="annotation" href="/nhan-vat/ngo-nhat-khanh" title="Ngô Nhật Khánh (chữ Hán: 吳日慶;&amp;#160;? - 979), còn gọi Ngô Lãm công (吳覽公) hoặc Ngô An vương (吳安王), là một sứ quân nổi dậy cuối thời nhà Ngô trong lịch sử Việt Nam giữa thế kỷ 10. Đó là thời kỳ mà sử sách gọi là loạn 12 sứ quân. Sau ông hàng phục Đinh Bộ Lĩnh và trở thành phò mã nhà Đinh hơn 10 năm tro..." target="_blank" >Ngô Nhật Khánh</a>, còn thôn Nguyễn Gia Loan thuộc phạm vi kiểm soát của sứ quân <a class="annotation" href="/nhan-vat/nguyen-thai-binh" title="Nguyễn Thái Bình (14 tháng 1, 1948(1948-01-14) - 2 tháng 7, 1972) là một sinh viên phản chiến Việt Nam bị bắn chết tại phi trường Tân Sơn Nhất vì tội khủng bố sau khi khống chế một chiếc máy bay. Sau cái chết, anh trở thành một biểu tượng cho phong trào phản chiến của sinh viên miền Nam Việt Nam vào..." target="_blank" >Nguyễn Thái Bình</a>, tức Nguyễn Khoan.<sup class="annotation badge" title="^ Xem bài: &quot;Về quê hương của Ngô Quyền&quot; - Trần Quốc Vượng - Tạp chí Nghiên cứu Lịch sử, Hà Nội, số 101, tháng 8/1967, tr. 60-62">7</sup> </p>
+<p>Trong nỗ lực cuối cùng, <a class="annotation" href="/nhan-vat/ngo-xuong-xi" title="Ngô Xương Xí (chữ Hán: 吳昌熾), còn gọi Ngô Sứ Quân (吳使君), là con trai của Thiên Sách Vương Ngô Xương Ngập, tức là cháu nội của Ngô Tiên chúa Ngô Quyền. Sử không ghi rõ năm sinh và năm mất của Ngô Xương Xí, nhưng căn cứ vào hành trạng của Ngô Xương Ngập thì ông sinh khoảng từ năm 944 đến trước năm 950...." target="_blank" >Ngô Xương Xí</a> lên kế thừa ngôi vị, nhưng bất lực trước thời cuộc nên tự lui về giữ Bình Kiều (<a class="annotation" href="/dia-danh/trieu-son" title="Triệu Sơn là một huyện thuộc tỉnh Thanh Hoá, Việt Nam...." target="_blank" >Triệu Sơn</a>, Thanh Hóa), tự coi mình là một sứ quân. Một số tướng lĩnh, thổ hào địa phương cũng xây dựng thế lực cát cứ, hình thành Loạn 12 sứ quân.</p>
+<p>Vốn gắn bó với vùng Tam Đái, lại có nhiều công ơn với nhân dân trong vùng, thời loạn lạc, Nguyễn Khoan dần xây dựng thế lực riêng, nghiễm nhiên trở thành một sứ quân mạnh. Ông tự xưng Nguyễn <i>Thái Bình</i>, tước <i>Quảng Trí Quân</i>.</p>
+<p>Truyền thuyết ở xã Tứ Yên, Lập Thạch cho biết khu vực này thường xuyên là địa bàn tranh chấp của 2 sứ quân Nguyễn Khoan và Kiều Công Hãn, nơi đây diễn ra nhiều trận đánh bất phân thắng bại. Lịch sử hình thành làng Thổ Tang (Vĩnh Tường) cho biết: Để củng cố và phát triển thế lực, thủ lĩnh Nguyễn Khoan, lúc bấy giờ hùng cứ suốt một dải từ Bạch Hạc qua Thổ Tang đến huyện Yên Lạc, đã lệnh cho một số làng thuộc khu vực mình cai quản phải di chuyển đến nơi khác, do đó cư dân Thổ Tang lúc đó phải di chuyển ra cánh đồng Ma Trám lập thành làng mới. Tại đây dân làng đã dựng lên ngôi đình đầu tiên, nay nơi đó chỉ còn lại dấu tích gọi là bãi Nền Đình. Sau khi <a class="annotation" href="/nhan-vat/dinh-bo-linh" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Bộ Lĩnh</a> dẹp xong loạn cát cứ 12 sứ quân, lập nên triều đình Đinh thống nhất, các làng thiên di trước được lệnh trở về chỗ cũ, do đó dân cư sống ở cánh đồng Ma Trám đã quay trở lại xóm Cả. Từ xóm Cả, làng Thổ Tang tiếp tục phát triển mở rộng ra khu Đông, khu Bắc, khu Nam và Phương Viên ngày nay.<sup class="annotation badge" title="^ LỊCH SỬ THỊ TRẤN THỔ TANG">8</sup> </p>
+<p>Cuối năm 967, <a class="annotation" href="/nhan-vat/dinh-bo-linh" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Bộ Lĩnh</a> dẫn quân lên vùng Tam Đái, Nguyễn Khoan chống không nổi, tử trận. Hai tướng và hai bà vợ của ông tự vẫn ở Ao Nâu, cạnh gò Đồng Đậu. Tuy nhiên, theo thần tích làng Vĩnh Mỗ (huyện Yên Lạc, Vĩnh Phúc) thì Nguyễn Khoan được <a class="annotation" href="/nhan-vat/dinh-bo-linh" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Bộ Lĩnh</a> tha chết và ông đã xuống tóc đi tu. Vì thế mà chùa Biện Sơn ngày nay cũng thờ đại sư Nguyễn Khoan.</p>
+<p>Theo thần tích Đình Mai Phúc, Gia Thuỵ, Gia Lâm, Hà Nội thì hai vị thành hoàng là 2 anh em Xuân Vinh và Luận Nương đã tập hợp trai tráng trong làng thành đội dân binh và đã từng đánh bại quân của Nguyễn Khoan. Theo thần tích đình Hướng Nghĩa, xã Minh Thuận, Vụ Bản, Nam Định thì tướng <a class="annotation" href="/nhan-vat/pham-hap" title="Phạm Hạp (范盍,&amp;#160;?-979) là một võ tướng đồng thời cũng là một trong những vị quan trung thần của vua Đinh Tiên Hoàng. Ông là người làng Trà Hương, Nam Sách, Hải Dương. Theo sách Tông phả kỷ yếu tân biên của Phạm Côn Sơn dẫn gia phả họ Phạm, ông là tổ 8 đời của tướng Phạm Ngũ Lão thời nhà Trần. Ông..." target="_blank" >Phạm Hạp</a> chính là người đánh bại và chém chết sứ quân Nguyễn Khoan ở Tam Đái.</p>
+<a name="duoc-dan-tho-tu"></a><h2>Được dân thờ tự</h2>
+<p>Xét trên lợi ích quốc gia, việc cát cứ của sứ quân Nguyễn Khoan đi ngược lại nguyện vọng thống nhất của dân tộc. Nhưng có thể thấy trong bối cảnh đất nước rơi vào tình trạng vô chủ, việc ông có thế lực quân sự mạnh, thiết lập chính quyền và duy trì trật tự tại Tam Đái để nhân dân có thể sống yên bình trong vùng đất của họ là điều cần thiết và thuận lòng dân, dù việc này không có tính toàn cục và chỉ diễn ra trong một thời đoạn ngắn, điều đó lý giải vì sao ông vẫn được nhân dân trong vùng chiếm đóng lập đền thờ.</p>
+<p>Hiện nay, chỉ còn đền Gia Loan ở thị trấn Yên Lạc và đình Lác ở làng Giã Bàng, xã Tề Lỗ (đều thuộc huyện Yên Lạc) là nơi thờ riêng ông. Ngoài ra còn có chùa Biện Sơn, cũng thuộc thị trấn Yên Lạc, thờ Nguyễn Khoan, được nhà <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> Nam công nhận là di tích lịch sử văn hóa. Làng Vĩnh Mỗ có lệ đánh cá thờ, mở vào ngày mồng 8 tháng Giêng hàng năm. Ở Ao Náu bên xứ gò Đậu - dân làng chài con to nhất dâng cúng sứ quân Nguyễn Khắc Khoan là Thành hoàng của làng.</p>
+<p>Phả lục đền Nguyễn Gia Loan (đền thờ Nguyễn Sứ Quân) chép: “Trước doanh trại của ông (nay là gò chùa Biện) có một khu đồng. ông thường tích nước thả cá. Hàng năm cứ đến ngày mùng 8 tháng Giêng đầu xuân là ngày sinh nhật ông. ông mời bô lão trong xóm ấp, sai quân đánh cá, thiết tiệc mừng xuân. Đêm đến lại dâng bày hoa quả bánh trái, mừng vui tưởng niệm công đức cù lao của cha mẹ để lại. Ngày hôm sau lại mổ bò giết trâu, mời phường múa hát, cùng với nhân dân mở hội mừng xuân”.<sup class="annotation badge" title="^ (Trích dịch ngọc phả còn ở đền Gia Loan).">9</sup> </p>
+<p>Đền Gia Loan là nơi lưu giữ được nhiều yếu tố liên quan đến Nguyễn Khoan cũng như những ghi nhận công đức của ông. Nơi đây còn lưu giữ được cuốn ngọc phả viết năm Lê Vĩnh Hựu thứ 6 (1752)<sup class="annotation badge" title="^ Một số di tích lịch sử của huyện Yên Lạc">10</sup> . Nơi đây còn có cả bức đại tự Vĩnh Khang Tiện Dân (mãi mãi yên lành khoẻ mạnh cho mọi người dân), được treo trong đền Gia Loan cùng câu đối ca tụng công đức to lớn của ông đối với nhân dân vùng Tam Đái.</p>
+<dl> <dd><i>Tam Đái tiểu triều đình, cát cứ nam thiên thân vũ trụ.</i></dd> <dd><i>Ngũ trang lưu thắng tích, đạt bào tây địa chấn sơn hà.</i></dd> </dl>
+<p>Tạm dịch:</p>
+<dl> <dd><i>Tiểu triều đình nhỏ ở Tam Đái, phân chia cương vực chiếm giữ trời Nam.</i></dd> <dd><i>Năm trang còn giữ được di tích đẹp cùng trong đất miền Tây vững bền sông núi</i>.</dd> </dl>
+<p>Hiện nay, đền thờ Nguyễn Khắc Khoan là địa chỉ nằm trong tam giác gắn kết với Di chỉ khảo cổ học Đồng Đậu và chùa Biện Sơn thành một quần thể di tích đặc trưng vùng <i>sông Loan - núi Biện</i> hấp dẫn các nhà nghiên cứu lịch sử, văn hoá, ngôn ngữ, mỹ thuật và khách tham quan du lịch về vùng đất Yên Lạc nói riêng và Vĩnh Phúc nói chung.</p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Loạn 12 sứ quân</li> <li><a class="annotation" href="/nhan-vat/dinh-tien-hoang" title="Đinh Tiên Hoàng (chữ Hán: 丁先皇; 22 tháng 3 năm 924 - tháng 10 năm 979), tên húy là Đinh Bộ Lĩnh (丁部領) hoặc có sách gọi Đinh Hoàn (丁桓) (xem mục Tên gọi bên dưới), là vị hoàng đế sáng lập triều đại nhà Đinh, nước Đại Cồ Việt trong lịch sử Việt Nam. 
+ Ông là người có công đánh dẹp loạn 12 sứ quân, thống..." target="_blank" >Đinh Tiên Hoàng</a></li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Hào khí miền đất yên vui</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Xanh thắm Ném Đông</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Viện Khoa học xã hội Việt Nam. Thần phả <a class="annotation" href="/nhan-vat/nguyen-sieu" title="Nguyễn Siêu (chữ Hán: 阮超; 924 - 967) hay Nguyễn Hữu Công (阮右公) là một sứ quân nổi dậy trong thời loạn 12 sứ quân trong lịch sử Việt Nam thế kỷ 10. Ông là vốn là người gốc Trung Hoa, cát cứ ở Thanh Trì (Hà Nội, Việt Nam) để xây dựng lực lượng và trở thành một sứ quân mạnh. Tháng 8 năm 967, Đinh Bộ Lĩ..." target="_blank" >Nguyễn Siêu</a>.</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Nguyễn Bạt Tụy 1954: Tên người Việt Nam. - In trong: tập kỷ yếu hội Khuyến Học Việt Nam, Sài Gòn, tr49-50.</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Sách Đại Việt Sử ký toàn thư, bản Ngoại kỷ, có ghi chú: "Tam Đái nay ở vùng huyện Vĩnh Lạc, tỉnh Vĩnh Phú. Nay ở xã Minh Tâm, huyện Vĩnh Lạc có di tích thành cũ, và ở xã Vĩnh Mỹ (cùng huyện) có đền thờ của sứ quân Nguyễn Khoan."</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Di chỉ khảo cổ học Đồng Đậu</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Xem bài: "Về quê hương của <a class="annotation" href="/nhan-vat/ngo-quyen" title="Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một ..." target="_blank" >Ngô Quyền</a>" - <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a> - Tạp chí Nghiên cứu Lịch sử, Hà Nội, số 101, tháng 8/1967, tr. 60-62</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">LỊCH SỬ THỊ TRẤN THỔ TANG</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">(Trích dịch ngọc phả còn ở đền Gia Loan).</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Một số di tích lịch sử của huyện Yên Lạc</span></li> </ol> </div>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nguyen-khoai" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nguyễn Khoái            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nguyen-khuyen" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nguyễn Khuyến            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nguyen-khoan" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/khu-di-tich-chien-thang-dien-bien-phu" class="mod-articles-category-title ">Khu di tích chiến thắng Điện Biên Phủ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

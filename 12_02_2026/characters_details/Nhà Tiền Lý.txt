@@ -1,0 +1,1473 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nhà Tiền Lý (chữ Hán:前李朝 (Tiền Lý Triều), 544-602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc hiệu Vạn Xuân. Nhà Tiền Lý kéo dài 58 năm, tổng cộng 3 đời vua, trong đó có 2 vua họ Lý và 1 vua họ Triệu cũng được tính gộp vào nhà Tiền Lý, tương tự như Dương Tam Kha trong nhà Ngô sau đó....">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nhà Tiền Lý - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"138f37f637609e53baa50e64f1a434c7"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nhà Tiền Lý" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nhà Tiền Lý (chữ Hán:前李朝 (Tiền Lý Triều), 544-602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc .." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nha-tien-ly" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nha-tien-ly/4801cc0090047b3a5149237fd51fc83f.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nhà Tiền Lý", "item": "https://nguoikesu.com/nhan-vat/nha-tien-ly" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nha-tien-ly" }, "headline": "Nhà Tiền Lý", "description": "Nhà Tiền Lý (chữ Hán:前李朝 (Tiền Lý Triều), 544-602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc hiệu Vạn Xuân. Nhà Tiền Lý kéo dài 58 năm, tổng cộng 3 đời vua, trong đó có 2 vua họ Lý và 1 vua họ Triệu cũng được tính gộp vào nhà Tiền Lý, tương tự như Dương Tam Kha trong nhà Ngô sau đó.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nha-tien-ly/4801cc0090047b3a5149237fd51fc83f.png" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nha-tien-ly" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-12-01T11:00:10+07:00", "dateCreated": "2017-12-01T11:00:10+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nhà Tiền Lý</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nhà Tiền Lý        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#ly-nam-de-dung-nuoc-van-xuan" title="">Lý Nam Đế dựng nước Vạn Xuân</a></li>
+<li class="level-2"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-2"><a href="#duoi-tieu-tu" title="">Đuổi Tiêu Tư</a></li>
+<li class="level-2"><a href="#danh-duoi-quan-luong-va-lam-ap" title="">Đánh đuổi quân Lương và Lâm Ấp</a></li>
+<li class="level-2"><a href="#dung-nuoc-van-xuan" title="">Dựng nước Vạn Xuân</a></li>
+<li class="level-2"><a href="#cuong-dich" title="">Cường địch</a></li>
+<li class="level-1"><a href="#trieu-viet-vuong-danh-duoi-quan-luong" title="">Triệu Việt Vương đánh đuổi quân Lương</a></li>
+<li class="level-2"><a href="#da-trach-vuong" title="">Dạ Trạch vương</a></li>
+<li class="level-2"><a href="#trieu-viet-vuong-dao-lang-vuong" title="">Triệu Việt vương, Đào Lang vương</a></li>
+<li class="level-1"><a href="#ly-phat-tu-gianh-nuoc-roi-mat-nuoc" title="">Lý Phật Tử giành nước rồi mất nước</a></li>
+<li class="level-2"><a href="#chia-doi-bo-coi" title="">Chia đôi bờ cõi</a></li>
+<li class="level-2"><a href="#hoc-ke-trieu-da" title="">Học kế Triệu Đà</a></li>
+<li class="level-2"><a href="#chua-danh-da-hang" title="">Chưa đánh đã hàng</a></li>
+<li class="level-1"><a href="#nhan-dinh" title="">Nhận định</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox geography vcard vevent" > <tr class="mergedtoprow"> <td colspan="3" class="fn org summary" >Tiền Lý triều</td> </tr> <tr class="mergedbottomrow"> <td colspan="3" class="fn org summary" >Nhà Tiền Lý</td> </tr> <tr> <td colspan="3" > <table > <tr> <td ><span >←</span> <img alt="" src="/images/wiki/nha-tien-ly/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /><br /></td> <td ><b>544–602</b></td> <td ><img alt="" src="/images/wiki/nha-tien-ly/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /> <span >→</span><br /> &#160;<br /> <img alt="" src="/images/wiki/nha-tien-ly/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /> <span >→</span><br /></td> </tr> </table> </td> </tr> <tr> <td colspan="3" > <div class="center"> <div class="floatnone"><img alt="" src="/images/wiki/nha-tien-ly/4801cc0090047b3a5149237fd51fc83f.png" /></div> </div> <div >Lãnh thổ <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a> của nhà Tiền Lý</div> </td> </tr> <tr> <td colspan="2"><b>Thủ đô</b></td> <td >Long Uyên</td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Chính quyền</b></td> <td>Chế độ quân chủ</td> </tr> <tr class="mergedrow"> <td colspan="2"><b>Hoàng Đế</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >544–548</td> <td><a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> (đầu tiên)</td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td >571–602</td> <td>Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> (cuối cùng)</td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Lịch sử</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td ><a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> xưng đế</td> <td >544</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td ><a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> xưng vương</td> <td >548</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td ><a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> giành ngôi <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a></td> <td >571</td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td >Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> đầu hàng Nhà Tùy</td> <td >602</td> </tr> </table></div>
+<p><b>Nhà Tiền Lý</b> (chữ Hán:前李朝 (Tiền Lý Triều), 544-602) là một triều đại trong lịch sử Việt Nam, gắn liền với quốc hiệu Vạn Xuân. Nhà Tiền Lý kéo dài 58 năm, tổng cộng 3 đời vua, trong đó có 2 vua họ Lý và 1 vua họ Triệu cũng được tính gộp vào nhà Tiền Lý, tương tự như <a class="annotation" href="/nhan-vat/duong-tam-kha" title="Dương Tam Kha (chữ Hán: 楊三哥), tức Dương Bình Vương (楊平王) là một vị vua Việt Nam, trị vì từ 944 đến 950, xen giữa nhà Ngô trong lịch sử Việt Nam. 
+ Với thân phận là anh/ em vợ của Ngô Quyền, ông đã tạo nên thế lực đủ mạnh để cướp ngôi nhà Ngô, tự lập triều đại riêng của mình trong vòng 6 năm, cho đến..." target="_blank" >Dương Tam Kha</a> trong <a class="annotation" href="/nhan-vat/nha-ngo" title="Nhà Ngô (chữ Hán:吳朝 Ngô Triều) là một triều đại trong lịch sử Việt Nam, truyền được hai đời nhưng có tới ba vị vua, kéo dài từ năm 939 đến năm 965. Khoảng thời gian xen giữa từ 944 đến 950 còn có Dương Bình Vương tức Dương Tam Kha...." target="_blank" >nhà Ngô</a> sau đó.</p>
+<p><br /></p>
+<p></p>
+<p></p>
+<a name="ly-nam-de-dung-nuoc-van-xuan"></a><h2><a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> dựng <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a></h2>
+<a name="tieu-su"></a><h3>Tiểu sử</h3>
+<p><a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> (503-548) là người Thái Bình, phủ Long Hưng (Sơn Tây). Ông là người có công đánh đuổi quân đô hộ <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a> (thời Nam Bắc triều), sáng lập ra nhà Tiền Lý. Ông cũng có một người anh là <a class="annotation" href="/nhan-vat/ly-thien-bao" title="Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương...." target="_blank" >Lý Thiên Bảo</a>.</p>
+<p>Một trong số tổ tiên của <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> là người Trung Quốc, cuối thời Tây Hán khổ về việc đánh dẹp, mới tránh sang ở đất phương Nam, được 7 đời thì thành người Nam. Sử chép <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> vốn con nhà hào trưởng, thiên tư lỗi lạc, do làm quan không được vừa ý nên cáo quan về quê, tập hợp nhân tài lo khởi nghĩa.</p>
+<a name="duoi-tieu-tu"></a><h3>Đuổi Tiêu Tư</h3>
+<p>Bấy giờ Việt Nam nằm dưới sự đô hộ của <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>. Thứ sử Giao Châu là <a class="annotation" href="/dia-danh/vu-lam" title="Vũ Lâm là một xã thuộc huyện Lạc Sơn, tỉnh Hòa Bình, Việt Nam. 
+ Xã Vũ Lâm có diện tích 7,13&amp;#160;km², dân số năm 1999 là 3712 người, mật độ dân số đạt 521 người/km²...." target="_blank" >Vũ Lâm</a> hầu Tiêu Tư (cùng họ với vua Lương), vì hà khắc tàn bạo, mất lòng người. Các nhân tài Việt Nam lúc đó bị bạc đãi nên không hợp tác với <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>.</p>
+<p>Có người là Tinh Thiều giỏi từ chương từng đến Kiến Khang kinh đô <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a> xin được làm quan. Thượng thư bộ Lại <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a> là Sái Tôn cho rằng họ Tinh trước không có ai hiển đạt, nên chỉ bổ cho chức Quảng Dương môn lang. Thiều lấy làm nhục, trở về làng, theo <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> mưu việc dấy binh. <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> bấy giờ làm chức Giám quân ở Đức Châu (Hà Tĩnh), nhân liên kết với hào kiệt mấy châu, đều hưởng ứng. Có <a class="annotation" href="/nhan-vat/trieu-tuc" title="Triệu Túc có thể là một trong những nhân vật sau:..." target="_blank" >Triệu Túc</a> tù trưởng ở Chu Diên phục tài đức của <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a>, bèn dẫn đầu đem quân theo về.</p>
+<p>Thế lực của <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> ngày càng lớn. Năm 542, thứ sử Tiêu Tư biết việc, đem của đến hối lộ cho ông để mưu thoát thân, rồi chạy về Quảng Châu. <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> đem quân ra chiếm giữ thành Long Biên.</p>
+<a name="danh-duoi-quan-luong-va-lam-ap"></a><h3>Đánh đuổi quân Lương và Lâm Ấp</h3>
+<p>Tháng 12 năm 542, vua Lương sai Tôn Quýnh, Lư Tử Hùng sang xâm chiếm. Quýnh lấy cớ là chướng khí mùa xuân đương bốc, xin đợi đến mùa thu. Bấy giờ Thứ sử Quảng Châu là Tân Dụ hầu Hoán không cho, Tiêu Tư cũng thúc giục. Bọn Tử Hùng đi đến Hợp Phố, <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> chủ động đem quân đón đánh tại đây. Quân Lương thua to, 10 phần chết đến 6, 7 phần, quân tan rã mà về. Tiêu Tư tâu vu với vua Lương rằng Quýnh và Tử Hùng dùng dằng không chịu đi, đều bị buộc phải tự tử.</p>
+<p>Tháng 4 năm 543, vua Lâm Ấp cướp quận Nhật Nam, <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> sai lão tướng <a class="annotation" href="/nhan-vat/pham-tu" title="Phạm Tu (范脩, 476-545) là võ tướng, công thần khai quốc nhà Tiền Lý trong lịch sử Việt Nam. Ông là người có công giúp Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, thành lập nước Vạn Xuân độc lập...." target="_blank" >Phạm Tu</a> đánh tan ở Cửu Đức.</p>
+<a name="dung-nuoc-van-xuan"></a><h3>Dựng <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a></h3>
+<p>Đầu năm Giáp Tý 544, <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a> nhân thắng quân địch, tự xưng là Nam Việt đế, đặt niên hiệu là Thiên Đức, đặt tên nước là Vạn Xuân, có ý mong xã tắc lâu dài đến muôn đời. Ông dựng điện Vạn Xuân<sup class="annotation badge" title="^ Theo Việt sử Thông giám cương mục, Vạn Xuân nay ở xã Vạn Phúc, huyện Thanh Trì, có hồ Vạn Xuân, còn gọi là đầm Vạn Phúc. Vậy điện Vạn Xuân có lẽ ở đấy.">1</sup>  để làm chỗ triều hội, xây chùa Trấn Quốc.</p>
+<p>Lý Nam đế đặt ra trăm quan, dùng <a class="annotation" href="/nhan-vat/trieu-tuc" title="Triệu Túc có thể là một trong những nhân vật sau:..." target="_blank" >Triệu Túc</a> làm thái phó, Tinh Thiều làm tướng văn, <a class="annotation" href="/nhan-vat/pham-tu" title="Phạm Tu (范脩, 476-545) là võ tướng, công thần khai quốc nhà Tiền Lý trong lịch sử Việt Nam. Ông là người có công giúp Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, thành lập nước Vạn Xuân độc lập...." target="_blank" >Phạm Tu</a> làm tướng võ.</p>
+<p>Đó là lần đầu tiên Việt Nam có hoàng đế và niên hiệu Thiên Đức là niên hiệu riêng đầu tiên để chứng tỏ giành lại độc lập từ tay Trung Quốc.</p>
+<a name="cuong-dich"></a><h3>Cường địch</h3>
+<p>Tháng 6 năm 545, vua Lương Vũ đế (Tiêu Diễn) phong Dương Phiêu làm thứ sử Giao Châu, sai đi đánh Lý Nam đế, cử <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a><sup class="annotation badge" title="^ Bá Tiên là tướng tài của nhà Lương, thậm chí sau này còn lên làm vua, lập ra nhà Trần ở Trung Quốc.">2</sup>  làm tư mã; thứ sử Định Châu là Tiêu Bột cùng họp với Dương Phiến ở Tây Giang.</p>
+<p>Tiêu Bột biết ý các tướng sĩ sợ phải đi đánh xa, nên nói dối để Dương Phiếu ở lại. Dương Phiếu tập họp các tướng lại để hỏi mưu kế. Bá Tiên nói: "<i>Quan thứ sử Định Châu muốn tạm an nhàn trước mắt, không nghĩ đến mưu kế lớn, túc hạ vâng mạng vua đi đánh kẻ có tội, dù sống chết thế nào cũng không quản ngại, lẽ nào dùng dằng không tiến quân để nuôi cho thế giặc thêm mạnh mà làm cho quân mình nản chí hay sao?</i>". Bá Tiên liền thúc quân mình đi trước. Dương Phiếu cử Bá Tiên làm tiên phong.</p>
+<p>Quân Lương đến Giao Châu, <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> mang quân ra đánh bị thua nặng, chạy sang thành Gia Ninh. Quân Lương tiến vây thành.</p>
+<p>Tháng giêng năm 546, thành Gia Ninh vỡ, tướng <a class="annotation" href="/nhan-vat/pham-tu" title="Phạm Tu (范脩, 476-545) là võ tướng, công thần khai quốc nhà Tiền Lý trong lịch sử Việt Nam. Ông là người có công giúp Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, thành lập nước Vạn Xuân độc lập...." target="_blank" >Phạm Tu</a> và thái phó <a class="annotation" href="/nhan-vat/trieu-tuc" title="Triệu Túc có thể là một trong những nhân vật sau:..." target="_blank" >Triệu Túc</a> cùng tử trận, <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> chạy đi Tân Xương là vùng của người Lạo. Tại đây, ông chiêu mộ thêm được nhiều binh lính, uy thế lại tăng lên.</p>
+<p>Tháng 8, Lý Nam đế lại đem quân từ trong xứ người Lạo ra, đóng đồn ở hồ Điển Triệt (nay thuộc Lập Thạch - Vĩnh Phúc) <sup class="annotation badge" title="^ Hồ Điển Triệt: Các tài liệu chú giải khác nhau. Có sách nói hồ này ở Tân Xương, tức là Phong Châu. Có sách cho rằng hồ Điển Triệt ở về phía tây phủ Thái Nguyên, nay đã bị lấp">3</sup> . Quân Lương lo sợ, cứ đóng ở cửa hồ, không dám tiến. <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> bảo các tướng: "<i>Quân ta ở đây đã lâu, mà lại không có quân tiếp viện. Bây giờ đã đi sâu vào trong nước người ta, nếu một trận đánh nào bất lợi, còn mong gì sống mà về được nữa? Chi bằng bây giờ nhân dịp quân địch đang thua luôn mấy trận, lòng người chưa cố kết, ta nên liều chết gắng sức quyết đánh bằng được. Nếu vô cớ cứ đóng ở đây thì việc hỏng mất!</i>". Các tướng <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a> không ai trả lời. Đêm hôm ấy, nước sông bỗng lên to đến bảy thước, chảy rót vào trong hồ. Bá Tiên đốc thúc quân bản bộ mình theo dòng nước tiến đi trước. Quân Lương đánh trống, reo hò, kéo tràn vào. Quân <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> mới tập hợp bị đánh úp nên tan vỡ.</p>
+<p><a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> lại rút lui về giữ trong động Khuất Lão, điều chỉnh binh lính, mưu tính chiến đấu về sau. Ông giao lại binh quyền cho cả tướng quân <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a>.</p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-tien-ly/6b2520954287092e215cdf2669abcf3f.png" /> <div class="caption"> <div class="magnify"></div> Bản đồ Trung Quốc thời Nam Bắc triều. Lãnh thổ Vạn Xuân ở phía Nam <a class="annotation" href="/dia-danh/nuoc-luong" title="Lương trong tiếng Việt có thể là:..." target="_blank" >nước Lương</a>. <div class="legend"><span class="legend-color" >&#160;</span>&#160;Lương</div> <div class="legend"><span class="legend-color" >&#160;</span>&#160;Đông Ngụy</div> <div class="legend"><span class="legend-color" >&#160;</span>&#160;Tây Ngụy.</div> <div class="legend"><span class="legend-color" >&#160;</span>&#160;Thổ Dục Hồn.</div> <div class="legend"><span class="legend-color" >&#160;</span>&#160;Nhu Nhiên.</div> </div> </div> </div>
+<a name="trieu-viet-vuong-danh-duoi-quan-luong"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2><a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> đánh đuổi quân Lương</h2>
+<a name="da-trach-vuong"></a><h3>Dạ Trạch vương</h3>
+<p><a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> cầm cự với <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a>, chưa phân thắng bại. Nhưng quân của Bá Tiên rất đông, Bá Tiên lại là mãnh tướng của <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>.</p>
+<p><a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> liệu thế không thể dùng sức thắng được địch bèn lui về giữ đầm Dạ Trạch<sup class="annotation badge" title="^ Nay là &quot;Bãi Màn Trò&quot;, huyện Châu Giang, Hưng Yên.">4</sup>  ở huyện Chu Diên, cỏ cây um tùm, bụi rậm che kín, ở giữa có nền đất cao có thể ở được, bốn mặt bùn lầy, người ngựa khó đi, chỉ có thể dùng thuyền độc mộc nhỏ chống sào đi lướt trên cỏ nước mới có thể đến được. Nhưng nếu không quen biết đường lối thì lạc không biết là đâu, lỡ rơi xuống nước liền bị rắn độc cắn chết.</p>
+<p><a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> thuộc rõ đường đi lối lại, đem hơn 2 vạn người vào đóng ở nền đất trong đầm. Ban ngày, ông ra lệnh tuyệt không để khói lửa và dấu người, ban đêm dùng thuyền độc mộc đem quân ra đánh doanh trại của quân Bá Tiên, giết và bắt sống rất nhiều, lấy được lương thực để làm kế cầm cự lâu dài. Bá Tiên đuổi theo hút mà đánh, nhưng không thể tiến sâu vào trong đầm lầy được, nên đành rút quân. Người trong nước gọi ông là Dạ Trạch Vương.</p>
+<p>Anh <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> là <a class="annotation" href="/nhan-vat/ly-thien-bao" title="Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương...." target="_blank" >Lý Thiên Bảo</a> cùng với tướng người họ là <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> đem 3 vạn người vào Cửu Chân. <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> đuổi theo đánh, Thiên Bảo bị thua, bèn thu nhặt quân còn sót được vạn người chạy sang đất người Di Lạo ở Ai Lao.</p>
+<a name="trieu-viet-vuong-dao-lang-vuong"></a><h3>Triệu Việt vương, Đào Lang vương</h3>
+<p>Tháng 3 năm 548, nghe tin <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> mất trong động Khuất Lão, <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> tự xưng là <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a>. <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> vây đánh nhiều lần không được.</p>
+<p><a class="annotation" href="/nhan-vat/ly-thien-bao" title="Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương...." target="_blank" >Lý Thiên Bảo</a> thấy động Dã Năng ở đầu nguồn Đào Giang, đất phẳng rộng màu mỡ có thể ở được, <a class="annotation" href="/nhan-vat/ly-thien-bao" title="Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương...." target="_blank" >Lý Thiên Bảo</a> mới đắp thành để ở, nhân tên đất ấy mà đặt quốc hiệu. Đến bây giờ quân chúng tôn làm chúa, xưng là Đào Lang vương.</p>
+<p>Tháng 1 năm 550, <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a> cho <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> làm Uy minh tướng quân Giao Châu thứ sử. Bá Tiên lại mưu tính cầm cự lâu ngày khiến cho <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> lương hết quân mỏi thì có thể phá được. Gặp lúc bên <a class="annotation" href="/dia-danh/nuoc-luong" title="Lương trong tiếng Việt có thể là:..." target="_blank" >nước Lương</a> xảy ra loạn Hầu Cảnh, <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>, gọi Bá Tiên về<sup class="annotation badge" title="^ Bá Tiên về dẹp được loạn rồi cướp ngôi nhà Lương, lập ra nhà Trần">5</sup> , ủy quyền cho tì tướng là Dương Sàn cầm quân.</p>
+<p><a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> nhân lúc quân Lương không còn tướng giỏi, tung quân ra đánh. Sàn mang quân chống cự, bị thua chết. Quân Lương tan vỡ chạy về Bắc. <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> lấy lại được <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a>, đóng đô ở thành Long Biên.</p>
+<p>Truyền thuyết kể rằng:</p>
+<dl> <dd><i><a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> ở trong đầm thấy quân Lương không lui, mới đốt hương cầu đảo, khẩn thiết kinh cáo với trời đất thần kỳ. Thần nhân trong đầm là Chử Đồng Tử bấy giờ cưỡi rồng vàng từ trên trời rơi xuống, rút móng rồng trao cho ông, bảo gài lên mũ đâu mâu mà đánh giặc. Từ đó quân thanh lừng lẫy, đến đâu không ai địch nổi.</i></dd> </dl>
+<p>Xét ra truyền thuyết trên cũng như những truyền thuyết khác, có thể do chính <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> nghĩ ra để tăng thêm lòng tin tưởng của quân sĩ vào chiến thắng, như truyện Điền Đan sắp phá Yên cử người giả làm quân sư giỏi để dân chúng tin tưởng cố sức đánh giặc.</p>
+<a name="ly-phat-tu-gianh-nuoc-roi-mat-nuoc"></a><h2><a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> giành nước rồi mất nước</h2>
+<a name="chia-doi-bo-coi"></a><h3>Chia đôi bờ cõi</h3>
+<p><a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> làm vua ở thành Long Biên. <a class="annotation" href="/nhan-vat/ly-thien-bao" title="Lý Thiên Bảo (chữ Hán:李天寶; 499?-555) vua nước Dã Năng (tồn tại phía tây với nhà Tiền Lý) trong lịch sử Việt Nam. Ông tham gia cuộc chiến chống quân Lương giữ nước Vạn Xuân và cát cứ ở Dã Năng thời Triệu Việt Vương...." target="_blank" >Lý Thiên Bảo</a> làm Đào Lang Vương ở <a class="annotation" href="/dia-danh/nuoc-da-nang" title="Dã Năng (chữ Hán: 野能) (tồn tại 548-571, sau năm 571 tới năm 602 gộp vào nước Vạn Xuân) là một quốc gia tồn tại đồng thời với nước Vạn Xuân của nhà Tiền Lý trong lịch sử Việt Nam. 
+ Nước Dã Năng kéo dài 23 năm, tổng cộng có 2 đời xưng vương gồm Lý Thiên Bảo và Lý Phật Tử. Sau đó năm 571, Lý Phật tử t..." target="_blank" >nước Dã Năng</a>. Năm 555, Thiên Bảo chết không có con nối, quân chúng suy tôn người cháu trong họ là <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> lên nối ngôi.</p>
+<p>Năm 557, <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> đem quân xuống miền Đông đánh nhau với <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> ở huyện Thái Bình. Hai bên năm lần giáp trận, chưa phân thắng bại, quân của Phật Tử có phần kém thế hơn. Phật Tử liệu không thắng được bèn xin giảng hòa xin ăn thề. <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> nghĩ rằng Phật Tử là người họ của Tiền <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>, không nỡ cự tuyệt, bèn chia địa giới ở bãi Quân Thần (nay là hai xã Thượng Cát, Hạ Cát ở <a class="annotation" href="/dia-danh/huyen-tu-liem" title="Từ Liêm là một huyện cũ của Hà Nội, trước khi Hà Tây được sáp nhập vào Hà Nội, huyện Từ Liêm nằm về phía Tây của thủ đô, nhưng hiện hay thì dường như nằm ở trung tâm của Hà Nội mở rộng. Cuối năm 2013, huyện Từ Liêm được chia tách để thành lập hai quận mới của Hà Nội là Bắc Từ Liêm và Nam Từ Liêm...." target="_blank" >huyện Từ Liêm</a>) cho ở phía tây của nước.</p>
+<p>Phật Tử dời đến thành Ô Diên (nay là <a class="annotation" href="/dia-danh/xa-ha-mo" title="Hạ Mỗ là một xã thuộc huyện Đan Phượng, thành phố Hà Nội, Việt Nam..." target="_blank" >xã Hạ Mỗ</a>, huyện Đan Phượng, Hà Nội).</p>
+<a name="hoc-ke-trieu-da"></a><h3>Học kế <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a></h3>
+<p><a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> có con trai là Nhã Lang, xin lấy con gái của <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> là Cảo Nương. Việt Vương bằng lòng, nên hai nhà kết thành thông gia. Vì yêu quý Cảo Nương nên Việt Vương cho Nhã Lang ở gửi rể.</p>
+<p>Sau Nhã Lang biết được bí mật về quân sự của <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a>, báo lại cho <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a>. Phật Tử mang quân đánh úp Việt Vương. Việt Vương tự biết thế yếu không thể chống được, bèn đem con gái chạy về phía nam, muốn tìm nơi đất hiểm để ẩn náu tung tích, nhưng đến đâu cũng bị quân của Phật Tử đuổi theo sau gót. Việt Vương cưỡi ngựa chạy đến cửa biển Đại Nha, bị nước chắn, than rằng: "<i>Ta hết đường rồi!</i>", bèn nhảy xuống biển tự vẫn.</p>
+<p>Người sau cho lập đền thờ ông ở cửa biển Đại Nha (Đại Nha nay là huyện Đại An)</p>
+<p>Truyền thuyết kể rằng:</p>
+<dl> <dd><i>Nhã Lang bảo vợ: "Trước hai vua cha chúng ta cừu thù với nhau, nay là thông gia, chẳng cũng hay lắm ư? Nhưng cha nàng có thuật gì mà có thể làm lui được quân của cha tôi?". Cảo Nương không biết ý của chồng, bí mật lấy mũ đâu mâu móng rồng cho xem. Nhã Lang mưu ngầm tráo đổi cái móng ấy, rồi bảo riêng với Cảo Nương rằng: "Tôi nghĩ ơn sâu của cha mẹ nặng bằng trời đất, vợ chồng ta hòa nhã yêu quý nhau không nỡ xa cách, nhưng tôi phải tạm dứt tình, về thăm cha mẹ". Nhã Lang về, cùng với cha bàn mưu đánh úp vua, chiếm lấy nước.</i></dd> </dl>
+<p><a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> lên làm vua cả nước, đóng đô ở Phong Châu. Vì ông cũng xưng là <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>, nên đời sau gọi là Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> để phân biệt với <a class="annotation" href="/nhan-vat/ly-bi" title="Lý Bí có thể là:..." target="_blank" >Lý Bí</a>.</p>
+<a name="chua-danh-da-hang"></a><h3>Chưa đánh đã hàng</h3>
+<p>Sử sách không đề cập về việc trị vì của Triệu Việt vương và Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>.</p>
+<p>Ở Trung Quốc, <a class="annotation" href="/nhan-vat/nha-tuy" title="Nhà Tùy hay triều Tùy (tiếng Trung: 隋朝; bính âm: Suí cháo; Hán-Việt: Tùy triều, 581-619) là một triều đại trong lịch sử Trung Quốc, kế thừa Nam-Bắc triều, theo sau nó là triều Đường. Năm 581, Tùy Văn Đế Dương Kiên thụ thiện từ Bắc Chu Tĩnh Đế mà kiến lập triều Tùy; đến năm 619 thì Hoàng Thái Chủ Dươ..." target="_blank" >nhà Tùy</a> đã diệt <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> (con cháu <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a>) thống nhất toàn quốc năm 589. Vua Tùy sai sứ sang dụ <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> sang chầu. Phật Tử thoái thác không sang. Năm 602, Tùy Văn Đế muốn đánh Vạn Xuân. Thừa tướng <a class="annotation" href="/nhan-vat/duong-to" title="Dương Tố (chữ Hán: 楊素;&amp;#160;? - 606) tên chữ là Xử Đạo (處道), người đất Hoa Âm, Hoằng Nông (nay thuộc tỉnh Thiểm Tây), là quyền thần triều Tùy, có công lớn mà cũng có tội lớn trong lịch sử Trung Quốc...." target="_blank" >Dương Tố</a> tiến cử Thứ sử Qua Châu là Lưu Phương. Vua Tùy xuống chiếu lấy Tố làm Giao Châu đạo hành quân tổng quản, thống lĩnh 27 doanh quân sang xâm chiếm. Quân lệnh của Phương rất nghiêm, ai phạm tất chém quân lính ai nấy đều mến đức và sợ uy.</p>
+<p>Nghe tin quân địch kéo sang, Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> sai con của người anh là Lý Đại Quyền giữ thành Long Biên, Biệt súy là Lý Phổ Đỉnh giữ thành Ô Diên, còn tự <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> đóng ở Phong Châu.</p>
+<p>Quân Tùy đến núi Đô Long gặp quân Lý, Lưu Phương đánh tan hết, rồi tiến quân sang đến cạnh dinh của <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a>. Phương lấy họa phúc mà dụ. Phật Tử sợ hãi xin đầu hàng, bị quân Tuỳ bắt đưa về Bắc rồi chết. Dân làm đền thờ ở cửa biển Tiểu Nha<sup class="annotation badge" title="^ Tức cửa Càn, phía nam cửa Đại An.">6</sup>  để đối với đền thờ <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a>.</p>
+<p>Thế là <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a> và nhà Tiền Lý mất. Nhà Tiền Lý từ khi <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> giành lại được nước đến khi mất tổng cộng 61 năm (541-602), <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a> từ khi <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> đặt đến khi mất tổng cộng 58 năm (544-602).</p>
+<p>Sách Đại Việt Sử ký Toàn thư tách riêng 3 vua Tiền <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>, Triệu Việt vương và Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> thành 3 "kỷ" riêng biệt và gọi <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> là "Kỷ nhà Hậu Lý". Xét ra cách chia này làm lịch sử thêm rối vì sau này còn có một <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> của <a class="annotation" href="/nhan-vat/ly-cong-uan" title="Lý Thái Tổ (chữ Hán: 李太祖; 8 tháng 3 năm 974 – 31 tháng 3 năm 1028), tên thật là Lý Công Uẩn (李公蘊), là vị hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, trị vì từ năm 1009 đến khi qua đời vào năm 1028. 
+ Xuất thân là một võ quan cao cấp dưới triều nhà Tiền Lê, năm 1009, nhân khi vị vua cuối cùng c..." target="_blank" >Lý Công Uẩn</a> nữa. Do đó việc hợp 3 vua vào một triều đại, như <a class="annotation" href="/nhan-vat/nha-ngo" title="Nhà Ngô (chữ Hán:吳朝 Ngô Triều) là một triều đại trong lịch sử Việt Nam, truyền được hai đời nhưng có tới ba vị vua, kéo dài từ năm 939 đến năm 965. Khoảng thời gian xen giữa từ 944 đến 950 còn có Dương Bình Vương tức Dương Tam Kha...." target="_blank" >nhà Ngô</a> sau này có Dương Bình vương xen giữa cũng không gây ra rắc rối.</p>
+<a name="nhan-dinh"></a><h2>Nhận định</h2>
+<p>Trong ngàn năm Bắc thuộc, sau thời kỳ Hai Bà Trưng quá ngắn ngủi, sự nghiệp độc lập mà <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> tạo dựng dù không truyền được lâu dài như nhà Hậu Lý sau này nhưng vẫn có thể coi là to lớn. Các vua sau như Mai Hắc Đế, Phùng Hưng tuy có giành được nước nhưng không được bao lâu. Sự nghiệp của Tiền <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>, <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> không trọn vẹn nhưng đời sau còn ghi nhớ mãi công lao của hai vua.</p>
+<p>Nhận định về <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a>, sách Đại Việt Sử ký Toàn thư dẫn lời sử thần <a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a> nói:</p>
+<dl> <dd><i>"Lấy bá thuật mà xét thì Hậu [Lý] Nam Đế đánh <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> là đắc kế, lấy vương đạo mà xét thì việc ấy đã từng không bằng chó lợn. Sao thế? Là vì khi Tiền <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> ở động Khuất Lạo đem việc quân ủy cho <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a>. Việt Vương thu nhặt tàn quân giữ hiểm ở Dạ Trạch bùn lầy, đương đầu với <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> là người hùng một đời, cuối cùng bắt được tướng của y là Dương Sàn. Tiên, người phương Bắc, phải lui quân. Bấy giờ vua [Hậu Nam Đế] trốn trong đất Di [Lạo], chỉ mong thoát khỏi miệng hùm mà thôi. May mà Bá Tiên về Bắc, [Lý] Thiên Bảo chết, mới đem quân đánh [Triệu] Việt Vương, dùng mưu gian trá xin hòa, kết làm thông gia. Việt Vương lấy lòng thành đối đãi, cắt đất cho ở, những việc làm của Việt Vương đều là chính nghĩa, giao hảo phải đạo, thăm viếng phải thời, há chẳng phải là đạo trị yên lâu dài hay sao? Thế mà [Hậu Nam Đế] lại dùng mưu gian của Nhã Lang, vứt bỏ chính đạo nhân luân, kíp tham công lợi mà diệt nhân nghĩa, đánh cướp lấy nước, tuy rằng lấy được, mà Nhã Lang thì chết trước, bản thân cũng không khỏi làm tù, có lợi gì đâu?</i></dd> </dl>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Vạn Xuân</li> <li><a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a></li> <li><a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a></li> <li><a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a></li> </ul>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Đại Việt Sử ký Toàn thư</li> <li>Khâm định Việt sử Thông giám cương mục</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Theo Việt sử Thông giám cương mục, Vạn Xuân nay ở xã Vạn Phúc, <a class="annotation" href="/dia-danh/huyen-thanh-tri" title="Thanh Trì là một huyện ngoại thành phía Nam của thành phố Hà Nội, Việt Nam...." target="_blank" >huyện Thanh Trì</a>, có hồ Vạn Xuân, còn gọi là đầm Vạn Phúc. Vậy điện Vạn Xuân có lẽ ở đấy.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Bá Tiên là tướng tài của <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>, thậm chí sau này còn lên làm vua, lập ra <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> ở Trung Quốc.</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Hồ Điển Triệt: Các tài liệu chú giải khác nhau. Có sách nói hồ này ở Tân Xương, tức là Phong Châu. Có sách cho rằng hồ Điển Triệt ở về phía tây phủ Thái Nguyên, nay đã bị lấp</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Nay là "Bãi Màn Trò", <a class="annotation" href="/dia-danh/huyen-chau-giang" title="Châu Giang là một huyện cũ thuộc tỉnh Hưng Yên. 
+ Huyện được thành lập từ ngày 24 tháng 2 năm 1979 trên cơ sở hợp nhất huyện Khoái Châu với 14 xã của huyện Văn Yên...." target="_blank" >huyện Châu Giang</a>, Hưng Yên.</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Bá Tiên về dẹp được loạn rồi cướp ngôi <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>, lập ra <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a></span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Tức cửa Càn, phía nam cửa Đại An.</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nha-tien-le" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: nhà Tiền Lê            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nha-tong" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: nhà Tống            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nha-tien-ly" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,1520 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Trần Nguyên Hãn (chữ Hán: 陳元扞, 1390 - 1429) là võ tướng nổi tiếng thời Lê sơ, ông được biết đến là công thần hàng đầu có nhiều đóng góp đánh thắng quân Minh trong khởi nghĩa Lam Sơn. Ông nổi tiếng với những chiến công hiển hách, bấy giờ công của ông rất to, được phong Tả tướng quốc, địa vị chỉ dưới ...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Trần Nguyên Hãn - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"18b31d58ba75d1e18e0425742b601164"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Trần Nguyên Hãn" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Trần Nguyên Hãn (chữ Hán: 陳元扞, 1390 - 1429) là võ tướng nổi tiếng thời Lê sơ, ông được biết đến là công thần h.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/tran-nguyen-han" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/tran-nguyen-han/9b9252502bead56d2f103683255c3782.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Trần Nguyên Hãn", "item": "https://nguoikesu.com/nhan-vat/tran-nguyen-han" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/tran-nguyen-han" }, "headline": "Trần Nguyên Hãn", "description": "Trần Nguyên Hãn (chữ Hán: 陳元扞, 1390 - 1429) là võ tướng nổi tiếng thời Lê sơ, ông được biết đến là công thần hàng đầu có nhiều đóng góp đánh thắng quân Minh trong khởi nghĩa Lam Sơn. Ông nổi tiếng với những chiến công hiển hách, bấy giờ công của ông rất to, được phong Tả tướng quốc, địa vị chỉ dưới Lê Thái Tổ Lê Lợi. Nhưng về sau vì tính đa nghi, Thái Tổ bắt tội ông khiến ông tự sát. Đến đời Lê Nhân Tông Lê Bang Cơ, ông mới được ân xá và khôi phục chức vị.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/tran-nguyen-han/9b9252502bead56d2f103683255c3782.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/tran-nguyen-han" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-30T17:57:43+07:00", "dateCreated": "2017-10-30T17:57:43+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Trần Nguyên Hãn</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Trần Nguyên Hãn        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#nguon-goc" title="">Nguồn gốc</a></li>
+<li class="level-1"><a href="#tham-gia-khoi-nghia-lam-son" title="">Tham gia khởi nghĩa Lam Sơn</a></li>
+<li class="level-2"><a href="#gia-nhap-quan-lam-son" title="">Gia nhập quân Lam Sơn</a></li>
+<li class="level-2"><a href="#danh-tan-binh-thuan-hoa" title="">Đánh Tân Bình, Thuận Hóa</a></li>
+<li class="level-2"><a href="#ha-thanh-xuong-giang" title="">Hạ thành Xương Giang</a></li>
+<li class="level-2"><a href="#tham-gia-danh-bai-vien-binh-nha-minh" title="">Tham gia đánh bại viện binh nhà Minh</a></li>
+<li class="level-2"><a href="#hoi-the-dong-quan" title="">Hội thề Đông Quan</a></li>
+<li class="level-1"><a href="#chuc-vu-va-khen-thuong" title="">Chức vụ và khen thưởng</a></li>
+<li class="level-1"><a href="#cai-chet" title="">Cái chết</a></li>
+<li class="level-2"><a href="#di-luy-va-phuc-hoi" title="">Di lụy và phục hồi</a></li>
+<li class="level-2"><a href="#nguyen-nhan" title="">Nguyên nhân</a></li>
+<li class="level-2"><a href="#loi-binh-cua-tran-quoc-vuong" title="">Lời bình của Trần Quốc Vượng</a></li>
+<li class="level-1"><a href="#gia-quyen-va-con-chau-doi-sau" title="">Gia quyến và con cháu đời sau</a></li>
+<li class="level-1"><a href="#noi-tho-tu-va-di-tich" title="">Nơi thờ tự và di tích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-2"><a href="#sach-dung-de-trich-dan-tu-lieu-cho-bai-viet" title="">Sách dùng để trích dẫn tư liệu cho bài viết</a></li>
+<li class="level-2"><a href="#truyen-thuyet" title="">Truyền thuyết</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >Trần Nguyên Hãn<br /> <font size="2">陳元扞</font></th> </tr> <tr> <td colspan="2" ><img alt="Tran Nguyen Han.jpg" src="/images/wiki/tran-nguyen-han/9b9252502bead56d2f103683255c3782.jpg" /> <div >Tượng Trần Nguyên Hãn ở thành phố Hồ Chí Minh, Việt Nam</div> </td> </tr> <tr> <th colspan="2" >Binh nghiệp</th> </tr> <tr> <th scope="row">Phục vụ</th> <td>Nhà Hậu Lê</td> </tr> <tr> <th scope="row">Thuộc</th> <td>Quân đội Đại Việt</td> </tr> <tr> <th scope="row">Năm tại ngũ</th> <td>1420–1429</td> </tr> <tr> <th scope="row">Cấp bậc</th> <td>Thái úy</td> </tr> <tr> <th scope="row">Tham chiến</th> <td>Khởi nghĩa Lam Sơn, Trận Chi Lăng - Xương Giang</td> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Chức quan cao nhất</th> <td>Tả tướng quốc</td> </tr> <tr> <th scope="row">Sinh</th> <td>1390<br /> Sơn Đông, Lập Thạch, Vĩnh Phúc</td> </tr> <tr> <th scope="row">Mất</th> <td>1429<br /> Sơn Đông, Lập Thạch, Vĩnh Phúc</td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Minh, Nhà Lê sơ</td> </tr> </table></div>
+
+<p><b>Trần Nguyên Hãn</b> (chữ Hán: 陳元扞, 1390 - 1429) là võ tướng nổi tiếng thời Lê sơ, ông được biết đến là công thần hàng đầu có nhiều đóng góp đánh thắng quân Minh trong khởi nghĩa Lam Sơn.</p>
+<p>Ông nổi tiếng với những chiến công hiển hách, bấy giờ công của ông rất to, được phong <i>Tả tướng quốc</i>, địa vị chỉ dưới Lê Thái Tổ <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a>. Nhưng về sau vì tính đa nghi, Thái Tổ bắt tội ông khiến ông tự sát. Đến đời <a class="annotation" href="/nhan-vat/le-nhan-tong" title="Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 – 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459. 
+ Lê Nhân Tông lên ngôi lúc mới 1 tuổi, nên trong 10 năm ..." target="_blank" >Lê Nhân Tông</a> Lê Bang Cơ, ông mới được ân xá và khôi phục chức vị.</p>
+<p></p>
+<p></p>
+<a name="nguon-goc"></a><h2>Nguồn gốc</h2>
+<p>Theo sách Đại Việt thông sử, Trần Nguyên Hãn người huyện Lập Thạch, dòng dõi Tư đồ <a class="annotation" href="/nhan-vat/tran-nguyen-dan" title="Trần Nguyên Đán (chữ Hán: 陳元旦, 1325 hay 1326? - 1390) hiệu Băng Hồ, là tôn thất nhà Trần, dòng dõi Chiêu Minh vương Trần Quang Khải. Làm quan tới Tư đồ dưới thời các vua Trần Nghệ Tông, Trần Duệ Tông và Trần Phế Đế, tước Chương Túc quốc thượng hầu. Nguyên Đán là người hiền từ, nho nhã, có phong cách..." target="_blank" >Trần Nguyên Đán</a>, có học thức, giỏi binh pháp.<sup class="annotation badge" title="^ a ă â b Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 231">1</sup> </p>
+<p><a class="annotation" href="/nhan-vat/pham-dinh-ho" title="Phạm Đình Hổ (tiếng Trung: 範廷琥, 1768 - 1839), tự Tùng Niên (松年), Bỉnh Trực (秉直), bút hiệu Đông Dã Tiều (東野樵), biệt hiệu Chiêu Hổ tiên sinh (昭琥先生), là một danh sĩ sống ở giai đoạn cuối thế kỷ XVIII và đầu thế kỷ XIX...." target="_blank" >Phạm Đình Hổ</a><sup class="annotation badge" title="^ Từng giữ chức Quốc tử giám Tế tửu (có thể hiểu nôm na là Hiệu trưởng Quốc tử giám).">2</sup>  và Nguyễn Án trong sách <i>Tang thương ngẫu lục</i>, <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> trong <i>Việt Nam sử lược</i> và Phan Kế Bính đều cho rằng Trần Nguyên Hãn là người Hoắc Xa, huyện Quảng Oai, Sơn Tây (nay thuộc <a class="annotation" href="/dia-danh/huyen-ba-vi" title="21°04′0″B 105°20′5″Đ / 21,06667°B 105,33472°Đ / 21.06667; 105.33472 
+ Ba Vì là một huyện bán sơn địa, nằm Tây Bắc của thủ đô Hà Nội, Việt Nam...." target="_blank" >huyện Ba Vì</a>, Hà Nội). Trần Xuân Sinh bác lại ý trên. Ông nói rằng mình từng tới xã Hoắc Xa (còn được gọi là Vân Xa), nhưng dân xã này thờ <a class="annotation" href="/nhan-vat/tran-khat-chan" title="Trần Khát Chân (chữ Hán: 陳渴真; 1370-1399) là một danh tướng nhà Trần trong lịch sử Việt Nam, người có công lớn trong việc đánh thắng quân Chiêm Thành...." target="_blank" >Trần Khát Chân</a> và họ - dân xã này – cũng không biết gì về Trần Nguyên Hãn cả. Từ luận cứ trên, tác giả này cho rằng <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> trong <i>Việt Nam sử lược</i> và Phan Kế Bính đã dựa vào <i>Tang thương ngẫu lục</i> mà lầm theo.<sup class="annotation badge" title="^ Nguồn: Thuyết Trần, Trần Xuân Sinh, Nhà xuất bản Hải Phòng 2003, trang 493.">3</sup> </p>
+<p>Sách Đại Việt thông sử viết rằng ông:<i>Có học thức, giỏi binh pháp và là dòng dõi của Tư đồ <a class="annotation" href="/nhan-vat/tran-nguyen-dan" title="Trần Nguyên Đán (chữ Hán: 陳元旦, 1325 hay 1326? - 1390) hiệu Băng Hồ, là tôn thất nhà Trần, dòng dõi Chiêu Minh vương Trần Quang Khải. Làm quan tới Tư đồ dưới thời các vua Trần Nghệ Tông, Trần Duệ Tông và Trần Phế Đế, tước Chương Túc quốc thượng hầu. Nguyên Đán là người hiền từ, nho nhã, có phong cách..." target="_blank" >Trần Nguyên Đán</a>.</i><sup class="annotation badge" title="^ a ă â b Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 231">1</sup>  <a class="annotation" href="/nhan-vat/tran-nguyen-dan" title="Trần Nguyên Đán (chữ Hán: 陳元旦, 1325 hay 1326? - 1390) hiệu Băng Hồ, là tôn thất nhà Trần, dòng dõi Chiêu Minh vương Trần Quang Khải. Làm quan tới Tư đồ dưới thời các vua Trần Nghệ Tông, Trần Duệ Tông và Trần Phế Đế, tước Chương Túc quốc thượng hầu. Nguyên Đán là người hiền từ, nho nhã, có phong cách..." target="_blank" >Trần Nguyên Đán</a> là tôn thất <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>, làm quan Tư Đồ, gửi gắm con mình cho <a class="annotation" href="/nhan-vat/ho-quy-ly" title="Hồ Quý Ly (chữ Hán: 胡季犛; 1336 –&amp;#160;?), cũng gọi Hồ Chương Hoàng (胡章皇), lấy húy kị Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401, sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. 
+ Năm 1400, Hồ Q..." target="_blank" >Hồ Quý Ly</a>, nên khi <a class="annotation" href="/nhan-vat/ho-quy-ly" title="Hồ Quý Ly (chữ Hán: 胡季犛; 1336 –&amp;#160;?), cũng gọi Hồ Chương Hoàng (胡章皇), lấy húy kị Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401, sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. 
+ Năm 1400, Hồ Q..." target="_blank" >Hồ Quý Ly</a> cướp ngôi <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>, họ Trần bị giết, chỉ có con cháu được Quý Ly cho sống. Đến đời con là Trần Thúc Giao, Trần Thúc Quỳnh đầu hàng, làm ngụy quan cho <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a>, bị <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a> giết cả nhà cùng 500 người, không rõ Trần Nguyên Hãn là con cháu của ai.<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1998, tập 2, tr 222">4</sup> </p>
+<a name="tham-gia-khoi-nghia-lam-son"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Tham gia khởi nghĩa Lam Sơn</h2>
+<a name="gia-nhap-quan-lam-son"></a><h3>Gia nhập quân Lam Sơn</h3>
+<p>Sách Đại việt thông sử chép rằng:Khi <a class="annotation" href="/nhan-vat/nha-ho" title="Nhà Hồ (chữ Hán: 胡朝, Hồ Triều) là triều đại phong kiến trong lịch sử Việt Nam, bắt đầu khi Hồ Quý Ly lên ngôi năm 1400 sau khi giành được quyền lực từ tay nhà Trần và chấm dứt khi Hồ Hán Thương bị quân Minh bắt vào năm 1407 – tổng cộng là 7 năm. Quốc hiệu Đại Việt đã đổi thành Đại Ngu năm 1400...." target="_blank" >nhà Hồ</a> mất, quân Minh xâm lược, trăm họ lầm than, Trần Nguyên Hãn nuôi chí cứu đời giúp dân. Một hôm đến lễ thần ở đền Bạch Hạc, thấy thần ở đền <a class="annotation" href="/dia-danh/nui-tan-vien" title="Ba Vì là một dãy núi đất và đá vôi lớn trải trên một phạm vi rộng chừng 5000 ha ở ba huyện Ba Vì (Hà Nội), Lương Sơn và Kỳ Sơn (Hòa Bình), cách nội thành Hà Nội chừng 60km. 
+ Trên Ba Vì có nhiều ngọn núi, nhưng nổi tiếng nhất là Tản Viên (còn gọi là Ngọc Tản, Tản Sơn, hoặc Phượng Hoàng Sơn). Núi này..." target="_blank" >núi Tản Viên</a> bảo với thần ở đền Bạch Hạc rằng trời đã sai <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a>, người ở Lam Sơn làm vua nước An Nam. Vì thế ông mới vào Thanh Hóa tìm <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a>, một lòng theo. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> biết tài lược của ông, đãi ngộ rất hậu, cho dự bàn mưu kín, cho theo đánh giặc luôn lập công. Năm Ất Tỵ (1425), ông được <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> lệnh cho ông cùng Thượng tướng <a class="annotation" href="/nhan-vat/le-no" title="Thượng tướng quân Doãn Nỗ (尹弩, 1393-1439), còn được chép là Lê Nỗ (黎弩) là một khai quốc công thần thời nhà Lê sơ. Ông là một trong 50 tướng văn, tướng võ, tham gia cuộc Khởi nghĩa Lam Sơn của Lê Lợi ngay từ lúc đầu tiên vào năm 1418...." target="_blank" >Lê Nỗ</a>, chấp lệnh Lê Đa Bồ đem hơn 1000 quân và một con voi đi đánh các xứ Tân Bình, Thuận Hóa.<sup class="annotation badge" title="^ a ă â b Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 231">1</sup> </p>
+<a name="danh-tan-binh-thuan-hoa"></a><h3>Đánh Tân Bình, Thuận Hóa</h3>
+<p>Năm Ất Tỵ (1425), mùa thu, tháng 7, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> phán đoán rằng thành quân Minh ở các xứ Thuận Hóa, Tân Bình đã từ lâu không thông tin tức với Nghệ An và Đông Đô, bảo các tướng: <i>Người làm tướng giỏi ngày xưa bỏ chỗ rắn đánh chỗ mền, tránh chỗ mạnh đánh chỗ yếu, như thế chỉ dùng một nữa sức mà nên công gấp đôi</i>. Liền sai ông cùng Thượng tướng <a class="annotation" href="/nhan-vat/le-no" title="Thượng tướng quân Doãn Nỗ (尹弩, 1393-1439), còn được chép là Lê Nỗ (黎弩) là một khai quốc công thần thời nhà Lê sơ. Ông là một trong 50 tướng văn, tướng võ, tham gia cuộc Khởi nghĩa Lam Sơn của Lê Lợi ngay từ lúc đầu tiên vào năm 1418...." target="_blank" >Lê Nỗ</a>, chấp lệnh Lê Đa Bồ đem hơn 1000 quân và một con voi đi đánh các xứ Tân Bình, Thuận Hóa.<sup class="annotation badge" title="^ a ă â b Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 231">1</sup> <sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 336">5</sup> <sup class="annotation badge" title="^ a ă â b c Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232">6</sup> </p>
+<p>Quân khởi nghĩa đến sông Bố Chính<sup class="annotation badge" title="^ Sông Bố Chính: tức là sông Gianh, tỉnh Quảng Bình">7</sup>  thì gặp quân Minh. Trần Nguyên Hãn, <a class="annotation" href="/nhan-vat/le-no" title="Thượng tướng quân Doãn Nỗ (尹弩, 1393-1439), còn được chép là Lê Nỗ (黎弩) là một khai quốc công thần thời nhà Lê sơ. Ông là một trong 50 tướng văn, tướng võ, tham gia cuộc Khởi nghĩa Lam Sơn của Lê Lợi ngay từ lúc đầu tiên vào năm 1418...." target="_blank" >Lê Nỗ</a>, Lê Đa Bồ đưa quân vào chỗ hiểm yếu, bí mật mai phục ở Hà Khương để nhử giặc. Tướng Minh là Nhậm Năng đem hết quân vào, ông cùng Doãn Nỗ, Lê Đa Bồ hợp binh tượng còn lại để đánh rồi giả cách thua chạy. Nhậm Năng đuổi theo, quân mai phục đánh kẹp 2 bên, quân Minh tan vỡ, bị chém và chết đuối rất nhiều.<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 336">5</sup> <sup class="annotation badge" title="^ a ă â b c Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232">6</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> </p>
+<p>Tuy thắng, nhưng quân của ông và Doãn Nỗ có ít, mà quân Minh vẫn đông, họ sai người cấp báo và xin quân. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai <a class="annotation" href="/nhan-vat/le-ngan" title="Lê Ngân (chữ Hán: 黎銀,&amp;#160;?-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã Đàm Di, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Ngân theo Lê Lợi lúc mới khởi binh, lập nhiều công lao, lúc bị vây ở Ai Lao, lúc hết lương ở Linh Sơn, lập chiến công ở trận Bồ Đằng, ..." target="_blank" >Lê Ngân</a>, <a class="annotation" href="/nhan-vat/le-boi" title="Lê Bôi (1380-?),tên thật là Phạm Bôi, người làng Địa Linh, nay thuộc làng Đông Linh, xã An Bài, huyện Quỳnh Phụ, tỉnh Thái Bình (nay là xã Tình Di, huyện Đỗ Gia, nay là xã Sơn Diệm, huyện Hương Sơn, tỉnh Hà Tĩnh) trong một gia đình khoa bảng, là khai quốc công thần nhà Lê sơ trong lịch sử Việt Nam. ..." target="_blank" >Lê Bôi</a>, Lê Văn An đem 70 chiếc thuyền chiến vượt biển đến. Được tin thắng trận trước đó, liền thừa thắng đánh vào các xứ Tân Bình, Thuận Hóa. Quân và dân các nơi bị quân Minh chiếm đều quy thuận, quân Minh rút vào thành cố thủ. Các xứ Tân Bình, Thuận hóa đều thuộc về nghĩa quân.<sup class="annotation badge" title="^ a ă â Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 336">5</sup> <sup class="annotation badge" title="^ a ă â b c Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232">6</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> </p>
+<p>Tháng 9, năm Bính Ngọ (1426), <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> nhận được tin báo của Đinh Lễ về chiến thắng Tốt Động, Chúc Động liền đem quân tiến ra Bắc, hợp quân vây Đông Đô. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> chia quân làm 3 cánh, ngày 23 tháng 10, sai Trần Nguyên Hãn, <a class="annotation" href="/nhan-vat/bui-bi" title="Bùi Bị là công thần khai quốc nhà Hậu Lê trong lịch sử Việt Nam...." target="_blank" >Bùi Bị</a> đem hơn trăm chiếc thuyền thủy quân, ngược dòng sông Đại Lũng ra cửa <a class="annotation" href="/dia-danh/song-hat" title="Sông Đáy là một trong những con sông dài ở miền Bắc Việt Nam, nó là con sông chính của lưu vực sông Nhuệ - Đáy ở phía tây nam vùng châu thổ sông Hồng. Sông Đáy chảy qua các tỉnh thành Hà Nội, Hà Nam, Ninh Bình và Nam Định với dòng sông chảy gần song song bên hữu ngạn hạ lưu sông Hồng. Trong lưu vực ..." target="_blank" >sông Hát</a>, rồi thuận dòng xuôi đến bến Đông Bộ Đầu <a class="annotation" href="/dia-danh/song-lo" title="Sông Lô (ở Trung Quốc gọi là Bàn Long Giang (Pan Long Jiang)) là phụ lưu tả ngạn (bên trái) của sông Hồng, bắt nguồn từ tỉnh Vân Nam (Trung Quốc), chảy vào Việt Nam tại xã Thanh Thuỷ, huyện Vị Xuyên, tỉnh Hà Giang. Điểm cuối là ngã ba Việt Trì, còn gọi là ngã ba Hạc, thành phố Việt Trì, tỉnh Phú Thọ..." target="_blank" >sông Lô</a>; sai Đinh Lễ đem hơn 1 vạn quân bộ bí mật tiến đến cầu Tây Dương; <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> đích thân dẫn binh tượng đến cửa Nam ngoài <a class="annotation" href="/dia-danh/thanh-dai-la" title="Thành Hà Nội do Gia Long xây dựng cũng làm theo thể thức các tỉnh thành khác và điều chủ yếu là không được to rộng hơn Phú Xuân. Thành vuông xây theo kiểu Vauban của Pháp. Thành hình vuông mỗi bề chừng một cây số xung quanh là hào nước sâu. Bốn bức tường thành tương ứng với bốn con phố hiện nay là: ..." target="_blank" >thành Đại La</a> để đánh thành Đông Quan.<sup class="annotation badge" title="^ a ă â b c Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232">6</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 339">9</sup> . Đến đêm, hồi canh ba, quân 3 mặt đánh ập vào, phóng lửa đốt các nhà ở ngoài thành, khói lửa mù mịt đầy trời. Các doanh quân đóng ngoài thành của Phương Chính tranh nhau chạy vào cửa thành xác chết gối lên nhau. Quân Lam Sơn bắt hết những người trong nước buộc phải theo quân Minh và hơn trăm chiến thuyền cùng rất nhiều khí giới, nghi trượng. Quân Minh biết là quân dân các vùng gần đó đều theo về nghĩa quân, mỗi ngày một cùng quẫn, lại đắp thêm tường lũy, liều chết cố thủ, để đợi viện binh<sup class="annotation badge" title="^ a ă â b c Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232">6</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 339">10</sup> .</p>
+<a name="ha-thanh-xuong-giang"></a><h3>Hạ thành Xương Giang</h3>
+<p>Mùa thu, tháng 9, năm Đinh Mùi, Trần Nguyên Hãn được phong làm Thái úy. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai Thái úy Trần Nguyên Hãn, Tư mã <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a>, thiếu úy <a class="annotation" href="/nhan-vat/ly-trien" title="Lý Triện (?-1427) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bái Đôi, huyện Lôi Dương,Thanh Hoá, Việt Nam. Với chiến tích ở trận Tốt Động, Chúc Động, sử gia Ngô Sỹ Liên cho rằng ông cùng với Đinh Lễ đứng đầu trong các tướng giỏi của nghĩa quân Lam Sơn...." target="_blank" >Lý Triện</a>, <a class="annotation" href="/nhan-vat/nguyen-ly" title="Nguyễn Lý hay Lê Lý (? - 1445) là tướng quân Lam Sơn, công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam.Ông tham dự Hội thề Lũng Nhai, tham gia khởi nghĩa từ buổi đầu, lập chiến công ở Lạc Thủy, Thi Lang, Trà Lân, Nghệ An, trận Chi Lăng Xương Giang. Sau chiến tranh ông được phong làm Hương thượng..." target="_blank" >Nguyễn Lý</a>, đánh thành Xương Giang.<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233">11</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 349">12</sup> </p>
+<p>Tướng chỉ huy <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> là Kim Dận giữ thành này để bảo vệ con đường rút về Bắc của quân Minh, cùng với người mới nhận chức là <a class="annotation" href="/nhan-vat/ly-nham" title="Lý Nhiệm (chữ Hán: 李任,&amp;#160;? – 1427), hay Lý Nhậm, Lý Nhâm, người huyện Vĩnh Khang , tướng lĩnh nhà Minh, tự sát khi nghĩa quân Lam Sơn đánh hạ thành Xương Giang  tại Việt Nam. 
+ Lý Nhiệm ban đầu làm Yên Sơn vệ chỉ huy thiêm sự, theo Minh Thành Tổ nổi binh cướp ngôi, nhờ đó dần làm đến Đô chỉ huy đ..." target="_blank" >Lý Nhậm</a>, ra sức cố thủ. Nghĩa quân bao vây hơn 6 tháng, đánh nhau ở Khoái Châu, Lạng Giang không phân thắng bại. Nghĩa quân không lên được thành, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> thấy viện binh của quân Minh sắp đến, mới sai các tướng, trong đó có Trần Nguyên Hãn, ra đánh gấp.<a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai các tướng đắp đất, mở đường đánh nhau với quân Minh, đào đường ngầm, dùng câu liên, giáo, nỏ cứng, hỏa tiễn, hỏa pháo, bốn mặt cùng đánh, không đầy một giờ đã hạ được thành. <a class="annotation" href="/nhan-vat/ly-nham" title="Lý Nhiệm (chữ Hán: 李任,&amp;#160;? – 1427), hay Lý Nhậm, Lý Nhâm, người huyện Vĩnh Khang , tướng lĩnh nhà Minh, tự sát khi nghĩa quân Lam Sơn đánh hạ thành Xương Giang  tại Việt Nam. 
+ Lý Nhiệm ban đầu làm Yên Sơn vệ chỉ huy thiêm sự, theo Minh Thành Tổ nổi binh cướp ngôi, nhờ đó dần làm đến Đô chỉ huy đ..." target="_blank" >Lý Nhậm</a> và Kim Dận tự sát. Nghĩa quân thu vàng lụa, con gái đem chia đều cho binh sĩ. Vương Thông nghe tin thua trận phải làm văn tế.<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233">13</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 349">14</sup> </p>
+<a name="tham-gia-danh-bai-vien-binh-nha-minh"></a><h3>Tham gia đánh bại viện binh <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a></h3>
+<p>Ngày 18, tháng 9 năm Đinh Mùi (1427), hai cánh viện binh <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> do An Viễn hầu Liễu Thăng chỉ huy tiến vào Lạng Sơn và Kiềm quốc công Mộc Thạnh vào cửa Lê Hoa<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233">15</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350">16</sup> Ngày 20, cánh quân do Liễu Thăng chỉ huy bị <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a>, Lưu Nhân Chú, Trần Lựu, Lê Lãnh, <a class="annotation" href="/nhan-vat/dinh-liet" title="Đinh Liệt (chữ Hán: 丁列) hay Lê Liệt (? - 1471) là công thần khai quốc nhà nhà Lê Sơ trong lịch sử Việt Nam, người thôn Phúc Long, xã Minh Tiến, huyện Ngọc Lặc, Thanh Hóa. 
+ Đinh Liệt cùng anh ruột là Đinh Lễ là cháu gọi Lê Thái Tổ bằng cậu. Ông khi còn trẻ thường đi theo cận vệ cho Lê Lợi...." target="_blank" >Đinh Liệt</a>, <a class="annotation" href="/nhan-vat/le-thu" title="Lê Thụ (?-1460), là một tướng lĩnh, khai quốc công thần nhà Lê sở trong lịch sử Việt Nam. Lê Thụ phục vụ dưới bốn triều vua Lê Thái Tổ, Lê Thái Tông, Lê Nhân Tông, Lê Nghi Dân, làm quan đến chức Thái úy...." target="_blank" >Lê Thụ</a> đánh bạo ở Chi Lăng, Liễu Thăng bị chém ở núi Mã Yên. Sau một loạt thất bại và nhiều tướng soái chết,Thôi Tụ, <a class="annotation" href="/nhan-vat/hoang-phuc" title="Hoàng Phúc (黃福, 1363-1440), tự là Như Tích (如錫), biệt hiệu Hậu Nhạc Ông, người Xương Ấp, Sơn Đông, là một đại thần triều Minh, từng làm tán quân vụ ở An Nam thời Kỷ thuộc Minh...." target="_blank" >Hoàng Phúc</a> dẫn quân tiến lên, nhưng bị Lê Lý và Lê Văn An đem 3 vạn quân bao vây bốn mặt, lại dựng rào lũy ở tả ngạn sông Xương Giang để ngăn chặn<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233">17</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350">18</sup> .</p>
+<p>Trong lúc đó <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai Trần Nguyên Hãn chặn đường vận chuyển lương thực quân Minh. Đầu tháng 11, quân Lam Sơn tổng tấn công, quân Minh đại bại, bị giết và bắt sống toàn bộ cùng các tướng<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233">19</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350">20</sup> .</p>
+<a name="hoi-the-dong-quan"></a><h3>Hội thề Đông Quan</h3>
+<p>Hội thề này – mà về sau sách sử gọi là hội thề Đông Quan – diễn ra vào tháng 12–1427 tại phía nam thành, bên bờ <a class="annotation" href="/dia-danh/song-cai" title="Cụm từ Sông Cái có thể có một trong các nghĩa sau: 
+ Tham khảo:..." target="_blank" >sông Cái</a>. Trong danh sách những người tham gia hội thề của phía Lam Sơn, Trần Nguyên Hãn đứng tên thứ hai, sau <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a><sup class="annotation badge" title="^ Lê Quý Đôn, sách đã dẫn, trang 233">21</sup> </p>
+<a name="chuc-vu-va-khen-thuong"></a><h2>Chức vụ và khen thưởng</h2>
+<p>Khoảng năm 1424-1425, Trần Nguyên Hãn là Tư đồ. Năm 1427, sau chiến tích hãm Đông Quan, ông được phong là Thái úy</p>
+<p>Đại Việt sử ký toàn thư ở chương X viết "Đại hội các tướng và các quan văn võ để định công, ban thưởng, xét công cao thấp mà định thứ bậc. Lấy thừa chỉ <a class="annotation" href="/nhan-vat/nguyen-trai" title="Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc,..." target="_blank" >Nguyễn Trãi</a> làm Quan phục hầu; tư đồ Trần Hãn làm Tả tướng quốc; Khu mật đại sứ <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo làm Thái Bảo; đều được ban quốc tính"<sup class="annotation badge" title="^ a ă â b c d đ e ê g Đại Việt sử ký toàn thư">8</sup> <sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 362">22</sup> </p>
+<a name="cai-chet"></a><h2>Cái chết</h2>
+<p>Theo sách Đại Việt thông sử: Năm 1429, Trần Nguyên Hãn xin về về hư. Từ trước đó, Nguyên Hãn có nói riêng với người thân cận:<i>Nhà vua có tướng như Việt vương Câu Tiễn, cho nên, ta không thể yên hưởng vui sướng được.</i> <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> y cho Nguyên Hãn được về, nhưng dặn rằng cứ một năm hai lần lại vào triều chầu vua. Ông về làng làm nhiều nhà cửa, xây bằng gạch hoa và đóng thuyền chở binh khí. Có người tố cáo ông mưu phản. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai lực sĩ xá nhân bắt về hỏi tội. Thuyền đi đến bến xã Đông Sơn, Trần Nguyên Hãn phẫn uất khấn trời rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td >...<i>Tôi với Hoàng thượng cùng mưu cứu nước, cứu dân, nay sự nghiệp lớn đã thành, Hoàng thượng nghe lời dèm mà hại tôi. Hoàng thiên biết xin soi xét cho.<sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 190">23</sup> </i></td> <td >”</td> </tr> </table>
+<p>Nói xong bỗng trờ nổi gió to làm lật thuyền, bốn mươi hai lực sĩ xá nhân và Trần Nguyên Hãn đều chết đuối cả, chỉ có hai gia đồng thoát chết. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> nghe tin, xuống chiếu tịch thu tất cả vợ con, ruộng đất của cải của ông. Cái chết của Trần Nguyên Hãn được Đại Việt thông sử mô tả khác nhau trong 2 thiên truyện: <i>Đế kỷ đệ nhất</i> ghi ông tự sát<sup class="annotation badge" title="^ Lê Quý Đôn, sách đã dẫn, tr 81">24</sup> ; <i>truyện Trần Nguyên Hãn</i> lại mô tả sau lời than của ông, gió to nổi lên làm lật thuyền khiến ông và 42 lực sĩ đều chết, chỉ có 2 gia đồng sống sót<sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 190">23</sup> .</p>
+<a name="di-luy-va-phuc-hoi"></a><h3>Di lụy và phục hồi</h3>
+<p>Năm Diên Ninh thứ 5 (1455), nhân đại xá, vua <a class="annotation" href="/nhan-vat/le-nhan-tong" title="Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 – 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459. 
+ Lê Nhân Tông lên ngôi lúc mới 1 tuổi, nên trong 10 năm ..." target="_blank" >Lê Nhân Tông</a> thương ông vô tội, ban chiếu trả lại ruộng nương của cải, để biểu dương người có công lao cũ.<sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, trang 234">25</sup>  Triều đình đời vua <a class="annotation" href="/nhan-vat/le-nhan-tong" title="Lê Nhân Tông (chữ Hán: 黎仁宗, 9 tháng 5 năm 1441 – 3 tháng 10 năm 1459), là vị hoàng đế thứ ba của nhà Hậu Lê trong lịch sử Việt Nam, trị vì trong vòng 17 năm, từ năm 1442 sau khi Lê Thái Tông qua đời đến khi bị Lê Nghi Dân ám sát vào năm 1459. 
+ Lê Nhân Tông lên ngôi lúc mới 1 tuổi, nên trong 10 năm ..." target="_blank" >Lê Nhân Tông</a> chỉ nhân dịp đại xá mà thương cho hậu duệ những người phạm tội như <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a>, <a class="annotation" href="/nhan-vat/nguyen-trai" title="Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc,..." target="_blank" >Nguyễn Trãi</a>, <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo..., trả lại ruộng đất cũ cho họ, chứ không minh oan cho họ. Vị vua sau này là <a class="annotation" href="/nhan-vat/le-thanh-tong" title="Lê Thánh Tông (chữ Hán: 黎聖宗; 25 tháng 8 năm 1442 – 3 tháng 3 năm 1497), là hoàng đế thứ năm của nhà Lê sơ nước Đại Việt. Ông trị vì từ năm 1460 đến năm 1497, tổng cộng 38 năm, là vị hoàng đế trị vì lâu nhất thời Lê sơ và cũng là một trong những vị vua cai trị trong thời kỳ hòa bình lâu nhất trong lị..." target="_blank" >Lê Thánh Tông</a> mới thực sự minh oan, tặng phong tước cho <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a>, <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo, <a class="annotation" href="/nhan-vat/nguyen-trai" title="Nguyễn Trãi (chữ Hán: 阮廌, 1380 – 19 tháng 9 năm 1442), hiệu là Ức Trai (抑齋), là một nhà chính trị, nhà thơ dưới thời nhà Hồ và nhà Lê sơ Việt Nam. Thi đỗ Thái học sinh năm 1400, Nguyễn Trãi làm quan dưới triều Hồ, nhà Minh xâm lược, cha ông là Nguyễn Phi Khanh đầu hàng rồi bị bắt giải về Trung Quốc,..." target="_blank" >Nguyễn Trãi</a>, còn riêng Trần Nguyên Hãn không thấy minh oan và được tặng chức tước gì, nghĩa là triều <a class="annotation" href="/nhan-vat/nha-hau-le" title="Nhà Hậu Lê (Hán-Nôm: 家後黎・後黎朝, nhà Hậu Lê • Hậu Lê triều; 1427-1789) là một triều đại phong kiến Việt Nam, tồn tại sau thời Bắc thuộc lần 4 và đồng thời với nhà Mạc, nhà Tây Sơn trong một thời gian, trước nhà Nguyễn. 
+ Nhà Hậu Lê do Lê Thái Tổ lập ra, được phân biệt với nhà Tiền Lê (980-1009) do Lê Đ..." target="_blank" >nhà Hậu Lê</a> vẫn xem ông là tội phạm. Đến đời <a class="annotation" href="/nhan-vat/nha-mac" title="Nhà Mạc (chữ Hán: 莫朝 / Mạc triều) là triều đại phong kiến trong lịch sử Việt Nam, bắt đầu khi Mạc Đăng Dung, sau khi dẹp được các bè phái trong cung đình, đã ép vua Lê Cung Hoàng nhà Hậu Lê nhường ngôi tháng 6 năm 1527 và chấm dứt khi vua Mạc Mậu Hợp bị quân đội Lê-Trịnh do Trịnh Tùng chỉ huy đánh b..." target="_blank" >nhà Mạc</a>, triều đại cướp ngôi <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a>, ông mới được truy phong là <i>Tả tướng quốc, Trung liệt Đại vương</i><sup class="annotation badge" title="^ Nguồn: Lịch triều hiến chương loại chí, Phan Huy Chú, tập 1, Bản dịch của Nhà xuất bản Khoa học xã hội - 1992, trang 320.">26</sup> </p>
+<a name="nguyen-nhan"></a><h3>Nguyên nhân</h3>
+<ul> <li>Theo sách Đại Việt thông sử, quyển 2, Đế kỷ đệ nhị<sup class="annotation badge" title="^ Lê Quý Đôn, sách đã dẫn, tr 81, 88, 93">27</sup> : Tháng 11, năm 1430, thổ tù ở châu Thạch Lam Thái Nguyên là Nông Đắc Thái và ở châu Thượng Lang liên kết với Trần Hãn làm phản, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> bèn thân chinh và tuyển binh ở bãi Bồ Đề, giết <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo. Đến tháng 2, 1431 <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> đánh bại lực lượng này, khiến Bế Khắc Thiệu thua chạy rồi chết, bắt sống được Nông Đắc Thái.</li> </ul>
+<p>Đến tháng 12, năm 1431, thổ tù Đào Cát Hãn ở Mường Lễ do thông đồng với <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo, lại liên kết với quân Ai Lao xâm lấn Mường Mỗi. <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> sai con trưởng <a class="annotation" href="/nhan-vat/le-tu-te" title="Lê Tư Tề (chữ Hán: 黎思齊;&amp;#160;? – 1438), hay Quận Ai vương (郡哀王), là hoàng tử nhà Lê sơ trong lịch sử Việt Nam. Ông đã cùng cha là Lê Thái Tổ tham gia khởi nghĩa Lam Sơn đánh đuổi quân Minh, làm đến chức Tư đồ, thành lập Triều đại nhà Lê Sơ. 
+ Khi vua Lê Thái Tổ về già, ông được phong làm Quận vương,..." target="_blank" >Lê Tư Tề</a> và tướng <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a> mang quân đánh, sau đó lại tự mình thân chinh. Đến tháng giêng năm 1432, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> giết tướng Ai Lao là Kha Lại, Đào Cát Hãn phải chạy trốn, đổi Mường Lễ thành châu Phục Lễ. Đến tháng 3, khi kéo quân trở về kinh sư, làm lễ hiến phù tại Thái miếu, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> ban tờ chiếu trong đó có chép:<i>Năm ngoái thằng Khắc Thiệu ở Thái Nguyên mưu làm phản đích là do thằng Hãn âm mưu, năm nay Cát Hãn làm phản là do âm mưu của Xảo...phàm bầy tôi nên lấy tên Hãn, tên Xảo làm răn...</i><sup class="annotation badge" title="^ Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 2007, tr 112, 113, 114, 115">28</sup> </p>
+<ul> <li>Theo sách Đại Việt sử ký toàn thư, vụ việc Bế Khắc Thiệu và Nông Đắc Thái nổi dậy làm phản,sử chép rằng hai người này ở địa phương tranh nhau tự lập, không do ai xui giục<sup class="annotation badge" title="^ Đại Việt sử ký toàn thư, Bản kỷ quyển 10">29</sup> .</li> </ul>
+<ul> <li>Sách Khâm định Việt sử thông giám cương mục chép vụ việc họ Nông và họ Bế làm phản và việc hạ lệnh bắt Trần Nguyên Hãn là 2 việc riêng rẽ, không liên quan tới nhau; sách này cũng khẳng định Trần Nguyên Hãn bị gièm pha vu cáo là có mưu phản. Khi đề cập tới việc <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> đánh xong họ Nông và họ Bế, ban chiếu kể tội họ cho các nơi biết cũng không đề cập tới người khác xui giục<sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục, Chính biên quyển 15">30</sup> .</li> </ul>
+<p>Theo sách Đại Việt thông sử của <a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, <i>vua Thái Tổ tuổi già, lắm bệnh, sợ ngày sau chúa nhỏ (thái tử Nguyên Long mới lên 8) cầm quyền, các đại thần như <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo và Trần Nguyên Hãn "sẽ có chí khác"</i><sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 192">31</sup> . Vì vậy, bề ngoài <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> <i>"tỏ ra trọng vọng nhưng bên trong vẫn nghi ngờ. Bọn gian thần Trình Hoàng Bá, Lê Quốc Khí, Đinh Bang Bản, Nguyễn Tông Chí, Lê Đức Dư đón biết ý vua tranh nhau dâng mật sớ khuyên vua sớm trừ đi"</i><sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 193">32</sup> . Khi <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo và Trần Nguyên Hãn đã bị trừ bỏ, vua Lê <i>"hối hận, thương hai người bị oan"</i>, hạ lệnh cho những kẻ tố cáo ông về sau không được tố cáo ai nữa và dù có tài cũng không được dùng nữa. Khi <a class="annotation" href="/nhan-vat/le-thai-tong" title="Lê Thái Tông (chữ Hán: 黎太宗; 20 tháng 11, 1423 - 4 tháng 8, 1442), là vị Hoàng đế thứ hai của triều đại Hậu Lê trong lịch sử Việt Nam. Ông trị vì Đại Việt từ năm 1433 tới năm 1442, tổng cộng 9 năm. 
+ Triều đại của Lê Thái Tông đánh dấu một thời kì thịnh trị, tiếp nối thành tựu của thời đại của Lê Thá..." target="_blank" >Lê Thái Tông</a> (Nguyên Long) lên ngôi, phụ chính <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a> định dùng lại bọn gian thần đó nhưng bị các quan trong triều phản đối đành phải thôi<sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 193">32</sup> .</p>
+<ul> <li>Theo ý kiến phỏng đoán trong sách của nhóm Phan Duy Kha, Lã Duy Lan,...:Ông nằm trong vòng xoáy tranh giành quyền lực trong triều đình <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> thời hậu chiến. Có ý kiến phỏng đoán rằng Trần Nguyên Hãn và <a class="annotation" href="/nhan-vat/pham-van" title="Phạm Văn (范文,&amp;#160;?-349) là tên (phiên âm Hán-Việt) của vị vua mở đầu triều đại thứ hai của Chăm Pa sau triều đại thứ nhất do Khu Liên thành lập 
+ Ông xuất thân là một nô bộc của vua Phạm Dật, vị vua cuối cùng của triều đại thứ nhất. Ông là người có tài nên được vua Phạm Dật tin dùng trong việc xây..." target="_blank" >Phạm Văn</a> Xảo ủng hộ <a class="annotation" href="/nhan-vat/le-tu-te" title="Lê Tư Tề (chữ Hán: 黎思齊;&amp;#160;? – 1438), hay Quận Ai vương (郡哀王), là hoàng tử nhà Lê sơ trong lịch sử Việt Nam. Ông đã cùng cha là Lê Thái Tổ tham gia khởi nghĩa Lam Sơn đánh đuổi quân Minh, làm đến chức Tư đồ, thành lập Triều đại nhà Lê Sơ. 
+ Khi vua Lê Thái Tổ về già, ông được phong làm Quận vương,..." target="_blank" >Lê Tư Tề</a>, con trưởng của <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> trong khi <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a>, <a class="annotation" href="/nhan-vat/le-ngan" title="Lê Ngân (chữ Hán: 黎銀,&amp;#160;?-1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người xã Đàm Di, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Ngân theo Lê Lợi lúc mới khởi binh, lập nhiều công lao, lúc bị vây ở Ai Lao, lúc hết lương ở Linh Sơn, lập chiến công ở trận Bồ Đằng, ..." target="_blank" >Lê Ngân</a>, Phạm Vấn... ủng hộ người con thứ là Nguyên Long. Khi phái <a class="annotation" href="/nhan-vat/le-sat" title="Lê Sát (chữ Hán: 黎察,&amp;#160;? – 1437) là công thần khai quốc nhà Lê sơ trong lịch sử Việt Nam, người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam. 
+ Lê Sát trí dũng hơn người, theo Lê Lợi khởi binh, trải bao gian hiểm, lập nhiều chiến công. Năm Mậu Thân (1428), Lê Lợi phong thưởng c..." target="_blank" >Lê Sát</a> thắng thế và <a class="annotation" href="/nhan-vat/le-tu-te" title="Lê Tư Tề (chữ Hán: 黎思齊;&amp;#160;? – 1438), hay Quận Ai vương (郡哀王), là hoàng tử nhà Lê sơ trong lịch sử Việt Nam. Ông đã cùng cha là Lê Thái Tổ tham gia khởi nghĩa Lam Sơn đánh đuổi quân Minh, làm đến chức Tư đồ, thành lập Triều đại nhà Lê Sơ. 
+ Khi vua Lê Thái Tổ về già, ông được phong làm Quận vương,..." target="_blank" >Lê Tư Tề</a> bị ruồng bỏ, thì ông cũng không tránh khỏi hậu họa<sup class="annotation badge" title="^ Phan Duy Kha, Lã Duy Lan, Đinh Công Vĩ, sách đã dẫn, tr 982-983">33</sup> <sup class="annotation badge" title="^ a ă Lê Quý Đôn, sách đã dẫn, tr 192">31</sup> .</li> </ul>
+<a name="loi-binh-cua-tran-quoc-vuong"></a><h3>Lời bình của <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a></h3>
+<p>Sử gia <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a> bàn về cái chết của Trần Nguyên Hãn như sau:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td >...<i>Phạm Lãi... đi biệt, đổi tên họ, dẫn theo người đẹp Tây Thi... bỏ hoàn toàn ham muốn quyền lực.</i> <p><i>Nên vua dù có biết (mà biết thực, nên mới cho ghi vào sử), cũng nghĩ ông này bây giờ... không dòm ngó gì tới ngôi báu.</i></p> <p><i>Đàng này...</i></p> <p><i>...Nguyên Hãn lại "dại dột" làm nhiều nhà cửa, xây bằng gạch hoa (a, có vẻ như xây biệt đô, biệt cung), thuần phục và tậu voi tậu trâu từng đàn đi lại rầm rập, lại "đóng thuyền, chở binh khí" nữa, ra cái dáng "sứ quân", "nghênh ngang một cõi".</i></p> <p><i>Thế thì chưa biết "động cơ chủ quan" như thế nào, chứ như thế thì bịt sao nổi miệng thế xầm xì phao tin đồn (cơ chế của tin đồn là mối quan tâm tới một sự kiện nhưng thiếu thông tin về sự kiện đó). Người ta vu cho ông làm phản. Và ông bị giết hại (hay bị "bức tử", "tự sát", hay là "chết đuối"…thì cũng vậy thôi) là phải."</i><sup class="annotation badge" title="^ Văn hóa Việt Nam– tìm tòi và suy ngẫm, Trần Quốc Vượng, trang 749.">34</sup> </p> </td> <td >”</td> </tr> </table>
+<a name="gia-quyen-va-con-chau-doi-sau"></a><h2>Gia quyến và con cháu đời sau</h2>
+<p>Trần Nguyên Hãn có 3 vợ. Với 2 vợ đầu, ông có ba con trai. <a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a> chép trong <i>Lê triều thông sử</i> rằng ông bị bắt về kinh sư cùng người vợ thứ ba và người con nhỏ mới sinh (hài đồng tử). Sau khi ông chết, <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a> cho bắt hai mẹ con bà này về kinh quản thúc, gia sản của Trần Nguyên Hãn bị tịch thu. Con cháu ông không có ai bị giết.</p>
+<p>Theo gia phả các chi họ ở xã Sơn Đông, huyện Lập Thạch, <a class="annotation" href="/dia-danh/tinh-vinh-phuc" title="Vĩnh Phúc là một tỉnh vùng đồng bằng sông Hồng, Việt Nam vốn bao gồm tỉnh Vĩnh Yên và tỉnh Phúc Yên trước đây. Trong thời kỳ Pháp tạm chiếm đóng miền Bắc giai đoạn 1946-1954, tỉnh này còn có tên gọi là tỉnh Vĩnh Phúc Yên. Vĩnh Phúc là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Theo kết quả điều tr..." target="_blank" >tỉnh Vĩnh Phúc</a>,<sup class="annotation badge" title="^ Ông Trần Thanh San ghi lại trong cuốn gia phả tộc Trần Nguyên Thiên Nghệ Tĩnh trang 61 &amp;amp; 62">35</sup>  thì Trần Nguyên Hãn có ba vợ, hai người vợ đầu là:</p>
+<ul> <li>Bà cả (không ghi tên) người làng Cao Phong, xã Văn Quán,<sup class="annotation badge" title="^ Nay thuộc xã Sơn Đông, Lập Thạch, Vĩnh Phúc.">36</sup> . Ông bà sinh hạ được một con trai là Trần Doãn Hữu, tự là Trung Khang. Trước khi ông Trần Nguyên Hãn xuống thuyền về kinh (theo lệnh triệu hồi của <a class="annotation" href="/nhan-vat/le-loi" title="Lê Thái Tổ (chữ Hán: 黎太祖; 10 tháng 9, 1385 – 5 tháng 10, 1433 (22 tháng Tám năm Quý Sửu)), tên thật là Lê Lợi (黎利), là vị hoàng đế đầu tiên của nhà Hậu Lê – triều đại lâu dài nhất trong lịch sử Việt Nam. Ông trị vì từ năm 1428 đến khi qua đời, và sử dụng niên hiệu Thuận Thiên (順天). 
+ Lê Lợi xuất thâ..." target="_blank" >Lê Lợi</a>), ông cho mẹ con bà chạy trốn vào rừng Thần; sau trở lại Sơn Đông.</li> <li>Vợ thứ hai là bà Lê Thị Tuyển <sup class="annotation badge" title="^ Theo gia phả Minh Nông.">37</sup> . Ông bà sinh hạ hai con trai là Trần Trung Khoản và Trần Đăng Huy, tự là Trung Lương. Khi Trần Nguyên Hãn xuống thuyền về kinh, ông cho ba mẹ con bà Tuyển chạy trốn sang làng Kẻ Nú, phủ Tam Đới huyện Phù Khang, trấn Tây Sơn. Sau người con lớn Trần Trung Khoản tiếp tục bỏ đi và đổi ra họ Quách.<sup class="annotation badge" title="^ Gia phả chi họ Trần ở thôn Hồng Hải - Minh Nông – thành phố Việt Trì.">38</sup>  và Trần Đăng Huy đổi sang họ Đào.</li> </ul>
+<a name="noi-tho-tu-va-di-tich"></a><h2>Nơi thờ tự và di tích</h2>
+<p>Trần Nguyên Hãn được nhiều làng ở Sơn Động và các vùng xung quanh lập đền thờ, nhưng <i>" chính tự"</i> (nơi thờ tự chính, được công nhận và ghi vào <i>" tự điển"</i><sup class="annotation badge" title="^ &quot;Tự điển&quot; tức là &quot;điển các lệ về đền thờ&quot; của nhà Lê.">39</sup> ) là đền Tả tướng. Đền này được xây ngay trên nền ngôi nhà cũ của Trần Nguyên Hãn.<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy.">cần dẫn nguồn</span></i>]</sup></p>
+<p>Nhiều di tích ở Sơn Động hiện nay được cho là có liên quan đến các hoạt động của Trần Nguyên Hãn như rừng Thần, đầm Rạch, cống Khẩu... Ao Tó là nơi ông luyện thủy quân sau khi đã trí sĩ về nhà và cho đóng thuyền lớn. Chợ Gốm là nơi Trần Nguyên Hãn từng hành nghề bán dầu. Hiện nay, dân làng này vẫn làm nghề ép dầu bên cạnh những nghề thủ công khác như làm gốm, sơn, mộc.<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy.">cần dẫn nguồn</span></i>]</sup></p>
+<p>Tên của ông được đặt cho nhiều đường phố tại các thành phố Việt Nam: tại quận Hoàn Kiếm Thành phố Hà Nội, quận Lê Chân Thành phố Hải phòng, Thành phố Đà Nẵng, phường Phước Hòa Thành phố Nha Trang, Thành phố Vũng Tàu, quận 8 <a class="annotation" href="/dia-danh/thanh-pho-ho-chi-minh" title="Thành phố Hồ Chí Minh nghe  (vẫn còn phổ biến với tên gọi cũ là Sài Gòn) là thành phố lớn nhất Việt Nam về dân số và kinh tế, đứng thứ hai về diện tích, đồng thời cũng là một trong những trung tâm kinh tế và văn hóa, giáo dục quan trọng nhất của nước này. Hiện nay, thành phố Hồ Chí Minh là thành phố..." target="_blank" >Thành phố Hồ Chí Minh</a>, thành phố Hạ Long,...</p>
+<p>Đặc biệt tại Trung tâm <a class="annotation" href="/dia-danh/thanh-pho-ho-chi-minh" title="Thành phố Hồ Chí Minh nghe  (vẫn còn phổ biến với tên gọi cũ là Sài Gòn) là thành phố lớn nhất Việt Nam về dân số và kinh tế, đứng thứ hai về diện tích, đồng thời cũng là một trong những trung tâm kinh tế và văn hóa, giáo dục quan trọng nhất của nước này. Hiện nay, thành phố Hồ Chí Minh là thành phố..." target="_blank" >Thành phố Hồ Chí Minh</a> có tượng danh tướng Trần Nguyên Hãn cưỡi ngựa có chim bồ câu trên tay (tưởng nhớ thánh tổ lực lượng truyền tin) được dựng dưới chính thể Việt Nam Cộng hòa ở vòng xoay Quách Thị Trang trước chợ Bến Thành.<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy.">cần dẫn nguồn</span></i>]</sup></p>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<a name="sach-dung-de-trich-dan-tu-lieu-cho-bai-viet"></a><h3>Sách dùng để trích dẫn tư liệu cho bài viết</h3>
+<ul> <li><i>Đại Việt thông sử</i>, <a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, Nhà xuất bản Khoa học xã hội, 1978</li> <li>Đại Việt sử ký toàn thư; Soạn giả <a class="annotation" href="/nhan-vat/le-van-huu" title="Lê Văn Hưu (chữ Hán: 黎文休;1230-1322) là một nhà sử học đời nhà Trần, tác giả bộ Đại Việt sử ký, bộ quốc sử đầu tiên của Việt Nam. Bộ sách này không còn nhưng nhờ nó mà sử gia Ngô Sĩ Liên đã dựa vào để soạn bộ Đại Việt sử ký toàn thư...." target="_blank" >Lê Văn Hưu</a>, <a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a>,...Dịch giả Viện sử học Việt Nam; Nhà xuất bản khoa học xã hội Hà Nội, 1993.</li> <li><i>Văn hóa Việt Nam – tìm tòi và suy ngẫm</i>, <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a>.</li> <li><i>Thuyết Trần</i>, Trần Xuân Sinh, Nhà xuất bản Hải Phòng 2003.</li> <li><i>Đất nước Việt Nam qua các đời</i>, Đào Duy Anh, Nhà xuất bản Văn hóa Thông tin, 2005</li> <li><i>Lịch sử Việt Nam: hỏi và đáp</i>, <a class="annotation" href="/nhan-vat/le-van-lan" title="Lê Văn Lan (sinh năm 1936, người Hà Nội) là giáo sư sử học , tuy nhiên có một số nguồn ghi ông có học hàm phó giáo sư , chuyên ngành cổ sử, phó chủ tịch Hội đồng khoa học Khu di tích lịch sử đền Hùng, một trong những người sáng lập Viện sử học Việt Nam, nhiều năm làm cố vấn lịch sử chương trình Đườn..." target="_blank" >Lê Văn Lan</a>, 2004.</li> <li><i>Đại cương lịch sử Việt Nam</i>, Nhà xuất bản Giáo dục, 2006, tập 1.</li> <li><i>Việt sử giai thoại</i>, <a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a>, Nhà xuất bản Giáo dục, 2003, tập 5.</li> <li><i>Nhìn lại lịch sử</i>, Phan Duy Kha, Lã Duy Lan, Đinh Công Vĩ, Nhà xuất bản Văn hóa Thông tin, 2003.</li> <li><i>Khởi nghĩa Lam Sơn</i>, <a class="annotation" href="/nhan-vat/phan-huy-le" title="Giáo sư, Nhà giáo Nhân dân Phan Huy Lê (sinh ngày 23 tháng 2 năm 1934) là một trong những chuyên gia về lịch sử Việt Nam, Chủ tịch Hội Khoa học Lịch sử Việt Nam: Khóa II (1990–1995), khóa III (1995–2000), khóa IV (2000–2005, khóa V (2005–2010) và khóa VI (2010-2015), Giải thưởng Hồ Chí Minh về Khoa ..." target="_blank" >Phan Huy Lê</a>, Phan Đại Doãn.</li> <li><i>Từ điển chức quan Việt Nam</i>, Đỗ Văn Ninh, Nhà xuất bản Thanh niên, 2006</li> </ul>
+<a name="truyen-thuyet"></a><h3>Truyền thuyết</h3>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-ReferenceA-1">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 231</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Từng giữ chức Quốc tử giám Tế tửu (có thể hiểu nôm na là Hiệu trưởng Quốc tử giám).</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Nguồn: <i>Thuyết Trần</i>, Trần Xuân Sinh, Nhà xuất bản Hải Phòng 2003, trang 493.</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1998, tập 2, tr 222</span></li> <li id="cite_note-ReferenceB-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 336</span></li> <li id="cite_note-ReferenceC-6">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 232</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Sông Bố Chính: tức là <a class="annotation" href="/dia-danh/song-gianh" title="Sông Gianh là một con sông chảy trên địa phận tỉnh Quảng Bình, bắt nguồn từ khu vực ven núi Cô Pi cao 2.017 m thuộc dãy Trường Sơn, chảy qua địa phận các huyện Minh Hóa, Tuyên Hoá, Quảng Trạch, Bố Trạch để đổ ra biển Đông ở Cửa Gianh...." target="_blank" >sông Gianh</a>, <a class="annotation" href="/dia-danh/tinh-quang-binh" title="Quảng Bình (các tên gọi cũ khu vực này gồm: Bố Chính, Tân Bình, Lâm Bình, Tiên Bình, Tây Bình) là một tỉnh duyên hải thuộc vùng Bắc Trung Bộ Việt Nam. Quảng Bình nằm ở nơi hẹp nhất theo chiều Đông-Tây của dải đất hình chữ S của Việt Nam (50 km theo đường ngắn nhất tính từ biên giới Lào ra biển Đông)..." target="_blank" >tỉnh Quảng Bình</a></span></li> <li id="cite_note-DVSK-8">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <sup><i><b>g</b></i></sup> <span class="reference-text">Đại Việt sử ký toàn thư</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 339</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 339</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 349</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 349</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, dịch giả Ngô Thế Long, trang 233</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 350</span></li> <li id="cite_note-21"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, trang 233</span></li> <li id="cite_note-22"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Nhà xuất bản khoa học xã hội, 1993, bản điện tử, trang 362</span></li> <li id="cite_note-ReferenceK-23">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, tr 190</span></li> <li id="cite_note-ReferenceH-24"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, tr 81</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 1976, trang 234</span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text">Nguồn: <i>Lịch triều hiến chương loại chí</i>, <a class="annotation" href="/nhan-vat/phan-huy-chu" title="Phan Huy Chú (Chữ Hán: 潘輝注; 1782 – 1840), tự Lâm Khanh, hiệu Mai Phong; là quan triều nhà Nguyễn, và là nhà thơ, nhà thư tịch lớn, nhà bác học Việt Nam...." target="_blank" >Phan Huy Chú</a>, tập 1, Bản dịch của Nhà xuất bản Khoa học xã hội - 1992, trang 320.</span></li> <li id="cite_note-27"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, tr 81, 88, 93</span></li> <li id="cite_note-28"><b>^</b> <span class="reference-text">Đại Việt thông sử, Nhà xuất bản văn hóa thông tin, 2007, tr 112, 113, 114, 115</span></li> <li id="cite_note-29"><b>^</b> <span class="reference-text">Đại Việt sử ký toàn thư, Bản kỷ quyển 10</span></li> <li id="cite_note-30"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục, Chính biên quyển 15</span></li> <li id="cite_note-ReferenceN-31">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, tr 192</span></li> <li id="cite_note-ReferenceL-32">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><a class="annotation" href="/nhan-vat/le-quy-don" title="Lê Quý Đôn (chữ Hán: 黎貴惇, 1726 - 1784), tên thuở nhỏ là Lê Danh Phương, tự Doãn Hậu (允厚), hiệu Quế Đường; là vị quan thời Lê trung hưng, cũng là nhà thơ, và được mệnh danh là &quot;nhà bác học lớn của Việt Nam trong thời phong kiến&quot;. 
+ Ở thế kỷ 18, các tri thức văn hóa, khoa học của dân tộc được tích lũy..." target="_blank" >Lê Quý Đôn</a>, sách đã dẫn, tr 193</span></li> <li id="cite_note-ReferenceF-33"><b>^</b> <span class="reference-text">Phan Duy Kha, Lã Duy Lan, Đinh Công Vĩ, sách đã dẫn, tr 982-983</span></li> <li id="cite_note-34"><b>^</b> <span class="reference-text"><i>Văn hóa Việt Nam– tìm tòi và suy ngẫm</i>, <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a>, trang 749.</span></li> <li id="cite_note-35"><b>^</b> <span class="reference-text">Ông Trần Thanh San ghi lại trong cuốn gia phả tộc Trần Nguyên Thiên Nghệ Tĩnh trang 61 &amp; 62</span></li> <li id="cite_note-36"><b>^</b> <span class="reference-text">Nay thuộc xã Sơn Đông, Lập Thạch, Vĩnh Phúc.</span></li> <li id="cite_note-37"><b>^</b> <span class="reference-text">Theo gia phả Minh Nông.</span></li> <li id="cite_note-38"><b>^</b> <span class="reference-text">Gia phả chi họ Trần ở thôn Hồng Hải - Minh Nông – <a class="annotation" href="/dia-danh/thanh-pho-viet-tri" title="Việt Trì là một thành phố đô thị loại I trực thuộc tỉnh Phú Thọ, là đô thị trung tâm các tỉnh trung du miền núi Bắc Bộ và là một trong 19 đô thị trung tâm của Việt Nam. Việt Trì là trung tâm kinh tế chính trị, văn hóa, khoa học kĩ thuật của tỉnh Phú Thọ, có vị trí quan trọng về quốc phòng, an ninh v..." target="_blank" >thành phố Việt Trì</a>.</span></li> <li id="cite_note-39"><b>^</b> <span class="reference-text"><i>"Tự điển"</i> tức là "điển các lệ về đền thờ" của <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a>.</span></li> </ol> </div>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/tran-nguyen-dan" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Trần Nguyên Đán            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/tran-nguyet-ho" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Trần Nguyệt Hồ            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/tran-nguyen-han" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

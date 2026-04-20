@@ -1,0 +1,1472 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Trương Hát - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"c632dc3a76bbb1dd6928f189dbf4da98"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Trương Hát" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đ.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/truong-hat" />
+	<meta property="og:image" content="https://nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Trương Hát", "item": "https://nguoikesu.com/nhan-vat/truong-hat" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/truong-hat" }, "headline": "Trương Hát", "description": "Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Giang thượng đẳng thần. &quot;Tam Giang&quot; còn bắt nguồn từ cách gọi chung của ba con sông là sông Cầu, sông Thương, sông Đuống - nơi có nhiều đền thờ hai ông. Hai anh em ngài được đánh giá, đều là bậc tướng, trí dũng song toàn, &quot;sinh vi dũng tướng, tử vi minh thần&quot;. Trong tín ngưỡng dân gian của người Việt cổ vùng trung du thì đền thờ Thánh Tam Giang ban đầu vốn thờ Thần Rắn, về sau mới thờ Trương Hống, Trương Hát.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/truong-hat" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-12-01T09:28:10+07:00", "dateCreated": "2017-12-01T09:28:10+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Trương Hát</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Trương Hát        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#xuat-than" title="">Xuất thân</a></li>
+<li class="level-1"><a href="#giup-trieu-viet-vuong-danh-quan-luong" title="">Giúp Triệu Việt Vương đánh quân Lương</a></li>
+<li class="level-2"><a href="#hoan-canh" title="">Hoàn cảnh</a></li>
+<li class="level-2"><a href="#huong-ung-loi-keu-goi-cua-trieu-quang-phuc" title="">Hưởng ứng lời kêu gọi của Triệu Quang Phục</a></li>
+<li class="level-2"><a href="#tran-dam-da-trach" title="">Trận đầm Dạ Trạch</a></li>
+<li class="level-2"><a href="#toi-trung-chang-tho-hai-vua" title="">Tôi trung chẳng thờ hai vua</a></li>
+<li class="level-1"><a href="#cau-truyen-truyen-thuyet" title="">Câu truyện truyền thuyết</a></li>
+<li class="level-2"><a href="#truyen-thuyet-ve-bai-tho-than-lan-mot" title="">Truyền thuyết về bài thơ Thần lần một</a></li>
+<li class="level-2"><a href="#truyen-thuyet-ve-bai-tho-than-lan-hai" title="">Truyền thuyết về bài thơ Thần lần hai</a></li>
+<li class="level-1"><a href="#mot-so-sac-phong" title="">Một số sắc phong</a></li>
+<li class="level-1"><a href="#noi-tho" title="">Nơi thờ</a></li>
+<li class="level-2"><a href="#di-tich-cap-quoc-gia" title="">Di tích cấp quốc gia</a></li>
+<li class="level-3"><a href="#tai-bac-ninh" title="">Tại Bắc Ninh</a></li>
+<li class="level-3"><a href="#tai-bac-giang" title="">Tại Bắc Giang</a></li>
+<li class="level-2"><a href="#di-tich-cap-tinh" title="">Di tích cấp tỉnh</a></li>
+<li class="level-2"><a href="#di-tich-khac" title="">Di tích khác</a></li>
+<li class="level-1"><a href="#danh-gia" title="">Đánh giá</a></li>
+<li class="level-1"><a href="#giong-cao-lo" title="">Giống Cao Lỗ</a></li>
+<li class="level-1"><a href="#thong-tin-khac" title="">Thông tin khác</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div>
+<p><b>Đức Thánh Tam Giang</b> là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ <b><a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a></b> và <b>Trương Hát</b>. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a>. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: <i>Tam Giang thượng đẳng thần</i>. "Tam Giang" còn bắt nguồn từ cách gọi chung của ba con sông là <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a>, <a class="annotation" href="/dia-danh/song-thuong" title="Sông thương bắc giang 
+ Sông Thương hay sông Nhật Đức (xưa còn gọi là sông Nam Bình, sông Lạng Giang, sông Long Nhỡn) là một sông lớn ở địa phận các tỉnh Lạng Sơn, Bắc Giang, Hải Dương và là một chi lưu của sông Thái Bình...." target="_blank" >sông Thương</a>, <a class="annotation" href="/dia-danh/song-duong" title="Sông Đuống, tên chữ gọi là sông Thiên Đức hay Thiên Đức Giang, là một con sông dài 68&amp;#160;km, nối sông Hồng với sông Thái Bình. Sông Đuống là chi lưu của sông Hồng, nhưng là phụ lưu của sông Thái Bình...." target="_blank" >sông Đuống</a> - nơi có nhiều đền thờ hai ông. Hai anh em ngài được đánh giá, đều là bậc tướng, trí dũng song toàn, "sinh vi dũng tướng, tử vi minh thần". Trong tín ngưỡng dân gian của người Việt cổ vùng trung du thì đền thờ Thánh Tam Giang ban đầu vốn thờ Thần Rắn, về sau mới thờ <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát.</p>
+<p></p>
+<p></p>
+<a name="xuat-than"></a><h2>Xuất thân</h2>
+<p><a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát sinh ra trong một gia đình gồm năm anh em, bốn trai, một gái. Ba người còn lại trong gia đình là Trương Lừng, Trương Lẫy, và người con gái là Trương Đạm Nương. Năm anh em sinh ngày 15, tháng Giêng, năm Nhâm Ngọ (502), người làng Vân Mẫu, xã Vân Mẫu, huyện Quế Dương (sau là <a class="annotation" href="/dia-danh/vo-giang" title="Võ Giàng là một huyện cũ của Việt Nam, nay là một phần huyện Quế Võ và một phần thành phố Bắc Ninh, tỉnh Bắc Ninh. 
+ Phía Bắc giáp huyện Yên Dũng của tỉnh Bắc Giang, phía Nam giáp huyện Gia Lương, phía Đông giáp huyện Chí Linh của tỉnh Quảng Yên, phía Tây giáp huyện Quế Dương...." target="_blank" >Võ Giàng</a>), quận Vũ Ninh, <a class="annotation" href="/dia-danh/xu-kinh-bac" title="Kinh Bắc (chữ Hán: 京北) là tên một địa danh cũ ở phía bắc Việt Nam, bao gồm toàn bộ ranh giới 2 tỉnh Bắc Giang, Bắc Ninh và một phần nhỏ các tỉnh thành lân cận là Hà Nội (toàn bộ khu vực phía bắc sông Hồng là: Gia Lâm, Long Biên, Đông Anh, Mê Linh, Sóc Sơn); Hưng Yên (Văn Giang, Văn Lâm) và Lạng Sơn ..." target="_blank" >xứ Kinh Bắc</a>, (nay là thôn Hai Vân, phường Vân Dương, <a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a>). Mẹ là con gái họ Phùng, tên hiệu là Từ Nhan, sinh năm Quý Hợi 483 thời Tiền <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>. Theo cuốn thần phả hiện được lưu giữ tại Ban quản lý di tích Đền Vân Mẫu, thôn Hai Vân, phường Vân Dương, <a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a>: Năm Từ Nhan 18 tuổi, vào đêm rằm tháng một (theo cách gọi xưa, còn theo cách gọi hiện nay thì là tháng 11) năm Canh Thìn (500) Từ Nhan nằm chiêm bao thấy Thần Long quấn mình trên <a class="annotation" href="/dia-danh/song-luc-dau" title="Sông Lục Đầu là quãng sông do sông Thương, sông Cầu, sông Lục Nam, sông Đuống, sông Kinh Môn, sông Thái Bình gặp nhau tạo thành. Sông được đào vào giữa tháng Chạp âm lịch năm Mậu Tý thứ 21 (lúc quân Ô Mã Nhi tiến vào sông Bạch Đằng). 
+ Ô Mã Nhi, Thoát Hoan, Trương Văn Hổ đã đem quân vào Vạn Kiếp the..." target="_blank" >sông Lục Đầu</a>, sau đó bà mang thai. Sau 14 tháng mang thai, ngày 5 tháng 1 năm Nhâm Ngọ (502) bà lên chùa lễ phật trở về đến xứ Cửa Cữu làng Vân Mẫu thì trở dạ, sinh ra một bọc năm con. Người mẹ hết lòng chăm lo các con ăn học. Năm anh em là học trò của Tiên sinh Lã Thị người hương Chu Minh, lộ Bắc Giang (tức xã Hương Mạc, <a class="annotation" href="/dia-danh/huyen-tu-son" title="Từ Sơn là một thị xã cửa ngõ phía nam của tỉnh Bắc Ninh cửa ngõ phía bắc của thành phố Hà Nội được Thủ tướng Chính phủ ký quyết định thành lập ngày 24 tháng 9 năm 2008...." target="_blank" >huyện Từ Sơn</a> ngày nay). Anh em học đến đâu lầu thông kinh sử đến đấy, ngày ngày chăm đọc binh thư, siêng rèn võ nghệ, nên đều là những người tinh thông văn võ. Khi anh em 17 tuổi thì mẹ mất (ngày 15 tháng 4 âm lịch năm Kỷ Hợi 519) và 5 anh em đã táng mẹ tại xứ đồng Bãi Cả, hiếu thảo thờ mẹ 3 năm.<sup class="annotation badge" title="^ Hội đền Vân Mẫu, Thúy Nga, Thứ hai, 21/02/2011 - 08:45">1</sup> </p>
+<a name="giup-trieu-viet-vuong-danh-quan-luong"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Giúp <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> đánh quân Lương</h2>
+<a name="hoan-canh"></a><h3>Hoàn cảnh</h3>
+<p>Năm 545 <a class="annotation" href="/nhan-vat/nha-luong" title="Nhà Lương (tiếng Trung: 梁朝; bính âm: Liáng cháo) (502-557), còn gọi là nhà Nam Lương (南梁), là triều đại thứ ba của Nam triều trong thời kỳ Nam-Bắc triều ở Trung Quốc, sau thời kỳ của triều đại Nam Tề và trước thời kỳ của triều đại Trần. Kinh đô đặt tại Kiến Khang (nay là Nam Kinh). 
+ Nhà Tây Lương (..." target="_blank" >nhà Lương</a>, đời vua Đại Đồng năm thứ bảy, cử tướng Dương Phiêu và <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> đem quân sang xâm lược Việt Nam. <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> đem quân chặn đánh nhưng vì quân ít không cản được giặc phải rút về miền núi động Khuất Lão (Tam Nông, Phú Thọ) trao quyền cho tướng <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a>, rồi mất tại đó. <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> đưa quân về đầm Dạ Trạch (Hưng Yên) đánh phục kích, đồng thời truyền hịch trong dân gian tìm người tài giỏi đánh giặc giúp nước.</p>
+<a name="huong-ung-loi-keu-goi-cua-trieu-quang-phuc"></a><h3>Hưởng ứng lời kêu gọi của <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a></h3>
+<p>Hai ông <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát nghe có hịch chiêu tài, anh em bàn nhau xin lệnh thầy, dụng kế lập thân, về quê mộ quân để đi giúp nước. Sau này các ông đến địa phận làng Tiên Tảo, huyện Kim Hoa, phủ Đa Phúc, lộ Bắc Giang thấy đất có thế ỷ giốc, tiến thoái lưỡng tiện có thể dụng binh liền cho quân hạ trại, làm tờ chiêu dụ nhân dân. Tờ rằng: "Đất <a class="annotation" href="/dia-danh/nuoc-van-xuan" title="Vạn Xuân (萬春) là quốc hiệu của Việt Nam trong một thời kỳ độc lập ngắn ngủi thoát khỏi chính quyền trung ương Trung Hoa, dưới thời nhà Tiền Lý và Triệu Việt Vương. Tháng 2 năm 544, sau khi đánh bại quân nhà Lương (Trung Quốc), Lý Bí xưng là Hoàng đế và đặt tên nước là Vạn Xuân. Quốc hiệu này tồn tại..." target="_blank" >nước Vạn Xuân</a> ta đang thanh bình, càn nguyên hanh thái, bỗng đâu giặc Lương xâm lấn, xã tắc đảo điên, muôn dân khốn khổ. Bọn Hống-Hát chúng tôi xuất thân con nhà lam lũ, được học võ nghệ, có chút mưu cơ, dám đem sức lực người bản xứ, dấy binh cuốc cầy, địch cùng lang sói ngoại bang, giúp <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> giữ an bờ cõi, dám mong chư vị bàn dân hưởng ứng nghĩa quân thì lấy làm may lắm".Phụ lão làng ấy tiếp tờ, thấy các ông dung dị khác thường, uy nghi đường bệ, thi đua nhau cho con cháu đi theo làm quân sĩ.</p>
+<a name="tran-dam-da-trach"></a><h3>Trận đầm Dạ Trạch</h3>
+<p><a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> được tin, sai sứ lên phong <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a> làm thượng tướng quân, Trương Hát làm phó tướng quân, Lã tiên sinh làm quân sư, Trương Lừng, Trương Lẫy làm tỳ tướng, Đạm Nương làm hậu binh lương và lo kế sách phản công. Đúng kỳ thúc giáp, hai phía cùng truyền lệnh quân cơ, tỏa binh tiếp trận, quân <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> ở Dạ Trạch tiến lên, quân Hống-Hát ở Tiên Tảo kéo xuống, thủy bộ bốn mặt giáp công, xung đột tung hoành đánh rất dữ dội. Quân Lương không sao chống cự nổi, đại bại rã rời, số chạy dẵm đạp lên nhau, chết hại nhiều vô kể, số bị bắt mặt mày tái mét, run rẩy van xin, chánh tướng <a class="annotation" href="/nhan-vat/tran-ba-tien" title="Trần Vũ Đế (chữ Hán: 陳武帝), tên thật là Trần Bá Tiên (陳霸先; 503 - 559) là vị vua đầu tiên, người sáng lập ra nhà Trần thời Nam-Bắc triều trong lịch sử Trung Quốc...." target="_blank" >Trần Bá Tiên</a> tử trận, phó tướng Dương Phiêu phải thu nhặt tàn quân rút về Bắc quốc.Dẹp xong giặc rồi, khải hoàn tấu tiệp, <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> kéo quân về Long Biên sang sửa đô thành.Nước nhà độc lập, <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> lên ngôi vua, phong thưởng cho các tướng có công đánh giặc. Vua Triệu phong thực ấp cho hai anh em họ Trương ở Kinh Bắc, <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a> ở làng Tiên Tảo, huyện Kim Anh (nay là thôn Tiên Tảo, xã Việt Long, <a class="annotation" href="/dia-danh/huyen-soc-son" title="Sóc Sơn là một huyện nằm ở phía bắc của thành phố Hà Nội...." target="_blank" >huyện Sóc Sơn</a>), Trương Hát ở làng Tam Lư, huyện Đông Ngàn (nay là thôn Tam Lư, Từ Sơn, Bắc Ninh) là nơi dấy binh cũ.</p>
+<a name="toi-trung-chang-tho-hai-vua"></a><h3>Tôi trung chẳng thờ hai vua</h3>
+<p>Được tin <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> lên ngôi vua, <a class="annotation" href="/nhan-vat/ly-phat-tu" title="Hậu Lý Nam Đế (chữ Hán: 後李南帝; trị vì: 571-602) là vua nhà Tiền Lý trong lịch sử Việt Nam. Ông tên thật là Lý Phật Tử (李佛子;&amp;#160;?-602), người Thái Bình, phủ Long Hưng (Sơn Tây), là cháu họ của Lý Nam Đế...." target="_blank" >Lý Phật Tử</a> (người họ <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a>) đã đem quân đánh lại nhưng không thắng, bèn dùng kế cầu hôn gả con. <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a> và Trương Hát đã can <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> đừng gã Cảo Nương cho Nhã Lang. Nhưng <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> không nghe, mắc mưu của Lý Phật tử, rồi bị đánh úp. Lý Phật tử lên ngôi vua tự xưng là Hậu <a class="annotation" href="/nhan-vat/ly-nam-de" title="Lý Nam Đế (chữ Hán: 李南帝; 503–548), húy là Lý Bí hoặc Lý Bôn (李賁) (xem mục Tên gọi bên dưới), là vị vua đầu tiên của nhà Tiền Lý và nước Vạn Xuân...." target="_blank" >Lý Nam Đế</a> và biết các ông là tướng tài giỏi bèn cho người vời ra làm quan. Song các ông nhất lòng trung quân không theo Lý Phật tử, thưa lại rằng: Tôi trung chẳng thờ hai vua, gái trinh chẳng đổi hai chồng, huống hồ ngươi là người bội nghĩa mà còn muốn khuất cái tiết bất di dịch này ư? Biết không thể khuất phục được, Lý Phật tử lệnh truy bắt các ông khắp nơi. Các ông trốn vào ở núi Phù Long; Nam Đế nhiều lần cho người đến truy nã không được, mới treo ngàn vàng cầu người bắt. Các ông bàn nhau cùng đem gia quyến xuôi dòng <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a>, uống thuốc độc để giữ trọn tấm lòng trung với vua. Nhân dân dọc theo <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a> và các nơi các ông từng đóng quân đánh giặc đã vô cùng khâm phục, thương tiếc, lập đền thờ làm Thần.</p>
+<a name="cau-truyen-truyen-thuyet"></a><h2>Câu truyện truyền thuyết</h2>
+<p>Câu truyện truyền thuyết nhắc tới <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát nhiều nhất là câu truyện về sự ra đời của bài thơ Nam quốc sơn hà – được cho là Tuyên ngôn độc lập đầu tiên của Việt Nam. Truyền thuyết này là loại truyền thuyết anh hùng thường thấy trong lịch sử dân tộc Việt Nam. Truyền thuyết này được văn bản hóa sớm nhất ở sách Việt điện u linh (1329). Ngoài ra, truyền thuyết còn được ghi lại trong các bộ sử lớn như Đại Việt sử ký toàn thư và các sách sử khác như Việt sử tiêu án, Việt sử tiệp kính, trong các bộ sách khác như Lịch triều hiến chương loại chí, Đại Nam nhất thống chí... Mặt khác, truyền thuyết này cũng sớm được lấy lại trong Lĩnh Nam chích quái và các sưu tập truyện cổ dân gian khác như Thiên Nam vân lục liệt truyện, Mã lân dật sử, các sách sử như Việt sử diễn âm,Việt sử quốc âm, Thiên Nam ngữ lục và các bản thần tích sưu tầm trước đây và hiện nay.<sup class="annotation badge" title="^ a ă â b Về thời điểm ra đời của bài thơ Nam quốc sơn hà, Nguyễn Thị Oanh, TC Han Nom 1/ 2002">2</sup> </p>
+<a name="truyen-thuyet-ve-bai-tho-than-lan-mot"></a><h3>Truyền thuyết về bài thơ Thần lần một</h3>
+<p>Năm Tân Tị niên hiệu Thiên Phúc (981), triều Lê, Tống Thái Tông sai tướng quân Nhân Bảo, Tôn Toàn đem binh xâm lược phương Nam đến cửa biển Đại Than. Vua Đại Hành cùng tướng quân <a class="annotation" href="/nhan-vat/pham-cu-luong" title="Phạm Cự Lạng (chữ Hán: 范巨倆, hay còn gọi là Phạm Cự Lượng 范巨量; 944 – 984) là danh tướng đời Đinh Tiên Hoàng và được Lê Đại Hành phong cho đến chức Thái úy. Ông là người có vai trò rất quan trọng trong binh biến đưa Lê Hoàn lên ngôi Hoàng đế và Chiến tranh Tống - Việt, 981. Ông được sử sách Trung Hoa ..." target="_blank" >Phạm Cự Lượng</a> dựng lũy, cầm cự với giặc ở sông Đồ Lỗ. <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> đêm canh ba nằm mộng thấy thần nhân tới bái lạy trên sông. Thần kể sự tình lúc còn sống theo vua đánh giặc, chết được Thượng đế thương tình ban tên cho là Thần bộ quan (thủy thần), thống lĩnh tướng các âm binh. Nay giặc Tống sang xâm phạm bờ cõi, xin được cùng hoàng đế đánh giặc Bắc Tống để cứu sinh dân". Vua tỉnh dậy, lập tức thắp hương khấn vái xin được thần nhân trợ giúp, sau đó giết súc vật, đốt vàng mã làm lễ cúng tế. Đêm ấy, Đại Hành lại mộng thấy thần nhân thống lĩnh âm binh tiến đánh giặc. Canh ba, đêm tháng mười, trời đất tối đen, mưa to gió lớn đùng đùng, quân Tống kinh hoàng, tháo chạy tán loạn, thần nhân ẩn mình trên không trung lớn tiếng ngâm thơ:</p>
+<blockquote class="templatequote"> <p>Nam quốc sơn hà Nam đế cư,<br /></p> <p>Hoàng thiên dĩ định tại thiên thư,<br /> Như hà Bắc lỗ lai xâm phạm,<br /> Hội kiến thịnh trần tận tảo trừ.<sup class="annotation badge" title="^ Nguyễn Thị Oanh, Tìm tác giả bài thơ Nam quốc sơn hà, Viện Nghiên cứu Hán Nôm">3</sup> </p> </blockquote>
+<blockquote class="templatequote"> <p>Sông núi <a class="annotation" href="/dia-danh/nuoc-nam" title="Việt Nam (tên chính thức: Cộng hòa xã hội chủ nghĩa Việt Nam) là một quốc gia nằm ở phía đông, giáp với Lào và Campuchia, thuộc bán đảo Đông Dương, thuộc khu vực Đông Nam Á thuộc châu Á. 
+ Phía bắc Việt Nam giáp với Trung Quốc, phía tây Việt Nam giáp với Lào và Campuchia, phía tây nam giáp vịnh Thái..." target="_blank" >nước Nam</a> vua Nam ở,<br /></p> <p>Trời xanh đã định trong sách trời,<br /> Cớ sao giặc Bắc sang xâm phạm,<br /> Sẽ gặp cuồng phong đánh tơi bời.</p> </blockquote>
+<p>Quân Tống nghe bài thơ đó đánh giết lẫn nhau rồi mạnh ai người nấy chạy tháo thân về nước. Vua phong thưởng tướng sĩ rồi truy phong công lao hai thần. Một là Khước Địch đại vương, lập đền ở ngã ba sông Long Nhãn (hay Long Nhỡn,cũng là <a class="annotation" href="/dia-danh/song-thuong" title="Sông thương bắc giang 
+ Sông Thương hay sông Nhật Đức (xưa còn gọi là sông Nam Bình, sông Lạng Giang, sông Long Nhỡn) là một sông lớn ở địa phận các tỉnh Lạng Sơn, Bắc Giang, Hải Dương và là một chi lưu của sông Thái Bình...." target="_blank" >sông Thương</a>?). Một là Uy Linh đại vương, lập đền ở ven <a class="annotation" href="/dia-danh/song-nhu-nguyet" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Như Nguyệt</a>".<sup class="annotation badge" title="^ a ă â b Về thời điểm ra đời của bài thơ Nam quốc sơn hà, Nguyễn Thị Oanh, TC Han Nom 1/ 2002">2</sup> <sup class="annotation badge" title="^ a ă Pháp Thuận và bài thơ thần nước Nam sông núi, Nguồn: Lê Mạnh Thát, Lịch sử Phật giáo Việt Nam T.II, Nhà xuất bản Tp Hồ Chí Minh, 2001, tr. 473-485.">4</sup> <sup class="annotation badge" title="^ a ă â b c Chuyện Trương Hống và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo Hoàng Xuân Hãn, Lý Thường Kiệt, tr.303">5</sup> </p>
+<a name="truyen-thuyet-ve-bai-tho-than-lan-hai"></a><h3>Truyền thuyết về bài thơ Thần lần hai</h3>
+<p>Xét Sử ký của Đỗ Thiện chép thời Nam Tấn Vương <a class="annotation" href="/nhan-vat/nha-ngo" title="Nhà Ngô (chữ Hán:吳朝 Ngô Triều) là một triều đại trong lịch sử Việt Nam, truyền được hai đời nhưng có tới ba vị vua, kéo dài từ năm 939 đến năm 965. Khoảng thời gian xen giữa từ 944 đến 950 còn có Dương Bình Vương tức Dương Tam Kha...." target="_blank" >nhà Ngô</a> đi đánh giặc Lý Huy ở Long Châu (Tây Long), đóng quân ở cửa Phù Lan (<a class="annotation" href="/dia-danh/song-luc-dau" title="Sông Lục Đầu là quãng sông do sông Thương, sông Cầu, sông Lục Nam, sông Đuống, sông Kinh Môn, sông Thái Bình gặp nhau tạo thành. Sông được đào vào giữa tháng Chạp âm lịch năm Mậu Tý thứ 21 (lúc quân Ô Mã Nhi tiến vào sông Bạch Đằng). 
+ Ô Mã Nhi, Thoát Hoan, Trương Văn Hổ đã đem quân vào Vạn Kiếp the..." target="_blank" >sông Lục Đầu</a>), đêm ngủ mộng thấy hai người y quan kỳ vĩ, diện mạo khôi ngô, đến xin tòng quân trợ chiến. Sau khi Thần kể hết sự tình lúc sống theo <a class="annotation" href="/nhan-vat/trieu-quang-phuc" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Quang Phục</a> đánh giặc, chết được Thượng đế thương vô tội chết chẳng phải mệnh, phong làm Thủy thần, thống lĩnh tướng các âm binh, hiệu là Thần Giang Đô Phó Sứ,đã từng trợ thuận <a class="annotation" href="/nhan-vat/ngo-quyen" title="Ngô Quyền (chữ Hán: 吳權, 897 - 944), còn được biết đến với tên gọi Tiền Ngô Vương (前吳王), là vị vua đầu tiên của nhà Ngô trong lịch sử Việt Nam. Năm 938, ông là người lãnh đạo nhân dân đánh bại quân Nam Hán trong trận Bạch Đằng nổi tiếng, chính thức kết thúc gần một thiên niên kỉ Bắc thuộc, mở ra một ..." target="_blank" >Ngô Quyền</a> trong chiến dịch Bạch Đằng vua tỉnh dậy, bảo đem cỗ rượu đến điện tế, khấn rằng: Quả có anh linh, hãy phù trợ chiến dịch này, nếu được thắng lợi, tức thì dựng miếu và phong tước, hương hỏa đời đời. Lại hôm khác, vua mộng thấy hai Vương đốc binh, bộ ngũ liên thuộc đều có mặt mày như quỷ thần cả, hàng ngũ rất nghiêm, bộ lạc rất chỉnh tề hội tại cửa Phù Lan. Binh ông anh đóng từ sông Vũ Bình đến <a class="annotation" href="/dia-danh/song-nhu-nguyet" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Như Nguyệt</a> tiến đến đầu nguồn sông Phú Lương; Binh ông em đi từ men sông Lạng Giang vào sông Nam Bình (<a class="annotation" href="/dia-danh/song-thuong" title="Sông thương bắc giang 
+ Sông Thương hay sông Nhật Đức (xưa còn gọi là sông Nam Bình, sông Lạng Giang, sông Long Nhỡn) là một sông lớn ở địa phận các tỉnh Lạng Sơn, Bắc Giang, Hải Dương và là một chi lưu của sông Thái Bình...." target="_blank" >sông Thương</a>). Vua tỉnh dậy bảo với tả hữu, quả nhiên trận ấy được toàn thắng. Bình xong giặc Tây Long, vua sai Sứ chia chỗ lập đền thờ, đều phong làm Phúc Thần một phương, chiếu phong anh là Đại Đương Giang Đô Hộ Quốc Thần Vương, lập đền ở cửa <a class="annotation" href="/dia-danh/song-nhu-nguyet" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Như Nguyệt</a>(cửa <a class="annotation" href="/dia-danh/song-ca-lo" title="Sông Cà Lồ (còn gọi là sông Phủ Lỗ) là một chi lưu của sông Cầu và từng là một phân lưu của sông Hồng. Nó vốn tách ra khỏi sông Hồng ở xã Trung Hà, huyện Yên Lạc, Vĩnh Phúc và hợp lưu với sông Cầu tại ngã ba Xá, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh, khoảng 15&amp;#160;km về phía nam nơi sông Côn..." target="_blank" >sông Cà Lồ</a>, Ngã ba Xà, chỗ <a class="annotation" href="/dia-danh/song-ca-lo" title="Sông Cà Lồ (còn gọi là sông Phủ Lỗ) là một chi lưu của sông Cầu và từng là một phân lưu của sông Hồng. Nó vốn tách ra khỏi sông Hồng ở xã Trung Hà, huyện Yên Lạc, Vĩnh Phúc và hợp lưu với sông Cầu tại ngã ba Xá, xã Tam Giang, huyện Yên Phong, tỉnh Bắc Ninh, khoảng 15&amp;#160;km về phía nam nơi sông Côn..." target="_blank" >sông Cà Lồ</a> đổ ra <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a>). Còn em là Tiểu Đương Giang Đô Hộ Quốc Thần Vương, lập đền ở cửa sông Nam Bình (cửa <a class="annotation" href="/dia-danh/song-thuong" title="Sông thương bắc giang 
+ Sông Thương hay sông Nhật Đức (xưa còn gọi là sông Nam Bình, sông Lạng Giang, sông Long Nhỡn) là một sông lớn ở địa phận các tỉnh Lạng Sơn, Bắc Giang, Hải Dương và là một chi lưu của sông Thái Bình...." target="_blank" >sông Thương</a>).</p>
+<p>Thời vua Nhân Tông <a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a> (1075), binh Tống nam xâm kéo đến biên cảnh; vua sai Thái uý <a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a> dựa bờ sông đóng cừ để cố thủ. Một đêm kia quân sĩ nghe trong đền có tiếng ngâm to rằng:</p>
+<dl> <dd> <dl> <dd>"Sông núi nhà Nam Nam đế ở</dd> <dd>Phân minh trời định tại thiên thư.</dd> <dd>Cớ sao nghịch lỗ sang xâm phạm?</dd> <dd>Bọn chúng rồi đây sẽ bại hư."</dd> </dl> </dd> </dl>
+<p>Quả nhiên quân Tống chưa đánh đã tan rã. Thần mộng rõ ràng, mảy lông sợi tóc chẳng sai.<sup class="annotation badge" title="^ a ă â b Về thời điểm ra đời của bài thơ Nam quốc sơn hà, Nguyễn Thị Oanh, TC Han Nom 1/ 2002">2</sup> <sup class="annotation badge" title="^ a ă Pháp Thuận và bài thơ thần nước Nam sông núi, Nguồn: Lê Mạnh Thát, Lịch sử Phật giáo Việt Nam T.II, Nhà xuất bản Tp Hồ Chí Minh, 2001, tr. 473-485.">4</sup> <sup class="annotation badge" title="^ a ă â b c Chuyện Trương Hống và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo Hoàng Xuân Hãn, Lý Thường Kiệt, tr.303">5</sup> </p>
+<a name="mot-so-sac-phong"></a><h2>Một số sắc phong</h2>
+<p>Niên hiệu Trùng Hưng năm đầu (<a class="annotation" href="/nhan-vat/tran-nhan-tong" title="Trần Nhân Tông (chữ Hán: 陳仁宗; 7 tháng 12 năm 1258 – 14 hoặc 16 tháng 12 năm 1308) là vị hoàng đế thứ ba của vương triều Trần trong lịch sử Việt Nam. Ông trị vì từ năm 1278 đến năm 1293, sau đó làm Thái thượng hoàng từ năm 1293 cho đến khi qua đời. Trần Nhân Tông được nhiều sử gia đánh giá là một vị ..." target="_blank" >Trần Nhân Tông</a>), sắc phong Như Nguyệt Khước Địch Đại Vương, năm thứ tư gia phong Thiện Hựu Dũng Cảm. Các triều vua về sau: Trần, Lê đem quân đánh giặc phương Bắc tại dòng <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a> đều được Thần âm phù đánh thắng và đều có sắc phong cao nhất cho Thần là "Tam Giang thượng đẳng thần".<sup class="annotation badge" title="^ a ă â b Về thời điểm ra đời của bài thơ Nam quốc sơn hà, Nguyễn Thị Oanh, TC Han Nom 1/ 2002">2</sup> <sup class="annotation badge" title="^ a ă â b c Chuyện Trương Hống và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo Hoàng Xuân Hãn, Lý Thường Kiệt, tr.303">5</sup> </p>
+<a name="noi-tho"></a><h2>Nơi thờ</h2>
+<p>Có 372 làng (con số thực tế có thể còn nhiều hơn, trước đây được ghi nhận là 290 làng) tôn thờ Đức Thánh Tam Giang, thuộc 5 tỉnh, 16 huyện thị ven các triền <a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a> từ Đu, Đuổng (Thái Nguyên), qua Ngã Ba Xà (Tam Giang - Yên Phong), rồi tới Lục Đầu Giang (<a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a> dài 290&#160;km, như vậy trung bình cứ 1&#160;km lại có một làng thờ). Theo kết quả kiểm kê năm 2013 của Ban Quản lý di tích <a class="annotation" href="/dia-danh/tinh-bac-giang" title="Bắc Giang là một tỉnh thuộc vùng đông bắc Việt Nam. Từ năm 2012 là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Bắc Giang giáp với nhiều tỉnh thành, phía bắc giáp Lạng Sơn, phía đông giáp Quảng Ninh, phía tây giáp Thái Nguyên và Hà Nội, phía nam giáp Bắc Ninh và Hải Dương. Tỉnh lỵ là thành phố Bắc G..." target="_blank" >tỉnh Bắc Giang</a> thì Bắc Giang có 100 di tích đình, đền, nghè thờ Thánh Tam Giang<sup class="annotation badge" title="^ Tục thờ Thánh Tam Giang ở Bắc Giang">6</sup> .</p>
+<a name="di-tich-cap-quoc-gia"></a><h3>Di tích cấp quốc gia</h3>
+<p>Dưới đây liệt kê một số nơi thờ Đức Thánh Tam Giang đã được xếp hạng là di tích cấp quốc gia của Việt Nam:</p>
+<a name="tai-bac-ninh"></a><h4>Tại Bắc Ninh</h4>
+<table class="wikitable sortable table table-striped"> <tr align="center" bgcolor="#EFEFEF"> <th>STT</th> <th>Tên di tích</th> <th>Địa phương</th> <th>Thời gian xây dựng</th> <th>Năm xếp hạng</th> <th>Ghi chú</th> </tr> <tr align=""> <td>1</td> <td>Đền Xà</td> <td>Yên Phong</td> <td><a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a><sup class="annotation badge" title="^ Đền Xà nơi lưu giữ giá trị lịch sử văn hóa">7</sup> </td> <td>-</td> <td>Thờ <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>. Đền là nơi <a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a> đọc bài thơ Nam quốc sơn hà<sup class="annotation badge" title="^ Lý Thường Kiệt trọn đời vì nước quên thân">8</sup> </td> </tr> <tr align=""> <td>2</td> <td>Đình Diềm (Đình Viêm Xá)<sup class="annotation badge" title="^ Làng Diềm quê hương Thủy tổ Quan họ">9</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td>1692</td> <td>1964</td> <td>Ngày 13/1/1964</td> </tr> <tr align=""> <td>3</td> <td>Đình Cổ Mễ<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td>-</td> <td>-</td> <td></td> </tr> <tr align=""> <td>4</td> <td>Đền Điều Sơn<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td>-</td> <td>-</td> <td>Thờ thân mẫu Thánh Gióng, Thánh Tam Giang, tướng Trần Lựu có công đánh giặc Minh thế kỷ XV</td> </tr> <tr align=""> <td>5</td> <td>Đình Quả Cảm<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> (xây lại vào năm 1948)</td> <td>-</td> <td></td> </tr> <tr align=""> <td>6</td> <td>Đình Đọ Xá<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a></td> <td>-</td> <td></td> </tr> <tr align=""> <td>7</td> <td>Đình Trà Xuyên<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> (thế kỷ XVIII)</td> <td>-</td> <td></td> </tr> <tr align=""> <td>8</td> <td>Đình Đáp Cầu<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a></td> <td>-</td> <td></td> </tr> <tr align=""> <td>9</td> <td>Đền Dương Ổ<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a></td> <td>2011</td> <td></td> </tr> <tr align=""> <td>10</td> <td>Cụm di tích Đền Vân Mẫu, Nghè Chu Mẫu, nhà cố Trạch<sup class="annotation badge" title="^ a ă â b c d đ e DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.">10</sup> </td> <td><a class="annotation" href="/dia-danh/thanh-pho-bac-ninh" title="Thành phố Bắc Ninh là một đơn vị hành chính cấp thành phố trực thuộc tỉnh và là tỉnh lỵ của tỉnh Bắc Ninh. Thành phố Bắc Ninh là một trong 10 đô thị sạch năm 2009...." target="_blank" >thành phố Bắc Ninh</a></td> <td>-</td> <td>-</td> <td>Là cụm di tích thờ phụng thân mẫu Thánh Tam Giang và Thánh Tam Giang (<a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát, Trương Lừng, Trương Lẫy, Đạm Nương)</td> </tr> <tr align=""> <td>11</td> <td>Đình Thọ Đức</td> <td>Yên Phong</td> <td><a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a></td> <td>1990</td> <td>Đình làng Thọ Đức được Bộ Văn hóa xếp hạng là Di tích lịch sử theo Quyết định số 34-VH/QĐ ngày 9-1-1990. Theo nội dung thần tích, sắc phong thì đình thờ 5 vị thần là: Cường Bạo đại vương, Thánh Tam Giang, Nghiêm Công, Lễ Công, Đức Công vốn là các vị thần có công cùng với Thánh Gióng đánh thắng giặc Ân dưới thời Hùng Vương thứ VI<sup class="annotation badge" title="^ Đình Thọ Đức. Theo Báo Bắc Ninh.">11</sup> .</td> </tr> <tr align=""> <td>12</td> <td>Đền Cang Vang (Đền Thọ Đức)</td> <td>Yên Phong</td> <td><a class="annotation" href="/nhan-vat/nha-ly" title="Nhà Lý hoặc Lý triều (Hán-Nôm: 家李 • 李朝, nhà Lý • Lý triều), là một triều đại trong lịch sử Việt Nam. Triều đại này bắt đầu khi Lý Công Uẩn lên ngôi vào tháng 10 âm lịch năm 1009, sau khi giành được quyền lực từ tay nhà Tiền Lê. Triều đại này trải qua 9 vị hoàng đế và chấm dứt khi Lý Chiêu Hoàng, lúc..." target="_blank" >nhà Lý</a></td> <td>1990</td> <td>Đền Cang Vang được Bộ Văn hóa xếp hạng là Di tích lịch sử theo Quyết định số 34-VH/QĐ ngày 9-1-1990. Đền là một địa điểm quan trọng trên phòng tuyết <a class="annotation" href="/dia-danh/song-nhu-nguyet" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Như Nguyệt</a> trong cuộc kháng chiến chống Tống, là nơi thờ Đức Thánh Tam Giang và <a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a>. Ngoài ra, đền Can Vang hiện còn thờ bốn vị Thánh khác.<sup class="annotation badge" title="^ Gạch, cát “tặc” xé vụn phòng tuyến sông Như Nguyệt">12</sup> .</td> </tr> <tr align=""> <td>13</td> <td>Đình Quan Đình</td> <td>Yên Phong</td> <td>thời <a class="annotation" href="/nhan-vat/le-trung-hung" title="Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của&amp;#160;triều đại&amp;#160;nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so v..." target="_blank" >Lê Trung Hưng</a> (TK XVII)</td> <td>1988</td> <td>Đình Quan Đình được Bộ Văn hóa xếp hạng là Di tích lịch sử văn hoá theo Quyết định số 28/VH- QĐ ngày 18/01/1988. Các vị Thần được thờ ở đình Quan Đình là “Cao Sơn đại vương” (Thần Núi), “Thánh Tam Giang” (Trương Hồng và Trương Hát) và “Thổ Linh Chi Thần” (Thổ Thần)<sup class="annotation badge" title="^ Đình làng Quan Đình. Theo Báo Bắc Ninh.">13</sup> .</td> </tr> </table>
+<a name="tai-bac-giang"></a><h4>Tại Bắc Giang</h4>
+<table class="wikitable sortable table table-striped"> <tr align="center" bgcolor="#EFEFEF"> <th>STT</th> <th>Tên di tích</th> <th>Địa phương</th> <th>Thời gian xây dựng</th> <th>Năm xếp hạng</th> <th>Ghi chú</th> </tr> <tr align=""> <td>1</td> <td>Đình Sen Hồ</td> <td>Việt Yên</td> <td>Cuối thế kỉ XVII</td> <td>2013</td> <td>Thờ <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Diên Bình Công chúa (con gái vua <a class="annotation" href="/nhan-vat/ly-thanh-tong" title="Lý Thánh Tông (chữ Hán: 李聖宗; 30 tháng 3 năm 1023 – 1 tháng 2 năm 1072), là vị hoàng đế thứ ba của nhà Lý trong lịch sử Việt Nam, trị vì từ tháng 11 năm 1054 đến khi qua đời. Trong thời kỳ cầm quyền của mình, Lý Thánh Tông đã đẩy mạnh sản xuất nông nghiệp, khoan giảm hình phạt, đồng thời khuyến khích..." target="_blank" >Lý Thánh Tông</a>)</td> </tr> <tr align=""> <td>2</td> <td>Đình Trâu Lỗ, Đền Trâu Lỗ</td> <td>Hiệp Hòa</td> <td>-</td> <td>1994</td> <td>Di tích kiến trúc nghệ thuật, được công nhận ngày 12/12/1994 theo QĐ số 3211/QĐ- BVH, thuộc xã Mai Đình, Hiệp Hòa<sup class="annotation badge" title="^ a ă Danh mục các di tích đã được xếp hạng - Huyện Hiệp Hòa. Nguồn Ban quản lý di tích tỉnh Bắc Giang, tính đến hết năm 2007. Sở GD&amp;amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.">14</sup> .</td> </tr> <tr align=""> <td>3</td> <td>Đền Soi</td> <td>Hiệp Hòa</td> <td>-</td> <td>1994</td> <td>Di tích lịch sử ATK 2, được công nhận ngày 15/10/1994 theo QĐ số 2754/QĐ-BVH, thuộc xã Hoàng Vân, Hiệp Hòa<sup class="annotation badge" title="^ a ă Danh mục các di tích đã được xếp hạng - Huyện Hiệp Hòa. Nguồn Ban quản lý di tích tỉnh Bắc Giang, tính đến hết năm 2007. Sở GD&amp;amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.">14</sup> .</td> </tr> <tr align=""> <td>4</td> <td>Đền Vân</td> <td>Việt Yên</td> <td>thời <a class="annotation" href="/nhan-vat/le-trung-hung" title="Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của&amp;#160;triều đại&amp;#160;nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so v..." target="_blank" >Lê Trung Hưng</a> (thế kỷ XVII)</td> <td>1990</td> <td>Di tích kiến trúc nghệ thuật, được công nhận theo QĐ số 34/QĐ-BVH, ngày 9/01/1990, thuộc Xã Vân Hà, huyện Việt Yên<sup class="annotation badge" title="^ a ă â Danh mục các di tích đã được xếp hạng - Huyện Việt Yên. Nguồn Ban quản lý di tích tỉnh Bắc Giang, tính đến hết năm 2007. Sở GD&amp;amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.">15</sup> </td> </tr> <tr align=""> <td>5</td> <td>Đình Đông</td> <td>Việt Yên</td> <td>thời <a class="annotation" href="/nhan-vat/le-trung-hung" title="Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của&amp;#160;triều đại&amp;#160;nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so v..." target="_blank" >Lê Trung Hưng</a> (thế kỷ XVIII)</td> <td>1994</td> <td>Di tích lịch sử, được công nhận theo QĐ số 226/QĐ-BVH, Ngày 5/02/1994, thuộc thị trấn Bích Động, huyện Việt Yên.<sup class="annotation badge" title="^ a ă â Danh mục các di tích đã được xếp hạng - Huyện Việt Yên. Nguồn Ban quản lý di tích tỉnh Bắc Giang, tính đến hết năm 2007. Sở GD&amp;amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.">15</sup> </td> </tr> <tr align=""> <td>6</td> <td>Đình Hữu Nghi<sup class="annotation badge" title="^ Unesco vinh danh 5 làng quan họ cổ tỉnh Bắc Giang">16</sup> </td> <td>Việt Yên</td> <td>thời <a class="annotation" href="/nhan-vat/le-trung-hung" title="Nhà Lê trung hưng (chữ Hán: 中興黎朝, 1533–1789) là giai đoạn tiếp theo của&amp;#160;triều đại&amp;#160;nhà Hậu Lê (tiếp nối nhà Lê Sơ) trong lịch sử phong kiến Việt Nam, được thành lập sau khi Lê Trang Tông với sự phò tá của cựu thần nhà Lê sơ là Nguyễn Kim được đưa lên ngôi báu. Đây là triều đại dài nhất so v..." target="_blank" >Lê Trung Hưng</a> (thế kỷ XVII)</td> <td>1995</td> <td>Di tích Kiến trúc Nghệ thuật, được công nhận theo QĐ số 1568/QĐ-BVH, ngày 20/4/1995, thuộc xã Ninh Sơn, huyện Việt Yên<sup class="annotation badge" title="^ a ă â Danh mục các di tích đã được xếp hạng - Huyện Việt Yên. Nguồn Ban quản lý di tích tỉnh Bắc Giang, tính đến hết năm 2007. Sở GD&amp;amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.">15</sup> . Đình thờ Đức thánh Tam Giang, Cao Sơn, Quý Minh đại vương.</td> </tr> </table>
+<a name="di-tich-cap-tinh"></a><h3>Di tích cấp tỉnh</h3>
+<p>Một số di tích cấp tỉnh của các địa phương thờ Đức thánh Tam Giang:</p>
+<table class="wikitable sortable table table-striped"> <tr align="center" bgcolor="#EFEFEF"> <th>Thái Nguyên</th> <th>Hà Nội</th> <th>Bắc Giang</th> <th>Bắc Ninh</th> <th>Hải Dương</th> <th>Ghi chú</th> </tr> <tr align=""> <td>-</td> <td>-</td> <td>Đền Long Động<sup class="annotation badge" title="^ Lễ hội Đền Long Động- Bắc Lý. Theo Trần Văn Thanh, 19 THÁNG 10 2010 (lễ hội Đền Long Động xã Bắc Lý (Hiệp Hòa) vào ngày 12-9 âm lịch).">17</sup> , Đình Quang Biểu</td> <td>-</td> <td>-</td> <td>-</td> </tr> </table>
+<a name="di-tich-khac"></a><h3>Di tích khác</h3>
+<p>Ngoài các nơi thờ tự thánh Tam Giang, nhân dân còn lập các đền thờ liên quan như: đền Mai Thượng (còn gọi là đền Tiếu Mai thuộc xã Mai Thượng, Hiệp Hòa, Bắc Giang) thờ Đức Thánh Cả, huý Trương Kiều mất khi mới 6 tuổi, là con của <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>.</p>
+<a name="danh-gia"></a><h2>Đánh giá</h2>
+<p>Việt điện u linh tập của <a class="annotation" href="/nhan-vat/ly-te-xuyen" title="Lý Tế Xuyên (chữ Hán: 李濟川,&amp;#160;? -&amp;#160;?), là một danh sĩ sống vào khoảng cuối thế kỷ 13 đến đầu thế kỷ 14 trong lịch sử Việt Nam...." target="_blank" >Lý Tế Xuyên</a> đánh giá:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Hai họ Trương đây là tôi Việt Vương, không chịu khuất phục vua Nam Đế, cái khí trung nghĩa hạo nhiên thường phảng phất ở khoảng trời đất, không nên lấy tý lông mảy vết mà bàn luận vậy. Sống làm danh tướng, chết là danh thần, cho vua Tấn Vương nằm thấy mà giặc Côn Lôn phá tan, ngâm bài thơ Nam Quốc mà quân <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> không bị đánh tự tan vỡ, lấy sự báo ứng như thế, phong làm Phúc Thần, hưởng được cúng vái nghìn xưa, đội ân vinh phong tặng ở cửu trùng, hai đền thờ ngày nay vẫn còn, người ở hai bên sông đều tránh tên huý, gọi hát bằng xướng. Tinh anh đầy dẫy, nghìn trăm năm vẫn thường như một ngày, khiến cho đương thời, những kẻ cam lòng đầu giặc, mưu cầu phú quý một thời, đâu được trổi thơm muôn đời, khiến cho người ta thán mộ mà hăng hái lên như hai Vương này vậy.</i><sup class="annotation badge" title="^ a ă â b c Chuyện Trương Hống và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo Hoàng Xuân Hãn, Lý Thường Kiệt, tr.303">5</sup> </td> <td >”</td> </tr> </table>
+<a name="giong-cao-lo"></a><h2>Giống Cao Lỗ</h2>
+<p>Đức thánh Tam Giang và Cao Lỗ đều là tướng giỏi của vua và đều sáng suốt khuyên vua không nên gả công chúa cho quân đối địch. Theo Đại Nam quốc sử diễn ca, <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a>, Trương Hát đã can <a class="annotation" href="/nhan-vat/trieu-viet-vuong" title="Triệu Việt Vương (chữ Hán: 趙越王;&amp;#160;?-571), tên thật là Triệu Quang Phục (趙光復), là vua Việt Nam cai trị từ năm 548 đến năm 571. Ông có công kế tục Lý Nam Đế đánh đuổi quân xâm lược nhà Lương, giữ nền độc lập cho nước Vạn Xuân. Năm 571, ông bị Lý Phật Tử đánh úp và thua trận. Ông tự tử ở cửa sông Đá..." target="_blank" >Triệu Việt Vương</a> đừng gã Cảo Nương cho Nhã Lang:</p>
+<dl> <dd> <dl> <dd>Có người: Hống, Hát họ Trương</dd> <dd>Vũ biền nhưng cũng biết đường cơ mưu,</dd> <dd>Rằng: "Xưa Trọng Thuỷ, Mỵ Châu,</dd> <dd>Hôn nhân là giả, khấu thù là chân.</dd> <dd>Mảnh gương vãng sự còn gần,</dd> <dd>Lại toan dắt mối Châu Trần sao nên?<sup class="annotation badge" title="^ a ă â b c Chuyện Trương Hống và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo Hoàng Xuân Hãn, Lý Thường Kiệt, tr.303">5</sup> </dd> </dl> </dd> </dl>
+<a name="thong-tin-khac"></a><h2>Thông tin khác</h2>
+<p>Tại làng Nôm (nay là thôn Đại Đồng, xã Đại Đồng, Văn Lâm, Hưng Yên) - là một làng cổ có giá trị về lịch sử, văn hoá (như làng cổ Đường Lâm) và đã được đề nghị công nhận là di sản quốc gia) cũng có đình thờ Đức Thánh Tam Giang. Tương truyền xưa kia, Đức thánh Tam Giang là tướng dưới thời Hai Bà Trưng, có công đánh giặc giúp dân, cứu nước. Không những thế, ông còn hiển linh giúp vua <a class="annotation" href="/nhan-vat/le-dai-hanh" title="Lê Đại Hành (chữ Hán: 黎大行; 941 – 1005), húy là Hoàn (桓), là vị hoàng đế sáng lập nhà Tiền Lê nước Đại Cồ Việt, trị vì nước Đại Cồ Việt 24 năm,băng tại điện Trường Xuân, Hoa Lư, thọ 65 tuổi. 
+ Vua quê ở Ái châu (Thanh Hóa), làm quan cho nhà Đinh dưới thời vua Đinh Bộ Lĩnh, đến chức Thập đạo tướng quâ..." target="_blank" >Lê Đại Hành</a> đánh tan quân Tống, được vua phong là "Hộ Quốc Phúc Thần". Ở làng Nôm cũng có một con sông nhỏ tên là <a class="annotation" href="/dia-danh/song-nguyet-duc" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Nguyệt Đức</a> - cùng tên với <a class="annotation" href="/dia-danh/song-nguyet-duc" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Nguyệt Đức</a> (<a class="annotation" href="/dia-danh/song-cau" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Cầu</a>) bắt nguồn từ Thái Nguyên (là một trong sáu con sông của <a class="annotation" href="/dia-danh/song-luc-dau" title="Sông Lục Đầu là quãng sông do sông Thương, sông Cầu, sông Lục Nam, sông Đuống, sông Kinh Môn, sông Thái Bình gặp nhau tạo thành. Sông được đào vào giữa tháng Chạp âm lịch năm Mậu Tý thứ 21 (lúc quân Ô Mã Nhi tiến vào sông Bạch Đằng). 
+ Ô Mã Nhi, Thoát Hoan, Trương Văn Hổ đã đem quân vào Vạn Kiếp the..." target="_blank" >sông Lục Đầu</a>)<sup class="annotation badge" title="^ http://baohungyen.vn/dat-va-nguoi-xu-nhan/201301/Van-hoa-tam-linh-Chua-Nom-169238/ Văn hóa tâm linh Chùa Nôm">18</sup> </p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Đức thánh Trần</li> <li>Đức thánh Nguyễn</li> <li>Đức thánh Đương Giang</li> <li>Đức thánh Đuổm (<a class="annotation" href="/nhan-vat/duong-tu-minh" title="Dương Tự Minh còn gọi là Đức Thánh Đuổm hay Cao Sơn Quý Minh, dân tộc Tày, người làng Quan Triều tỉnh Thái Nguyên (nay là phường Quan Triều, thành phố Thái Nguyên). Ông làm thủ lĩnh phủ Phú Lương xưa, gồm các châu: Thượng Nguyên, Vĩnh Thông, Quảng Nguyên, Cảm Hóa, Vạn Nhai, Tư Nông, Tuyên Hóa (thuộc..." target="_blank" >Dương Tự Minh</a>)</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-baobacninh.com.vn-1"><b>^</b> <span class="reference-text">Hội đền Vân Mẫu, Thúy Nga, Thứ hai, 21/02/2011 - 08:45</span></li> <li id="cite_note-hcmup.edu.vn-2">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Về thời điểm ra đời của bài thơ Nam quốc sơn hà, Nguyễn Thị Oanh, TC Han Nom 1/ 2002</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Nguyễn Thị Oanh, Tìm tác giả bài thơ Nam quốc sơn hà, Viện Nghiên cứu Hán Nôm</span></li> <li id="cite_note-sugia.vn-4">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Pháp Thuận và bài thơ thần <a class="annotation" href="/dia-danh/nuoc-nam" title="Việt Nam (tên chính thức: Cộng hòa xã hội chủ nghĩa Việt Nam) là một quốc gia nằm ở phía đông, giáp với Lào và Campuchia, thuộc bán đảo Đông Dương, thuộc khu vực Đông Nam Á thuộc châu Á. 
+ Phía bắc Việt Nam giáp với Trung Quốc, phía tây Việt Nam giáp với Lào và Campuchia, phía tây nam giáp vịnh Thái..." target="_blank" >nước Nam</a> sông núi, Nguồn: <a class="annotation" href="/nhan-vat/le-manh-that" title="Giáo sư, tiến sĩ, sử gia, thiền sư Lê Mạnh Thát, pháp danh là Thượng tọa Thích Trí Siêu sinh ngày 15 tháng 4 năm 1944 tại Làng Cu Hoan, Xã Hải Thiện, huyện Hải Lăng, tỉnh Quảng Trị. Ông là một lãnh tụ của Giáo hội Phật giáo Việt Nam Thống nhất, và bị tuyên án tử hình năm 1988. Ông được biết nhiều bở..." target="_blank" >Lê Mạnh Thát</a>, Lịch sử Phật giáo Việt Nam T.II, Nhà xuất bản Tp <a class="annotation" href="/nhan-vat/ho-chi-minh" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Hồ Chí Minh</a>, 2001, tr. 473-485.</span></li> <li id="cite_note-lichsuvietnam.info-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Chuyện <a class="annotation" href="/nhan-vat/truong-hong" title="Đức Thánh Tam Giang là danh xưng mà người dân Việt Nam gọi chung hai vị thánh hiển linh từ Trương Hống và Trương Hát. Đây là những vị tướng được nhắc tới nhiều nhất dưới thời vua Triệu Quang Phục. Tên gọi Tam Giang xuất phát từ tên gọi mà các triều đại Phong kiến Việt Nam phong cho hai ông: Tam Gian..." target="_blank" >Trương Hống</a> và Trương Hát, Việt Điện U Linh tập, Huyền sử, Dã sử, theo <a class="annotation" href="/nhan-vat/hoang-xuan-han" title="Hoàng Xuân Hãn (1908–1996) là một nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hóa, giáo dục Việt Nam đồng thời là một kỹ sư, nhà toán học. Ông là người soạn thảo và ban hành Chương trình Trung học Việt Nam đầu tiên...." target="_blank" >Hoàng Xuân Hãn</a>, <a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a>, tr.303</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Tục thờ Thánh Tam Giang ở Bắc Giang</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Đền Xà nơi lưu giữ giá trị lịch sử văn hóa</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/ly-thuong-kiet" title="Lý Thường Kiệt (chữ Hán: 李常傑; 1019 – 1105) là nhà quân sự, nhà chính trị thời nhà Lý nước Đại Việt, làm quan qua 3 triều vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông nổi bật với việc chinh phạt Chiêm Thành (1069), đánh phá 3 châu Khâm, Ung, Liêm nước Tống (1075-1076), rồi đánh bại cuộc xâm l..." target="_blank" >Lý Thường Kiệt</a> trọn đời vì nước quên thân</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Làng Diềm quê hương Thủy tổ Quan họ</span></li> <li id="cite_note-bn-10">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <span class="reference-text">DANH SÁCH CÁC DI TÍCH LỊCH SỬ ĐẠT CẤP QUỐC GIA-TP. BẮC NINH. Theo trang web của ỦY BAN NHÂN DÂN TỈNH BẮC NINH. Truy cập ngày 12/03/2015.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Đình Thọ Đức. Theo Báo Bắc Ninh.</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Gạch, cát “tặc” xé vụn phòng tuyến <a class="annotation" href="/dia-danh/song-nhu-nguyet" title="Sông Cầu (còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức hay mỹ danh dòng sông quan họ), là con sông quan trọng nhất trong hệ thống sông Thái Bình, sông nằm lọt trong vùng Đông Bắc Việt Nam. 
+ Lưu vực sông Cầu là một trong năm con sông dài nhất ở miền Bắc Việt Nam (Hồng, Đà, Lô, Cầu, Đáy)..." target="_blank" >sông Như Nguyệt</a></span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Đình làng Quan Đình. Theo Báo Bắc Ninh.</span></li> <li id="cite_note-dthh2007-14">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Danh mục các di tích đã được xếp hạng - Huyện Hiệp Hòa. Nguồn Ban quản lý di tích <a class="annotation" href="/dia-danh/tinh-bac-giang" title="Bắc Giang là một tỉnh thuộc vùng đông bắc Việt Nam. Từ năm 2012 là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Bắc Giang giáp với nhiều tỉnh thành, phía bắc giáp Lạng Sơn, phía đông giáp Quảng Ninh, phía tây giáp Thái Nguyên và Hà Nội, phía nam giáp Bắc Ninh và Hải Dương. Tỉnh lỵ là thành phố Bắc G..." target="_blank" >tỉnh Bắc Giang</a>, tính đến hết năm 2007. Sở GD&amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.</span></li> <li id="cite_note-dtvy2007-15">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Danh mục các di tích đã được xếp hạng - Huyện Việt Yên. Nguồn Ban quản lý di tích <a class="annotation" href="/dia-danh/tinh-bac-giang" title="Bắc Giang là một tỉnh thuộc vùng đông bắc Việt Nam. Từ năm 2012 là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Bắc Giang giáp với nhiều tỉnh thành, phía bắc giáp Lạng Sơn, phía đông giáp Quảng Ninh, phía tây giáp Thái Nguyên và Hà Nội, phía nam giáp Bắc Ninh và Hải Dương. Tỉnh lỵ là thành phố Bắc G..." target="_blank" >tỉnh Bắc Giang</a>, tính đến hết năm 2007. Sở GD&amp;ĐT Bắc Giang dẫn lại ngày 12/08/2011.</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Unesco vinh danh 5 làng quan họ cổ <a class="annotation" href="/dia-danh/tinh-bac-giang" title="Bắc Giang là một tỉnh thuộc vùng đông bắc Việt Nam. Từ năm 2012 là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. Bắc Giang giáp với nhiều tỉnh thành, phía bắc giáp Lạng Sơn, phía đông giáp Quảng Ninh, phía tây giáp Thái Nguyên và Hà Nội, phía nam giáp Bắc Ninh và Hải Dương. Tỉnh lỵ là thành phố Bắc G..." target="_blank" >tỉnh Bắc Giang</a></span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Lễ hội Đền Long Động- Bắc Lý. Theo Trần Văn Thanh, 19 THÁNG 10 2010 (lễ hội Đền Long Động xã Bắc Lý (Hiệp Hòa) vào ngày 12-9 âm lịch).</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">http://baohungyen.vn/dat-va-nguoi-xu-nhan/201301/Van-hoa-tam-linh-Chua-Nom-169238/ Văn hóa tâm linh Chùa Nôm</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/truong-han-sieu" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Trương Hán Siêu            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/truong-hong" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Trương Hống            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/truong-hat" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-lang-mo-va-den-tho-cac-vi-vua-trieu-ly" class="mod-articles-category-title ">Khu lăng mộ và đền thờ các vị vua triều Lý</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

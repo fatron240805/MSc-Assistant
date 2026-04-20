@@ -1,0 +1,1461 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Hậu Đường Trang Tông (giản thể&amp;#58; 后唐庄宗; phồn thể&amp;#58; 後唐莊宗), tên húy là Lý Tồn Úc (tiếng Trung&amp;#58; 李存勖 hay 李存勗; bính âm&amp;#58; Lǐ Cúnxù), tiểu danh Á Tử (亞子), là một nhân vật chính trị và quân sự trong thời kỳ Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Ông kế vị cha làm vương nước Tấn (908-923) và...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Lý Tồn Úc - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"64c6602b4ee79bef95fe9472a0b670c7"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Lý Tồn Úc" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Hậu Đường Trang Tông (giản thể&#58; 后唐庄宗; phồn thể&#58; 後唐莊宗), tên húy là Lý Tồn Úc (tiếng Trung&#58; 李存�.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/ly-ton-uc" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/ly-ton-uc/89e45bb425e5de7ba644ec765bc9abf4.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Lý Tồn Úc", "item": "https://nguoikesu.com/nhan-vat/ly-ton-uc" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/ly-ton-uc" }, "headline": "Lý Tồn Úc", "description": "Hậu Đường Trang Tông (giản thể&amp;#58; 后唐庄宗; phồn thể&amp;#58; 後唐莊宗), tên húy là Lý Tồn Úc (tiếng Trung&amp;#58; 李存勖 hay 李存勗; bính âm&amp;#58; Lǐ Cúnxù), tiểu danh Á Tử (亞子), là một nhân vật chính trị và quân sự trong thời kỳ Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Ông kế vị cha làm vương nước Tấn (908-923) và sau trở thành hoàng đế của triều Hậu Đường (923–926) do ông sáng lập. Lý Tồn Úc được đánh giá là một trong những lãnh đạo có tài quân sự nhất trong thời Ngũ Đại Thập Quốc. Khi ông kế vị tước Tấn vương, Tấn đang ở trong tình trạng suy yếu và không được xem như có khả năng gây ra một mối đe dọa quân sự cho kình địch của họ là triều Hậu Lương ở phía nam. Lý Tồn Úc thận trọng tái thiết nước Tấn, tiến hành nhiều cuộc chinh phục và kết minh với kết quả là đoạt được hầu hết lãnh thổ ở phía bắc Hoàng Hà, tức Hà Bắc, trước khi bắt đầu một chiến dịch trường kỳ chống lại Hậu Lương.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/ly-ton-uc/89e45bb425e5de7ba644ec765bc9abf4.png" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/ly-ton-uc" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2019-03-18T21:05:38+07:00", "dateCreated": "2019-03-18T21:05:38+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Lý Tồn Úc</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Lý Tồn Úc        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#thoi-ky-la-tan-vuong" title="">Thời kỳ là Tấn vương</a></li>
+<li class="level-2"><a href="#cung-co-quyen-luc-ban-dau" title="">Củng cố quyền lực ban đầu</a></li>
+<li class="level-2"><a href="#chinh-phuc-yen" title="">Chinh phục Yên</a></li>
+<li class="level-2"><a href="#chien-dich-ban-dau-chong-hau-luong" title="">Chiến dịch ban đầu chống Hậu Lương</a></li>
+<li class="level-2"><a href="#hop-nhat-trieu-va-nghia-vu-vao-tan" title="">Hợp nhất Triệu và Nghĩa Vũ vào Tấn</a></li>
+<li class="level-1"><a href="#lam-hoang-de-hau-duong" title="">Làm hoàng đế Hậu Đường</a></li>
+<li class="level-2"><a href="#chinh-phuc-hau-luong" title="">Chinh phục Hậu Lương</a></li>
+<li class="level-2"><a href="#cai-quan-lac-duong" title="">Cai quản Lạc Dương</a></li>
+<li class="level-2"><a href="#suy-sup" title="">Suy sụp</a></li>
+<li class="level-1"><a href="#gia-dinh" title="">Gia đình</a></li>
+<li class="level-2"><a href="#hau-phi" title="">Hậu phi</a></li>
+<li class="level-2"><a href="#anh-em" title="">Anh em</a></li>
+<li class="level-2"><a href="#hau-due" title="">Hậu duệ</a></li>
+<li class="level-3"><a href="#trai" title="">Trai</a></li>
+<li class="level-3"><a href="#duong-tu" title="">dưỡng tử</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" ><tbody><tr><th colspan="2" >Hậu Đường Trang Tông<br /><font size="2">後唐莊宗</font></th></tr><tr><td colspan="2" > Hoàng đế Trung Hoa <small>(chi tiết...)</small></td></tr><tr><td colspan="2" > <img alt="Zhuangzong of Later Tang.jpg" src="/images/wiki/ly-ton-uc/7e70c11361e4e52495990aa2b94b9d44.jpg" decoding="async" width="200" height="430" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zhuangzong_of_Later_Tang.jpg/300px-Zhuangzong_of_Later_Tang.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zhuangzong_of_Later_Tang.jpg/400px-Zhuangzong_of_Later_Tang.jpg 2x" data-file-width="1201" data-file-height="2582" /></td></tr><tr><th colspan="2" >Hoàng đế nhà Hậu Đường</th></tr><tr><th scope="row">Tại vị</th><td> 13 tháng 5 năm 923<sup id="cite_ref-AS_1-0" class="reference">&#91;1&#93;</sup><sup id="cite_ref-ZZTJ272_2-0" class="reference">&#91;2&#93;</sup> - 15 tháng 5 năm 926<br />3 năm, 2 ngày</td></tr><tr><th scope="row">Kế nhiệm</th><td> Hậu Đường Minh Tông</td></tr><tr><th colspan="2" >Vương nước Tấn</th></tr><tr><th scope="row">Tại vị</th><td> 23/2/ 908<sup id="cite_ref-AS_1-1" class="reference">&#91;1&#93;</sup><sup id="cite_ref-ZZTJ266_3-0" class="reference">&#91;3&#93;</sup> - 13/5/ 923<br />15 năm, 79 ngày</td></tr><tr><th scope="row">Tiền nhiệm</th><td> Lý Khắc Dụng</td></tr><tr><th colspan="2" >Thông tin chung</th></tr><tr><th scope="row">Thê thiếp</th><td> Xem văn bản</td></tr><tr><th scope="row">Hậu duệ</th><td> Xem văn bản</td></tr><tr><th scope="row">Tên đầy đủ</th><td> Lý Tồn Úc</td></tr><tr><th scope="row">Niên hiệu</th><td> Đồng Quang (同光)<br /> 13/5/ 923 - 11/6/ 926<sup id="cite_ref-AS_1-2" class="reference">&#91;1&#93;</sup><sup id="cite_ref-ZZTJ275_4-0" class="reference">&#91;4&#93;</sup></td></tr><tr><th scope="row">Thụy hiệu</th><td> Quang Thánh Thần Mẫn Hiếu Hoàng Đế (光聖神閔孝皇帝)</td></tr><tr><th scope="row">Miếu hiệu</th><td> Trang Tông (莊宗)</td></tr><tr><th scope="row">Thân mẫu</th><td> Tào thái hậu</td></tr><tr><th scope="row">Sinh</th><td> 2 tháng 12, 885<sup id="cite_ref-AS_1-3" class="reference">&#91;1&#93;</sup><sup id="cite_ref-HFD27_5-0" class="reference">&#91;5&#93;</sup><br />Thái Nguyên</td></tr><tr><th scope="row">Mất</th><td> 15 tháng 5, 926<sup id="cite_ref-AS_1-4" class="reference">&#91;1&#93;</sup><sup id="cite_ref-ZZTJ275_4-1" class="reference">&#91;4&#93;</sup></td></tr><tr><th scope="row">An táng</th><td> Ung lăng (雍陵)</td></tr></tbody></table></div>
+<p><b>Hậu Đường Trang Tông</b> (giản thể&#58; <span lang="zh-Hans">后唐庄宗</span>; phồn thể&#58; <span lang="zh-Hant">後唐莊宗</span>), tên húy là <b>Lý Tồn Úc</b> (tiếng Trung&#58; <span lang="zh">李存勖 hay 李存勗</span>; bính âm&#58; <i><span lang="zh-Latn-pinyin">Lǐ Cúnxù</span></i>), tiểu danh <b>Á Tử</b> (亞子), là một nhân vật chính trị và quân sự trong thời kỳ Ngũ Đại Thập Quốc trong lịch sử Trung Quốc. Ông kế vị cha làm vương nước Tấn (908-923) và sau trở thành hoàng đế của triều Hậu Đường (923–926) do ông sáng lập. </p>
+<p>Lý Tồn Úc được đánh giá là một trong những lãnh đạo có tài quân sự nhất trong thời Ngũ Đại Thập Quốc. Khi ông kế vị tước Tấn vương, Tấn đang ở trong tình trạng suy yếu và không được xem như có khả năng gây ra một mối đe dọa quân sự cho kình địch của họ là triều Hậu Lương ở phía nam. Lý Tồn Úc thận trọng tái thiết nước Tấn, tiến hành nhiều cuộc chinh phục và kết minh với kết quả là đoạt được hầu hết lãnh thổ ở phía bắc Hoàng Hà, tức Hà Bắc, trước khi bắt đầu một chiến dịch trường kỳ chống lại Hậu Lương. </p>
+<p>Lý Tồn Úc chinh phục Hậu Lương vào năm 923 và tự xưng là hoàng đế của triều Hậu Đường, tuyên bố đây là sự phục hồi triều Đường. Ông thiên đô đến đông đô trước đây của triều Đường là Lạc Dương. Tuy nhiên, giống như các triều đại khác của Ngũ Đại, Hậu Đường chỉ tồn tại được trong một thời gian ngắn ngủi. Bản thân Lý Tồn Úc qua đời ba năm sau khi sáng lập ra triều đại, ông bị sát hại trong cuộc nổi dậy của Quách Tòng Khiêm (郭從謙) vào năm 926. Kế vị Lý Tồn Úc là Lý Tự Nguyên, nghĩa tử của Lý Khắc Dụng. </p>
+<a name="than-the"></a><h2>Thân thế</h2>
+<p>Lý Tồn Úc sinh ngày 22 tháng 10 năm Ất Tị (2 tháng 12 năm 885), tại Tấn Dương cung (tức Thái Nguyên), trong thời gian trị vì của Đường Chiêu Tông. cha ông là Hà Đông<sup id="cite_ref-6" class="reference">&#91;chú 1&#93;</sup> tiết độ sứ Lý Khắc Dụng- một quân phiệt lớn mạnh vào cuối thời Đường. Mẹ ông là Tào thị- thiếp của Lý Khắc Dụng. Ông là con trai ruột sinh sớm nhất của Lý Khắc Dụng.<sup id="cite_ref-HFD27_5-1" class="reference">&#91;5&#93;</sup> </p>
+<p>Năm 895, khi Lý Khắc Dụng đang tiến hành một chiến dịch (cuối cùng thành công) chống lại các quân phiệt vừa tiến hành đe dọa quân sự đối với Đường Chiêu Tông là Tĩnh Nan<sup id="cite_ref-7" class="reference">&#91;chú 2&#93;</sup> tiết độ sứ Vương Hành Du, Phượng Tường<sup id="cite_ref-8" class="reference">&#91;chú 3&#93;</sup> tiết độ sứ Lý Mậu Trinh, và Trấn Quốc<sup id="cite_ref-9" class="reference">&#91;chú 4&#93;</sup> tiết độ sứ Hàn Kiến, Lý Khắc Dụng sai Lý Tồn Úc đến hành tại nhằm thể hiện sự thần phục với hoàng đế. Khi thấy Lý Tồn Úc, Đường Chiêu Tông vỗ về ông và nói: "Nhi tương lai là rường cột của đất nước, hãy tận trung hiếu với nhà ta."<sup id="cite_ref-ZZTJ260_10-0" class="reference">&#91;6&#93;</sup> Sau khi Lý Khắc Dụng đánh bại ba quân biệt<sup id="cite_ref-11" class="reference">&#91;chú 5&#93;</sup>, Lý Tồn Úc được trao cho chức vụ danh dự 'kiểm giáo tư không', Thấp châu<sup id="cite_ref-12" class="reference">&#91;chú 6&#93;</sup> thứ sử, và sau đó lần lượt giữ chức thứ sử của Phần châu và Tấn châu<sup id="cite_ref-13" class="reference">&#91;chú 7&#93;</sup>, song đều là diêu lĩnh, tức không đến địa phương nhậm chức mà chỉ là chức vụ danh dự. Ông được thuật lại là thông hiểu âm nhạc, và thường ca vũ trước mặt cha. Ông học "Xuân Thu" từ năm 13 tuổi, có được sự hiểu biết sơ đẳng. Khi lớn hơn, ông trở thành người giỏi cưỡi ngựa bắn cung.<sup id="cite_ref-HFD27_5-2" class="reference">&#91;5&#93;</sup> </p>
+<p>Lý Tồn Úc được thuật lại là người thông minh, dũng lược ngay từ khi còn trẻ tuổi. Khoảng năm 902, trông thấy cảnh cha khốn khổ do nhiều năm thua trận trước Tuyên Vũ<sup id="cite_ref-14" class="reference">&#91;chú 8&#93;</sup> tiết độ sứ Chu Toàn Trung, ông chỉ ra rằng việc cha tỏ rõ vẻ đau khổ chỉ khiến cho quân dân lo lắng theo, và tốt hơn là ẩn mình và chờ thời cơ Chu Toàn Trung mắc sai lầm để tiến hành phản công, cho phép quân dân nghỉ ngơi trong một thời gian. Ông cũng nói với Lý Khắc Dụng rằng mình nhận thấy vấn đề khi các binh sĩ người Sa Đà cướp bóc của quần chúng, chỉ ra rằng nếu cha không kiềm chế hành vi này thì các binh sĩ sẽ phân tán và không thể tập hợp lại.<sup id="cite_ref-ZZTJ263_15-0" class="reference">&#91;7&#93;</sup> </p>
+<p>Năm 906, Chu Toàn Trung tiến hành chiến dịch chống lại một quân phiệt khác là Lô Long<sup id="cite_ref-16" class="reference">&#91;chú 9&#93;</sup> tiết độ sứ Lưu Nhân Cung, và bao vây con của Lưu Nhân Cung là Nghĩa Xương<sup id="cite_ref-17" class="reference">&#91;chú 10&#93;</sup> tiết độ sứ Lưu Thủ Văn tại thành Thương châu. Mặc dù trước đó phản lại Lý Khắc Dụng và trở thành quân phiệt độc lập, Lưu Nhân Cung quyết định cầu viện Lý Khắc Dụng. Lý Khắc Dụng ôm hận trong lòng nên từ chối cứu viện Lưu Nhân Cung, song Lý Tồn Úc nói rằng Chu Toàn Trung lúc này đã quá hùng mạnh và được các quân phiệt khác quy phục, Hà Đông và Lô Long là hai trong vài đối thủ còn lại của Chu Toàn Trung. Lý Tồn Úc chủ trương cứu viện Lưu Nhân Cung để ngăn việc Chu Toàn Trung khoách trương, người trong thiên hạ sẽ nhớ đến đức của Lý Khắc Dụng. Lý Khắc Dụng nghe theo ý của Lý Tồn Úc, đề nghị Lưu Nhân Cung phái quân đến để liên hiệp tiến công Chiêu Nghĩa<sup id="cite_ref-18" class="reference">&#91;chú 11&#93;</sup> của Hậu Lương để mở một mặt trận thứ hai, Lưu Nhân Cung chấp thuận. Sau đó, Chiêu Nghĩa tiết độ sứ Đinh Hội đầu hàng Lý Khắc Dụng, Chu Toàn Trung buộc phải từ bỏ chiến dịch chống lại Lưu Nhân Cung.<sup id="cite_ref-ZZTJ265_19-0" class="reference">&#91;8&#93;</sup> </p>
+<p>Năm 907, Chu Toàn Trung buộc người kế vị Đường Chiêu Tông là Đường Ai Đế phải trao lại hoàng vị cho ông ta, kết thúc triều Đường và khởi đầu triều Hậu Lương. Chu Toàn Trung tuyên bố là quân chủ của toàn bộ lãnh thổ Đường cũ, song Lý Khắc Dụng, Lý Mậu Trinh, Hoài Nam<sup id="cite_ref-20" class="reference">&#91;chú 12&#93;</sup> tiết độ sứ Dương Ác, Tây Xuyên<sup id="cite_ref-21" class="reference">&#91;chú 13&#93;</sup> tiết độ sứ Vương Kiến từ chối công nhận Chu Toàn Trung là hoàng đế, lãnh địa của họ trên trở thành các nước tương ứng là Tấn, Kỳ, Hoằng Nông và Tiền Thục. Sau đó, Chu Toàn Trung phái bộ tướng là Khang Hoài Trinh (康懷貞) đem 8 vạn quân đến đánh Lộ châu của Lý Tự Chiêu (李嗣昭)- người được Lý Khắc Dụng phong làm Chiêu Nghĩa tiết độ sứ. Khang Hoài Trinh cho xây thành đào hào quanh Lộ châu để cắt đứt liên lạc giữa bên ngoài với thành, quân cứu viện do Lý Khắc Dụng phái đến không thể giải vây cho Lộ châu. Đầu năm 908, Lý Khắc Dụng lâm bệnh nặng, và giao phó người thừa kế Lý Tồn Úc cho em là Nội ngoại Phiên Hán đô tri binh mã sứ-Chấn Vũ<sup id="cite_ref-22" class="reference">&#91;chú 14&#93;</sup> tiết độ sứ Lý Khắc Ninh, Giám quân Trường Thừa Nghiệp (張承業), Đại tướng Lý Tồn Chương (李存璋), Ngô Củng (吳珙), Chưởng thư ký Lô Chất (盧質). Lý Khắc Dụng nhiều lần nói với Lý Tồn Úc rằng cần lập tức cứu nguy Lý Tự Chiêu sau khi ông ta qua đời. Ngày Tân Mão tháng 1 năm Mậu Thìn (23 tháng 2 năm 908), Lý Khắc Dụng qua đời, Lý Tồn Úc kế nhiệm.<sup id="cite_ref-ZZTJ266_3-1" class="reference">&#91;3&#93;</sup> </p>
+<a name="thoi-ky-la-tan-vuong"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Thời kỳ là Tấn vương</h2>
+<a name="cung-co-quyen-luc-ban-dau"></a><h3>Củng cố quyền lực ban đầu</h3>
+<p>Sau khi Lý Khắc Dụng qua đời, thoạt đầu Lý Khắc Ninh duy trì kỷ luật trong quân đội, không ai dám tạo ra xáo trộn. Trong khi đó, các quan lại và tướng sĩ không kính trọng Lý Tồn Úc- khi đó mới 22 tuổi, và họ liên tục bình phẩm. Lý Tồn Úc lo sợ nên đã giao quyền chỉ huy quân đội cho Lý Khắc Ninh, song Lý Khắc Ninh từ chối, nói rằng Tồn Úc mới là người kế nhiệm hợp pháp. Theo ý của Lý Khắc Ninh và Trương Thừa Nghiệp, Lý Tồn Úc xưng thừa tập Tấn vương, Hà Đông tiết độ sứ.<sup id="cite_ref-ZZTJ266_3-2" class="reference">&#91;3&#93;</sup> </p>
+<p>Nhiều dưỡng tử của Lý Khắc Dụng làm quan cho Tấn, họ nhiều tuổi hơn và có tài năng quân sự hơn Lý Tồn Úc, những người này do đó cũng không tôn trọng Lý Tồn Úc, nhiều người từ chối đến yết kiến, và một số từ chối khấu đầu. Một trong số họ là Lý Tồn Hạo (李存顥) cố gắng thuyết phục Lý Khắc Ninh đoạt lấy quyền chỉ huy, song Lý Khắc Ninh từ chối lời đề nghị. Sau đó, Lý Tồn Hạo và một số dưỡng tử khác đã sai vợ của họ đến thuyết phục vợ của Lý Khắc Ninh là Mạnh phu nhân.<sup id="cite_ref-ZZTJ266_3-3" class="reference">&#91;3&#93;</sup> Mạnh phu nhân thuận theo và bà thúc giục Lý Khắc Ninh, khiến quyết tâm của Lý Khắc Ninh lay chuyển. Sau đó, Lý Khắc Ninh giết chết Đô ngu hậu Lý Tồn Chất (李存質), mà không được sự chấp thuận của Lý Tồn Úc, Lý Khắc Ninh cũng yêu cầu được giữ chức Đại Đồng<sup id="cite_ref-23" class="reference">&#91;chú 15&#93;</sup> tiết độ sứ, Lý Tồn Úc chấp thuận.<sup id="cite_ref-ZZTJ266_3-4" class="reference">&#91;3&#93;</sup> </p>
+<p>Mặc dù vậy, Lý Tồn Hạo sau đó lên kế hoạch cụ thể, được Lý Khắc Ninh chấp thuận không chính thức, theo đó sẽ bắt Lý Tồn Úc khi Tồn Úc đến phủ của Lý Khắc Ninh, rồi giải Lý Tồn Úc và Tào thái phu nhân đến chỗ hoàng đế Hậu Lương, đoạt lấy Hà Đông. Lý Khắc Ninh gặp Sử Kính Dung (史敬鎔) để thuyết phục người này tham gia vào âm mưu và giám sát Lý Tồn Úc. Sử Kính Dung giả bộ chấp thuận, song sau đó đã báo lại cho Lý Tồn Úc. Lý Tồn Úc gặp Tào thái phu nhân và Trương Thừa Nghiệp, thoạt đầu Lý Tồn Úc muốn từ nhiệm để tránh xung đột, song Trương Thừa Nghiệp thuyết phục được Lý Tồn Úc chống lại Lý Khắc Ninh. Trương Thừa Nghiệp cũng lệnh Lý Tồn Chương, Ngô Củng, Lý Tồn Kính (李存敬) và Chu Thủ Ân (朱守殷) chuẩn bị chống Lý Khắc Ninh.<sup id="cite_ref-ZZTJ266_3-5" class="reference">&#91;3&#93;</sup> </p>
+<p>Vào ngày Nhâm Tuất tháng 2 năm Mậu Thìn (25 tháng 3 năm 908,<sup id="cite_ref-AS_1-5" class="reference">&#91;1&#93;</sup>) Lý Tồn Úc tổ chức tiệc trong phủ của mình, tất cả quan lại cao cấp đều đến tham dự. Tuy nhiên, Lý Tồn Úc cho binh sĩ phục kích từ trước, và trong bữa tiệc, họ tiến ra bắt giữ Lý Khắc Ninh và Lý Tồn Hạo, sau đó hành quyết.<sup id="cite_ref-ZZTJ266_3-6" class="reference">&#91;3&#93;</sup> </p>
+<p>Trong khi đó, cuộc khủng hoảng tại Lộ châu vẫn tiếp diễn. Tuy nhiên, vì cho rằng Lộ châu sẽ tự sụp đổ một khi không có cứu viện sau khi Lý Khắc Dụng qua đời (đặc biệt là bởi Lý Tồn Úc lệnh cho Chu Đức Uy đem quân quay về Thái Nguyên một thời gian), Chu Toàn Trung rời đi, để các tướng lĩnh của mình ở lại tiếp tục bao vây thành. Lý Tồn Úc quyết định thân chinh nhằm giải vây cho Lộ châu. Lý Tồn Úc và Chu Đức Uy giáp công từ hai phía, quân Hậu Lương bị bất ngờ và sụp đổ, cuộc bao vây Lộ châu kết thúc.<sup id="cite_ref-ZZTJ266_3-7" class="reference">&#91;3&#93;</sup> </p>
+<p>Lý Tồn Úc sau đó thực hiện các chính sách hiệu quả, giúp cho Tấn vào những năm sau đó dần hồi phục sức mạnh từng chạm đáy vào những năm cuối thời Lý Khắc Dụng. Theo như mô tả của sử gia thời Tống Tư Mã Quang trong <i>Tư trị thông giám</i>:<sup id="cite_ref-ZZTJ266_3-8" class="reference">&#91;3&#93;</sup> </p>
+<blockquote class="templatequote"><p>Mệnh châu huyện cử hiền tài, truất quan tham tàn, khoan tô phú, an phủ người cô cùng, chấn chỉnh việc oan lạm, ngăn chặn bọn trộm cướp, trong cương giới là cảnh đại trị. Do Hà Đông đất hẹp binh thiếu, bèn huấn luyện sĩ tốt, lệnh kị binh không được cưỡi ngựa khi chưa thấy địch. Khi bố trí đã định, không được vượt quá giới hạn hay trao đổi phần việc quy định, không được chậm trễ hòng thoát nguy hiểm. Phân đạo tịnh tiến, không được sai thời gian. Kẻ phạm phải tất bị xử trảm. Cho nên có thể chiếm lấy Sơn Đông (phía đông Thái Hành Sơn) và lấy Hà Nam (phía nam Hoàng Hà) do sĩ tốt vốn đã tinh chỉnh. </p></blockquote>
+<p>Lý Tồn Úc cũng bắt đầu thực hiện quyền lực hoàng đế, thừa chế phong bái nhân danh Hoàng đế Đường (mặc dù khi đó không tồn tại) — một quyền mà Đường Chiêu Tông ban cho Lý Khắc Dụng trước đó, song Lý Khắc Dụng chưa từng thực hiện. Lý Tồn Úc rất tin tưởng Trương Thừa Nghiệp, kính trọng xem Trương Thừa Nghiệp là 'anh'.<sup id="cite_ref-ZZTJ266_3-9" class="reference">&#91;3&#93;</sup> </p>
+<p>Trong một thời gian sau đó, Lý Tồn Úc không tiến hành các chiến dịch lớn, song sau khi Lưu Thủ Quang lật đổ cha là Lưu Nhân Cung và đoạt lấy Lô Long.<sup id="cite_ref-ZZTJ266_3-10" class="reference">&#91;3&#93;</sup> Lý Tồn Úc giúp đỡ Lưu Thủ Quang trong cuộc chiến giữa hai huynh đệ Lưu Thủ Văn và Lưu Thủ Quang,<sup id="cite_ref-ZZTJ267_24-0" class="reference">&#91;9&#93;</sup> (Lưu Thủ Quang cuối cùng bắt được Lưu Thủ Văn, kiểm soát Lô Long và Nghĩa Xương.) Lý Tồn Úc cũng tham gia tiến công Hậu Lương cùng với nước Kỳ của Lý Mậu Trinh sau khi tướng Lưu Tri Tuấn (劉知俊) của Hậu Lương quay sang quy phục Kỳ.<sup id="cite_ref-ZZTJ267_24-1" class="reference">&#91;9&#93;</sup> </p>
+<p>Cuối năm 910, Hậu Lương Thái Tổ Chu Toàn Trung sinh nghi ngờ các chư hầu là Triệu vương Vương Dung- người kiểm soát Vũ Thuận <sup id="cite_ref-25" class="reference">&#91;chú 16&#93;</sup>, và Nghĩa Vũ<sup id="cite_ref-26" class="reference">&#91;chú 17&#93;</sup> tiết độ sứ Vương Xử Trực, quyết định đoạt lấy lãnh địa của họ. Chu Toàn Trung hành quân lên phía bắc, giả bộ là nhằm giúp Nghĩa Vũ và Vũ Thuận phòng thủ trước khả năng bị Lưu Thủ Quang tiến công, song sau đó chiếm hai châu của Vũ Thuận và đồ sát binh sĩ đồn trú của Vũ Thuận tại địa phương. Trước các sự việc này, Vương Dung bị bất ngờ và quyết định cầu viện cả Lý Tồn Úc và Lưu Thủ Quang. Lưu Thủ Quang từ chối, song Lý Tồn Úc trước tiên sai Chu Đức Uy đi cứu viện, và sau đó đích thân dẫn quân. Tháng 1 ÂL 911, liên quân Tấn/Triệu/Nghĩa Vũ tiêu diệt quân Hậu Lương dưới quyền tướng Vương Cảnh Nhân tại Bá Hương (柏鄉, nay thuộc Hình Đài, Hà Bắc). Sau chiến thắng, Lý Tồn Úc quyết định tiến xa hơn, ông từng bao vây Ngụy châu (魏州, nay thuộc Hàm Đan, Hà Bắc), trị sở của Thiên Hùng (天雄)- một đạo quan trọng của Hậu Lương. Tuy nhiên, do lo sợ trước một đạo quân lớn dưới quyền tướng Hậu Lương Dương Sư Hậu (楊師厚) đang tiến đến, và càng lo ngại rằng Lưu Thủ Quang có thể sinh sự với mình, Lý Tồn Úc quyết định sớm từ bỏ bao vây Ngụy châu, kết thúc cuộc đối đầu lần này với Hậu Lương. Từ đó trở đi, Triệu và Nghĩa Vũ trở thành các thực thể độc lập trên thực tế, song liên minh khăng khít với Tấn, cả ba đều vẫn sử dụng niên hiệu <i>Thiên Hựu</i> (天佑) của triều Đường nhằm biểu thị sự chống đối với Hậu Lương.<sup id="cite_ref-ZZTJ267_24-2" class="reference">&#91;9&#93;</sup> </p>
+<a name="chinh-phuc-yen"></a><h3>Chinh phục Yên</h3>
+<p>Lưu Thủ Quang cho rằng bản thân nay đủ mạnh để xưng đế, do vậy thuyết phục Vương Dung và Vương Xử Trực ủng hộ để mình trở thành <i>Thượng phụ</i>. Lý Tồn Úc muốn khiến cho Lưu Nhân Cung thêm tự đại để sau này có thể dễ dàng đánh bại, do đó ông cùng với Vương Dung, Vương Xử Trực, và ba tiết độ sứ khác dưới quyền của mình là Lý Tự Chiêu, Chu Đức Uy, Tống Dao (宋瑤) kiến nghị trao cho Lưu Nhân Cung chức <i>Thượng phụ</i>. Lưu Nhân Cung gửi kiến nghị này cho Chu Toàn Trung.<sup id="cite_ref-ZZTJ268_27-0" class="reference">&#91;10&#93;</sup> </p>
+<p>Ngày Giáp Tý tháng 8 năm Tân Mùi (8 tháng 9 năm 911), Lưu Thủ Quang lên ngôi hoàng đế, đặt quốc hiệu là Đại Yên. Lưu Thủ Quang phát động tiến công Nghĩa Vũ, Vương Xử Trực cầu viện Lý Tồn Úc và ông cử Chu Đức Uy đem quân đến điểm tập kết với Triệu và Nghĩa Vũ để cùng tiến công Yên. Chu Đức Uy tiến sâu vào lãnh thổ Yên, Lý Tồn Úc sau đó cũng tiến đến mặt trận. Trong lúc Lý Tồn Úc vắng mặt, Chu Toàn Trung tiến công Tấn và Triệu để phục thù, song bị các tướng Tấn là Lý Tồn Thẩm (李存審), Sử Kiến Đường (史建瑭) và Lý Tự Quăng (李嗣肱) đánh bại, và phải từ bỏ ý định cứu viện Lưu Thủ Quang.<sup id="cite_ref-ZZTJ268_27-1" class="reference">&#91;10&#93;</sup> </p>
+<p>Khi chiến dịch đánh Yên đang diễn ra, Chu Toàn Trung bị con là Dĩnh vương Chu Hữu Khuê ám sát, Chu Hữu Khuê trở thành hoàng đế của Hậu Lương. Tướng Hậu Lương là Hộ Quốc<sup id="cite_ref-28" class="reference">&#91;chú 18&#93;</sup> tiết độ sứ Chu Hữu Khiêm (朱友謙) từ chối quy phục Chu Hữu Khuê, và quay sang quy phục Tấn, cầu viện Lý Tồn Úc. Đến tháng 9 ÂL, Chu Hữu Khuê sai tướng Khang Hoài Trinh (康懷貞) tiến đánh Chu Hữu Khiêm, Lý Tồn Úc đến cứu viện Chu Hữu Khiêm và đẩy lui cuộc tiến công của Khang Hoài Trinh, buộc Khang Hoài Trinh phải triệt thoái. Chu Hữu Khiêm đến năm 913 lại quay sang quy phục Hậu Lương khi Chu Hữu Trinh lật đổ Chu Hữu Khuê,<sup id="cite_ref-ZZTJ268_27-2" class="reference">&#91;10&#93;</sup> song sau đó lại quy phục Tấn.)<sup id="cite_ref-ZZTJ271_29-0" class="reference">&#91;11&#93;</sup> </p>
+<p>Tháng 4 ÂL năm 913, Chu Đức Uy bao vây kinh thành U châu (幽州) của Yên. Đến tháng 10 ÂL, Lưu Thủ Quang tuyệt vọng và tuyên bố rằng nếu Lý Tồn Úc đích thân đến U châu thì sẽ đầu hàng. Ngày Giáp Thìn tháng 11 (6 tháng 12), Lý Tồn Úc cho Giám quân Trương Thừa Nghiệp quyền làm chủ quân phủ sự, tự mình đến U châu, ngày Tân Dậu cùng tháng (23 tháng 12 thì một mình cưỡi ngựa đến dưới thành U châu, song Lưu Thủ Quang lại không giữ lời mặc dù Lý Tồn Úc đảm bảo sẽ tha mạng nếu ông ta chịu đầu hàng. Ngày hôm sau, Lý Tồn Úc đốc chư quân 4 mặt đánh thành, U châu thất thủ.<sup id="cite_ref-ZZTJ268_27-3" class="reference">&#91;10&#93;</sup> Lưu Thủ Quang cùng vợ con chạy trốn, song sau đó bị bắt giữ.<sup id="cite_ref-ZZTJ268_27-4" class="reference">&#91;10&#93;</sup><sup id="cite_ref-ZZTJ269_30-0" class="reference">&#91;12&#93;</sup> Lý Tồn Úc đưa Lưu Thủ Quang cùng gia đình, bao gồm cả Lưu Nhân Cung đến Thái Nguyên, và sau đó hành quyết. Lý Tồn Úc bổ nhiệm Chu Đức Uy là Lô Long tiết độ sứ và trao lãnh thổ cũ của Yên cho người này quản lý. Sau chiến thắng, Vương Dung và Vương Xử Trực sai sứ đến suy tôn Lý Tồn Úc tước <i>Thượng thư lệnh</i> (尚書令) — một tước hiệu mà không có thần dân Đường nào dám nhận vì Đường Thái Tông từng mang tước này. Lý Tồn Úc thoạt đầu từ chối, song sau đó chấp thuận tước hiệu, và cũng bắt đầu khai phủ lập hành đài giống như Đường Thái Tông khi còn là Tấn vương.<sup id="cite_ref-ZZTJ269_30-1" class="reference">&#91;12&#93;</sup> </p>
+<a name="chien-dich-ban-dau-chong-hau-luong"></a><h3>Chiến dịch ban đầu chống Hậu Lương</h3>
+<p>Không còn lo sợ cảnh bị Yên tiến công, Lý Tồn Úc quyết định mở đầu chiến dịch chống kình địch Hậu Lương, liên kết với Triệu và Nghĩa Vũ. Tháng 7 ÂL năm 914, Lý Tồn Úc tiến công vào đạo Thiên Hùng của Hậu Lương, song bị Thiên Hùng tiết độ sứ Dương Sư Hậu đẩy lui, đến tháng 8 ÂL thì Lý Tồn Úc trở về Tấn Dương.<sup id="cite_ref-ZZTJ269_30-2" class="reference">&#91;12&#93;</sup> </p>
+<p>Tuy nhiên, việc Dương Sư Hậu qua đời năm 915 đem lại cho Tấn một cơ hội lớn. Chu Hữu Trinh (lúc này đổi tên thành Chu Trấn) e ngại trước sức mạnh của quân đội Thiên Hùng, vì thế quyết định chia Thiên Hùng thành hai đạo là Thiên Hùng mới với thủ phủ là Ngụy châu, Hạ Đức Luân (賀德倫) là tiết độ sứ, và Chiêu Đức (昭德) với trị sở tại Tương châu<sup id="cite_ref-31" class="reference">&#91;chú 19&#93;</sup> và tiết độ sứ là Trương Quân (張筠). Binh lính Thiên Hùng lo ngại và tức giận về việc chia tách, do vậy họ tiến hành binh biến dưới quyền lãnh đạo của Trương Ngạn (張彥), bắt Hạ Đức Luân làm con tin. Khi Chu Trấn từ chối đáp ứng yêu cầu bãi bỏ việc chia tách của Trương Ngạn, Trương Ngạn buộc Hạ Đức Luân phải viết thư cho Lý Tồn Úc, đề nghị dâng Thiên Hùng đầu hàng Tấn. Lý Tồn Úc đến Thiên Hùng vào tháng 5 ÂL, giết Trương Ngạn hung bạo giảo trá, tự phong là Thiên Hùng tiết độ sứ và sáp nhập đạo này vào Tấn. Các cuộc tiến công của Hậu Lương dưới quyền chỉ huy của tướng Lưu Tầm (劉鄩) và Vương Đàn (王檀) thất bại dưới tay Lý Tồn Úc và các bộ tướng của ông. (Thiên Hùng sau đó trở thành một nguồn cung cấp lớn về nhân lực và vật lực cho các chiến dịch của Lý Tồn Úc.) Việc Thiên Hùng rơi vào tay Tấn khiến cho các đạo của Hậu Lương ở bờ bắc Hoàng Hà là Bảo Nghĩa<sup id="cite_ref-32" class="reference">&#91;chú 20&#93;</sup>, và Thuận Hóa<sup id="cite_ref-33" class="reference">&#91;chú 21&#93;</sup> bị cô lập, và đến 916, chúng cũng rơi vào tay Tấn, Hậu Lương chỉ còn lại thành Lê Dương<sup id="cite_ref-34" class="reference">&#91;chú 22&#93;</sup> ở bờ bắc Hoàng Hà.<sup id="cite_ref-ZZTJ269_30-3" class="reference">&#91;12&#93;</sup> </p>
+<p>Tuy nhiên, Tấn sớm gặp phải thách thức từ Khiết Đan ở phía bắc, Hoàng đế Da Luật A Bảo Cơ của Khiết Đan tiến hành một cuộc tiến công lớn vào Lô Long trong năm 917, bao vây U châu. Mặc dù Lý Tồn Úc cùng các bộ tướng (Lý Tự Nguyên, Lý Tồn Thẩm, Diêm Bảo (閻寶)) sau đó đẩy lui được người Khiết Đan, song người Khiết Đan sau đó định kỳ xâm nhập Lô Long.<sup id="cite_ref-ZZTJ270_35-0" class="reference">&#91;13&#93;</sup> </p>
+<p>Đến đông năm 917, Lý Tồn Úc cho rằng có triển vọng trong việc tiêu diệt Hậu Lương, do vậy ông tập hợp toàn bộ các tướng lĩnh chủ chốt, chuẩn bị vượt Hoàng Hà đang đóng bằng và tiến công kinh thành Đại Lương của Hậu Lương. Tuy nhiên, sau đó có vẻ như ông lại đổi ý, muốn trước tiên tiêu diệt đội quân chủ đạo của Hậu Lương đang nằm dưới quyền quản lý của Hạ Côi (賀瓌) và giành vài tháng để cướp phá lãnh thổ nằm ven Hoàng Hà của Hậu Lương. Ngày Nhâm Tuất (23) tháng 12 năm Mậu Dần (27 tháng 1 năm 919), hai cánh quân tập hợp tại Hồ Liễu Pha<sup id="cite_ref-36" class="reference">&#91;chú 23&#93;</sup>, ngay phía nam của Hoàng Hà. Sang ngày hôm sau, tức ngày Quý Hợi (28 tháng 1 năm 919), mặc dù Chu Đức Uy đề nghị rằng nên khiến cho quân Hậu Lương hao mòn rồi mới giao chiến, tuy nhiên Lý Tồn Úc không nghe theo và hạ lệnh tiến hành một cuộc tiến công trực tiếp, quân Tấn thảm bại, phụ tử Chu Đức Uy đều tử chiến. Trải qua thất bại thảm hại ban đầu, Lý Tồn Úc đóng quân trên một ngọn đồi và dùng nó để phản công, giáng cho quân Hậu Lương tổn thất nặng nề, trận chiến kết thúc với kết quả thực chất là hòa. Theo mô tả, cả Tấn và Lương đều mất hai phần ba số binh sĩ vào ngày này, và đều bị suy yếu trong một thời gian.<sup id="cite_ref-ZZTJ270_35-1" class="reference">&#91;13&#93;</sup> </p>
+<a name="hop-nhat-trieu-va-nghia-vu-vao-tan"></a><h3>Hợp nhất Triệu và Nghĩa Vũ vào Tấn</h3>
+<p>Cuối năm 920, khi Triệu vương Vương Dung dành nhiều tháng ở vùng Tây Sơn nghỉ ngơi và từ chối quay lại thủ đô Trấn châu (鎮州) của Triệu, Hành quân tư mã Lý Ái (李藹) và hoạn giả Lý Hoằng Quy (李弘規) huy động binh sĩ để buộc Vương Dung phải trở về, các binh sĩ sát hại hoạn giả Thạch Hi Mông (石希蒙) được Vương Dung rất tin tưởng. Sau đó, Vương Dung sát hại Lý Ái và Lý Hoằng Quy, giảo phó quyền lực quốc gia cho nhi tử là Vương Chiêu Tộ và nghĩa tử Vương Đức Minh. Các binh sĩ còn lại sợ rằng họ cũng sẽ bị trừng phạt, do vậy vào tháng 2 ÂL năm 921, họ tiến hành binh biến và đồ sát Vương Dung cùng gia đình, ủng hộ Vương Đức Minh (sau đó cải về nguyên danh Trương Văn Lễ) làm lãnh đạo.<sup id="cite_ref-ZZTJ271_29-1" class="reference">&#91;11&#93;</sup> </p>
+<p>Trương Văn Lễ đề nghị quy phục làm chư hầu của Lý Tồn Úc, Lý Tồn Úc mặc dù rất buồn trước sự việc Vương Dung bị sát hại, song đến tháng 4 ÂL vẫn thừa chế bổ nhiệm Trương Văn Lễ là Thành Đức (成德, tức là Triệu) lưu hậu. Tuy nhiên, Trương Văn Lễ vẫn e dè trước Lý Tồn Úc, do đó người này tiến hành thương lượng với cả Hoàng đế Chu Trấn của Hậu Lương và Hoàng đế Da Luật A Bảo Cơ của Khiết Đan, tuy nhiên các phụ tá của Chu Trấn can gián việc ủng hộ Trương Văn Lễ. Phù Tập (符習) là người chỉ huy phân đội quân Triệu trong đội quân của Lý Tồn Úc, người này muốn báo thù cho gia tộc họ Vương nên cầu xin Lý Tồn Úc chống Trương Văn Lễ. Ngày Canh Thân tháng 8 (11 tháng 9) Lý Tồn Úc phong Phù Tập làm Thành Đức lưu hậu, hành quân về phía bắc. Ngày Giáp Tý (15 tháng 9), lính Tấn đánh chiếm Triệu châu, Trương Văn Lễ hay tin thì kinh sợ mà chết. Tuy nhiên, dưới sự lãnh đạo của con Trương Văn Lễ là Trương Xử Cẩn (張處瑾), loạn binh Thành Đức vẫn kháng cự.<sup id="cite_ref-ZZTJ271_29-2" class="reference">&#91;11&#93;</sup> </p>
+<p>Một đồng minh khác của Tấn là Nghĩa Vũ cũng xảy ra khủng hoảng, Vương Xử Trực lo ngại rằng một khi Tấn chinh phục được đất Triệu thì Nghĩa Vũ chắc chắn sẽ bị sáp nhập vào lãnh thổ Tấn, và do đó tán thành việc tha thứ cho Trương Văn Lễ. Khi bị Lý Tồn Úc khước từ đề nghị, Vương Xử Trực quyết định bí mật đàm phán với Hoàng đế Da Luật A Bảo Cơ của Khiết Đan để mởì Da Luật A Bảo Cơ xâm nhập Tấn, liên lạc thông qua con là Vương Úc (王郁)- đang là một sĩ quan Tấn ở biên giới với Khiết Đan. Vương Úc chấp thuận khi Vương Xử Trực hứa rằng sẽ cho người này thừa kế thay vì nghĩa tử Vương Đô. Tuy nhiên, quan lại Nghĩa Vũ không muốn thấy Khiết Đan xâm nhập, Vương Đô tận dụng điều này để tiến hành binh biến chống Vương Xử Trực. Vương Đô cho quản thúc Vương Xử Trực, đồ sát các hậu duệ của Vương Xử Trực tại thủ phủ Định châu (定州) của Nghĩa Vũ. Vương Đô sau đó thông báo dự việc cho Lý Tồn Úc, Lý Tồn Úc bổ nhiệm Vương Đô là Nghĩa Vũ lưu hậu, trên thực tế biến Nghĩa Vũ thành chư hầu.<sup id="cite_ref-ZZTJ271_29-3" class="reference">&#91;11&#93;</sup> </p>
+<p>Đến tháng 11 ÂL, Hoàng đế Khiết Đan đem quân xâm nhập do bị Vương Úc thuyết phục rằng Thành Đức và Nghĩa Vũ là những vùng đất giàu có. Đến tháng 12 ÂL năm Tân Tị, Lý Tồn Úc để các tướng lĩnh của mình bao vây Trấn châu, đích thân đem quân đi giáp chiến với quân Khiết Đan. Ông đánh bại quân Khiết Đan, buộc Hoàng đế Khiết Đan phải rút lui vào tháng 1 ÂL năm Nhâm Ngọ, quân Thành Đức mất đi đồng minh.<sup id="cite_ref-ZZTJ271_29-4" class="reference">&#91;11&#93;</sup> </p>
+<p>Quân Tấn phái chịu một số tổn thất nghiêm trọng khi chống lại loạn binh Thành Đức: </p>
+<ul><li>Sử Kiến Đường bị sát hại trên chiến trường.</li> <li>Diêm Bảo bị đánh bại và buộc phải triệt thoái, Diêm Bảo sau đó qua đời trong hổ thẹn.</li> <li>Lý Tự Chiêu bị thương trí mạng rồi qua đời.</li> <li>Lý Tồn Tiến (李存進) cũng bị sát hại trên chiến trường.</li></ul>
+<p>Trong khi đó, Lý Tồn Thẩm và Lý Tự Nguyên đánh lui một đội quân Lương dưới quyền chỉ huy của Đái Tư Viễn (戴思遠). Lý Tồn Úc sau đó ủy quyền cho Lý Tồn Thẩm tiến công quân Thành Đức, Trấn châu thất thủ. Lý Tồn Úc sát hại Trương Xử Cẩn cùng huynh đệ, sáp nhập Thành Đức vào lãnh thổ của mình.<sup id="cite_ref-ZZTJ271_29-5" class="reference">&#91;11&#93;</sup> </p>
+<p>Tuy nhiên, việc Lý Tự Chiêu qua đời vào tháng 4 ÂL Năm 922 gây ra một cơn khủng hoảng khác cho Lý Tồn Úc lúc ông đang chuẩn bị xưng đế. Sau khi Lý Tự Chiêu qua đời, các con của người này không thụ mệnh của Lý Tồn Úc là quy táng Lý Tự Chiêu tại Tấn Dương, mà lại đưa di hài về Lộ châu. Sau đó, con của Lý Tự Chiêu là Lý Kế Thao (李繼韜) đoạt lấy quyền lực tại Chiêu Nghĩa, Lý Tồn Úc không muốn tạo thêm nhiều loạn nên quyết định đổi Chiêu Nghĩa quân thành An Nghĩa (安義) (để húy kỵ Lý Tự Chiêu) và phong Lý Kế Thao làm lưu hậu.<sup id="cite_ref-ZZTJ271_29-6" class="reference">&#91;11&#93;</sup> Tuy nhiên, sau đó do e sợ rằng Lý Tồn Úc sẽ có hành động chống lại mình, đặc biệt là khi Lý Tồn Úc triệu Giám quân Trương Cư Hàn (張居翰) và Tiết độ phán quan Nhâm Hoàn (任圜) đến Ngụy châu- nơi đang đặt chính phủ lâm thời, Lý Kế Thao quyết định dâng An Nghĩa cho Hậu Lương. Chu Trấn hết sức hài lòng, đổi tên An Nghĩa quân thành Khuông Nghĩa (匡義), cho Lý Kế Thao làm tiết độ sứ.<sup id="cite_ref-ZZTJ272_2-1" class="reference">&#91;2&#93;</sup> </p>
+<a name="lam-hoang-de-hau-duong"></a><h2>Làm hoàng đế Hậu Đường</h2>
+<a name="chinh-phuc-hau-luong"></a><h3>Chinh phục Hậu Lương</h3>
+<p>Lý Tồn Úc cho xây đàn ở phía nam nha thành Ngụy châu, ngày Kỷ Tị (25) tháng 4 năm Quý Mùi, tức 13 tháng 5 năm 923, Lý Tồn Úc thăng đàn, tế cáo Thượng đế, tức hoàng đế vị, quốc hiệu là Đại Đường, cải niên hiệu. Ông đổi Ngụy châu thành Hưng Đường phủ, đặt Đông Kinh. Đồng thời đặt Tây Kinh tại Thái Nguyên phủ, đổi Trấn châu thành Chân Định phủ và đặt Bắc Đô.<sup id="cite_ref-ZZTJ272_2-2" class="reference">&#91;2&#93;</sup> </p>
+<p>Tuy nhiên, khi đó viễn cảnh của Hậu Đường là không tích cực, phải đối mặt với các cuộc xâm nhập đều đặn của Khiết Đan vào Lô Long, cùng việc An Nghĩa làm phản mới diễn ra. Tuy nhiên, lúc này tướng Hậu Lương là Lô Thuận Mật (盧順密) đào thoát sang phía Hậu Đường, tiết lộ rằng đạo Thiên Bình<sup id="cite_ref-37" class="reference">&#91;chú 24&#93;</sup> nằm sâu trong lãnh thổ Hậu Lương không được phòng thủ tốt và có thể đoạt được. Lý Tồn Úc tin rằng đây là cơ hội để thay đổi cục diện chiến tranh, và vào ngày Nhâm Dần (28) tháng 4 nhuận (15 tháng 6) sai tướng Lý Tự Nguyên đem 5000 tinh binh tập kích thủ phủ Vận châu (鄆州) của Thiên Bình. Lý Tự Nguyên một thời gian ngắn sau đã chiếm được Vận châu.<sup id="cite_ref-ZZTJ272_2-3" class="reference">&#91;2&#93;</sup> </p>
+<p>Kinh sợ trước việc Vận châu thất thủ, Hoàng đế Chu Trấn truất quyền chỉ huy đại quân Hậu Lương của Đái Tư Viễn, cho Vương Ngạn Chương thay thế. Vương Ngạn Chương nhanh chóng tiến công và chiếm được tòa thành Đức Thắng<sup id="cite_ref-38" class="reference">&#91;chú 25&#93;</sup> ở biên giới, nhằm cắt đường tiếp tế từ lãnh thổ Hậu Lương cho Vận châu. Tuy nhiên, do Vương Ngạn Chương không quyết đoán trong các trận chiến với Lý Tồn Úc và bị ngoại thích gièm pha, Chu Trấn lại cho Đoàn Ngưng thay thế. Trong khi đó, Chu Trấn cũng cho phá đê Hoàng Hà tại Hoạt châu<sup id="cite_ref-39" class="reference">&#91;chú 26&#93;</sup>, khiến khu vực bị ngập lụt, mục đích là để cản trở quân Hậu Đường tiến sâu hơn nữa.<sup id="cite_ref-ZZTJ272_2-4" class="reference">&#91;2&#93;</sup> </p>
+<p>Sau đó, Hữu tiên phong chỉ huy sứ Khang Diên Hiếu (康延孝) của Hậu Lương sau đó đào ngũ sang Hậu Đường, tiết lộ kế hoạch tác chiến của Đoàn Ngưng cho Lý Tồn Úc, mà theo đó thì kinh thành Đại Lương chỉ được phòng thủ yếu kém. Lý Tồn Úc quyết định tiến về Vân châu hợp binh với Lý Tự Nguyên và sau đó giao chiến với Vương Ngạn Chương và Trương Hán Kiệt (張漢傑). Lý Tồn Úc đánh bại và bắt được cả Vương Ngạn Chương và Trương Hán Kiệt tại Trung Đô <sup id="cite_ref-40" class="reference">&#91;chú 27&#93;</sup>, rồi tiến thẳng về Đại Lương đang không được phòng bị. Do quân của Đoàn Ngưng bị chặn lại ở bờ bắc Hoàng Hà và không thể về ứng cứu, Chu Hữu Trinh nhận thấy tình thế vô vọng nên lệnh cho đô tướng Hoàng Phủ Lân (皇甫麟) giết mình vào ngày Mậu Dần tháng 10 (18 tháng 11), triều Hậu Lương đến đây diệt vong. Ngày Kỷ Mão (19 tháng 11), quân Lý Tự Nguyên đến Đại Lương, đánh Phong Khâu môn, Vương Toản mở cổng thành đầu hàng, Lý Tự Nguyên tiến vào thành. Lý Tồn Úc cũng vào thành Đại Lương trong ngày, bá quan nghênh yết và bái phục thỉnh tội, Lý Tồn Úc úy lạo và phục vị cho họ.<sup id="cite_ref-ZZTJ272_2-5" class="reference">&#91;2&#93;</sup> </p>
+<a name="cai-quan-lac-duong"></a><h3>Cai quản Lạc Dương</h3>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/ly-ton-uc/89e45bb425e5de7ba644ec765bc9abf4.png" decoding="async" />  <div class="caption"><div class="magnify"></div><div class="legend"><span class="legend-color" >&#160;</span>&#160;Lãnh thổ nhà Hậu Đường sau khi tiêu diệt Tiền Thục</div></div></div></div>
+<p>Lý Tồn Úc định đô tại Lạc Dương, cử sứ đi thông báo về chiến thắng cho các nước Ngô và Tiền Thục, khiến cả hai nước này rất lo sợ.<sup id="cite_ref-ZZTJ272_2-6" class="reference">&#91;2&#93;</sup> Kỳ vương Lý Mậu Trinh cũng lo sợ trước sự việc này, cho rằng bản thân sẽ là mục tiêu kế tiếp, do vậy chịu quy phục làm chư hầu của Hậu Đường. Lý Tồn Úc chấp thuận để Lý Mậu Trinh quy phục và phong làm Tần vương. Sau khi Lý Mậu Trinh qua đời vào năm 924, Lý Tồn Úc cho phép Lý Kế Nghiễm kế tập chức Phượng Tường tiết độ sứ,<sup id="cite_ref-ZZTJ273_41-0" class="reference">&#91;14&#93;</sup> song không ban tước vương cho Lý Kế Nghiễm, do vậy nước Kỳ được xem là kết thúc.<sup id="cite_ref-42" class="reference">&#91;15&#93;</sup> Tất cả các tiết độ sứ của Hậu Lương đều quy phục Lý Tồn Úc, và thực tế là ông đã hợp nhất hai nước. (Sau khi phát hiệu Lý Kế Thao vẫn lên kế hoạch để cai trị lãnh địa của mình một cách độc lập, Lý Tồn Úc quyết định hành quyết Lý Kế Thao).<sup id="cite_ref-ZZTJ272_2-7" class="reference">&#91;2&#93;</sup> </p>
+<p>Mặc dù là một tướng tài, song Lý Tồn Úc không có tài trị quốc. Ông cùng với Lưu hoàng hậu tích trữ của cải, tạo gánh nặng cho nhân dân. Ông cũng xa lánh quân đội của mình trong khi lại tin tưởng bọn linh hoạn, tức các con hát và thái giám, như cho ba con hát làm thứ sử, trong khi những người theo ông chiến đấu hàng trăm trận đánh thì không được thưởng công như vậy.<sup id="cite_ref-ZZTJ273_41-1" class="reference">&#91;14&#93;</sup><sup id="cite_ref-43" class="reference">&#91;16&#93;</sup> Năm bắt được tình hình còn có sứ giả Ngô cử sang Hậu Đường là Lô Bình (盧蘋), một quân phiệt cũ của Hậu Lương là Kinh Nam<sup id="cite_ref-44" class="reference">&#91;chú 28&#93;</sup> tiết độ sứ Cao Quý Hưng và người này trở nên độc lập với Hậu Đường sau khi Lý Tồn Úc qua đời,<sup id="cite_ref-ZZTJ272_2-8" class="reference">&#91;2&#93;</sup> cũng như sứ giả của Nam Hán là Hà Từ (何詞).<sup id="cite_ref-ZZTJ273_41-2" class="reference">&#91;14&#93;</sup> </p>
+<p>Trong khi đó, Lý Tồn Úc lên kế hoạch tiến công Tiền Thục, và đến cuối năm 925, ông biến các kế hoạch thành hành động. Ngày Canh Tý tháng 9 năm Ất Dậu (10 tháng 9 năm 925), ông ủy nhiệm người con trai đầu với Lưu hoàng hậu là Lý Kế Ngập làm Tây Xuyên tứ diện hành doanh đô thống, còn Quách Sùng Thao (郭崇韜) là 'Đông bắc diện hành doanh đô chiêu thảo chế trí đẳng sứ và là người chỉ huy chiến dịch trên thực tế. Hoàng đế Vương Diễn của Tiền Thục bất ngờ trước tình hình vì cho rằng hai nước đang cùng tồn tại hòa bình. Quân Hậu Đường liên tục đánh bại các đội quân mà Tiền Thục cử đi kháng cự,<sup id="cite_ref-ZZTJ273_41-3" class="reference">&#91;14&#93;</sup> và đến cuối năm 925, đại tướng Tiền Thục là Vương Tông Bật (王宗弼) bắt giữ Vương Diễn cùng gia tộc và buộc Vương Diễn phải đầu hàng Hậu Đường, Vương Diễn chính thức đầu hàng Hậu Đường vào ngày Bính Thìn tháng 11 (15 tháng 12), lãnh thổ Tiền Thục rơi vào tay Hậu Đường.<sup id="cite_ref-ZZTJ274_45-0" class="reference">&#91;17&#93;</sup> </p>
+<a name="suy-sup"></a><h3>Suy sụp</h3>
+<p>Tuy nhiên sau khi chinh phục được Tiền Thục, cả Lý Tồn Úc và Lưu hoàng hậu đều nghi ngờ Quách Sùng Thao là muốn chiếm đất Thục để làm phản. Lý Tồn Úc không sẵn sàng hành động vì không đủ chứng cớ, song Lưu hoàng hậu lại truyền lệnh cho Lý Kế Ngập sát hại Quách Sùng Thao, Lý Kế Ngập thực hiện theo. Khi biết tin, Lý Tồn Úc ra chiếu chỉ kết tội Quách Sùng Thao và lệnh sát hại các con trai của Quách Sùng Thao. Sau đó, do các thái giám và con hát cáo buộc đại tướng Lý Kế Lân (李繼麟) cùng đồng mưu làm phản với Quách Sùng Thao, Lý Tồn Úc quyết định sát hại Lý Kế Lân và gia tộc.<sup id="cite_ref-ZZTJ274_45-1" class="reference">&#91;17&#93;</sup> </p>
+<p>Việc Quách Sùng Thao và Lý Kế Lân bị sát hại khiến quân đội Hậu Đường trên dưới đều lo sợ và tức giận. Tình hình còn trở nên tệ hơn khi khu vực trung tâm của lãnh thổ Hậu Đường khi đó phải trải qua nạn đói nghiêm trọng, còn Lưu hoàng hậu thì không muốn cứu tế. Trong số gia đình bị đói có người thân của các binh sĩ, do vậy càng khiến cho họ tức giận hoàng đế và hoàng hậu. Những phẫn uất này bùng phát thành một số cuộc nổi dậy, nghiêm trọng nhất trong đó là của Khang Diên Hiếu ở đất Thục, và của các binh sĩ ở Nghiệp Đô (鄴都, tức Hưng Đường). Cuộc nổi dậy của Khang Diên Hiếu nhanh chóng bị Nhâm Hoàn dập tắt, song quân triều đình dưới quyền Lý Thiệu Vinh (李紹榮) gặp khó khăn trong việc dập tắt cuộc nổi dậy Nghiệp Đô. Lý Tồn Úc cử Lý Tự Nguyên kế tục chỉ huy các chiến dịch, song đến đêm ngày Giáp Tý tháng 3 (22 tháng 4 năm 926), các binh sĩ của Lý Tự Nguyên tiến hành binh biến và buộc chủ tướng phải hợp quân với binh sĩ nổi dậy Nghiệp Đô. Lý Tự Nguyên cố cử người đễn chỗ Lý Tồn Úc để giải thích rằng ông không có ý muốn nổi loạn, song người đưa tin bị Lý Thiệu Vinh chặn lại. Lý Tự Nguyên quyết định tiến công về phía nam và chiếm Biện châu (汴州, tức Đại Lương cũ), Lý Tồn Úc huy động một đội quân đến để ngăn chặn. Tri châu của Biện châu là Khổng Tuần (孔循) sai sứ đến cả chỗ Lý Tồn Úc và Lý Tự Nguyên, chào đón họ. Ngày Nhâm Ngọ (10 tháng 5), Lý Tự Nguyên đến Biện châu trước, tiến vào thành. Ngày hôm đó, Lý Tồn Úc đến phía đông Huỳnh Trạch, mệnh Diêu Ngạn Ôn (姚彥溫) đem 3.000 binh tiến trước, song Diêu Ngạn Ôn sau đó lại về phe Lý Tự Nguyên. Lý Tồn Úc đến Vạn Thắng trấn, hay tin Lý Tự Nguyên đã chiếm Đại Lương, còn quân lính thì làm phản, chán nản trở về Lạc Dương.<sup id="cite_ref-ZZTJ274_45-2" class="reference">&#91;17&#93;</sup> </p>
+<p>Sau khi Lý Tồn Úc trở về Lạc Dương, vào ngày Đinh Hợi tháng 4 (15 tháng 5), Tòng mã trực chỉ huy sứ Quách Tòng Khiêm tiến hành một cuộc binh biến. Lý Tồn Úc biết tin thì thống lĩnh chư vương và cận vệ kị binh chống lại loạn binh, tuy nhiên ông trúng tên trong lúc giao chiến và qua đời. Lý Tự Nguyên đến Lạc Dương vào ngày Ất Sửu (12 tháng 6), rồi lên ngôi hoàng đế. Lưu hoàng hậu bị bắt và buộc phải tự sát. Lý Kế Ngập cố tiến về Lạc Dương để tranh đoạt quyền kế vị với Lý Tự Nguyên, song bị binh sĩ bỏ rơi nên quyết định tự sát. Ngày Bính Tý tháng 7 (1 tháng 9), táng Lý Tồn Úc ở Ung lăng, miếu hiệu Trang Tông.<sup id="cite_ref-ZZTJ275_4-2" class="reference">&#91;4&#93;</sup> </p>
+<a name="gia-dinh"></a><h2>Gia đình</h2>
+<a name="hau-phi"></a><h3>Hậu phi</h3>
+<ol><li>Lưu Ngọc Nương, vốn là Trắc thất, sau bất chấp lễ giáo tấn phong Hoàng hậu.</li> <li>Thục phi Hàn thị, vốn là Chính thất, sau bất chấp lễ giáo mà giáng làm Thục phi.</li> <li>Đức phi Y thị (德妃伊氏)</li> <li>Chiêu nghi Hầu thị (昭仪侯氏), phong hiệu <b>Khiên Quốc phu nhân</b> (汧国夫人)<sup id="cite_ref-46" class="reference">&#91;18&#93;</sup><sup id="cite_ref-47" class="reference">&#91;19&#93;</sup>.</li> <li>Chiêu nghi Hạ thị (昭容夏氏), phong hiệu <b>Quắc Quốc phu nhân</b> (虢国夫人). Bị Hậu Đường Minh Tông ban cho Gia Luật Bội làm tỳ thiếp.</li> <li>Chiêu nghi Bạch thị (昭媛白氏), phong hiệu <b>Nghi Quốc phu nhân</b> (沂国夫人).</li></ol>
+<a name="anh-em"></a><h3>Anh em</h3>
+<ol><li>Vĩnh vương Lý Tồn Bá</li> <li>Ung vương Lý Tồn Mỹ</li> <li>Tiết vương Lý Tồn Lễ</li> <li>Thân vương Lý Tồn Ác</li> <li>Mục vương Lý Tồn Nghệ</li> <li>Thông vương Lý Tồn Xác</li> <li>Nhã vương Lý Tồn Kỷ</li> <li>Lý Tồn Củ</li></ol>
+<a name="hau-due"></a><h3>Hậu duệ</h3>
+<a name="trai"></a><h4>Trai</h4>
+<ol><li>Trưởng tử (không rõ tên)</li> <li>Thứ tử (không rõ tên)</li> <li>Ngụy vương Lý Kế Ngập</li> <li>Thủ vương Lý Kế Đồng</li> <li>Quang vương Lý Kế Tung</li> <li>Chân vương Lý Kế Thiềm</li> <li>Xuyên vương Lý Kế Nghiêu</li></ol>
+<a name="duong-tu"></a><h4>dưỡng tử</h4>
+<ol><li>Quy Đức tiết độ sứ Lý Thiệu Vinh (nguyên tên là Nguyên Hành Khâm)</li> <li>Tuyên Vũ tiết độ sứ Lý Thiệu An (nguyên tên là Viên Tượng Tiến)</li> <li>Xu mật sử Lý Thiệu Hoành (nguyên họ Mã)</li> <li>Trịnh Châu phòng ngự sử Lý Thiệu Sâm (nguyên tên là Khang Duyên Hiếu)</li> <li>Bình vương Lý Thiệu Sùng</li> <li>Lô Long tiết độ sứ Lý Thiệu Bân (nguyên tên là Triệu Hành Thực, sau đổi thành Triệu Đức Quân)</li> <li>Thái Ninh tiết độ sứ Lý Thiệu Khâm (nguyên tên là Đoàn Ngưng)</li> <li>Bảo nghĩa lưu hậu Lý Thiệu Chân (nguyên tên là Hoắc Ngạn Uy)</li> <li>Minh Châu thứ sử Lý Thiệu Năng (nguyên tên là Mễ Quân Lập)</li> <li>Tề Châu phòng ngự sứ Lý Thiệu Kiền (nguyên tên là Vương Yến Cầu)</li> <li>Hà Dương tiết độ sứ Lý Thiệu Kỳ (nguyên tên là Hạ Lỗ Kỳ)</li> <li>Nam Đông đạo tiết độ sứ Lý Thiệu Cộng (nguyên tên là Lưu Huấn Sơn)</li> <li>Bối Châu thứ sử Lý Thiệu Anh (nguyên tên là Phòng Tri Ôn)</li> <li>Hộ quốc tiết độ sứ Lý Kế Thiên (nguyên tên là Chu Hữu Khiêm)</li> <li>Trung Vũ tiết độ sứ Lý Thiệu Quỳnh (nguyên danh Trường Tùng Giản)</li> <li>Kim thương chỉ huy sứ Lý Kế Cảnh (nguyên tên là Lý Tùng Thẩm, là con trưởng của Minh tông Lý Tự Nguyên)</li> <li>Khuông quốc tiết độ sứ Lý Thiệu Xung (nguyên danh Ôn Thao)</li></ol>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-6"><b>^</b> <span class="reference-text">河東, trị sở nay thuộc Thái Nguyên, Sơn Tây</span> </li> <li id="cite_note-7"><b>^</b> <span class="reference-text">靜難, trị sở nay thuộc Hàm Dương, Thiểm Tây</span> </li> <li id="cite_note-8"><b>^</b> <span class="reference-text">鳳翔, trị sở nay thuộc Bảo Kê, Thiểm Tây</span> </li> <li id="cite_note-9"><b>^</b> <span class="reference-text">鎮國, trị sở nay thuộc Vị Nam, Thiểm Tây</span> </li> <li id="cite_note-11"><b>^</b> <span class="reference-text">giết Vương Hành Du và buộc Lý Mậu Trinh cùng Hàn Kiến phải tái quy phục hoàng đế trên danh nghĩa</span> </li> <li id="cite_note-12"><b>^</b> <span class="reference-text">隰州, nay thuộc Lâm Phần, Sơn Tây</span> </li> <li id="cite_note-13"><b>^</b> <span class="reference-text">汾州 và 晉州, đều nằm tại Lâm Phần ngày nay</span> </li> <li id="cite_note-14"><b>^</b> <span class="reference-text">宣武, trị sở nay thuộc Khai Phong, Hà Nam</span> </li> <li id="cite_note-16"><b>^</b> <span class="reference-text">盧龍, trị sở nay thuộc Bắc Kinh</span> </li> <li id="cite_note-17"><b>^</b> <span class="reference-text">義昌, trị sở nay thuộc Thương Châu, Hà Bắc</span> </li> <li id="cite_note-18"><b>^</b> <span class="reference-text">昭義, trị sở nay thuộc Trường Trị, Sơn Tây</span> </li> <li id="cite_note-20"><b>^</b> <span class="reference-text">淮南, trị sở nay thuộc Dương Châu, Giang Tô</span> </li> <li id="cite_note-21"><b>^</b> <span class="reference-text">西川, trị sở nay thuộc Thành Đô, Tứ Xuyên</span> </li> <li id="cite_note-22"><b>^</b> <span class="reference-text">振武, trị sở nay thuộc Sóc Châu, Sơn Tây</span> </li> <li id="cite_note-23"><b>^</b> <span class="reference-text">大同, trị sở nay thuộc Đại Đồng, Sơn Tây</span> </li> <li id="cite_note-25"><b>^</b> <span class="reference-text">武順, trị sở nay thuộc Thạch Gia Trang, Hà Bắc</span> </li> <li id="cite_note-26"><b>^</b> <span class="reference-text">義武, trị sở nay thuộc Bảo Định, Hà Bắc</span> </li> <li id="cite_note-28"><b>^</b> <span class="reference-text">護國, trị sở nay thuộc Vận Thành, Sơn Tây</span> </li> <li id="cite_note-31"><b>^</b> <span class="reference-text">相州, nay thuộc Hàm Đan, Hà Bắc</span> </li> <li id="cite_note-32"><b>^</b> <span class="reference-text">保義, trị sở nay thuộc Hình Đài, Hà Bắc, sau Tấn đổi thành An Quốc (安國)</span> </li> <li id="cite_note-33"><b>^</b> <span class="reference-text">順化, tức Nghĩa Xương, Hậu Lương chiếm trong khi Tấn tiến hành chiến dịch đánh Yên và đổi tên, về sau Tấn đổi tên thành Hoành Hải (橫海)</span> </li> <li id="cite_note-34"><b>^</b> <span class="reference-text">黎陽, nay thuộc Hạc Bích, Hà Nam</span> </li> <li id="cite_note-36"><b>^</b> <span class="reference-text">胡柳陂, nay thuộc Hà Trạch, Sơn Đông</span> </li> <li id="cite_note-37"><b>^</b> <span class="reference-text">天平, trị sở nay thuộc Thái An, Sơn Đông</span> </li> <li id="cite_note-38"><b>^</b> <span class="reference-text">德勝, nay thuộc Bộc Dương, Hà Nam</span> </li> <li id="cite_note-39"><b>^</b> <span class="reference-text">滑州, nay thuộc An Dương, Hà Nam</span> </li> <li id="cite_note-40"><b>^</b> <span class="reference-text">中都, nay thuộc Tế Ninh, Sơn Đông</span> </li> <li id="cite_note-44"><b>^</b> <span class="reference-text">荊南, trị sở nay thuộc Kinh Châu, Hồ Bắc</span> </li> </ol></div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-AS-1">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <span class="reference-text">Viện Nghiên cứu Trung ương (Đài Loan) Chuyển hoán lịch Trung-Tây 2000 năm.</span> </li> <li id="cite_note-ZZTJ272-2">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 272.</span> </li> <li id="cite_note-ZZTJ266-3">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <sup><i><b>g</b></i></sup> <sup><i><b>h</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 266.</span> </li> <li id="cite_note-ZZTJ275-4">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 275.</span> </li> <li id="cite_note-HFD27-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Cựu Ngũ Đại sử</i>, quyển 27.</span> </li> <li id="cite_note-ZZTJ260-10"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 260.</span> </li> <li id="cite_note-ZZTJ263-15"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 263.</span> </li> <li id="cite_note-ZZTJ265-19"><b>^</b> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 265.</span> </li> <li id="cite_note-ZZTJ267-24">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 267.</span> </li> <li id="cite_note-ZZTJ268-27">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 268.</span> </li> <li id="cite_note-ZZTJ271-29">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 271.</span> </li> <li id="cite_note-ZZTJ269-30">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 269.</span> </li> <li id="cite_note-ZZTJ270-35">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 270.</span> </li> <li id="cite_note-ZZTJ273-41">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 273.</span> </li> <li id="cite_note-42"><b>^</b> <span class="reference-text">Bá Dương, <i>Trung Quốc lịch sử niên biểu</i> (中國歷史年表), quyển 2, tr 846-847 [924].</span> </li> <li id="cite_note-43"><b>^</b> <span class="reference-text">Bá Dương, <i>Trung Quốc nhân sử cương</i> (中國人史綱), quyển 2, tr 593.</span> </li> <li id="cite_note-ZZTJ274-45">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text"><i>Tư trị thông giám</i>, quyển 274.</span> </li> <li id="cite_note-46"><b>^</b> <span class="reference-text">《旧五代史 卷三十二（唐书）·庄宗纪六》（同光二年十一月）庚戌......以昭仪侯氏为汧国夫人，昭容夏氏为虢国夫人，昭媛白氏为沛国夫人，出使美宣邓氏为魏国夫人，御正楚真张氏为凉国夫人，司簿德美周氏为宋国夫人，侍真吴氏为渤海郡夫人，其余并封郡夫人。</span> </li> <li id="cite_note-47"><b>^</b> <span class="reference-text">《旧五代史 卷四十九（唐书）·列传一》又案《五代会要》：庄宗朝内职，又有昭仪侯氏封汧国夫人，昭媛白氏封沂国夫人，出使美宣邓氏封珝国夫人，御正楚真张氏封凉国夫人，司簿德美周氏封宋国夫人，侍真吴氏封延陵郡夫人，懿才王氏封太原郡夫人，咸一韩氏封昌黎郡夫人，瑶芳张氏封清河郡夫人，懿德王氏封琅琊郡夫人，宣一马氏封扶风郡夫人，并同光二年十一月敕。</span> </li> </ol></div>
+<table class="wikitable succession-box table table-striped" >  <tbody><tr> <td colspan="3" ><div>Lý Tồn Úc </div><div><b>triều Hậu Đường</b></div> </td></tr> <tr> <th colspan="3" >Tước hiệu </th></tr> <tr > <td  rowspan="2">Tiền&#160;vị<br /><span >Lý Khắc Dụng</span> </td> <td  rowspan="1"><b>Tấn vương/Hoàng đế Hậu Đường</b><br />908/923-926 </td> <td  rowspan="8">Kế&#160;vị<br /><span >Hậu Đường Minh Tông (Lý Tự Nguyên)</span> </td></tr>  <tr> <td  rowspan="1"><b>Quân chủ Trung Quốc (Sơn Tây)</b><br />908-926 </td></tr>  <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Lưu Thủ Quang của Yên</span> </td> <td  rowspan="1"><b>Quân chủ Trung Quốc (Bắc Kinh/Thiên Tân/Bắc bộ Hà Bắc)</b><br />913-926 </td></tr>  <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Vương Xử Trực (Bắc Bình vương)</span> </td> <td  rowspan="1"><b>Quân chủ Trung Quốc (vùng Bảo Định) (<i>trên pháp lý</i>)</b><br />921-926 <p>onhc|- </p> </td></tr> <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Vương Dung (<i>trên pháp lý</i>)/Trương Xử Cẩn (<i>trên thực tế</i>)</span> </td> <td  rowspan="1"><b>Quân chủ Trung Hoa (vùng Thạch Gia Trang)</b><br />922-926 </td></tr>  <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Hậu Lương Thái Tổ</span> </td> <td  rowspan="1"><b>Quân chủ Trung Hoa (trung bộ)</b><br />923-926 </td></tr>  <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Lý Mậu Trinh của Kỳ</span> </td> <td  rowspan="1"><b>Quân chủ Trung Quốc (vùng Bảo Kê) (<i>trên pháp lý</i>)</b><br />924-926 </td></tr>  <tr > <td  rowspan="1">Tiền&#160;vị<br /><span >Vương Diễn của Tiền Thục</span> </td> <td  rowspan="1"><b>Quân chủ Trung Quốc (tây nam)</b><br />925-926 </td></tr></tbody></table>
+
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ly-ton" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Lý Tốn            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/ly-tong-ba" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Lý Tòng Bá            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/ly-ton-uc" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

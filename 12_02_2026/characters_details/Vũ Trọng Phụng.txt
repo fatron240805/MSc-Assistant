@@ -1,0 +1,1413 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Vũ Trọng Phụng (1912-1939) là một nhà văn, nhà báo nổi tiếng của Việt Nam vào đầu thế kỷ 20. Tuy thời gian cầm bút rất ngắn ngủi, với tác phẩm đầu tiên là truyện ngắn Chống nạng lên đường đăng trên Ngọ báo vào năm 1930, ông đã để lại một kho tác phẩm đáng kinh ngạc: hơn 30 truyện ngắn, 9 tập tiểu th...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Vũ Trọng Phụng - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"8659e34b4e91521045d9aca43f983361"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Vũ Trọng Phụng" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Vũ Trọng Phụng (1912-1939) là một nhà văn, nhà báo nổi tiếng của Việt Nam vào đầu thế kỷ 20. Tuy thời gian cầm bút r�.." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/vu-trong-phung" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/wiki/vu-trong-phung/ca7c3e8161d87f2c8abb55f09cfb5e70.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Vũ Trọng Phụng", "item": "https://nguoikesu.com/nhan-vat/vu-trong-phung" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/vu-trong-phung" }, "headline": "Vũ Trọng Phụng", "description": "Vũ Trọng Phụng (1912-1939) là một nhà văn, nhà báo nổi tiếng của Việt Nam vào đầu thế kỷ 20. Tuy thời gian cầm bút rất ngắn ngủi, với tác phẩm đầu tiên là truyện ngắn Chống nạng lên đường đăng trên Ngọ báo vào năm 1930, ông đã để lại một kho tác phẩm đáng kinh ngạc: hơn 30 truyện ngắn, 9 tập tiểu thuyết, 9 tập phóng sự, 7 vở kịch, cùng một bản dịch vở kịch từ tiếng Pháp, một số bài viết phê bình, tranh luận văn học và hàng trăm bài báo viết về các vấn đề chính trị, xã hội, văn hóa. Một số trích đoạn tác phẩm của ông trong các tác phẩm Số đỏ và Giông Tố đã được đưa vào sách giáo khoa môn Ngữ văn của Việt Nam. (Cần làm rõ thêm) Nổi tiếng với giọng văn trào phúng châm biếm xã hội của mình, một số người đã so sánh ông như Balzac của Việt Nam. Tuy nhiên, cũng vì phong cách &quot;tả chân&quot; và yếu tố tình dục trong tác phẩm mà khi sinh thời ông đã bị chính quyền bảo hộ Pháp tại Hà Nội gọi ra tòa vì &quot;tội tổn thương phong hóa&quot; (outrage aux bonnes moeurs). Về sau này, tác phẩm của ông lại bị cấm in, cấm đọc vì là &quot;tác phẩm suy đồi&quot; tại miền Bắc Việt Nam từ 1954 và cả nước từ ngày 30/4/1975 cho đến tận cuối những năm 1980 mới được chính quyền cho lưu hành. .", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/vu-trong-phung/ca7c3e8161d87f2c8abb55f09cfb5e70.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/vu-trong-phung" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2019-05-23T19:51:04+07:00", "dateCreated": "2019-05-23T19:51:04+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Vũ Trọng Phụng</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Vũ Trọng Phụng        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the-va-su-nghiep" title="">Thân thế và sự nghiệp</a></li>
+<li class="level-1"><a href="#tac-pham" title="">Tác phẩm</a></li>
+<li class="level-2"><a href="#ban-quyen-tac-pham" title="">Bản quyền tác phẩm</a></li>
+<li class="level-2"><a href="#kich" title="">Kịch</a></li>
+<li class="level-2"><a href="#dich-thuat" title="">Dịch thuật</a></li>
+<li class="level-2"><a href="#phong-su" title="">Phóng sự</a></li>
+<li class="level-2"><a href="#tieu-thuyet" title="">Tiểu thuyết</a></li>
+<li class="level-2"><a href="#truyen-ngan" title="">Truyện ngắn</a></li>
+<li class="level-1"><a href="#vinh-danh" title="">Vinh danh</a></li>
+<li class="level-1"><a href="#nguon-tham-khao" title="">Nguồn tham khảo</a></li>
+<li class="level-2"><a href="#tham-khao-khac" title="">Tham khảo khác</a></li>
+<li class="level-2"><a href="#tham-khao-chinh" title="">Tham khảo chính</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox vcard" ><tbody><tr><th colspan="2" class="fn" >Vũ Trọng Phụng</th></tr><tr><td colspan="2" ><img alt="" src="/images/wiki/vu-trong-phung/ca7c3e8161d87f2c8abb55f09cfb5e70.jpg" decoding="async" /></td></tr><tr><th scope="row">Bút danh</th><td class="nickname">Thiên Hư</td></tr><tr><th scope="row">Công việc</th><td class="role">Nhà văn, nhà báo</td></tr><tr><th scope="row">Giai đoạn sáng tác</th><td>1930-1939</td></tr><tr><th scope="row">Thể loại</th><td class="category">Trào phúng, Phóng sự</td></tr><tr><th scope="row">Trào lưu</th><td>Hiện thực</td></tr><tr><th scope="row">Tác phẩm nổi bật</th><td><i>Số đỏ</i>, <i>Giông tố</i>, <i>Kĩ nghệ lấy Tây</i></td></tr><tr><th scope="row">Vợ/chồng</th><td>Vũ Mỹ Lương</td></tr><tr><th scope="row">Con cái</th><td>Vũ Mỵ Hằng (con gái)</td></tr><tr><th scope="row">Thân nhân</th><td>Vũ Văn Lân (cha)<br />Phạm Thị Khách (mẹ)</td></tr><tr class="noprint"><td colspan="2" ><div >[edit on Wikidata]</div></td></tr></tbody></table></div>
+<p><b>Vũ Trọng Phụng</b> (1912-1939) là một nhà văn, nhà báo nổi tiếng của Việt Nam vào đầu thế kỷ 20. Tuy thời gian cầm bút rất ngắn ngủi, với tác phẩm đầu tiên là truyện ngắn <i>Chống nạng lên đường</i> đăng trên Ngọ báo vào năm 1930, ông đã để lại một kho tác phẩm đáng kinh ngạc: hơn 30 truyện ngắn, 9 tập tiểu thuyết, 9 tập phóng sự, 7 vở kịch, cùng một bản dịch vở kịch từ tiếng Pháp, một số bài viết phê bình, tranh luận văn học và hàng trăm bài báo viết về các vấn đề chính trị, xã hội, văn hóa<sup id="cite_ref-1" class="reference">&#91;1&#93;</sup>. Một số trích đoạn tác phẩm của ông trong các tác phẩm <i>Số đỏ</i> và <i>Giông Tố</i> đã được đưa vào sách giáo khoa môn Ngữ văn của Việt Nam<sup id="cite_ref-dantri_2-0" class="reference">&#91;2&#93;</sup><sup id="cite_ref-tuoitre_dethi_3-0" class="reference">&#91;3&#93;</sup>. (Cần làm rõ thêm) </p>
+<p>Nổi tiếng với giọng văn trào phúng châm biếm xã hội của mình, một số người đã so sánh ông như Balzac của Việt Nam<sup id="cite_ref-dl_bia4_4-0" class="reference">&#91;4&#93;</sup>. Tuy nhiên, cũng vì phong cách "tả chân" và yếu tố tình dục trong tác phẩm mà khi sinh thời ông đã bị chính quyền bảo hộ Pháp tại Hà Nội gọi ra tòa vì "tội tổn thương phong hóa" (outrage aux bonnes moeurs)<sup id="cite_ref-vuanvanchuong_5-0" class="reference">&#91;5&#93;</sup>. Về sau này, tác phẩm của ông lại bị cấm in, cấm đọc vì là "tác phẩm suy đồi" tại miền Bắc Việt Nam từ 1954 và cả nước từ ngày 30/4/1975 cho đến tận cuối những năm 1980 mới được chính quyền cho lưu hành. <sup id="cite_ref-dl_bia4_4-1" class="reference">&#91;4&#93;</sup><sup id="cite_ref-tienphong_6-0" class="reference">&#91;6&#93;</sup>. </p>
+<a name="than-the-va-su-nghiep"></a><h2>Thân thế và sự nghiệp</h2>
+<p>Vũ Trọng Phụng sinh ngày 20 tháng 10 năm 1912, quê ở làng Hảo, huyện Mỹ Hào (nay là phường Bần Yên Nhân, thị xã Mỹ Hào), tỉnh Hưng Yên nhưng ông lớn lên và mất tại Hà Nội. Cha ông là Vũ Văn Lân làm thợ điện ở <i>Ga-ra Charles Boillot</i>, mất sớm khi ông mới được 7 tháng tuổi, Vũ Trọng Phụng được mẹ là bà Phạm Thị Khách ở vậy tần tảo nuôi con ăn học<sup id="cite_ref-7" class="reference">&#91;7&#93;</sup>. Sau khi học hết tiểu học tại trường Hàng Vôi, Vũ Trọng Phụng phải thôi học để đi làm kiếm sống vào khoảng năm 14 tuổi<sup id="cite_ref-dl8_8-0" class="reference">&#91;8&#93;</sup>. Ông có may mắn được hưởng thụ chế độ giáo dục mới do Toàn quyền Pháp Albert Sarraut đề xướng, miễn phí hoàn toàn trong sáu năm tiểu học, và là một trong những lứa thanh niên Việt Nam đầu tiên được giáo dục bằng tiếng Pháp và chữ Quốc Ngữ<sup id="cite_ref-dl8_8-1" class="reference">&#91;8&#93;</sup>, đó là nguyên nhân khiến ông luôn thần tượng nền văn hóa Pháp và là lớp nhà văn tích cực truyền bá văn học chữ Quốc Ngữ<sup id="cite_ref-9" class="reference">&#91;9&#93;</sup>. Sau hai năm làm ở các sở tư như nhà hàng Gôđa, nhà in IDEO (Viễn Đông), ông chuyển hẳn sang làm báo, viết văn chuyên nghiệp. </p>
+<p>Năm 1930, Vũ Trọng Phụng đã có truyện ngắn đầu tay <i>Chống nạng lên đường</i> đăng trên tờ <i>Ngọ Báo</i>. Bắt đầu ông viết một số truyện ngắn, nhưng không được chú ý. Năm 1931, ông viết vở kịch <i>Không một tiếng vang</i>, thì bắt đầu gây được sự quan tâm của bạn đọc. Năm 1934, Vũ Trọng Phụng mới cho ra mắt cuốn tiểu thuyết tâm lý đầu tay <i>Dứt tình</i> đăng trên tờ <i>Hải Phòng tuần báo</i>. </p>
+<p>Năm 1936, ngòi bút tiểu thuyết của ông nở rộ, chỉ trong vòng một năm, bốn cuốn tiểu thuyết lần lượt xuất hiện trên các báo, thu hút sự chú ý của công chúng. Cả bốn tiểu thuyết <i>Giông tố</i>, <i>Số đỏ</i>, <i>Vỡ đê</i> và <i>Làm đĩ</i> đều hiện thực, đi sâu vào các vấn đề xã hội. Trong đó <i>Số đỏ</i> xuất sắc hơn cả, được xem như tác phẩm lớn nhất của Vũ Trọng Phụng<sup id="cite_ref-dl_bia4_4-2" class="reference">&#91;4&#93;</sup>, một vài nhân vật, câu nói trong <i>Số đỏ</i> đã đi vào ngôn ngữ đời sống hằng ngày. </p>
+<p>Là một nhà báo, Vũ Trọng Phụng đã viết nhiều phóng sự nổi tiếng. Với phóng sự đầu tay <i>Cạm bẫy người</i> (1933) đăng báo <i>Nhật Tân</i> dưới bút danh <b>Thiên Hư</b>, Vũ Trọng Phụng đã gây được sự chú ý của dư luận đương thời. Năm 1934, báo <i>Nhật Tân</i> cho đăng <i>Kỹ nghệ lấy Tây</i>. Với hai phóng sự đó, Vũ Đình Chí và Vũ Bằng đã cho ông là một trong hàng vài ba "nhà văn mở đầu cho nghề phóng sự của nước ta". Những phóng sự tiếp theo như <i>Cơm thầy cơm cô</i>, <i>Lục sì</i> đã góp phần tạo nên danh hiệu "ông vua phóng sự của đất Bắc" cho Vũ Trọng Phụng<sup id="cite_ref-10" class="reference">&#91;10&#93;</sup>. </p>
+<p>Những tiểu thuyết và phóng sự của ông cũng nhận được nhiều ý kiến phản bác. Từ năm 1936 đến khi Vũ Trọng Phụng qua đời năm 1939, đã nổ ra cuộc tranh luận xung quanh vấn đề "Dâm hay không Dâm" trong các tiểu thuyết, phóng sự của ông<sup id="cite_ref-11" class="reference">&#91;11&#93;</sup>. </p>
+<p>Cả đời Vũ Trọng Phụng sống trong nghèo khổ. Vì còn bà nội và mẹ già nên dù lao động cật lực, ngòi bút của ông vẫn không đủ nuôi gia đình. Tuy viết về nhiều các tệ nạn, thói ăn chơi nhưng Vũ Trọng Phụng là một người đạo đức và sống rất kham khổ. Vì vậy ông mắc bệnh lao phổi. Những ngày cuối đời, trên giường bệnh ông từng phải thốt lên với Vũ Bằng: <i>"Nếu mỗi ngày tôi có một miếng bít tết để ăn thì đâu có phải chết non như thế này"</i><sup id="cite_ref-12" class="reference">&#91;12&#93;</sup>. Vợ ông, bà Vũ Mỹ Lương, tên thường gọi là bà Gái, là con người vợ thứ tư của cụ Cửu Tích, một nhà tư sản có cửa hàng thuốc ở phố Hàng Bạc. Sau khi làm đám cưới vào ngày 23 tháng 1 năm 1938, hai vợ chồng đã cùng thuê nhà ở phố Hàng Bạc. </p>
+<p>Ông mất ngày 13 tháng 10 năm 1939, khi mới 27 tuổi, để lại gia đình còn bà nội, mẹ đẻ, vợ và người con gái chưa đầy 1 tuổi tên là Vũ Mỵ Hằng<sup id="cite_ref-13" class="reference">&#91;13&#93;</sup>. Nhà văn Vũ Trọng Phụng sống long đong, khi qua đời, cũng nhiều phen đổi dời. Lúc mới mất, ông được chôn cất ở nghĩa trang Hợp Thiện, rồi nghĩa trang Quán Dền. Đến năm 1988, con gái Vũ Mỵ Hằng mới đưa ông về quy thổ vĩnh tại mảnh vườn nhà mẹ vợ nhà văn tại làng Giáp Nhất.<sup id="cite_ref-14" class="reference">&#91;14&#93;</sup> </p>
+<a name="tac-pham"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Tác phẩm</h2>
+<div class="thumb-img pull-right"><div class="thumbnail" ><img alt="" src="/images/wiki/vu-trong-phung/342f976949f8b412f89f264f0a7c1aee.jpg" decoding="async" />  <div class="caption"><div class="magnify"></div>Bìa tiểu thuyết <i>Giông Tố</i> in năm 1937</div></div></div>
+<a name="ban-quyen-tac-pham"></a><h3>Bản quyền tác phẩm</h3>
+<p>Theo Luật sở hữu trí tuệ Việt Nam, thời hạn bảo hộ tác quyền chỉ là 50 năm kể từ năm mất của tác giả<sup id="cite_ref-15" class="reference">&#91;15&#93;</sup>, đồng nghĩa với việc đối với tác phẩm của Vũ Trọng Phụng là đến hết năm 1989. Tuy nhiên, 28 tác phẩm của ông đã được Hãng Bảo hộ bản quyền tác giả VN (nay là Cục Bản quyền Tác giả Việt Nam) gia hạn thời hạn bảo hộ thêm 30 năm<sup id="cite_ref-laodong_16-0" class="reference">&#91;16&#93;</sup>, gây lúng túng về nghĩa vụ thanh toán tiền tác quyền của một số hãng chuyển thể hoặc tái sử dụng tác phẩm của ông<sup id="cite_ref-giahanbanquyen_17-0" class="reference">&#91;17&#93;</sup>. </p>
+<a name="kich"></a><h3>Kịch</h3>
+<ol><li><i>Không một tiếng vang</i> (1931)</li> <li><i>Tài tử</i> (1934)</li> <li><i>Chín đầu một lúc</i> (1934)</li> <li><i>Cái chết bí mật của người trúng số độc đắc</i> (1937)</li> <li><i>Hội nghị đùa nhả</i> (1938)</li> <li><i>Phân bua</i> (1939)</li> <li><i>Tết cụ Cố</i> (Di cảo - đăng sau khi tác giả qua đời, trên <i>Tiểu thuyết thứ bảy</i> số 295, ngày 3 tháng 2 năm 1940)</li></ol>
+<a name="dich-thuat"></a><h3>Dịch thuật</h3>
+<ul><li><i>Giết mẹ</i> (1936) - nguyên bản <i>Lucrèce Borgia</i> của Victor Hugo</li></ul>
+<a name="phong-su"></a><h3>Phóng sự</h3>
+<ol><li><i>Đời cạo giấy</i> (1932)</li> <li><i>Cạm bẫy người</i> (1933)</li> <li><i>Kĩ nghệ lấy Tây</i> (1934)</li> <li><i>Hải Phòng 1934</i> (1934)</li> <li><i>Dân biểu và dân biểu</i> (1936)</li> <li><i>Cơm thầy cơm cô</i> (1936)</li> <li><i>Vẽ nhọ bôi hề</i> (1936)</li> <li><i>Lục sì</i> (1937)</li> <li><i>Một huyện ăn Tết</i> (1938)</li></ol>
+<a name="tieu-thuyet"></a><h3>Tiểu thuyết</h3>
+<ol><li><i>Dứt tình</i> (1934)</li> <li><i>Giông tố</i> (1936), khi đăng trên <i>Hà Nội báo</i> có tên <i>Thị Mịch</i>.</li> <li><i>Vỡ đê</i> (1936) - Báo <i>Tương Lai</i></li> <li><i>Số đỏ</i> (1936) - <i>Hà Nội báo</i></li> <li><i>Làm đĩ</i> (1936) - Tạp chí <i>Sông Hương</i></li> <li><i>Lấy nhau vì tình</i> (1937)</li> <li><i>Trúng số độc đắc</i> (1938)</li> <li><i>Quý phái</i> (1937, đăng dang dở trên <i>Đông Dương tạp chí</i> - bộ mới)</li> <li><i>Người tù được tha</i> (Di cảo)</li></ol>
+<a name="truyen-ngan"></a><h3>Truyện ngắn</h3>
+<table class=" table table-striped"> <tbody><tr> <td> <ol><li>Chống nạng lên đường (1930)</li> <li>Một cái chết (1931)</li> <li>Bà lão lòa (1931)</li> <li>Con người điêu trá (1932)</li> <li>Quyền làm bố (1933)</li> <li>Cuộc vui ít có (1933)</li> <li>Hai hộp xì gà (1933)</li> <li>Cái hàng rào (1934)</li> <li>Tình là dây oan (1934)</li> <li>Duyên không đi lại (1934)</li> <li>Thầy lang bất hủ (1934)</li> <li>Ông đừng lầm (1934)</li></ol> </td> <td><ul><ol start="13"> <li>Sao mày không vỡ, nắp ơi? (1934) </li><li>Sư cụ triết lý (1935) </li><li>Rửa hờn (1935) </li><li>Bộ răng vàng (1936) </li><li>Hồ sê líu hồ líu sê sàng (1936) </li><li>Mơ ngày Tết (1936) </li><li>Tết ăn mày (1936) </li><li>Lỡ lời (1936) </li><li>Người có quyền (1937) </li><li>Cái ghen đàn ông (1937) </li><li>Lòng tự ái (1937) </li><li>Đi săn khỉ (1937)</li></ol></ul> </td> <td><ul><ol start="25"> <li>Máu mê (1937) </li><li>Tự do (1937) </li><li>Lấy vợ xấu (1937) </li><li>Một con chó hay chim chuột (1937) </li><li>Một đồng bạc (1939) </li><li>Đời là một cuộc chiến đấu (1939) </li><li>Bắt vích (1939) </li><li>Ăn mừng (1939) </li><li>Gương tống tiền (không rõ năm viết) </li><li>Đoạn tuyệt (không rõ năm viết) </li><li>Từ lý thuyết đến thực hành (không rõ năm viết) <br /> </li></ol></ul> </td></tr></tbody></table>
+<a name="vinh-danh"></a><h2>Vinh danh</h2>
+<p>Tên ông được đặt cho những con đường ở Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh, Kiên Giang, Đồng Hới </p>
+<a name="nguon-tham-khao"></a><h2>Nguồn tham khảo</h2>
+<a name="tham-khao-khac"></a><h3>Tham khảo khác</h3>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Trần Hữu Tá 2001, trang 13-14</span> </li> <li id="cite_note-dantri-2"><b>^</b> <span class="reference-text"><span class="citation news">Trần Quang Đại (ngày 26 tháng 3 năm 2008). “Sách giáo khoa còn thiếu tính khoa học và chuẩn mực”. <i>Báo Dân Trí</i><span class="reference-accessdate">. Truy cập ngày 25 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=S%C3%A1ch+gi%C3%A1o+khoa+c%C3%B2n+thi%E1%BA%BFu+t%C3%ADnh+khoa+h%E1%BB%8Dc+v%C3%A0+chu%E1%BA%A9n+m%E1%BB%B1c&amp;rft.au=Tr%E1%BA%A7n+Quang+%C4%90%E1%BA%A1i&amp;rft.aulast=Tr%E1%BA%A7n+Quang+%C4%90%E1%BA%A1i&amp;rft.date=25+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=B%C3%A1o+D%C3%A2n+Tr%C3%AD&amp;rft_id=http%3A%2F%2Fdantri.com.vn%2Fc202%2Fs202-224821%2Fsach-giao-khoa-con-thieu-tinh-khoa-hoc-va-chuan-muc.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span>, có nhắc đến <i>Giông tố</i> và <i>Số đỏ</i> trong nội dung Sách Ngữ văn 11 và 12</span> </li> <li id="cite_note-tuoitre_dethi-3"><b>^</b> <span class="reference-text"><span class="citation news">“Cấu trúc đề thi ĐH-CĐ 2009 môn Văn, Sử, Địa, Toán, Lý, Hóa, Sinh, Anh, Nga”. <i>Báo Tuổi Trẻ</i>. Ngày 27 tháng 11 năm 2008<span class="reference-accessdate">. Truy cập ngày 25 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=C%E1%BA%A5u+tr%C3%BAc+%C4%91%E1%BB%81+thi+%C4%90H-C%C4%90+2009+m%C3%B4n+V%C4%83n%2C+S%E1%BB%AD%2C+%C4%90%E1%BB%8Ba%2C+To%C3%A1n%2C+L%C3%BD%2C+H%C3%B3a%2C+Sinh%2C+Anh%2C+Nga&amp;rft.date=25+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=B%C3%A1o+Tu%E1%BB%95i+Tr%E1%BA%BB&amp;rft_id=http%3A%2F%2Fwww3.tuoitre.com.vn%2FTuyenSinh%2FIndex.aspx%3FArticleID%3D290003%26ChannelID%3D230&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span></span> </li> <li id="cite_note-dl_bia4-4">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Dumb Luck: a novel, bìa 4</span> </li> <li id="cite_note-vuanvanchuong-5"><b>^</b> <span class="reference-text"><span class="citation news">Lại Nguyên Ân (7 tháng 11 năm 2005). “Vũ Trọng Phụng và vụ án văn chương”. <i>VnExpress</i><span class="reference-accessdate">. Truy cập ngày 27 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng+v%C3%A0+v%E1%BB%A5+%C3%A1n+v%C4%83n+ch%C6%B0%C6%A1ng&amp;rft.au=L%E1%BA%A1i+Nguy%C3%AAn+%C3%82n&amp;rft.aulast=L%E1%BA%A1i+Nguy%C3%AAn+%C3%82n&amp;rft.date=27+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=VnExpress&amp;rft_id=http%3A%2F%2Fevan.vnexpress.net%2FNews%2Fdoi-song-van-nghe%2Fchuyen-lang-van%2F2005%2F11%2F3B9ACDF6%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Kiểm tra giá trị ngày tháng trong: <code >&#124;date=</code> (trợ giúp)</span></span> </li> <li id="cite_note-tienphong-6"><b>^</b> <span class="reference-text"><span class="citation news">Hoàng Minh Tường (13 tháng 5 năm 2007). “Con rể nhà văn Vũ Trọng Phụng: Kính xin ba chữ”. <i>Báo Tiền Phong</i><span class="reference-accessdate">. Truy cập ngày 27 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=Con+r%E1%BB%83+nh%C3%A0+v%C4%83n+V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng%3A+K%C3%ADnh+xin+ba+ch%E1%BB%AF&amp;rft.au=Ho%C3%A0ng+Minh+T%C6%B0%E1%BB%9Dng&amp;rft.aulast=Ho%C3%A0ng+Minh+T%C6%B0%E1%BB%9Dng&amp;rft.date=27+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=B%C3%A1o+Ti%E1%BB%81n+Phong&amp;rft_id=http%3A%2F%2Fwww.tienphong.vn%2FTianyon%2FIndex.aspx%3FArticleID%3D83776%26ChannelID%3D7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Kiểm tra giá trị ngày tháng trong: <code >&#124;date=</code> (trợ giúp)</span></span> </li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Dumb Luck: a novel, trang 4</span> </li> <li id="cite_note-dl8-8">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Dumb Luck: a novel, trang 8</span> </li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Dumb Luck: a novel, trang 11</span> </li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Trần Hữu Tá 2001, trang 14, đây là danh hiệu do Lãng Nhân Phùng Tất Đắc phong cho Vũ Trọng Phụng.</span> </li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Trần Hữu Tá 2001, trang 15, bài báo "Ý kiến của một người đọc: Dâm hay không dâm", ký tên <i>Nhất Chi Mai</i>, viết trên tờ tuần báo <i>Ngày Nay</i> ra năm 1937.</span> </li> <li id="cite_note-12"><b>^</b> <span class="reference-text"><span class="citation book">Vũ Bằng (2008) [1969]. “Phần 2, Báo đấu tranh”. <i>Bốn mươi năm nói láo, phần 2</i>. Nhà xuất bản Lao động.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=Ph%E1%BA%A7n+2%2C+B%C3%A1o+%C4%91%E1%BA%A5u+tranh&amp;rft.au=V%C5%A9+B%E1%BA%B1ng&amp;rft.aulast=V%C5%A9+B%E1%BA%B1ng&amp;rft.btitle=B%E1%BB%91n+m%C6%B0%C6%A1i+n%C4%83m+n%C3%B3i+l%C3%A1o%2C+ph%E1%BA%A7n+2&amp;rft.date=28+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=bookitem&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Lao+%C4%91%E1%BB%99ng&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment"><code >&#124;|ngày truy cập=</code> cần <code >&#124;url=</code> (trợ giúp)</span></span> </li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Trần Hữu Tá 2001, trang 9</span> </li> <li id="cite_note-14"><b>^</b> <span class="reference-text"><span class="citation web">“Nhà văn Vũ Trọng Phụng và câu chuyện về ngôi mộ giữa lòng Hà Nội”.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.btitle=Nh%C3%A0+v%C4%83n+V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng+v%C3%A0+c%C3%A2u+chuy%E1%BB%87n+v%E1%BB%81+ng%C3%B4i+m%E1%BB%99+gi%E1%BB%AFa+l%C3%B2ng+H%C3%A0+N%E1%BB%99i&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fantg.cand.com.vn%2FKinh-te-Van-hoa-The-Thao%2FNha-van-Vu-Trong-Phung-va-cau-chuyen-ve-ngoi-mo-giua-long-Ha-Noi-404845%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></span> </li> <li id="cite_note-15"><b>^</b> <span class="reference-text"><span class="citation pressrelease">“Luật sở hữu trí tuệ Việt Nam” (Thông cáo báo chí)<span class="reference-accessdate">. Truy cập ngày 27 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.btitle=Lu%E1%BA%ADt+s%E1%BB%9F+h%E1%BB%AFu+tr%C3%AD+tu%E1%BB%87+Vi%E1%BB%87t+Nam&amp;rft.date=27+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fvietlaw.gov.vn%2FLAWNET%2Fdownloaddoc%3Fid%3D18980%26type%3Ddoc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></span> </li> <li id="cite_note-laodong-16"><b>^</b> <span class="reference-text"><span class="citation news">“Tác phẩm của Vũ Trọng Phụng bị vi phạm bản quyền”. <i>Báo Lao động</i>. 13 tháng 5 năm 2005<span class="reference-accessdate">. Truy cập ngày 27 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=T%C3%A1c+ph%E1%BA%A9m+c%E1%BB%A7a+V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng+b%E1%BB%8B+vi+ph%E1%BA%A1m+b%E1%BA%A3n+quy%E1%BB%81n&amp;rft.date=27+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=B%C3%A1o+Lao+%C4%91%E1%BB%99ng&amp;rft_id=http%3A%2F%2Fwww1.laodong.com.vn%2Fpls%2Fbld%2Fdisplay%24.htnoidung%2840%2C129652%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Kiểm tra giá trị ngày tháng trong: <code >&#124;date=</code> (trợ giúp)</span></span> </li> <li id="cite_note-giahanbanquyen-17"><b>^</b> <span class="reference-text"><span class="citation news">Trọng Thịnh (16 tháng 5 năm 2005). “Rắc rối chuyện trả tiền tác quyền cho nhà văn Vũ Trọng Phụng”. <i>Báo Tiền Phong</i><span class="reference-accessdate">. Truy cập ngày 27 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.atitle=R%E1%BA%AFc+r%E1%BB%91i+chuy%E1%BB%87n+tr%E1%BA%A3+ti%E1%BB%81n+t%C3%A1c+quy%E1%BB%81n+cho+nh%C3%A0+v%C4%83n+V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.au=Tr%E1%BB%8Dng+Th%E1%BB%8Bnh&amp;rft.aulast=Tr%E1%BB%8Dng+Th%E1%BB%8Bnh&amp;rft.date=27+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=article&amp;rft.jtitle=B%C3%A1o+Ti%E1%BB%81n+Phong&amp;rft_id=http%3A%2F%2Fwww.tienphong.vn%2FTianyon%2FIndex.aspx%3FArticleID%3D9539%26ChannelID%3D7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Kiểm tra giá trị ngày tháng trong: <code >&#124;date=</code> (trợ giúp)</span></span> </li> </ol></div>
+<a name="tham-khao-chinh"></a><h3>Tham khảo chính</h3>
+<ul><li><span class="citation book">GS. Trần Hữu Tá (sưu tầm, tuyển chọn, giới thiệu). <i>Vũ Trọng Phụng - Những tác phẩm tiêu biểu</i> . Nhà xuất bản Giáo dục.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.au=GS.+Tr%E1%BA%A7n+H%E1%BB%AFu+T%C3%A1+%28s%C6%B0u+t%E1%BA%A7m%2C+tuy%E1%BB%83n+ch%E1%BB%8Dn%2C+gi%E1%BB%9Bi+thi%E1%BB%87u%29&amp;rft.aulast=GS.+Tr%E1%BA%A7n+H%E1%BB%AFu+T%C3%A1+%28s%C6%B0u+t%E1%BA%A7m%2C+tuy%E1%BB%83n+ch%E1%BB%8Dn%2C+gi%E1%BB%9Bi+thi%E1%BB%87u%29&amp;rft.btitle=V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng+-+Nh%E1%BB%AFng+t%C3%A1c+ph%E1%BA%A9m+ti%C3%AAu+bi%E1%BB%83u&amp;rft.date=7+th%C3%A1ng+4+n%C4%83m+2009&amp;rft.edition=t%C3%A1i+b%E1%BA%A3n+l%E1%BA%A7n+th%E1%BB%A9+nh%E1%BA%A5t&amp;rft.genre=book&amp;rft.pub=Nh%C3%A0+xu%E1%BA%A5t+b%E1%BA%A3n+Gi%C3%A1o+d%E1%BB%A5c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span> <span  class="error citation-comment">Đã bỏ qua tham số không rõ <code >&#124;origmonth=</code> (trợ giúp); </span><span  class="error citation-comment"><code >&#124;|ngày truy cập=</code> cần <code >&#124;url=</code> (trợ giúp)</span></li> <li><span class="citation book">Vũ Trọng Phụng.  Peter Zinoman, biên tập. <i>Dumb luck: a novel</i>. Nguyễn Nguyệt Cầm (biên dịch). University of Michigan Press. ISBN 0472068040<span class="reference-accessdate">. Truy cập ngày 25 tháng 6 năm 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AV%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.au=V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.aulast=V%C5%A9+Tr%E1%BB%8Dng+Ph%E1%BB%A5ng&amp;rft.btitle=Dumb+luck%3A+a+novel&amp;rft.date=25+th%C3%A1ng+6+n%C4%83m+2009&amp;rft.genre=book&amp;rft.pub=University+of+Michigan+Press&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-tcKyUm8mocC%26dq%3Disbn%3A0472068040%26source%3Dgbs_navlinks_s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li></ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/vu-trong-khanh" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Vũ Trọng Khánh            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/vu-tuan" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Vũ Tuân            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/vu-trong-phung" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,1445 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Đặng Dung (chữ Hán: 鄧容, 1373 - 1414), là nhà thơ và là danh tướng nhà Hậu Trần trong lịch sử Việt Nam. Ông là con trai của Đặng Tất, người theo phò vua Giản Định đế của nhà Hậu Trần, sau bị Giản Định đế giết chết cùng với tướng Nguyễn Cảnh Chân. Giận vì cha mình chết oan, Đặng Dung cùng Nguyễn Cảnh ...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Đặng Dung - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"b808d85ff5eb07e78c6e052c87841a1f"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Đặng Dung" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Đặng Dung (chữ Hán: 鄧容, 1373 - 1414), là nhà thơ và là danh tướng nhà Hậu Trần trong lịch sử Việt Nam. Ông là con trai .." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/dang-dung" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/dang-dung/97cca0cc0fd1d9c7d8d69444db094196.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Đặng Dung", "item": "https://nguoikesu.com/nhan-vat/dang-dung" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/dang-dung" }, "headline": "Đặng Dung", "description": "Đặng Dung (chữ Hán: 鄧容, 1373 - 1414), là nhà thơ và là danh tướng nhà Hậu Trần trong lịch sử Việt Nam. Ông là con trai của Đặng Tất, người theo phò vua Giản Định đế của nhà Hậu Trần, sau bị Giản Định đế giết chết cùng với tướng Nguyễn Cảnh Chân. Giận vì cha mình chết oan, Đặng Dung cùng Nguyễn Cảnh Dị (con của Nguyễn Cảnh Chân) rời đi, lập Trần Quý Khoáng tức vua Trùng Quang tiếp tục khởi nghĩa.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/dang-dung/97cca0cc0fd1d9c7d8d69444db094196.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/dang-dung" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-31T09:53:29+07:00", "dateCreated": "2017-10-31T09:53:29+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Đặng Dung</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Đặng Dung        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-1"><a href="#su-nghiep" title="">Sự nghiệp</a></li>
+<li class="level-2"><a href="#boi-canh" title="">Bối cảnh</a></li>
+<li class="level-1"><a href="#pho-vua-trung-quang" title="">Phò vua Trùng Quang</a></li>
+<li class="level-2"><a href="#tran-mo-do" title="">Trận Mô Độ</a></li>
+<li class="level-2"><a href="#tran-sai-gia" title="">Trận Sái Già</a></li>
+<li class="level-2"><a href="#cai-chet" title="">Cái chết</a></li>
+<li class="level-1"><a href="#nhan-dinh" title="">Nhận định</a></li>
+<li class="level-1"><a href="#con-cai" title="">Con cái</a></li>
+<li class="level-1"><a href="#hau-due-noi-tieng" title="">Hậu duệ nổi tiếng</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><p><b>Đặng Dung</b> (chữ Hán: <span lang="vi" class="Hani"  xml:lang="vi">鄧容</span>, 1373 - 1414<sup class="annotation badge" title="^ Ghi theo Ngữ văn 10 (nâng cao), Nhà xuất bản Giáo dục, 2007, tr. 157.">1</sup> ), là nhà thơ và là danh tướng <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a> trong lịch sử Việt Nam. Ông là con trai của <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a>, người theo phò vua Giản Định đế của <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a>, sau bị Giản Định đế giết chết cùng với tướng <a class="annotation" href="/nhan-vat/nguyen-canh-chan" title="Nguyễn Cảnh Chân (chữ Hán: 阮景真; 1355 - 1409) là danh tướng chống quân Minh đời Hậu Trần trong lịch sử Việt Nam. Ông người làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An, Việt Nam...." target="_blank" >Nguyễn Cảnh Chân</a>. Giận vì cha mình chết oan, Đặng Dung cùng <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> (con của <a class="annotation" href="/nhan-vat/nguyen-canh-chan" title="Nguyễn Cảnh Chân (chữ Hán: 阮景真; 1355 - 1409) là danh tướng chống quân Minh đời Hậu Trần trong lịch sử Việt Nam. Ông người làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An, Việt Nam...." target="_blank" >Nguyễn Cảnh Chân</a>) rời đi, lập <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> tức vua Trùng Quang tiếp tục khởi nghĩa.</p>
+<p></p>
+<p></p>
+<a name="tieu-su"></a><h2>Tiểu sử</h2>
+<p><b>Đặng Dung</b> là người xã Tả Hạ, <a class="annotation" href="/dia-danh/huyen-thien-loc" title="..." target="_blank" >huyện Thiên Lộc</a>, <a class="annotation" href="/dia-danh/tran-nghe-an" title="Xứ Nghệ là tên chung của vùng Hoan Châu(驩州) cũ từ thời nhà Hậu Lê, tức Nghệ An và Hà Tĩnh hiện nay. Hai tỉnh này cùng chung một vùng văn hóa gọi là văn hóa Lam Hồng, có chung biểu tượng là núi Hồng - sông Lam. Núi Hồng Lĩnh nằm trọn trong đất Hà Tĩnh và sông Lam nằm ở ranh giới giữa Nghệ An và Hà Tĩ..." target="_blank" >trấn Nghệ An</a><sup class="annotation badge" title="^ Chép theo Cao Xuân Dục, Đại Nam dư địa chí ước biên. Nhà xuất bản Văn học, 2003, tr. 233.">2</sup>  (nay là <a class="annotation" href="/dia-danh/huyen-can-loc" title="..." target="_blank" >huyện Can Lộc</a>, <a class="annotation" href="/dia-danh/tinh-ha-tinh" title="Hà Tĩnh là một tỉnh của Việt Nam, nằm ở khu vực Bắc Trung Bộ. Trước đây, Hà Tĩnh cùng với Nghệ An là một miền đất có cùng tên chung là Hoan Châu (thời Bắc thuộc), Nghệ An châu (thời Lý, Trần), xứ Nghệ (năm 1490, đời vua Lê Thánh Tông), rồi trấn Nghệ An. Năm 1831, vua Minh Mạng chia trấn Nghệ An thàn..." target="_blank" >tỉnh Hà Tĩnh</a>). Ông là con trai cả của Quốc công <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a>.</p>
+<p>Theo Đặng Tộc Đại Tông Phả<sup class="annotation badge" title="^ Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, Nguyễn Văn Thành dịch, Nhà xuất bản Văn hóa Thông tin 2002.">3</sup> , ông tổ 4 đời của <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> là Đặng Bá Kiển vốn cư ngụ ở vùng kinh kỳ Thăng Long, sau đó di dời vào Nghệ An châu. Đặng Bá Kiển sinh ra Đặng Bá Tĩnh đỗ thám hoa đời <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a>. Bá Tĩnh sinh ra Đình Dực, Đình Dực sinh ra Tất, Tất sinh ra Dung<sup class="annotation badge" title="^ Đặng Huy Phúc, sách đã dẫn, tr 47 - 49">4</sup> .</p>
+<a name="su-nghiep"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Sự nghiệp</h2>
+<a name="boi-canh"></a><h3>Bối cảnh</h3>
+<p>Cha của Đặng Dung là <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a>, làm quan cho <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> và <a class="annotation" href="/nhan-vat/nha-ho" title="Nhà Hồ (chữ Hán: 胡朝, Hồ Triều) là triều đại phong kiến trong lịch sử Việt Nam, bắt đầu khi Hồ Quý Ly lên ngôi năm 1400 sau khi giành được quyền lực từ tay nhà Trần và chấm dứt khi Hồ Hán Thương bị quân Minh bắt vào năm 1407 – tổng cộng là 7 năm. Quốc hiệu Đại Việt đã đổi thành Đại Ngu năm 1400...." target="_blank" >nhà Hồ</a>; vào năm 1391, <a class="annotation" href="/nhan-vat/ho-quy-ly" title="Hồ Quý Ly (chữ Hán: 胡季犛; 1336 –&amp;#160;?), cũng gọi Hồ Chương Hoàng (胡章皇), lấy húy kị Hồ Nhất Nguyên (胡一元), là vị hoàng đế đầu tiên của nhà nước Đại Ngu trong lịch sử Việt Nam. Ông ở ngôi vị Hoàng đế từ năm 1400 đến năm 1401, sau đó giữ ngôi Thái thượng hoàng từ năm 1401 đến năm 1407. 
+ Năm 1400, Hồ Q..." target="_blank" >Hồ Quý Ly</a> bổ dụng <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> làm châu phán Hóa châu. Năm 1402, <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> giúp việc cho <a class="annotation" href="/nhan-vat/hoang-hoi-khanh" title="Hoàng Hối Khanh (chữ Hán: 黃晦卿, 1362-1407) là quan nhà Hồ trong lịch sử Việt Nam, người huyện Lệ Thuỷ, tỉnh Quảng Bình, Việt Nam...." target="_blank" >Hoàng Hối Khanh</a> cai trị vùng đất Thăng Hoa mới lấy được từ Chiêm Thành.<sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục; Nhà xuất bản giáo dục Hà Nội, 1998; bản điện tử, tr 312">5</sup> <sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục; Nhà xuất bản giáo dục Hà Nội, 1998; bản điện tử, tr 337">6</sup> </p>
+<p>Tháng 5, năm 1407, cha con họ Hồ bị bắt ở cửa biển Kỳ La, Chiêm Thành nhân đó dấy quân hòng chiếm lại đất Thăng Hoa. <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> xin với <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> cho mình cai trị đất Hóa châu, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> chấp thuận, sau đó quân Chiêm Thành rút về.</p>
+<p>Năm 1407, vào tháng 10, người con thứ của vua <a class="annotation" href="/nhan-vat/tran-nghe-tong" title="Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394). 
+ Tr..." target="_blank" >Trần Nghệ Tông</a>, tên là <a class="annotation" href="/nhan-vat/tran-ngoi" title="Giản Định Đế (chữ Hán: 簡定帝,&amp;#160;? - năm 1410), là vị vua đầu tiên của nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội, Việt Nam). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi hoàng đế từ năm 1407 đến năm 1409, sau đó làm thái thượn..." target="_blank" >Trần Ngỗi</a>, tự lập làm vua lên ngôi ở Tràng An, xưng là Giản Định đế. Do quân mới lập, nhà vua phải chạy vào Nghệ An, <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> lúc ấy làm Đại tri <a class="annotation" href="/dia-danh/chau-hoa" title="Châu Lý (tiếng Chăm: Ulik) là tên cũ của vùng đất Hóa Châu đời nhà Trần, ngày nay là tỉnh Thừa Thiên-Huế. 
+ &quot;Theo Nguyên sử, bi ký Champa có nói đến hai châu Ulik và Vuyar, áng chừng ở phía Bắc &quot;cựu châu&quot; Amuravati (Quảng Nam-Quảng Ngãi). Hà Văn Tấn và Trần Thị Tâm cho rằng Ulik và Vuyar cũng là Ô, ..." target="_blank" >châu Hóa</a> châu nghe tin, liền giết viên quan <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> đem quân từ Hóa châu ra Nghệ An phò giúp. <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> dâng con gái cho vua Giản Định đế, sau đó được phong làm Quốc công.</p>
+<p>Năm 1409, sau trận đại chiến Bô Cô (xã Hiếu Cổ, huyện Ý Yên, thuộc <a class="annotation" href="/dia-danh/tinh-nam-dinh" title="Nam Định là một tỉnh lớn với 2 triệu dân nằm ở phía Nam đồng bằng Bắc Bộ. Theo quy định năm 2008 thì Nam Định thuộc vùng duyên hải Bắc Bộ...." target="_blank" >tỉnh Nam Định</a> ngày nay); "vì nghe lời khuyên của hoạn quan là Nguyễn Quỹ và học sinh Nguyễn Mộng Trang, nói rằng <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> chuyên quyền, vua Giản Định Đế đem lòng ngờ vực đã giết <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> và <a class="annotation" href="/nhan-vat/nguyen-canh-chan" title="Nguyễn Cảnh Chân (chữ Hán: 阮景真; 1355 - 1409) là danh tướng chống quân Minh đời Hậu Trần trong lịch sử Việt Nam. Ông người làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An, Việt Nam...." target="_blank" >Nguyễn Cảnh Chân</a>.<sup class="annotation badge" title="^ Theo Đại Nam nhất thống chí, đã dẫn trên.">7</sup> . Đặng Dung tức giận bỏ <a class="annotation" href="/nhan-vat/tran-ngoi" title="Giản Định Đế (chữ Hán: 簡定帝,&amp;#160;? - năm 1410), là vị vua đầu tiên của nhà Hậu Trần trong lịch sử Việt Nam. Ông tên thật là Trần Ngỗi (陳頠), sinh tại kinh đô Thăng Long, (nay là Hà Nội, Việt Nam). Có tài liệu phiên âm tên ông là Quỹ. Ông ở ngôi hoàng đế từ năm 1407 đến năm 1409, sau đó làm thái thượn..." target="_blank" >Trần Ngỗi</a>, cùng <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> (con của <a class="annotation" href="/nhan-vat/nguyen-canh-chan" title="Nguyễn Cảnh Chân (chữ Hán: 阮景真; 1355 - 1409) là danh tướng chống quân Minh đời Hậu Trần trong lịch sử Việt Nam. Ông người làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An, Việt Nam...." target="_blank" >Nguyễn Cảnh Chân</a>) đem binh Thuận hóa về Thanh Hóa, rước <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> đến Nghệ An lập làm vua.</p>
+<a name="pho-vua-trung-quang"></a><h2>Phò vua Trùng Quang</h2>
+<p><a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> hay Trần Quý Khoách là con Mẫn vương Trần Ngạc và là cháu <a class="annotation" href="/nhan-vat/tran-nghe-tong" title="Trần Nghệ Tông (chữ Hán: 陳藝宗, tháng 12, năm 1321 - 15 tháng 12, năm 1394), tên húy là Trần Phủ (陳暊) hoặc Trần Thúc Minh (陳叔明), còn gọi là Nghệ Hoàng (藝皇), là vị hoàng đế thứ 8 của nhà Trần trong lịch sử Việt Nam. Ông ở ngôi 2 năm (1370 - 1372), ở ngôi Thái thượng hoàng hơn 20 năm (1372 - 1394). 
+ Tr..." target="_blank" >Trần Nghệ Tông</a>, trước kia Quý Khoáng làm quan Nhập nội thị trung. <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> lên ngôi vua ở Chỉ Là<sup class="annotation badge" title="^ này là La Sơn, thuộc tỉnh Hà Tĩnh">8</sup> , đổi niên hiệu là Trùng Quang, dùng <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> làm Thái phó, <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> làm Thái bảo, Đặng Dung làm Đồng bình chương sự, <a class="annotation" href="/nhan-vat/nguyen-chuong" title="Nguyễn Văn Chương (1812-1859), sau đổi tên thành Nguyễn Lập, là một nhà khoa bảng. Văn Chương là người phường Vĩnh Hòa, tổng An Cư, huyện Đăng Xương, phủ Triệu Phong, tỉnh Quảng Trị (nay thuộc huyện Triệu Vân, tỉnh Quảng Trị). Ông đỗ Cử nhân năm Tân Sửu 1841 dưới thời Thiệu Trị, sau đỗ Đình nguyên H..." target="_blank" >Nguyễn Chương</a> làm Tư mã.<sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 341, 342">9</sup> </p>
+<p>Lúc này Giản Định đế đang ở thành Ngự Thiên<sup class="annotation badge" title="^ Tên huyện, tức làng Đa Cương xưa, mộ tổ nhà Trần ở đấy, cho nên gọi là Ngự Thiên; nhà Lê theo gọi tên ấy; nay đổi là Hưng Nhân thuộc tỉnh Hưng Yên.">10</sup> , chống nhau với <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a>. Trùng Quang đế sai <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> mang quân đến đánh úp, bắt được Giản Định đế. Mẹ của Giản Định đế là Hưng Khánh Thái hậu và bầy tôi là Lê Tiệt, Lê Nguyên Đỉnh bàn nhau khởi binh đánh úp lại Trùng Quang đế - <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> để khôi phục quyền lực cho Giản Định đế. Việc bị tiết lộ, Trùng Quang đế bắt giết Lê Tiệt và Lê Nguyên Đỉnh, còn lại thì tha cả. Gặp khi ấy <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> đưa Giản Định đế đến Nghệ An, Trùng Quang đế thay mặc mũ áo thường ra đón tiếp. Trùng Quang đế bèn tôn Giản Định đế làm Thượng hoàng, cùng nhau mưu tính việc khôi phục.<sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 343">11</sup> </p>
+<a name="tran-mo-do"></a><h3>Trận Mô Độ</h3>
+<p>Giản Định đế và Trùng Quang đế chia quân làm 2, Giản Định đế tiến quân đến Hạ Hồng, vua Trùng Quang tiến quân đến Bình Than, các người hùng kiệt ở các lộ đều hưởng ứng; gặp lúc <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> dẫn quân đến, Giản Định đế bỏ thuyền lên bộ, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> chia quân đi đằng sau, bắt được giải về Kim Lăng. Cánh quân vua Trùng Quang giữ nhau với <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> ở Bình Than, chia cho Đặng Dung giữ cửa Hàm Tử, vì thiếu lương thực, quân tan vỡ, vua Trùng Quang được tin, tự liệu không chống nổi, lại về Nghệ An, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> đuổi theo, đến đâu cũng chém giết người vô số.<sup class="annotation badge" title="^ Việt sử tiêu án, Nhà xuất bản văn sử, 1991, bản điện tử, trang 116">12</sup> </p>
+<p>Năm 1410, vua Trùng Quang dẫn quân tiến ra bắc, thắng một số trận nhưng vì hiệu lệnh không thống nhất, quân Minh tiến đến đâu, quân Hậu Trần tan vỡ đến đó. Vua Trùng Quang lại rút binh về Nghệ An. Đầu năm 1411, vua <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> sai <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> mang 14 vệ, tổng cộng 78.400 quân (Minh sử chép 2.400 quân) tiếp viện cho Mộc Thạnh, năm sau <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> dẫn binh vào Nghệ An, gặp Nguyễn Suý, <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a>, Đặng Dung ở trận Mô Độ. Hai bên liều chết đánh nhau chưa phân thắng bại, thì <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> và <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> bất ngờ dẫn quân vượt biển rút chạy, Hồ Bối bỏ thuyền lên bờ. Đặng Dung thế cô, không có cứu viện, liền đi thuyền nhẹ vượt biển trốn đi. Năm 1413, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> lại tiến đánh Nghệ An, đến đây <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a> phải lui vào Hóa Châu, đất cố thủ cuối cùng của <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a>.</p>
+<a name="tran-sai-gia"></a><h3>Trận Sái Già</h3>
+<p>Tháng 6 năm Quý Tỵ (1413) quân <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> vào đến Nghệ An, quan Thái phó <a class="annotation" href="/nhan-vat/nha-hau-tran" title="Hậu Trần (Chữ Hán: 後陳朝) là một triều đại trong lịch sử Việt Nam từ 1407 đến 1413 mà các sách sử vẫn chưa thống nhất cách gọi. Sách Đại Việt sử ký toàn thư thì gọi là nhà Hậu Trần, còn Khâm định Việt sử Thông giám cương mục thì hoàn toàn không nói đến cụm từ này mà chỉ thuật lại sự việc trong những n..." target="_blank" >nhà Hậu Trần</a> là Phan Quý Hữu ra hàng, được mấy hôm thì mất. <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> cho con Quý Hữu là Phan Liêu làm tri phủ Nghệ An. Phan Liêu muốn tâng công, nên nói cho Phụ biết <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> có bao nhiêu tướng tá người nào giỏi, người nào dở, quân số nhiều ít, sơn xuyên chỗ hiểm, chỗ không thế nào.</p>
+<p><a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> bèn quyết ý vào Hóa Châu, và hội chư tướng lại để bàn kế tiến binh. Mộc Thạnh nói rằng: "Hóa Châu núi cao bể rộng khó lấy lắm". <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> nhất định vào đánh cho được, nói rằng: "Ta sống cũng ở đất Hóa Châu này, mà chết cũng ở đất Hóa Châu này. Hóa Châu mà không lấy được thì không mặt mũi nào về trông thấy chúa thượng!". Lập tức truyền cho quân thủy bộ tiến vào đánh Hóa Châu.<sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 346">13</sup> </p>
+<p>Tháng 9 năm 1413, quân <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> vào đến Thuận châu, Nguyễn Suý và Đặng Dung giữ sông Thái Gia, đặt phục binh, nhân đêm đánh úp dinh <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a>. Đặng Dung nhảy lên thuyền <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> toan bắt sống, nhưng không biết mặt, vì thế <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> mới nhảy xuống sông lấy thuyền nhỏ mà chạy thoát được. Bấy giờ quân Hậu Trần còn rất ít, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> thấy vậy đem binh đánh úp lại, bọn Đặng Dung địch không nổi phải bỏ chạy.<sup class="annotation badge" title="^ a ă Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 346, 347">14</sup> </p>
+<p>Sử thần <a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a> nói: <i>"Trận đánh ở Sái Già, Đặng Dung, <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a>, đem tàn quân trơ trọi chống lại bọn giặc mạnh, quân tướng đều tinh nhuệ. Dung nửa đêm đánh úp doanh trại giặc làm cho tướng giặc sợ hãi chạy trốn, đốt hết thuyền bè, khí giới của chúng, không phải người thực sự có tài làm tướng, thì có làm được như thế hay không?. Thế nhưng cuối cùng vẫn bại vong, đó là do trời. Tuy thất bại, cũng vẫn vinh quang. Trong khoảng 5 năm, kiên trì chiến đấu với giặc, dẫu có bất lợi, nhưng ý chí không núng, khí thế càng hăng, đến kiệt sức mới chịu thôi. Lòng trung vì nước của người bề tôi, dẫu trăm đời sau vẫn còn tưởng thấy được!"</i></p>
+<a name="cai-chet"></a><h3>Cái chết</h3>
+<p>Tháng 12, 1413, từ khi thua trận Sái Già, quân Hậu Trần thế yếu không thể chống với quân Minh được nữa, phải vào ẩn núp ở trong rừng núi, <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> và Đặng Dung muốn chạy sang Tiêm La, <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> đuổi theo bắt được. <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> mắng chửi Phụ rằng: <i>Chính ta muốn giết mày, bây giờ lại bị mày bắt!</i>. Mắng chửi mãi không ngớt mồm, Phụ đem giết đi, lấy gan ăn. Trùng Quang đế chạy sang Lão Qua, <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> chạy sang Minh Linh cũng đều bị quân <a class="annotation" href="/nhan-vat/nha-minh" title="Nhà Minh (chữ Hán: 明朝, Hán Việt: Minh triều; 23 tháng 1 năm 1368 - 25 tháng 4 năm 1644 ) là triều đại cuối cùng do người Hán kiến lập trong lịch sử Trung Quốc. Năm 1368, Chu Nguyên Chương sau khi tiêu diệt các thế lực quần hùng, tại phủ Ứng Thiên đăng cơ, quốc hiệu Đại Minh, do hoàng thất họ Chu, nê..." target="_blank" >nhà Minh</a> bắt.<sup class="annotation badge" title="^ a ă Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 346, 347">14</sup> </p>
+<p>Chẳng được bao lâu vua Trần và các tướng đều bị bắt và bị giải về Yên Kinh cả. Đi đến giữa đường, Trùng Quang Đế nhảy xuống biển tự tử, Đặng Dung cũng tự sát. Đặng Dung có làm bài thơ Thuật hoài, sau được nhiều người truyền tụng:</p>
+<p>Việc đời bối rối tuổi già vay</p>
+<p>Trời đất vô cùng một cuộc say</p>
+<p>Bần tiện gặp thời lên cũng dễ</p>
+<p>Anh hùng lỡ bước ngẫm càng cay</p>
+<p>Vai khiêng trái đất mong phò chúa</p>
+<p>Giáp gột sông trời khó vạch mây</p>
+<p>Thù trả chưa xong đầu đã bạc</p>
+<p>Gươm mài bóng nguyệt biết bao rày.<sup class="annotation badge" title="^ Việt Nam sử lược, Trung tâm học liệu xuất bản, bản điện tử, tr 80">15</sup> </p>
+<p>Sách Đại Việt sử ký toàn thư của <a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a> chép:</p>
+<dl> <dd><i>Đang khi đôi bên quân nam và quân bắc đang cầm cự nhau thì Đặng Dung bí mật dùng bộ binh và tượng binh mai phục, đúng nửa đêm thì bất ngờ đánh úp vào doanh trại của (Trương) Phụ. (Đặng) Dung đã nhảy lên thuyền của (Trương) Phụ và định bắt sống (Trương) Phụ nhưng lại không biết mặt để có thể nhận ra hắn, vì thế, (Trương) Phụ liền nhảy sang thuyền nhỏ chạy thoát. Quân Minh bị tan vỡ đến quá nữa, thuyền bè, khí giới bị đốt phá gần hết, thế mà (Nguyễn) Súy không biết hợp lực để cùng đánh. (Trương) Phụ biết quân của (Đặng) Dung ít nên lập tức quay lại đánh. (Đặng) dung đành phải chịu thất bại, quân sĩ chạy tan tác hết</i><sup class="annotation badge" title="^ Đại Việt sử ký toàn thư (Bản kỉ toàn thư, quyển 9, tờ 22-b). Khâm Định Việt Sử Thông Giám Cương Mục chép tương tự và kèm theo lời bình là: Trời nuông tha trương Phụ (Chính biên, quyển 12, tờ 39).">16</sup> .</dd> </dl>
+<p><a class="annotation" href="/nhan-vat/nguyen-khac-thuan" title="Nguyễn Khắc Thuần là nhà sử học, là một giảng viên đại học ở Việt Nam (hiện là trưởng khoa Việt Nam học Đại học Bình Dương) và là tác giả của nhiều bộ sách lịch sử, văn hóa. Ông có hai bộ sách được công nhận kỷ lục Guinness Việt Nam năm 2011...." target="_blank" >Nguyễn Khắc Thuần</a> kể tiếp:</p>
+<dl> <dd><i>Tháng 11 năm 1413, Đặng Dung cùng <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> bị <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> bắt sống khi đang tìm đường tạm lánh sang Xiêm La để tính kế lâu dài. Vì liên tục lớn tiếng chửi mắng nên <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a> đã bị <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> hạ lệnh giết ngay. Còn Đặng Dung cùng <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a>, <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> và một số tướng lãnh khác bị áp giải về Yên Kinh (Trung Quốc). Dọc đường, <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a> nhảy xuống biển tự tử, Đặng Dung cũng lập tức nhảy xuống chết theo.</i><sup class="annotation badge" title="^ Sách đã dẫn, tr. 236">17</sup> </dd> </dl>
+<p><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> cũng cho biết tương tự:</p>
+<dl> <dd><i>Từ khi thua trận ấy rồi, Trần Quý Khoách thế yếu quá không thể chống với quân giặc được nữa, phải vào ẩn núp ở trong rừng núi. Chẳng được bao lâu <a class="annotation" href="/nhan-vat/tran-quy-khoang" title="Trùng Quang Đế (chữ Hán: 重光帝,&amp;#160;? – 1414) là vị vua thứ hai của triều Hậu Trần trong lịch sử Việt Nam. Ông có tên huý là Trần Quý Khoáng hay Trần Quý Khoách (陳季擴), sinh tại kinh đô Thăng Long, Hà Nội, Việt Nam. Thời gian ở ngôi của Trùng Quang Đế là thời kỳ chống sự đô hộ của nhà Minh sau khi nướ..." target="_blank" >Trần Quý Khoáng</a>, <a class="annotation" href="/nhan-vat/nguyen-canh-di" title="Nguyễn Cảnh Dị (chữ Hán: 阮景異,&amp;#160;? – 1414) là một trong những danh tướng của nhà Hậu Trần chống giặc nhà Minh. Quê ông ở làng Ngọc Sơn, huyện Thanh Chương, tỉnh Nghệ An...." target="_blank" >Nguyễn Cảnh Dị</a>, Đặng Dung, <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a> đều bị bắt, và phải giải về Yên Kinh cả. Đi đến giữa đường, Quý Khoách nhảy xuống bể tự tử, bọn ông Đặng Dung cũng tử tiết cả. Ông Đặng Dung có làm bài thơ Thuật hoài, mà ngày nay còn có nhiều người vẫn truyền tụng.</i></dd> <dd><i>Cha con ông Đặng Dung đều hết lòng giúp nước phò vua, tuy không thành công được, nhưng cái lòng trung liệt của nhà họ Đặng cũng đủ làm cho người đời sau tưởng nhớ đến, bởi vậy hiện nay còn có đền thờ ở <a class="annotation" href="/dia-danh/huyen-can-loc" title="..." target="_blank" >huyện Can Lộc</a>, <a class="annotation" href="/dia-danh/tinh-ha-tinh" title="Hà Tĩnh là một tỉnh của Việt Nam, nằm ở khu vực Bắc Trung Bộ. Trước đây, Hà Tĩnh cùng với Nghệ An là một miền đất có cùng tên chung là Hoan Châu (thời Bắc thuộc), Nghệ An châu (thời Lý, Trần), xứ Nghệ (năm 1490, đời vua Lê Thánh Tông), rồi trấn Nghệ An. Năm 1831, vua Minh Mạng chia trấn Nghệ An thàn..." target="_blank" >tỉnh Hà Tĩnh</a>...<sup class="annotation badge" title="^ Việt Nam sử lược, Nhà xuất bản Tân Việt, Sài Gòn, tr. 197.">18</sup> </i></dd> </dl>
+<p>Theo Minh Thực lục, thì:</p>
+<dl> <dd><i>Quan Tổng binh Anh quốc công <a class="annotation" href="/nhan-vat/truong-phu" title="Trương Phụ (tiếng Trung Quốc: 張輔, 1375 – 1449), tự Văn Bật (文弼), là một tướng lĩnh, đại thần của nhà Minh từ đời Minh Thành Tổ Chu Đệ đến đời Minh Anh Tông Chu Kì Trấn...." target="_blank" >Trương Phụ</a> mang quân đến trang Tra Hoàng, huyện Chính Hoà, châu Chính Bình (Quảng Bình); tướng giặc là Hồ Đồng hàng. Nghe tin bọn Đặng Cảnh Dị, Đặng Dung, Long Hổ Tướng quân nguỵ Lê Thiềm hơn 700 tên chạy đến sách Côn Bồ, Tiêm Man; bọn Phụ tiến binh ngay đến sông La Mông. Phải theo đường núi vin cành lá mà leo lên nên đành bỏ ngựa, tướng sĩ tiếp tục đi theo. Đến sách Côn Bồ, bọn Cảnh Dị đã bỏ trốn; lại truy kích đến sách Tra Bồ Nại, bọn giặc và dân địa phương đều trốn, không biết ở chốn nào, nên làm cuộc lục soát lớn. Vào canh tư, đi trên 20 dặm, nghe tiếng trống điểm canh, Phụ sai Đô Chỉ huy Phương Chính mang quân lẳng lặng đi, đến lúc trời sáng đến phía bắc sông, tại sách Tra Bồ Cán. Giặc lập trại tại bờ phía nam, quan quân vượt sông vây đánh. Giặc chống không nổi, tên bắn liên tiếp trúng, Cảnh Dị bị thương tại sườn, bắt được. Đặng Dung trốn, Phương Chính mang quân truy lùng, bị bắt cùng với em là Đặng Nhuệ. Bắt hết bọn giặc Lê Thiềm, tịch thu ấn nguỵ của Cảnh Dị. Cảnh Dị bị thương nặng, bị róc thịt lấy thủ cấp, áp giải cùng anh em Đặng Dung đến kinh đô; tất cả đều bị xử chém để làm răn.</i> (Minh Thực Lục quyển 13, tr. 1727-1728; Thái Tông quyển 147, tr. 2a-3b)</dd> </dl>
+<a name="nhan-dinh"></a><h2>Nhận định</h2>
+<p><a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a> bàn rằng:</p>
+<p>Sử thần <a class="annotation" href="/nhan-vat/ngo-si-lien" title="Ngô Sĩ Liên (chữ Hán: 吳士連) (khoảng đầu thế kỷ 15 -&amp;#160;?) là một nhà sử học thời Lê sơ, sống vào thế kỷ 15. Ông là người đã tham gia khởi nghĩa Lam Sơn và có công lớn trong việc biên soạn bộ Đại Việt sử ký toàn thư - bộ quốc sử chính thống cũ nhất của Việt Nam mà còn được lưu truyền tới ngày nay...." target="_blank" >Ngô Sĩ Liên</a> nói: <i>Trận đánh ở Sái Già, Đặng Dung, <a class="annotation" href="/nhan-vat/nguyen-suy" title="Nguyễn Suý (阮帥,&amp;#160;?-1414) là tướng nhà Hậu Trần trong lịch sử Việt Nam. Sử sách không chép rõ về quê quán của ông...." target="_blank" >Nguyễn Súy</a>, đem tàn quân trơ trọi chống lại bọn giặc mạnh, quân tướng đều tinh nhuệ. Dung nửa đêm đánh úp doanh trại giặc làm cho tướng giặc sợ hãi chạy trốn, đốt hết thuyền bè, khí giới của chúng, không phải người thực sự có tài làm tướng, thì có làm được như thế hay không?. Thế nhưng cuối cùng vẫn bại vong, đó là do trời. Tuy thất bại, cũng vẫn vinh quang, vì sao vậy?. Bọn Dung vì nghĩa không thể cùng sống với giặc, phải tiêu diệt bọn chúng mớ nghe, cho nên mới hết lòng, hết sức giúp đỡ [23a] Trùng Quang để mưu khôi phục. Trong khoảng 5 năm, kiên trì chiến đấu với giặc, dẫu có bất lợi, nhưng ý chí không núng, khí thế càng hăng, đến kiệt sức mơí chịu thôi. Lòng trung vì nước của người bề tôi, dẫu trăm đời sau vẫn còn tưởng thấy được! Ngày xưa <a class="annotation" href="/dia-danh/nuoc-lo" title="Lỗ quốc (Phồn thể: 魯國, giản thể: 鲁国) là tên gọi một quốc gia chư hầu thời nhà Chu trong thời kỳ Xuân Thu và Chiến Quốc. Lãnh thổ của nó chủ yếu nằm ở phía nam núi Thái Sơn, ở khu vực trung tâm và miền tây nam của tỉnh Sơn Đông ngày nay cùng một phần các tỉnh An Huy, Hà Nam và Giang Tô. 
+ Quốc gia nà..." target="_blank" >nước Lỗ</a> đánh nhau với <a class="annotation" href="/dia-danh/nuoc-te" title="Tề quốc (Phồn thể: 齊國; giản thể: 齐国) là tên gọi của một quốc gia chư hầu của nhà Chu từ thời kì Xuân Thu đến tận thời kì Tần Thủy Hoàng thống nhất Trung Hoa. Lãnh thổ của quốc gia này hiện tương ứng với đại bộ phận tỉnh Sơn Đông. 
+ Đất nước này khởi đầu từ Khương Tử Nha, khai quốc công thần giúp Chu..." target="_blank" >nước Tề</a> ở đất Can Thì bị thất bại, thánh nhân không vì thua mà kiêng né, lại chép rõ để nêu niềm vinh quang chiến đấu với kẻ thù, chứ không bàn đến việc thành bại. Thế thì trận đánh ở Sái Già, quân Minh bị tan vỡ một nửa, quân ta đến khi sức kiệt mới chịu thua cũng vinh quang lắm thay!</i></p>
+<a name="con-cai"></a><h2>Con cái</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="Tongdohodang.jpg" src="/images/wiki/dang-dung/97cca0cc0fd1d9c7d8d69444db094196.jpg" /> <div class="caption"> <div class="magnify"></div> </div> </div> </div>
+<ul> <li>Đặng Nghi (lập nghiệp tại Chúc Sơn, Chương Đức)</li> <li>Đặng Địch Quả (Giám sinh Quốc tử giám, về sống tại lại Tả Thiên lộc)</li> <li>Đặng Di (lập nghiệp tại Sơn Vi, Mao Phổ thuộc <a class="annotation" href="/dia-danh/tinh-phu-tho" title="Phú Thọ là tỉnh thuộc vùng đông bắc Việt Nam. Phía bắc giáp tỉnh Tuyên Quang và Yên Bái, phía đông giáp tỉnh Vĩnh Phúc và thành phố Hà Nội, phía tây giáp tỉnh Sơn La, phía nam giáp tỉnh Hòa Bình. Phú Thọ là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội. 
+ Thành phố Việt Trì là trung tâm hành chính, ki..." target="_blank" >tỉnh Phú Thọ</a> ngày nay), cha của <a class="annotation" href="/nhan-vat/dang-minh-khiem" title="Đặng Minh Khiêm (鄧鳴謙, 1456?-1522?), tự Trinh Dự, hiệu Thoát Hiên; là danh thần và là danh sĩ Việt Nam thời Lê sơ...." target="_blank" >Đặng Minh Khiêm</a>.</li> <li>Đặng Công Thiếp (đỗ Hoàng giáp<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy. (ngày 6 tháng 1 năm 2013)">cần dẫn nguồn</span></i>]</sup>, di cư đến Sơn Đông, huyện Lập Thạch)</li> </ul>
+<a name="hau-due-noi-tieng"></a><h2>Hậu duệ nổi tiếng</h2>
+<ul> <li>Tiến sĩ, Thượng thư <a class="annotation" href="/nhan-vat/dang-minh-khiem" title="Đặng Minh Khiêm (鄧鳴謙, 1456?-1522?), tự Trinh Dự, hiệu Thoát Hiên; là danh thần và là danh sĩ Việt Nam thời Lê sơ...." target="_blank" >Đặng Minh Khiêm</a> (1457-?) <sup class="annotation badge" title="^ a ă â b Thông tin của 5 vị trên đây căn cứ theo Đặng Tộc Đại Tông Phả do Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, Nguyễn Văn Thành dịch, Nhà xuất bản Văn hóa Thông tin 2002.">19</sup> </li> <li>Thám hoa <a class="annotation" href="/nhan-vat/dang-thi-tho" title="Đặng Thì Thố (chữ Hán: 鄧時措, 1526 –&amp;#160;?) là trạng nguyên thứ 40 của Việt Nam. Ông là hậu duệ của Quốc công Đặng Tất, quê làng An Lạc (còn gọi là làng Thạc), huyện Thanh Lâm (nay thuộc xã An Châu, thành phố Hải Dương). Hiện nay, ở các xã An Châu, Nam Trung và Nam Chính (Nam Sách) vẫn còn gia phả gh..." target="_blank" >Đặng Thì Thố</a></li> <li>Hoàng giáp Đặng Chiêm <sup class="annotation badge" title="^ a ă â b Thông tin của 5 vị trên đây căn cứ theo Đặng Tộc Đại Tông Phả do Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, Nguyễn Văn Thành dịch, Nhà xuất bản Văn hóa Thông tin 2002.">19</sup> </li> <li>Thái úy, Nghĩa Quốc Công <a class="annotation" href="/nhan-vat/dang-huan" title="Đặng Huấn (?-1583) là đại thần có công giúp nhà Lê trung hưng thời chiến tranh Lê-Mạc trong lịch sử Việt Nam...." target="_blank" >Đặng Huấn</a> (?-1583) <sup class="annotation badge" title="^ a ă â b Thông tin của 5 vị trên đây căn cứ theo Đặng Tộc Đại Tông Phả do Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, Nguyễn Văn Thành dịch, Nhà xuất bản Văn hóa Thông tin 2002.">19</sup> </li> <li>Tiến sĩ, Quốc lão Đặng Đình Tướng (1649-1735) <sup class="annotation badge" title="^ a ă â b Thông tin của 5 vị trên đây căn cứ theo Đặng Tộc Đại Tông Phả do Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, Nguyễn Văn Thành dịch, Nhà xuất bản Văn hóa Thông tin 2002.">19</sup> </li> <li>Đặng Lương Mô<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy. (ngày 6 tháng 1 năm 2013)">cần dẫn nguồn</span></i>]</sup> (có hơn 300 công trình khoa học công công bố ở Mỹ, Nhật...hiện là Trưởng ban khuyến học họ Đặng)</li> <li>Đặng Đình Áng<sup class="noprint Inline-Template Template-Fact" >[<i><span title="Tuyên bố này cần tham khảo đến các nguồn đáng tin cậy. (ngày 6 tháng 1 năm 2013)">cần dẫn nguồn</span></i>]</sup></li> <li>Tổng bí thư Trường Chinh</li> <li>Giáo sư Bộ trưởng bộ Giáo dục Đặng Thai Mai</li> </ul>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li><i>Khâm định Việt sử Thông giám cương mục</i></li> <li><i>Đại Việt Sử ký Toàn thư</i></li> <li>Việt Nam sử lược, soạn giả <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, Nhà xuất bản Tân Việt, 1919.</li> <li>Việt sử tiêu án, soạn giả <a class="annotation" href="/nhan-vat/ngo-thi-si" title="Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được Phan Huy Chú đánh giá là người có &quot;học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở..." target="_blank" >Ngô Thì Sĩ</a>, Nhà xuất bản Văn sử, 1991.</li> <li><i>Danh nhân Bình Trị Thiên</i>, Nhiều tác giả, Nhà xuất bản Thuận Hoá, 1986</li> <li><i>Đặng Tộc Đại Tông Phả</i>, Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, <a class="annotation" href="/nhan-vat/nguyen-van-thanh" title="Nguyễn Văn Thành (chữ Hán: 阮文誠; 1758 – 1817), là một trong những vị khai quốc công thần của triều Nguyễn đồng thời là một trong những người có công lớn nhất trong việc đưa Nguyễn Phúc Ánh lên ngôi, trở thành vị vua đầu tiên (vua Gia Long) của triều Nguyễn - triều đại quân chủ cuối cùng của Việt Nam ..." target="_blank" >Nguyễn Văn Thành</a> giới thiệu, Nhà xuất bản Văn hóa Thông tin 2002</li> <li><i>Họ Đặng "Nam bang vượng tộc" thời Lý đến thời Lê</i>, <a class="annotation" href="/nhan-vat/nguyen-van-thanh" title="Nguyễn Văn Thành (chữ Hán: 阮文誠; 1758 – 1817), là một trong những vị khai quốc công thần của triều Nguyễn đồng thời là một trong những người có công lớn nhất trong việc đưa Nguyễn Phúc Ánh lên ngôi, trở thành vị vua đầu tiên (vua Gia Long) của triều Nguyễn - triều đại quân chủ cuối cùng của Việt Nam ..." target="_blank" >Nguyễn Văn Thành</a>, Phó Giám đốc Trung tâm nghiên cứu và ứng dụng phả học Việt Nam</li> <li><i>Danh nhân lịch sử <a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a> - Đặng Dung</i>, Đặng Huy Phúc, Nhà xuất bản trẻ, 2005</li> </ul>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Nhà Hậu Trần</li> <li><a class="annotation" href="/nhan-vat/dang-tat" title="Đặng Tất (chữ Hán: 鄧悉；1357 -1409) quê ở Hà Tĩnh, làm chức châu phán Hóa châu dưới triều nhà Hồ. Nhà Minh xâm chiếm Đại Ngu, họ Hồ thất bại, người Chiêm tiến quân chiếm lại đất cũ Thăng Hoa, Đặng Tất xin với Trương Phụ cho mình cai quản Hóa châu. Trương Phụ cho Đặng Tất làm Đại tri châu Hóa châu, ngư..." target="_blank" >Đặng Tất</a></li> <li>Cảm hoài, bài thơ duy nhất còn lại của Đặng Dung.</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-NV-1"><b>^</b> <span class="reference-text">Ghi theo <i>Ngữ văn 10</i> (nâng cao), Nhà xuất bản Giáo dục, 2007, tr. 157.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Chép theo Cao Xuân Dục, <i>Đại Nam dư địa chí ước biên</i>. Nhà xuất bản Văn học, 2003, tr. 233.</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, <a class="annotation" href="/nhan-vat/nguyen-van-thanh" title="Nguyễn Văn Thành (chữ Hán: 阮文誠; 1758 – 1817), là một trong những vị khai quốc công thần của triều Nguyễn đồng thời là một trong những người có công lớn nhất trong việc đưa Nguyễn Phúc Ánh lên ngôi, trở thành vị vua đầu tiên (vua Gia Long) của triều Nguyễn - triều đại quân chủ cuối cùng của Việt Nam ..." target="_blank" >Nguyễn Văn Thành</a> dịch, Nhà xuất bản Văn hóa Thông tin 2002.</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Đặng Huy Phúc, sách đã dẫn, tr 47 - 49</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục; Nhà xuất bản giáo dục Hà Nội, 1998; bản điện tử, tr 312</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục; Nhà xuất bản giáo dục Hà Nội, 1998; bản điện tử, tr 337</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Theo <i>Đại Nam nhất thống chí</i>, đã dẫn trên.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">này là La Sơn, thuộc <a class="annotation" href="/dia-danh/tinh-ha-tinh" title="Hà Tĩnh là một tỉnh của Việt Nam, nằm ở khu vực Bắc Trung Bộ. Trước đây, Hà Tĩnh cùng với Nghệ An là một miền đất có cùng tên chung là Hoan Châu (thời Bắc thuộc), Nghệ An châu (thời Lý, Trần), xứ Nghệ (năm 1490, đời vua Lê Thánh Tông), rồi trấn Nghệ An. Năm 1831, vua Minh Mạng chia trấn Nghệ An thàn..." target="_blank" >tỉnh Hà Tĩnh</a></span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 341, 342</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Tên huyện, tức làng Đa Cương xưa, mộ tổ <a class="annotation" href="/nhan-vat/nha-tran" title="Nhà Trần hoặc Trần triều (Hán-Nôm: 家陳 ・陳朝, nhà Trần &amp;#160;•  Trần triều) là triều đại quân chủ chuyên chế trong lịch sử Việt Nam, bắt đầu khi Trần Cảnh lên ngôi vào năm 1225, sau khi được Lý Chiêu Hoàng truyền ngôi. Những năm đầu tiên, Trần Cảnh còn nhỏ tuổi, toàn bộ quyền hành của nhà Trần đều do m..." target="_blank" >nhà Trần</a> ở đấy, cho nên gọi là Ngự Thiên; <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> theo gọi tên ấy; nay đổi là Hưng Nhân thuộc <a class="annotation" href="/dia-danh/tinh-hung-yen" title="Hưng Yên là một tỉnh nằm ở trung tâm đồng bằng sông Hồng Việt Nam. Trung tâm hành chính của tỉnh là thành phố Hưng Yên nằm cách thủ đô Hà Nội 64&amp;#160;km về phía đông nam, cách thành phố Hải Dương 50&amp;#160;km về phía tây nam. Phía bắc giáp tỉnh Bắc Ninh, phía đông giáp tỉnh Hải Dương, phía tây và tây ..." target="_blank" >tỉnh Hưng Yên</a>.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 343</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Việt sử tiêu án, Nhà xuất bản văn sử, 1991, bản điện tử, trang 116</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 346</span></li> <li id="cite_note-N.E1.BB.99i_1998-14">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Khâm định Việt sử thông giám cương mục, Nhà xuất bản giáo dục Hà Nội, 1998, bản điện tử, trang 346, 347</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Việt Nam sử lược, Trung tâm học liệu xuất bản, bản điện tử, tr 80</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text"><i>Đại Việt sử ký toàn thư</i> (Bản kỉ toàn thư, quyển 9, tờ 22-b). <i>Khâm Định Việt Sử Thông Giám Cương Mục</i> chép tương tự và kèm theo lời bình là: <i>Trời nuông tha trương Phụ</i> (Chính biên, quyển 12, tờ 39).</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Sách đã dẫn, tr. 236</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">Việt Nam sử lược, Nhà xuất bản Tân Việt, Sài Gòn, tr. 197.</span></li> <li id="cite_note-T.C3.B4ng_Ph.E1.BA.A3.27_1683-19">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Thông tin của 5 vị trên đây căn cứ theo <i>Đặng Tộc Đại Tông Phả</i> do Yến Quận công Đặng Tiến Thự viết năm 1683, Tiến sĩ Ứng Quận công Đặng Đình Tướng tục biên năm 1686, Thái Nhạc Quận công Đặng Sĩ Hàn tiếp tục tục biên năm 1745, <a class="annotation" href="/nhan-vat/nguyen-van-thanh" title="Nguyễn Văn Thành (chữ Hán: 阮文誠; 1758 – 1817), là một trong những vị khai quốc công thần của triều Nguyễn đồng thời là một trong những người có công lớn nhất trong việc đưa Nguyễn Phúc Ánh lên ngôi, trở thành vị vua đầu tiên (vua Gia Long) của triều Nguyễn - triều đại quân chủ cuối cùng của Việt Nam ..." target="_blank" >Nguyễn Văn Thành</a> dịch, Nhà xuất bản Văn hóa Thông tin 2002.</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/dang-dinh-sieu" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Đặng Dĩnh Siêu            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/dang-huan" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Đặng Huấn            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/dang-dung" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

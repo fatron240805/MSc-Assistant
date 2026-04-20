@@ -1,0 +1,1459 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Hoàng Văn Thụ (1909 - 1944) là nhà lãnh đạo cao cấp của Trung ương Đảng Cộng sản Đông Dương, người có đóng góp lớn vào phong trào cách mạng Việt Nam và là nhà thơ cách mạng Việt Nam trước Cách mạng tháng Tám năm 1945....">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Hoàng Văn Thụ - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"087697d644e87bb955f696f7cdd39a78"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Hoàng Văn Thụ" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Hoàng Văn Thụ (1909 - 1944) là nhà lãnh đạo cao cấp của Trung ương Đảng Cộng sản Đông Dương, người có đóng góp lớn.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/hoang-van-thu" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/hoang-van-thu/7a89afa54334c102880fe454e4f6af76.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Hoàng Văn Thụ", "item": "https://nguoikesu.com/nhan-vat/hoang-van-thu" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/hoang-van-thu" }, "headline": "Hoàng Văn Thụ", "description": "Hoàng Văn Thụ (1909 - 1944) là nhà lãnh đạo cao cấp của Trung ương Đảng Cộng sản Đông Dương, người có đóng góp lớn vào phong trào cách mạng Việt Nam và là nhà thơ cách mạng Việt Nam trước Cách mạng tháng Tám năm 1945.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/hoang-van-thu/7a89afa54334c102880fe454e4f6af76.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/hoang-van-thu" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-21T23:28:07+07:00", "dateCreated": "2017-11-21T23:28:07+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Hoàng Văn Thụ</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Hoàng Văn Thụ        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-1"><a href="#thoat-ly-theo-cach-mang" title="">Thoát ly theo cách mạng</a></li>
+<li class="level-1"><a href="#gay-dung-co-so-trong-nuoc-tu-nuoc-ngoai" title="">Gây dựng cơ sở trong nước từ nước ngoài</a></li>
+<li class="level-1"><a href="#bi-thu-xu-uy-bac-ky" title="">Bí thư Xứ ủy Bắc Kỳ</a></li>
+<li class="level-1"><a href="#trong-lao-nguc" title="">Trong lao ngục</a></li>
+<li class="level-1"><a href="#ra-phap-truong" title="">Ra pháp trường</a></li>
+<li class="level-1"><a href="#doi-tu" title="">Đời tư</a></li>
+<li class="level-1"><a href="#nha-tho-cach-mang" title="">Nhà thơ cách mạng</a></li>
+<li class="level-2"><a href="#doan-tuyet" title="">Đoạn tuyệt</a></li>
+<li class="level-2"><a href="#nhan-ban" title="">Nhắn bạn</a></li>
+<li class="level-1"><a href="#tuong-nho" title="">Tưởng nhớ</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/hoang-van-thu/7a89afa54334c102880fe454e4f6af76.jpg" /> <div class="caption"> <div class="magnify"></div> Chân dung Hoàng Văn Thụ tại Hỏa Lò Hà Nội</div> </div> </div>
+<p><b>Hoàng Văn Thụ</b> (1909 - 1944) là nhà lãnh đạo cao cấp của Trung ương Đảng Cộng sản Đông Dương, người có đóng góp lớn vào phong trào cách mạng Việt Nam và là nhà thơ cách mạng Việt Nam trước Cách mạng tháng Tám năm 1945.</p>
+<p></p>
+<p></p>
+<a name="tieu-su"></a><h2>Tiểu sử</h2>
+<p>Hoàng Văn Thụ là người dân tộc Tày, sinh ngày 4 tháng 11 năm 1909 tại xóm Phạc Lạng, xã Nhân Lý, châu Điềm He, huyện Văn Uyên (nay thuộc xã Hoàng Văn Thụ, huyện Văn Lãng) <a class="annotation" href="/dia-danh/tinh-lang-son" title="Lạng Sơn còn gọi là xứ Lạng là một tỉnh ở vùng Đông Bắc Việt Nam...." target="_blank" >tỉnh Lạng Sơn</a>, Việt Nam. Về xuất thân của ông, các tài liệu ghi khác nhau. Theo Ban nghiên cứu lịch sử Đảng Cộng sản Việt Nam, ông sinh ra trong <i>gia đình nông dân</i>, cha ông là ông giáo làng tên Hoàng Khải Lan. Tuy nhiên theo một số tài liệu khác<sup class="annotation badge" title="^ Tác giả Đặng Việt Bích trong bài &quot;Nhân cách ngọc nát còn hơn ngói lành&quot; trên tạp chí Văn hoá nghệ thuật Việt Nam; sách giáo khoa Văn học lớp 9 phổ thông (hệ 11 năm cũ) những năm 1980">1</sup> , ông <i>"ra đời trong một gia đình quan lại, cha là tri phủ"</i>.</p>
+<p>Một số tài liệu ghi ông còn có tên là <b>Hoàng Đình Hưng</b>.</p>
+<a name="thoat-ly-theo-cach-mang"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Thoát ly theo cách mạng</h2>
+<p>Theo tài liệu của Ban nghiên cứu lịch sử Đảng Cộng sản Việt Nam, Hoàng Văn Thụ đã được học cả chữ Hán và chữ quốc ngữ từ nhỏ. Năm 14 tuổi (1920), sau học đậu sơ học yếu lược<sup class="annotation badge" title="^ Tương đương lớp 3 tiểu học hiện nay">2</sup>  ông ra <a class="annotation" href="/dia-danh/thi-xa-lang-son" title="Thành phố Lạng Sơn là tỉnh lỵ của tỉnh Lạng Sơn, có diện tích khoảng 79 km². Thành phố nằm bên quốc lộ 1A, cách thủ đô Hà Nội 150&amp;#160;km; cách biên giới Việt Nam - Trung Quốc 18&amp;#160;km; cách Hữu Nghị quan 15 km và Đồng Đăng 13&amp;#160;km về phía đông bắc. Dân số của thành phố năm 2009 là 87.278 người..." target="_blank" >thị xã Lạng Sơn</a> học tiếp.</p>
+<p>Tại đây, Hoàng Văn Thụ đã gặp và kết bạn với Hoàng Đình Giong và Lương Văn Tri, những người trở thành bạn hoạt động cách mạng của ông sau này.</p>
+<p>Năm 1926, sau lễ truy điệu nhà yêu nước Phan Chu Trinh, ông đã cùng Lương Văn Tri thành lập nhóm thanh niên yêu nước ở Lạng Sơn. Cuối năm 1927, ông cùng Lương Văn Tri sang Bản Đáy (Quảng Tây, Trung Quốc) là nơi Việt Nam Thanh niên Cách mạng Đồng chí Hội đang tổ chức các lớp huấn luyện chính trị. Nhưng khi ông vừa tới nơi thì bị đặc vụ vây bắt. Ông chạy thoát về Long Châu, trải qua nhiều khó khăn gian khổ để kiếm sống và hoạt động, có lần phải đóng làm người "bán thuốc cao" và thậm chí phải đi xin ăn, nhưng ông vẫn không nản chí, vẫn luôn tận tụy không ngừng với phong trào Cách mạng.</p>
+<a name="gay-dung-co-so-trong-nuoc-tu-nuoc-ngoai"></a><h2>Gây dựng cơ sở trong nước từ nước ngoài</h2>
+<p>Năm 1930, ông được người quen giới thiệu vào học thợ và làm việc tại xưởng cơ khí Nam Hưng, một xí nghiệp do một số nhà cách mạng Việt Nam lập ra, làm cơ sở liên lạc, nơi hội họp đồng thời là cơ sở hoạt động kinh tế để lấy kinh phí hoạt động. Tại đây Chi bộ Đông Dương cộng sản đảng gồm ba người: Hoàng Văn Thụ, Hoàng Đình Roong và Hoàng Vĩnh Tuy đã được thành lập, Hoàng Đình Roong làm bí thư chi bộ. Từ chi bộ ba người đã trở thành Ban liên tỉnh ủy Cao - Lạng. Hoàng Văn Thụ được phân công phụ trách Lạng Sơn. Ông rời xưởng Nam Hưng về Long Châu, gây dựng cơ sở ở Lũng Nghìu làm nơi liên lạc với những người cách mạng ở Việt Nam.</p>
+<p>Năm 1930, ông gây dựng được 3 tổ quần chúng tại các xóm Ma Mèo, Tà Lài (huyện Văn Uyên), tới năm 1931 mở rộng ra các địa phương Khơ Đa, Na Sầm, Đồng Đăng, Kỳ Lừa, Thất Khê và tới năm 1932 mở rộng tới xã Nhân Lý quê ông. Khi vận động được người nào, ông thường tập hợp tại hang Áng Cúm (gần Lũng Nghìu) để huấn luyện rồi giao nhiệm vụ trở về phát triển tổ chức trong nước.</p>
+<p>Nhận chỉ thị của Quốc tế Cộng sản, năm 1932, <a class="annotation" href="/nhan-vat/le-hong-phong" title="Lê Hồng Phong (1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, Nguyễn Thị Minh Khai, cũng là một yếu nhân của Đảng trong thời kỳ đầu...." target="_blank" >Lê Hồng Phong</a> về nước hoạt động. Về tới Long châu, <a class="annotation" href="/nhan-vat/le-hong-phong" title="Lê Hồng Phong (1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, Nguyễn Thị Minh Khai, cũng là một yếu nhân của Đảng trong thời kỳ đầu...." target="_blank" >Lê Hồng Phong</a> bắt liên lạc với Ban liên lạc tỉnh uỷ Cao - Lạng và đã gặp ông. Ông được <a class="annotation" href="/nhan-vat/le-hong-phong" title="Lê Hồng Phong (1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, Nguyễn Thị Minh Khai, cũng là một yếu nhân của Đảng trong thời kỳ đầu...." target="_blank" >Lê Hồng Phong</a> giúp đỡ học tập chủ nghĩa Marx – Lenin và làm trợ bút cho tờ báo Châu Giang để học thêm tiếng Hán. Nhờ vốn tiếng Hán, ông đã tiếp cận với nhiều trước tác của Mao Trạch Đông. Từ khi Ban chỉ huy hải ngoại thành lập, ông trở thành người giúp việc tích cực của ban này và chắp nối với các cơ sở trong nước.</p>
+<p>Cuối năm 1934, Hoàng Văn Thụ cùng các đảng viên trong Ban liên tỉnh uỷ lâm thời họp và được đề cử đại biểu đi dự đại hội đại biểu toàn quốc của Đảng cộng sản Đông Dương. Năm 1935, sau khi dự đại hội, ông được cử về nước hoạt động.</p>
+<a name="bi-thu-xu-uy-bac-ky"></a><h2>Bí thư Xứ ủy Bắc Kỳ</h2>
+<p>Hoàng Văn Thụ trở về Việt Bắc làm chủ bút báo "Tranh đấu" ở miền thượng du. Sau đó ông gây dựng cơ sở đảng ở Vũ Nhai, Bắc Sơn. Chi bộ ghép được thành lập, trong đó có Chu Văn Tấn và Nông Văn Cún là những người chỉ huy khởi nghĩa Bắc Sơn sau này.</p>
+<p>Thời kỳ 1936-1939, thời kỳ Mặt trận Thống nhất Dân chủ Đông Dương, còn gọi là thời kỳ Bình dân, sau một thời gian sang Trung Quốc để in văn kiện đại hội Đảng gửi về nước, tháng 2 năm 1937, ông về Cao Bằng lãnh đạo phong trào bình dân và viết báo Lao động. Sau đó, vì bị người Pháp theo dõi gắt gao, ông trốn sang <a class="annotation" href="/dia-danh/huong-cang" title="Hồng Kông (tiếng Trung: 香港; Hán-Việt: Hương Cảng), là một Đặc khu hành chính thuộc Trung Quốc, nằm trên bờ biển Đông Nam của Trung Quốc.. Hồng Kông là một trong hai đặc khu hành chính của Cộng hòa Nhân dân Trung Hoa (đặc khu hành chính còn lại là Ma Cao). Lãnh thổ này, gồm hơn 260 hòn đảo, nằm về ph..." target="_blank" >Hương Cảng</a>.</p>
+<p>Giữa năm 1938, ông được <a class="annotation" href="/nhan-vat/le-hong-phong" title="Lê Hồng Phong (1902–1942) là một nhà hoạt động cách mạng Việt Nam. Ông là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương từ năm 1935 đến năm 1936. Vợ ông, Nguyễn Thị Minh Khai, cũng là một yếu nhân của Đảng trong thời kỳ đầu...." target="_blank" >Lê Hồng Phong</a> giao nhiệm vụ về gặp Xứ ủy Bắc Kỳ tại Hà Nội để truyền đạt chủ trương thành lập Mặt trận Dân chủ chống phát xít ở Đông Dương. Sau đó Hoàng Văn Thụ được bầu vào Ban thường vụ Xứ ủy Bắc Kỳ, cùng với Trường Chinh và <a class="annotation" href="/nhan-vat/hoang-quoc-viet" title="Hoàng Quốc Việt (1905–1992) là một chính khách, đảm nhiệm các vai trò Bí thư Tổng bộ Việt Minh, Chủ tịch Tổng Công đoàn Việt Nam, Viện trưởng Viện Kiểm sát Nhân dân Tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bí thư Xứ ủy Bắc Kỳ...." target="_blank" >Hoàng Quốc Việt</a>, Bí thư Liên xứ ủy Bắc Trung kỳ giai đoạn này là Hoàng Văn Nọn tức Hoàng Tú Hữu<sup class="annotation badge" title="^ Bí danh Tú Hưu, người Tày, quê ở Cao Bằng, người được đi họp Đại hội III Quốc tế cộng sản tại Maxcơva năm 1935 và được gặp Nguyễn Ái Quốc">3</sup> . Sau đó ông lại được cử ra Hòn Gai, Uông Bí để củng cố cơ sở Đảng.</p>
+<p>Đầu năm 1939, ông dự hội nghị Xứ ủy mở rộng do Tổng bí thư Nguyễn Văn Cừ triệu tập ở Vạn Phúc (Hà Đông) và được cử làm Bí thư Xứ ủy Bắc Kỳ. Thời gian hoạt động ở Hà Đông, cơ quan Xứ uỷ bị người Pháp theo dõi, khủng bố ráo riết. Để tránh bị lộ, ông thường xuyên phải cải trang và di chuyển, đi ở nhờ trong nhiều nhà dân và vận động được nhiều người tham gia, ủng hộ cách mạng. Nhiều người biết đến ông với những cái tên như "<b>đồng chí Bảy</b>", "<b>anh Lý</b>".</p>
+<p>Ngoài công việc Xứ ủy, ông còn được giao trực tiếp phụ trách Thành ủy Hà Nội. Do bị nội phản, Thành ủy luôn bị phá. Từ năm 1939 đến 1943, ông đã 10 lần khôi phục lại Thành ủy Hà Nội.</p>
+<p>Tháng 11 năm 1940, tại Hội nghị Trung ương Đảng cộng sản Đông Dương lần thứ 7 diễn ra tại làng Đình Bảng, Từ Sơn, Bắc Ninh, ông cùng Trường Chinh và <a class="annotation" href="/nhan-vat/hoang-quoc-viet" title="Hoàng Quốc Việt (1905–1992) là một chính khách, đảm nhiệm các vai trò Bí thư Tổng bộ Việt Minh, Chủ tịch Tổng Công đoàn Việt Nam, Viện trưởng Viện Kiểm sát Nhân dân Tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bí thư Xứ ủy Bắc Kỳ...." target="_blank" >Hoàng Quốc Việt</a> được bầu là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khoá I, Trường Chinh làm quyền Tổng Bí thư.</p>
+<p>Chiến tranh thế giới thứ hai nổ ra, thực dân Pháp ở Đông Dương tăng cường đàn áp. Hàng ngàn đảng viên đảng Cộng sản bị bắt giam. Đảng Cộng sản Đông Dương chủ trương rút vào hoạt động bí mật, ông cùng Trường Chinh phải lặn lội đi nhiều tỉnh để chắp nối trong cảnh vô cùng thiếu thốn và gian khổ.</p>
+<p>Phát xít Nhật đem quân tràn vào Đông Dương. Cuộc khởi nghĩa Bắc Sơn nổ ra, dẫn đến việc thành lập Cứu quốc quân do Chu Văn Tấn chỉ huy. Ông cùng Trường Chinh và <a class="annotation" href="/nhan-vat/tran-dang-ninh" title="Trần Đăng Ninh có thể là:..." target="_blank" >Trần Đăng Ninh</a> đã kịp thời lên Lạng Sơn chỉ đạo để <i>Cứu quốc quân</i>, lúc đó chưa đủ mạnh, rút vào bí mật, để bảo toàn lực lượng.</p>
+<p>Đầu năm 1941, ông được cử sang Tịnh Tây (Trung Quốc) dự đại hội đoàn thể cách mạng Việt Nam để bàn việc thống nhất các lực lượng cách mạng trong và ngoài nước. Ông đã gặp <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a> và nhận trách nhiệm cùng Tỉnh ủy Cao Bằng đón <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a> về nước.</p>
+<p>Sau đó ông nhận lệnh của Trường Chinh sang Quảng Tây đón <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a>, nhưng chuyến đi đó chưa đón được. Tháng 4 năm 1941, <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a> từ Vân Nam qua Quảng Tây về Cao Bằng, ở tại hang Pắc Pó, nơi có dòng suối mà tiếng địa phương gọi là <i>Khuổi Nậm</i>. Hoàng Văn Thụ cùng Trường Chinh, <a class="annotation" href="/nhan-vat/hoang-quoc-viet" title="Hoàng Quốc Việt (1905–1992) là một chính khách, đảm nhiệm các vai trò Bí thư Tổng bộ Việt Minh, Chủ tịch Tổng Công đoàn Việt Nam, Viện trưởng Viện Kiểm sát Nhân dân Tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Bí thư Xứ ủy Bắc Kỳ...." target="_blank" >Hoàng Quốc Việt</a>, Chu Văn Tấn từ Việt Nam sang Long Châu (Quảng Tây, Trung Quốc) rồi đi vòng về Cao Bằng. Tại Pắc Bó, tháng 5 năm 1941, ông cùng đoàn đại biểu Xứ ủy Bắc Kỳ dự Hội nghị Trung ương lần thứ VIII và được cử vào Ban thường vụ Trung ương Đảng. Đại hội thành lập Việt Nam cách mạng đồng minh (Việt Minh) đã cử ông vào Lâm thời Tổng bộ Việt Minh. Ông được phân công là Thường vụ trung ương phụ trách binh vận.</p>
+<p>Mặt trận Việt Minh ra đời, phong trào chống Pháp-Nhật lên cao. Đảng Cộng sản Đông Dương một mặt xây dựng căn cứ ở Việt Bắc, mặt khác đẩy mạnh phong trào ở các tỉnh. Ban Thường vụ đặt cơ quan bí mật ngay tại quận 5 Hà Nội. Hoàng Văn Thụ thường cùng ở với Tổng bí thư Trường Chinh. Ông tích cực hoạt động binh vận (vận động binh lính địch) ở Hà Nội. Trong khi đang vận động các binh lính, do bị chỉ điểm, ông bị bắt tháng 8 năm 1943 tại ngõ Nam Diệm khu Tám Mái<sup class="annotation badge" title="^ Nay là phường Tương Mai, Hà Nội">4</sup> .</p>
+<a name="trong-lao-nguc"></a><h2>Trong lao ngục</h2>
+<p>Tại nhà tù Hỏa Lò nơi giam giữ và tra tấn những nhà cách mạng lớn của đất nước, Hoàng Văn Thụ đã trải qua những ngày cuối của cuộc đời Cách mạng cùng rất nhiều chí sĩ nổi tiếng như: <a class="annotation" href="/nhan-vat/tran-dang-ninh" title="Trần Đăng Ninh có thể là:..." target="_blank" >Trần Đăng Ninh</a>, <a class="annotation" href="/nhan-vat/do-muoi" title="Đỗ Mười (sinh ngày 2 tháng 2 năm 1917), tên thật là Nguyễn Duy Cống. Ông nguyên là Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam từ tháng 6 năm 1991 đến tháng 12 năm 1997, Chủ tịch Hội đồng Bộ trưởng thứ ba của nước Cộng hòa Xã hội chủ nghĩa Việt Nam từ tháng 6 năm 1988 đến tháng 7 năm..." target="_blank" >Đỗ Mười</a>, Lê Tất Đắc, Tô Quang Đẩu, Tạ Quốc Bảo, Bùi Lâm, Đào Duy Kỳ, Đồng Khắc Thọ, Hoàng Ngân v.v..</p>
+<p>Trong nhà lao thực dân Pháp, ông truyền thụ nhiều lý luận cách mạng và nêu cao tinh thần bất khuất cho các đồng đội trong ngục. Ông mở cuộc tranh luận với các thủ lĩnh Đảng Đại Việt làm họ thấy chủ trương đúng đắn của Mặt trận dân tộc thống nhất chống Pháp - Nhật do Đảng Cộng sản Đông Dương lãnh đạo. Ông tranh thủ cảm hoá các giám ngục, binh lính trông tù, nhiều người trong tù rất kính phục ông.</p>
+<p>Biết trước mình sẽ bị xử bắn, ông thường nhường những đồ ăn ít ỏi của mình cho bạn tù và nói: "<i>Các anh ăn đi để còn lấy sức chiến đấu, tôi bây giờ ăn vào cũng chỉ nuôi cây thôi</i>". Nhiều người cảm động trước tấm lòng của ông. Mặc dù vậy tất nhiên không ai nỡ nhận của ông. (Hồi ký Tạ Quốc Bảo)</p>
+<p>Hoàng Văn Thụ bị nhiều trận tra tấn rất nặng. Theo tài liệu của Ban nghiên cứu lịch sử Đảng Cộng sản Việt Nam, ông bị hơn 20 trận tra tấn, nhiều trận kéo dài từ 9 giờ đêm tới 3 giờ sáng. Tuy nhiên, thực dân Pháp không thể khuất phục được ông. Trong thời gian chịu đòn tra tấn, ông vẫn ôn tồn thuyết phục, tuyên truyền cho sự hợp tác giữa những người Pháp và người Đông Dương trong việc chống lại phát xít Nhật.</p>
+<p>Tháng 1 năm 1944, ông bị kết án tử hình. Việc Bí thư Xứ ủy Bắc Kỳ Hoàng Văn Thụ bị xử bắn đã tác động rất lớn đến phong trào đấu tranh Cách mạng lúc bấy giờ.</p>
+<a name="ra-phap-truong"></a><h2>Ra pháp trường</h2>
+<p>Sáng ngày 25 tháng 4 năm 1944, thực dân Pháp mang ông ra xử bắn. Ông ung dung ra pháp trường Tương Mai. Khi giám thị hỏi ông có cần bịt mắt hay không, ông trả lời không cần.</p>
+<p>Quan toà hỏi ông có cần nói lời cuối cùng, ông nói:</p>
+<dl> <dd><i>"Trong cuộc đấu tranh sinh tử, giữa chúng tôi, những người mất nước và các ông, những kẻ cướp nước, sự hy sinh của những người như tôi là một sự dĩ nhiên. Chỉ biết rằng cuối cùng chúng tôi sẽ chiến thắng"</i></dd> </dl>
+<p>Cha cố hỏi ông có cần rửa tội hay không, ông đáp:</p>
+<dl> <dd><i>"Cảm ơn ông, tôi không có tội gì. Nếu yêu nước, cứu nước là có tội thì những người Pháp hiện giờ đang đấu tranh chống phát xít Đức bên nước ông đều là có tội cả. Ông hãy về hỏi xem họ có tội không?"</i></dd> </dl>
+<p>Viên giám thị thấy vậy đã nói: <i>"Thật là một người cộng sản gang thép"</i></p>
+<p>Hoàng Văn Thụ bị tử hình lúc 6 giờ sáng. Năm đó ông 35 tuổi.</p>
+<a name="doi-tu"></a><h2>Đời tư</h2>
+<p>Đời tư của ông được các tài liệu ghi không thực sự thống nhất, do xuất thân của ông cũng được các tài liệu xác nhận khác nhau. Bài thơ <i>Đoạn tuyệt</i> của ông (xem bên dưới), có ý kiến cho rằng là bức thư trả lời cha ruột làm tri phủ cộng tác với Pháp; lại có ý kiến cho rằng bài thơ đó trả lời cha vợ là đội Hiển, còn cha ruột ông chỉ là nông dân.</p>
+<p>Một số tài liệu ghi ông sinh năm 1909. Tuy nhiên, hồi ký của <a class="annotation" href="/nhan-vat/tran-dang-ninh" title="Trần Đăng Ninh có thể là:..." target="_blank" >Trần Đăng Ninh</a>, người cùng bị tù Hỏa Lò với ông khi đó, mang tựa đề <i>"Những ngày cuối cùng của anh Hoàng Văn Thụ"</i> (ban hành năm 1959), đã có đoạn khẳng định lời nói của ông với tác giả năm 1944 trong nhà lao Hỏa Lò: <i>"Năm nay tôi 38 tuổi..."</i>. Như vậy ông sinh năm 1906.</p>
+<p>Một số tài liệu, trong đó có tài liệu của Ban nghiên cứu lịch sử Đảng <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a> (ban hành năm 1964) nói rằng giữa ông và bà Hoàng Ngân, một lãnh tụ của phong trào phụ nữ Việt Nam, ngoài tình đồng chí còn có tình yêu. Cũng theo nhiều tài liệu khác trước lúc Hoàng Văn Thụ và Hoàng Ngân bị bắt vào nhà giam Hỏa Lò gia đình ông bà đã tổ chức lễ đính hôn, rất lâu sau khi ông mất bà Hoàng Ngân vẫn luôn nhận mình là vợ của Hoàng Văn Thụ.</p>
+<a name="nha-tho-cach-mang"></a><h2>Nhà thơ cách mạng</h2>
+<p>Hoàng Văn Thụ sáng tác nhiều bài thơ cách mạng bằng cả tiếng Tày, tiếng Nùng, tiếng Sli lẫn tiếng Việt, đều mang đậm truyền thống thi ca cổ điển dân tộc, vừa mang tính thi ngôn chí, nói lên ý chí tác gia cách mạng.</p>
+<a name="doan-tuyet"></a><h3>Đoạn tuyệt</h3>
+<p>Theo một số nguồn tài liệu,trước khi Hoàng Văn Thụ đi hoạt động cách mạng,ông đã được cha mẹ gả cưới cho cô gái người dân tộc tên Nông Thị Bay là con gái ông đội Hiển võ quan sơ cấp của Pháp, ông Hiển đã nhiều lần viết thư dụ ông về hợp tác với Pháp, nên ông đã viết bài thơ <b>Đoạn tuyệt</b> nổi tiếng để trả lời năm 1940:</p>
+<dl> <dd><i>Đọc mấy lời trong thư cha dụ dỗ</i></dd> <dd><i>Dòng lệ con hoen ố mảnh nhung y</i></dd> <dd><i>Nhớ ngày nào con cất bước ra đi</i></dd> <dd><i>Trong trí dũng con ghi đầy kiêu hãnh!</i></dd> </dl>
+<dl> <dd><i>Kìa lưỡi kiếm máu quân thù còn dính</i></dd> <dd><i>Mà anh hùng tim lạnh bả hư vinh</i></dd> <dd><i>Trong phong ba vùng vẫy bóng ngạc kình</i></dd> <dd><i>Tham mồi béo nên nộp mình cho ngư phủ</i></dd> <dd><i>Chốn rừng xanh tung hoành con mãnh hổ</i></dd> <dd><i>Ham mồi ngon nên ủ rũ chốn chuồng con!</i></dd> <dd><i>Bả vinh hoa làm mờ mịt cả tâm hồn</i></dd> <dd><i>Nào lay chuyển lòng son dạ sắt!</i></dd> </dl>
+<dl> <dd><i>Núi Hồng Lĩnh còn mịt mù u uất</i></dd> <dd><i>Dòng Nhị Hà còn chứa chất hờn căm</i><sup class="annotation badge" title="^ Có dị bản ghi: &quot;Mây lững lờ mịt mù, mù uất; Sông Bạch Đằng còn chứa chất căm hờn&quot;">5</sup> </dd> <dd><i>Thì đời con là của cả giang sơn</i></dd> <dd><i>Dù giá rét mưa đông chi xá kể</i></dd> </dl>
+<dl> <dd><i>Trong những lúc cha vui vầy vị kỷ</i></dd> <dd><i>Là những khi con rền rĩ khóc non sông</i></dd> <dd><i>Đêm canh trường cha nệm ấm chăn bông</i></dd> <dd><i>Chốn rừng thẳm con nằm chông nếm mật</i></dd> <dd><i>Cha hít thở những hương trầm thơm ngát</i></dd> <dd><i>Pha những mùi máu thịt của lê dân</i></dd> <dd><i>Thì mũi con đang ngạt thở, cổ khô khan</i></dd> <dd><i>Tai vọng tiếng hờn oan bao thảm cảnh</i></dd> <dd><i>Trên ngực cha đầy mề đay, kim khánh</i></dd> <dd><i>Bên sườn con lấp lánh kiếm tiêm cừu</i></dd> <dd><i>Cha say mê bên thiếu nữ yêu kiều</i></dd> <dd><i>Con tận tuỵ với tình yêu tổ quốc</i></dd> </dl>
+<dl> <dd><i>Cha thì đem tài năng và trí óc</i></dd> <dd><i>Mưu vinh thân là mục đích cuối cùng</i></dd> <dd><i>Thì con đang mang xương trắng máu hồng</i></dd> <dd><i>Để cứu vớt non sông là ý nguyện</i></dd> <dd><i>Cha với con đã là hai trận tuyến</i></dd> <dd><i>Cha một đường, con tiến một đường</i></dd> <dd><i>Thôi từ nay hai chữ cương thường</i></dd> <dd><i>Con giữ trọn để thờ chung đất nước</i></dd> </dl>
+<dl> <dd><i>Buổi đoàn tụ thôi cha đừng mong ước</i></dd> <dd><i>Cuộc hội đàm dùng đại bác với thần công!</i></dd> <dd><i>Bức thư đây là bức thư cuối cùng</i></dd> <dd><i>Cha cũng chỉ là cha trong dĩ vãng</i></dd> <dd><i>Thôi hạ bút cho tâm tình gián đoạn</i></dd> <dd><i>Để loài người kết án kẻ gian phi</i></dd> <dd><i>Lưỡi gươm thần tuốt sẵn để chờ khi...</i></dd> </dl>
+<p>Một dị bản khác được ghi lại:</p>
+<dl> <dd><i>Đọc mấy lời trong bức thư cha dụ</i></dd> <dd><i>Dòng lệ con hoen ố mảnh nhung y</i></dd> <dd><i>Nhớ ngày nào ôm chí lớn ra đi</i></dd> <dd><i>Trong ký ức ghi nhiều điều kiêu hãnh</i></dd> <dd><i>Kìa mũi kiếm máu kẻ thù con dính</i></dd> <dd><i>Mà anh hùng tim lạnh bởi mơ vinh</i></dd> <dd><i>Chốn phong ba vùng vẫy bóng ngư kình</i></dd> <dd><i>Tham mồi béo nộp mình cho ngư phủ</i></dd> <dd><i>Nơi rừng thiêng tung hoành con mãnh thú</i></dd> <dd><i>Tham mồi ngon ủ rũ chốn chuồng con</i></dd> <dd><i>Bả vinh hoa làm mất cả tâm hồn</i></dd> <dd><i>Nhưng nào chuyển được lòng son dạ sắt</i></dd> </dl>
+<dl> <dd><i>Núi Hồng Lĩnh còn mịt mù u uất</i></dd> <dd><i>Sông Nhị Hà con chất chứa căm hờn</i></dd> <dd><i>Thì đời con là của cả giang sơn</i></dd> <dd><i>Mà bão táp mưa đơn đâu sá kể</i></dd> </dl>
+<dl> <dd><i>Nào những lúc cha vui vầy vị kỷ</i></dd> <dd><i>Là khi con rầu rĩ khóc non sông</i></dd> <dd><i>Đêm canh trường cha nệm ấm chăn êm</i></dd> <dd><i>Nơi hố thẳm con nằm gai nếm mật</i></dd> <dd><i>Cha hít thở hương trầm bay bát ngát</i></dd> <dd><i>Pha lẫn mùi máu mắt của lương dân</i></dd> <dd><i>Thì mũi con nghẹt thở cổ khô khan</i></dd> <dd><i>Tai vẳng tiếng kêu than trong thảm cảnh</i></dd> <dd><i>Cha trước ngực mề đay kim khánh</i></dd> <dd><i>Con bên mình lấp lánh kiếm tiên cừu</i></dd> <dd><i>Cha say sưa bên thiếu nữ yêu kiều</i></dd> <dd><i>Con tận tụy với tình yêu tổ quốc</i></dd> </dl>
+<dl> <dd><i>Nghĩa là cha đem tài năng và trí óc</i></dd> <dd><i>Mơ vinh thân là mục đích sau cùng</i></dd> <dd><i>Thì con đem xương trắng với máu hồng</i></dd> <dd><i>Ra cứu giúp non sông là chí nguyện</i></dd> <dd><i>Cha và con thế là hai trận tuyến</i></dd> <dd><i>Cha một đường và con ở một đường</i></dd> <dd><i>Thôi từ nay hai chữ can thường</i></dd> <dd><i>Con... để thờ dân giúp nước</i> (quên mất câu này)</dd> <dd><i>Buổi đoàn viên xin cha đừng mong ước</i></dd> <dd><i>Cuộc hội đàm xin để lúc thành công</i></dd> <dd><i>Bức thư đây là bức sau cùng</i></dd> <dd><i>Mà cha chỉ là cha trong dĩ vãng</i></dd> <dd><i>Thôi hạ bút cho thâm tình gián đoạn</i></dd> <dd><i>Để cho người kết án thế gian phê</i></dd> <dd><i>Lưỡi gươm thù con tuốt để sẵn chờ...</i></dd> </dl>
+<a name="nhan-ban"></a><h3>Nhắn bạn</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/hoang-van-thu/3cf3b1ef363e54302963d383997ad9af.jpg" /> <div class="caption"> <div class="magnify"></div> Hoàng Ngân, Hoàng Văn Thụ và bài thơ "Nhắn Bạn"</div> </div> </div>
+<p>Trước khi bị xử bắn, Hoàng Văn Thụ đã viết một bài thơ tuyệt mệnh gửi nhắn tới bà Hoàng Ngân, nằm ở sà lim cạnh phòng ông. Đó là bài thơ <b>Nhắn bạn</b> bất hủ:</p>
+<dl> <dd><i>Việc nước xưa nay có bại thành,</i></dd> <dd><i>Miễn sao giữ trọn được thanh danh,</i></dd> <dd><i>Phục thù, chí lớn không hề nản,</i></dd> <dd><i>Ngọc nát còn hơn giữ ngói lành.</i></dd> <dd><i>Thân dẫu lao tù lâm cảnh hiểm,</i></dd> <dd><i>Chí còn theo dõi buổi tung hoành.</i></dd> <dd><i>Bạn Hỡi gần xa hăng chiến đấu,</i></dd> <dd><i>Trước sau xin giữ tấm lòng thành!</i></dd> </dl>
+<a name="tuong-nho"></a><h2>Tưởng nhớ</h2>
+<p>Tuy thời gian hoạt động cách mạng của ông không dài nhưng có nhiều đóng góp quan trọng trong việc xây dựng và phát triển cơ sở của Trung ương Đảng trước Cách mạng tháng 8 trong thời gian bị chính quyền thực dân khủng bố ác liệt nhất. Chính vì vậy, trên bảng ghi công Tổng khởi nghĩa tháng 8 năm 1945 có tên Hoàng Văn Thụ.</p>
+<p>Hoàng Văn Thụ được chính quyền Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu anh hùng, liệt sĩ. Ban đầu, ông được chôn cất tại pháp trường Tương Mai, sau được đưa về Nghĩa trang Mai Dịch. Tại Tương Mai, chính quyền đã xây dựng một mộ gió và một tượng đài để vinh danh ông.</p>
+<p>Liệt sĩ Hoàng Ngân vợ ông sau khi mất cũng được Nhà nước đưa về bên cạnh ông tại Nghĩa Trang Mai Dịch,Hà Nội.</p>
+<p>Xã Nhân Lý quê hương ông được đổi mang tên ông. Tại Hà Nội có phường Hoàng Văn Thụ thuộc <a class="annotation" href="/dia-danh/quan-hoang-mai" title="Hoàng Mai là một quận phía Nam nội thành thủ đô Hà Nội. Đây là quận có diện tích lớn thứ 4 của thủ đô (sau quận Long Biên, Hà Đông và Bắc Từ Liêm)...." target="_blank" >quận Hoàng Mai</a> và Phố Hoàng Văn Thụ thuộc phường Quán Thánh quận Ba Đình. Nhiều thành phố, trường học ở Việt Nam cũng mang tên ông. Một số nơi còn có khu tưởng niệm và dựng tượng đài ông</p>
+<p>Tại Thành phố Thái Nguyên nơi ông đã từng có những năm tháng hoạt động cách mạng, cũng có một phường và một con đường to đẹp mang tên ông.</p>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Tác giả Đặng Việt Bích trong bài "Nhân cách ngọc nát còn hơn ngói lành" trên tạp chí Văn hoá nghệ thuật Việt Nam; sách giáo khoa Văn học lớp 9 phổ thông (hệ 11 năm cũ) những năm 1980</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Tương đương lớp 3 tiểu học hiện nay</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Bí danh Tú Hưu, người Tày, quê ở Cao Bằng, người được đi họp Đại hội III Quốc tế cộng sản tại Maxcơva năm 1935 và được gặp <a class="annotation" href="/nhan-vat/nguyen-ai-quoc" title="Hồ Chí Minh (19 tháng 5 năm 1890 – 2 tháng 9 năm 1969) tên khai sinh: Nguyễn Sinh Cung, là nhà cách mạng, người sáng lập Đảng Cộng sản Việt Nam, một trong những người đặt nền móng và lãnh đạo công cuộc đấu tranh giành độc lập, toàn vẹn lãnh thổ cho Việt Nam trong thế kỷ 20, một chiến sĩ cộng sản quố..." target="_blank" >Nguyễn Ái Quốc</a></span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Nay là phường Tương Mai, Hà Nội</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Có dị bản ghi: <i>"Mây lững lờ mịt mù, mù uất; Sông Bạch Đằng còn chứa chất căm hờn"</i></span></li> </ol> </div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li><i>Noi gương những người cộng sản</i> – Ban nghiên cứu lịch sử Đảng trung ương, Nhà xuất bản Thanh niên, 1972</li> <li><i>Những ngày cuối cùng của anh Hoàng Văn Thụ</i> - <a class="annotation" href="/nhan-vat/tran-dang-ninh" title="Trần Đăng Ninh có thể là:..." target="_blank" >Trần Đăng Ninh</a>, <a class="annotation" href="/nhan-vat/tran-do" title="Trần Độ (23 tháng 9 năm 1923&amp;#160;– 9 tháng 8 năm 2002) là nhà quân sự, chính trị gia Việt Nam, và là Trung tướng Quân đội Nhân dân Việt Nam...." target="_blank" >Trần Độ</a>, Sở Văn hoá thông tin Hà Nội, 1959</li> <li><i>Hoàng Văn Thụ người chiến sĩ cộng sản gang thép</i> - Đảng Lao động Việt Nam, Ban chấp hành <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a>, 1964</li> <li><i>Nhắn bạn</i> - Tập thơ cách mạng song ngữ tiếng Nùng - Việt của Hoàng Văn Thụ - Mã Thế Vinh, Dương Thành Chúc sưu tầm và biên soạn, Nhà xuất bản Văn hoá dân tộc, 1997</li> <li><i>Tuổi trẻ Hoàng Văn Thụ</i> - Tô Hoài, Nhà xuất bản Thanh niên 1970,Nhà xuất bản Kim Đồng 2004</li> <li><i>Hoa bất tử</i> - Nguyễn Trường Thanh, Nhà xuất bản Hội Nhà Văn, 2009</li> </ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/hoang-van-thai" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Hoàng Văn Thái            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/hoang-viet" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Hoàng Việt            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/hoang-van-thu" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-thay" class="mod-articles-category-title ">chùa Thầy</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

@@ -1,0 +1,1456 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nhà Triệu (chữ Hán: 趙朝 / Triệu triều) là triều đại duy nhất cai trị nước Nam Việt suốt giai đoạn 207-111 trước Công nguyên. Nguồn gốc của nhà Triệu bắt nguồn từ Triệu Đà, một võ tướng theo lệnh nhà Tần dẫn quân xuống chinh phạt miền nam (khi đó là lãnh thổ của các bộ tộc Bách Việt). Ông chiếm được n...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>nhà Triệu - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"c6fb96199824696a907b2db4807d79f5"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="nhà Triệu" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nhà Triệu (chữ Hán: 趙朝 / Triệu triều) là triều đại duy nhất cai trị nước Nam Việt suốt giai đoạn 207-111 trước C�.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nha-trieu" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nha-trieu/97d5bad4e7236ee0e0a14e9c7fa297e1.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "nhà Triệu", "item": "https://nguoikesu.com/nhan-vat/nha-trieu" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nha-trieu" }, "headline": "nhà Triệu", "description": "Nhà Triệu (chữ Hán: 趙朝 / Triệu triều) là triều đại duy nhất cai trị nước Nam Việt suốt giai đoạn 207-111 trước Công nguyên. Nguồn gốc của nhà Triệu bắt nguồn từ Triệu Đà, một võ tướng theo lệnh nhà Tần dẫn quân xuống chinh phạt miền nam (khi đó là lãnh thổ của các bộ tộc Bách Việt). Ông chiếm được nhiều vùng lãnh thổ (nay là Quảng Đông, Quảng Tây và miền Bắc Việt Nam) nhưng nhà Tần ở Trung Hoa đã diệt vong. Nhận thấy triều đình trung ương đã sụp đổ, Triệu Đà bèn tách ra cát cứ, dùng những lãnh thổ ông chiếm được để lập nên nước Nam Việt. Sau khi nhà Hán làm chủ Trung Hoa, khi về già, Triệu Đà đã quyết định bỏ việc xưng Đế, quy phục nhà Hán (nhưng vẫn xưng Hoàng Đế ở trong Nam Việt). Triệu Đà viết thư gửi cho vua Hán, trong thư Triệu Đà đã công nhận rằng mình là người Trung Hoa, nhà Triệu chỉ là chư hầu phục vụ cho nhà Hán, thay mặt vua Hán để cai trị phía Nam, bản thân ông cũng chỉ coi những thần dân người Việt là đám &quot;Man Di&quot; mà thôi.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nha-trieu/97d5bad4e7236ee0e0a14e9c7fa297e1.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nha-trieu" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-28T18:01:43+07:00", "dateCreated": "2017-10-28T18:01:43+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>nhà Triệu</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            nhà Triệu        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#lich-su" title="">Lịch sử</a></li>
+<li class="level-2"><a href="#tien-ky" title="">Tiền kỳ</a></li>
+<li class="level-2"><a href="#trung-ky" title="">Trung kỳ</a></li>
+<li class="level-2"><a href="#hau-ky" title="">Hậu kỳ</a></li>
+<li class="level-1"><a href="#pho-he" title="">Phổ hệ</a></li>
+<li class="level-1"><a href="#vi-the-lich-su" title="">Vị thế lịch sử</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox geography vcard vevent" > <tr class="mergedtoprow"> <td colspan="3" class="fn org summary" >趙朝</td> </tr> <tr class="mergedbottomrow"> <td colspan="3" class="fn org summary" >Nhà Triệu</td> </tr> <tr> <td colspan="3" >Vương quốc</td> </tr> <tr> <td colspan="3" > <table > <tr> <td ><span >←</span> <img alt="" src="/images/wiki/nha-trieu/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /><br /> &#160;<br /> <span >←</span> <img alt="" src="/images/wiki/nha-trieu/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /><br /></td> <td ><b>207 TCN–111 TCN</b></td> <td ><img alt="" src="/images/wiki/nha-trieu/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /> <span >→</span><br /> &#160;<br /> <img alt="" src="/images/wiki/nha-trieu/1fb203c663d95b1cfb96a706a58115bc.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/45px-3by2white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/3by2white.svg/60px-3by2white.svg.png 2x" data-file-width="3" data-file-height="2" /> <span >→</span><br /></td> </tr> </table> </td> </tr> <tr> <td colspan="3" > <div class="center"> <div class="floatnone"><img alt="" src="/images/wiki/nha-trieu/97d5bad4e7236ee0e0a14e9c7fa297e1.jpg" /></div> </div> <div >Văn đế hành tỉ (文帝行璽).</div> </td> </tr> <tr> <td colspan="2"><b>Thủ đô</b></td> <td >Phiên Ngung</td> </tr> <tr> <td colspan="2"><b>Ngôn ngữ</b></td> <td>Việt ngữ</td> </tr> <tr> <td colspan="2"><b>Tôn giáo</b></td> <td>Đa thần giáo</td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Chính quyền</b></td> <td>Phong kiến</td> </tr> <tr class="mergedrow"> <td colspan="2"><b>Hoàng đế</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >204–137 TCN</td> <td>Vũ đế</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >137–122 TCN</td> <td>Văn đế</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >122–113 TCN</td> <td>Minh đế</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >113–112 TCN</td> <td>Ai đế</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >112–111 TCN</td> <td>Dương đế</td> </tr> <tr class="mergedrow"> <td colspan="2"><b>Thừa tướng</b></td> <td></td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td >124–111 TCN</td> <td>Lữ Gia</td> </tr> <tr class="mergedtoprow"> <td colspan="2"><b>Lịch sử</b></td> <td></td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Chiến tranh Tần-Việt</td> <td >218 TCN</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Khai quốc</td> <td >207 TCN</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Thôn tính Âu Lạc</td> <td >207 TCN</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Thần phục <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> lần I</td> <td >196 TCN</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Xưng đế</td> <td >183 TCN</td> </tr> <tr class="mergedrow"> <td >&#160;•&#160;</td> <td >Thần phục <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> lần II</td> <td >179 TCN</td> </tr> <tr class="mergedbottomrow"> <td >&#160;•&#160;</td> <td >Chiến tranh Hán-Việt</td> <td >111 TCN</td> </tr> <tr> <td colspan="2"><b>Tiền tệ</b></td> <td>Tiền xu</td> </tr> <tr> <td colspan="2"><b>Hiện nay là một phần của</b></td> <td><span class="flagicon"><img alt="" src="/images/wiki/nha-trieu/f1e70f8e4b749f3e26479308e3f2496b.png" />&#160;</span>Trung Quốc<br /> <img alt="Cộng hòa xã hội chủ nghĩa Việt Nam" src="/images/wiki/nha-trieu/f015bbd8d34e4f28933ca79adf565f31.png" /> Việt Nam<br /> <span class="flagicon"><img alt="" src="/images/wiki/nha-trieu/0ece03d49566c157685ffc3e7f584de2.png" />&#160;</span>Lào</td> </tr> </table></div>
+<p><b>Nhà Triệu</b> (chữ Hán: 趙朝 / <b>Triệu triều</b>) là triều đại duy nhất cai trị nước Nam Việt suốt giai đoạn 207-111 trước Công nguyên.</p>
+<p>Nguồn gốc của nhà Triệu bắt nguồn từ <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a>, một võ tướng theo lệnh <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> dẫn quân xuống chinh phạt miền nam (khi đó là lãnh thổ của các bộ tộc Bách Việt). Ông chiếm được nhiều vùng lãnh thổ (nay là Quảng Đông, Quảng Tây và miền Bắc Việt Nam) nhưng <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> ở Trung Hoa đã diệt vong. Nhận thấy triều đình trung ương đã sụp đổ, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> bèn tách ra cát cứ, dùng những lãnh thổ ông chiếm được để lập nên nước Nam Việt. Sau khi <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> làm chủ Trung Hoa, khi về già, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đã quyết định bỏ việc xưng Đế, quy phục <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> (nhưng vẫn xưng Hoàng Đế ở trong Nam Việt). <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> viết thư gửi cho vua Hán, trong thư <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đã công nhận rằng mình là người Trung Hoa, nhà Triệu chỉ là chư hầu phục vụ cho <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, thay mặt vua Hán để cai trị phía Nam, bản thân ông cũng chỉ coi những thần dân người Việt là đám <i>"Man Di"</i> mà thôi<sup class="annotation badge" title="^ a ă Đại Việt sử ký toàn thư, Quyển 2, Kỷ nhà Triệu">1</sup> .</p>
+<p></p>
+<p></p>
+<a name="lich-su"></a><h2>Lịch sử</h2>
+<p>Toàn bộ về lịch sử nhà Triệu được chép đầu tiên bởi <i>Sử ký</i> <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, được đề cập chủ yếu trong phần <i>Liệt truyện</i>, quyển 113<sup class="annotation badge" title="^ Sima Qian - Records of the Grand Historian, section 113 《史記·南越列傳》">2</sup> : Biên niên sử Nam Việt (南越列傳). Nó lưu lại các thông tin về nước Nam Việt từ thời <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> cho đến khi cáo chung dưới thời Triệu <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a>.</p>
+<p>Nhà Triệu trải 5 đời vua, trong các văn bản gửi <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> thì họ đều xưng là "vương" (tước hiệu dành cho vua chư hầu). Do vậy, các sử gia Trung Hoa đều chỉ coi Nam Việt là phiên thuộc và chép các vua Nam Việt tước "vương", nhưng kết quả khai quật lăng mộ vua Triệu thứ hai cho thấy các ấn chương, văn bản và danh xưng đều là "đế" chứ không phải "vương". Điều đó gây bất ngờ với chính các sử gia Trung Hoa hiện đại<sup class="annotation badge" title="^ a ă â Nguyễn Việt, sách đã dẫn, tr 639">3</sup> . Như vậy, tước vương là tôn hiệu khi giao thiệp với <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, còn đối với các lân quốc khác và nội bộ trong nước thì vua Triệu xưng đế<sup class="annotation badge" title="^ a ă â Nguyễn Việt, sách đã dẫn, tr 639">3</sup> . Tông thất họ Triệu và nhiều lãnh tụ địa phương vẫn có nhiều người được phong vương<sup class="annotation badge" title="^ Đào Duy Anh, sách đã dẫn, tr 457">4</sup> .</p>
+<a name="tien-ky"></a><h3>Tiền kỳ</h3>
+<ul> <li><b>Chiến tranh Tần-Việt</b> (218-206 TCN)</li> </ul>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/d34de708d90d1f1e14fd29e4b74e3454.jpg" /> <div class="caption"> <div class="magnify"></div> Tấm bản đồ bằng lụa ở mộ số 3 Mã Vương Đôi mô tả hai nước Trường Sa và Nam Việt.</div> </div> </div>
+<p>Sau khi Tần Thủy Hoàng thống nhất 6 vương quốc cổ là Hàn, Triệu, Ngụy, Sở, Yên, Tề, ông bắt đầu hướng sự chú ý sang các bộ lạc người Hung Nô ở phía bắc và Bách Việt ở phía nam. Khoảng năm 218 TCN, Tần Thủy Hoàng sai tướng Đồ Thư cùng 500.000 quân Tần chia làm 5 đạo tấn công các bộ lạc Bách Việt ở vùng đất Lĩnh Nam.</p>
+<ul> <li>Đạo thứ nhất hợp binh ở Dư Can (nay là huyện Dư Can, tỉnh Giang Tây) và đánh chiếm Mân Việt lập ra quận Mân Trung.</li> <li>Đạo thứ nhì được tăng cường thêm tại Nam Dã (nay là huyện cấp thị Nam Khang, tỉnh Giang Tây) nhằm buộc các dân tộc Việt ở phía nam phải phòng thủ.</li> <li>Đạo thứ ba đánh chiếm Phiên Ngung.</li> <li>Đạo thứ tư đồn trú gần núi Cửu Nghi (chữ Hán: 九嶷山).</li> <li>Đạo thứ năm đóng bên ngoài Đàm Thành (鐔城, phía tây nam Tĩnh Châu, <a class="annotation" href="/dia-danh/tinh-ho-nam" title="Hồ Nam (tiếng Trung: 湖南; bính âm: Húnán; nghe ) là một tỉnh của Cộng hòa Nhân dân Trung Hoa, nằm ở khu vực trung-nam của quốc gia. Hồ Nam nằm ở phía nam của trung du Trường Giang và phía nam của hồ Động Đình (vì thế mới có tên gọi là Hồ Nam). Hồ Nam có giản xưng là &quot;Tương&quot; (湘), theo tên sông Tương c..." target="_blank" >tỉnh Hồ Nam</a> ngày nay)<sup class="annotation badge" title="^ a ă Lưu An, Hoài Nam tử: quyển 18 - Nhân gian huấn, nguyên tác: 又利越之犀角、象齒、翡翠、珠璣，乃使尉屠睢發卒五十萬，為五軍，一軍塞鐔城之嶺，一軍守九疑之塞，一軍處番禺之都，一軍守南野之界，一軍結餘干之水，三年不解甲弛弩，使監祿無以轉餉，又以卒鑿渠而通糧道，以與越人戰，殺西嘔君譯吁宋。而越人皆入叢薄中，與禽獸處，莫肯為秦虜。相置桀駿以為將，而夜攻秦人，大破之，殺尉屠睢，伏尸流血數十萬。乃發適戍以備之。, Hán-Việt: Hựu lợi Việt chi tê giác, tượng xỉ, phỉ thúy, châu ki, nãi sử úy Đồ Tuy phát tốt 50 vạn, vi 5 quân, nhất quân tái Đàm Thành chi lĩnh, nhất quân thủ Cửu Nghi chi tái, nhất quân xử Phiên Ngu chi đô, nhất quân thủ Nam Dã chi giới, nhất quân kết Dư Can chi thủy, tam niên bất giải giáp thỉ nỗ, sử giám Lộc vô dĩ chuyển hướng, hựu dĩ tốt tạc cừ nhi thông lương đạo, dĩ dữ Việt nhân chiến, sát Tây ẩu quân Dịch Hu Tống. Nhi Việt nhân giai nhập tùng bạc trung, dữ cầm thú xử, mạc khẳng vi Tần lỗ. Tướng trí Kiệt Tuấn dĩ vi tướng, nhi dạ công Tần nhân, đại phá chi, sát úy Đồ Tuy, phục thi lưu huyết sổ thập vạn. Nãi phát thích thú dĩ bị chi.">5</sup> .</li> </ul>
+<p>Tần Thủy Hoàng sai viên quan Sử Lộc (史禄) giám sát việc quân nhu. Đầu tiên Sử Lộc chỉ huy một nhóm quân vượt qua kênh Hưng An (nối liền Tương giang và Li giang), sau đó dùng thuyền vượt <a class="annotation" href="/dia-danh/song-duong-tu" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Dương Tử</a> và sông Châu Giang tìm được con đường an toàn tiếp tế lương thực cho quân Tần. Quân Tần sau đó tấn công Âu Việt, thủ lĩnh của Âu Việt là Dịch Hu Tống (譯吁宋) bị giết. Tuy nhiên, Âu Việt vẫn phản kháng. Họ trốn vào rừng và bầu ra một thủ lĩnh mới là Kiệt Tuấn (桀駿) để tiếp tục chống lại quân Tần. Sau đó một cuộc tấn công vào ban đêm của Âu Việt đã gây thiệt hại nặng cho quân Tần, tướng Đồ Thư bị giết cùng khoảng 10 vạn quân<sup class="annotation badge" title="^ a ă Lưu An, Hoài Nam tử: quyển 18 - Nhân gian huấn, nguyên tác: 又利越之犀角、象齒、翡翠、珠璣，乃使尉屠睢發卒五十萬，為五軍，一軍塞鐔城之嶺，一軍守九疑之塞，一軍處番禺之都，一軍守南野之界，一軍結餘干之水，三年不解甲弛弩，使監祿無以轉餉，又以卒鑿渠而通糧道，以與越人戰，殺西嘔君譯吁宋。而越人皆入叢薄中，與禽獸處，莫肯為秦虜。相置桀駿以為將，而夜攻秦人，大破之，殺尉屠睢，伏尸流血數十萬。乃發適戍以備之。, Hán-Việt: Hựu lợi Việt chi tê giác, tượng xỉ, phỉ thúy, châu ki, nãi sử úy Đồ Tuy phát tốt 50 vạn, vi 5 quân, nhất quân tái Đàm Thành chi lĩnh, nhất quân thủ Cửu Nghi chi tái, nhất quân xử Phiên Ngu chi đô, nhất quân thủ Nam Dã chi giới, nhất quân kết Dư Can chi thủy, tam niên bất giải giáp thỉ nỗ, sử giám Lộc vô dĩ chuyển hướng, hựu dĩ tốt tạc cừ nhi thông lương đạo, dĩ dữ Việt nhân chiến, sát Tây ẩu quân Dịch Hu Tống. Nhi Việt nhân giai nhập tùng bạc trung, dữ cầm thú xử, mạc khẳng vi Tần lỗ. Tướng trí Kiệt Tuấn dĩ vi tướng, nhi dạ công Tần nhân, đại phá chi, sát úy Đồ Tuy, phục thi lưu huyết sổ thập vạn. Nãi phát thích thú dĩ bị chi.">5</sup> . Nhà Tần lại cử Nhâm Ngao làm thống soái thay Đồ Thư. Năm 214 TCN, Nhâm Ngao đem viện quân mở một cuộc tiến công. Lần này Âu Việt bị tê liệt và phần lớn vùng Lĩnh Nam bị sáp nhập vào đất Tần. Cùng năm, <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> lập ra các <a class="annotation" href="/dia-danh/quan-nam-hai" title="Nam Hải quận là tên khu vực hành chính do nhà Tần thiết lập sau khi bình định đất Lĩnh Nam, bao gồm bốn huyện: Phiên Ngung (Phiên Ngu), Tây Hội (Tứ Hội), Bác La, Long Xuyên; có thuyết còn cho là gồm sáu huyện: Phiên Ngung, Tây Hội, Bác La, Long Xuyên, Liệt Giang, Yết Dương. Thủ phủ của Nam Hải quận ..." target="_blank" >quận Nam Hải</a>, Quế Lâm, và Tượng quận. Nhâm Ngao được bổ nhiệm làm Quận úy Nam Hải. Nam Hải được chia thành 4 huyện là Phiên Ngung, Long Xuyên, Bác La và Yết Dương. <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> được bổ nhiệm làm Huyện lệnh Long Xuyên. Tần Thủy Hoàng mất năm 210 TCN, con trai là <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a> lên thay trở thành Tần Nhị Thế. Một năm sau, khởi nghĩa <a class="annotation" href="/nhan-vat/tran-thang" title="Trần Thắng (陳勝;&amp;#160;? - 208 TCN) là thủ lĩnh đầu tiên đứng lên khởi nghĩa chống lại nhà Tần, người khởi đầu cho phong trào lật đổ nhà Tần trong lịch sử Trung Quốc. Ông người Dương Thành, tỉnh Hà Nam, Trung Quốc...." target="_blank" >Trần Thắng</a>, Ngô Quảng nổ ra. Toàn bộ khu vực <a class="annotation" href="/nhan-vat/hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >Hoàng Hà</a> rơi vào hỗn loạn. Các cuộc nổi dậy ngày càng mạnh khiến Tần Nhị Thế phải bãi binh ở Lĩnh Nam. Năm 208 TCN, Quận úy Nam Hải là Nhâm Ngao bị bệnh nặng, khi hấp hối mới gọi <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đến, dặn phải giữ lấy miền Lĩnh Nam mà cát cứ. Vâng lời ông, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> gửi lệnh đến quan quân các cửa ngõ Lĩnh Nam, canh giữ phòng chống quân Trung Nguyên xâm phạm, và nhân dịp đó, giết hết những người còn phò <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> ở Lĩnh Nam, cất đặt lại những người thân tín của mình.</p>
+<ul> <li><b>Vũ đế khai quốc</b> (203-137 TCN)</li> </ul>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/b3f225770c75743ae39d4229a22d0409.jpg" /> <div class="caption"> <div class="magnify"></div> Tượng <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> ở mặt tiền ga Hà Nguyên, <a class="annotation" href="/dia-danh/tinh-quang-dong" title="Tọa độ: 23°24′B 113°30′Đ / 23,4°B 113,5°Đ / 23.4; 113.5 
+ Quảng Đông là một tỉnh nằm ven bờ biển Đông của Cộng hòa Nhân dân Trung Hoa. Quảng Đông đã vượt qua Hà Nam và Tứ Xuyên để trở thành tỉnh đông dân nhất Trung Quốc vào năm 2005, với 79 triệu cư dân thường trú có hộ khẩu và 31 triệu người nhập c..." target="_blank" >tỉnh Quảng Đông</a>, Trung Hoa.</div> </div> </div>
+<p>Năm 206 TCN, <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> sụp đổ, các bộ tộc Bách Việt ở Quế Lâm và Tượng quận trở nên xa rời hơn với Trung Nguyên. Theo truyền thuyết, thủ lĩnh An <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a> ở phía nam đã thành lập vương quốc Âu Lạc (chữ Hán: 甌駱). Theo quan điểm hiện nay của chính phủ Việt Nam, khoảng năm 179 TCN<sup class="annotation badge" title="^ Phan Huy Lê, Trần Quốc Vượng, Hà Văn Tấn, Lương Ninh, sách đã dẫn, tr 144">6</sup> , <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đánh chiếm Âu Lạc<sup class="annotation badge" title="^ Sử ký Tư Mã Thiên, Quyển 113, mục Nam Việt liệt truyện, chép: &quot;佗因此以兵威邊，財物賂遺閩越、西甌駱，役屬焉，東西萬餘里。&quot; (Đà nhân thử dĩ binh uy biên, tài vật lộ di Mân Việt, Tây Âu Lạc, dịch thuộc yên, đông tây vạn dư lý)">7</sup> <sup class="annotation badge" title="^ Sử ký Tư Mã Thiên, Quyển 113, mục Nam Việt liệt truyện, chép: &quot;且南方卑溼，蠻夷中閒，其東閩越千人眾號稱王，其西甌駱裸國亦稱王。&quot; (Thả nam phương ti thấp, Man Di trung gian, kì đông Mân Việt thiên nhân chúng hiệu xưng Vương, kỳ Tây Âu Lạc khỏa quốc diệc xưng Vương)">8</sup>  của An <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a>, chia đất Âu Lạc làm 2 quận Giao Chỉ và Cửu Chân rồi sáp nhập vào Nam Hải, Quế Lâm, Tượng quận. Lãnh địa gồm 5 quận của Nam Việt ổn định cho tới khi nước này bị diệt cùng nhà Triệu.</p>
+<p>Năm 204 TCN, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> lập nước Nam Việt, định đô ở thành Phiên Ngung và tự xưng Nam Việt <a class="annotation" href="/nhan-vat/vu-vuong" title="Vũ Vương (chữ Hán: 武王) hay Võ Vương, là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Vương</a> (chữ Hán: 南越武王), sử quen gọi là <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a>. Ban sơ, lãnh thổ Nam Việt gồm 3 <a class="annotation" href="/dia-danh/quan-nam-hai" title="Nam Hải quận là tên khu vực hành chính do nhà Tần thiết lập sau khi bình định đất Lĩnh Nam, bao gồm bốn huyện: Phiên Ngung (Phiên Ngu), Tây Hội (Tứ Hội), Bác La, Long Xuyên; có thuyết còn cho là gồm sáu huyện: Phiên Ngung, Tây Hội, Bác La, Long Xuyên, Liệt Giang, Yết Dương. Thủ phủ của Nam Hải quận ..." target="_blank" >quận Nam Hải</a> (đại bộ phận tương đương Quảng Đông ngày nay), Quế Lâm (đông bộ Quảng Tây) và Tượng (tây bộ Quảng Tây, nam bộ Quý Châu)<sup class="annotation badge" title="^ Đào Duy Anh, sách đã dẫn, tr 427">9</sup> . Nước Nam Việt phía bắc giáp Mân Việt và phong quốc Trường Sa của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, phía tây giáp Dạ Lang, phía tây nam giáp Âu Lạc, phía đông nam giáp biển.</p>
+<p>Năm 202 TCN, Lưu Bang thống nhất Trung Nguyên và thành lập <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Cuộc chiến của Lưu Bang đã khiến nhiều khu vực của Trung Quốc bị tàn phá nặng nề và dân số suy giảm. Các lãnh chúa phong kiến tiếp tục nổi loạn khắp nơi, trong khi lãnh thổ ở phía bắc thường xuyên bị người Hung Nô tấn công. Tình trạng bất ổn đó buộc triều đình <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> phải cư xử hòa hảo với Nam Việt. Năm 196 TCN, Hán Cao Tổ đã cử Lục Giả (陸賈) đến Nam Việt với hi vọng lấy được sự trung thành của <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a>. Sau khi đến nơi, Lục Giả gặp <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> và được cho là đã thấy <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> đón tiếp ông trong trang phục và phong tục của người Bách Việt. Điều đó khiến cho Lục Giả nổi giận. Lục Giả quở trách <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a>, chỉ ra rằng ông là người Hoa Hạ chứ không phải người Việt, và nên giữ cách ăn mặc cùng lễ nghi của người Trung Nguyên, không được quên truyền thống của tổ tiên mình. Lục Giả ca ngợi sức mạnh của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> và cảnh báo một vương quốc nhỏ như Nam Việt chống lại <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> sẽ là liều lĩnh. Sau khi đe dọa giết thân thích của <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> ở đất Hán và phá hủy mồ mả tổ tiên, cũng như ép buộc dân Bách Việt phế truất ông, <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> đã quyết định nhận con dấu của Hán Cao Tổ và quy phụ <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Quan hệ buôn bán được thiết lập tại biên giới của Nam Việt và phong quốc Trường Sa thuộc Hán. Mặc dù chính thức là một nước chư hầu của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> nhưng Nam Việt dường như không mất đi quyền tự chủ trên thực tế.</p>
+<p>Sau khi Lưu Bang mất năm 195 TCN, quyền lực rơi vào tay Lữ Hậu. Bà sai người đến quê hương của <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> là Chân Định (真定) (nay là huyện Chính Định, tỉnh Hà Bắc, Trung Quốc) giết nhiều họ hàng thân thích và mạo phạm mộ tổ tiên của <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a>. <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> tin rằng Trường Sa vương Ngô Thần đã tạo ra những lời buộc tội dối trá chống lại ông để Lữ Hậu cắt đứt buôn bán giữa hai nước và để chuẩn bị đánh chiếm Nam Việt sáp nhập vào phong quốc Trường Sa của Ngô Thần. Để trả thù, <a class="annotation" href="/nhan-vat/trieu-vu-vuong" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Vương</a> xưng là Hoàng đế (tức Nam Việt <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a>) và đánh chiếm Trường Sa. Lã Hậu cử tướng Chu Táo chỉ huy quân đội để trừng phạt <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a>. Thời tiết nóng ẩm ở phương nam khiến binh sĩ của Chu Táo đổ bệnh, không thể đi tiếp xuống phía nam, rốt cuộc họ phải rút lui. Sau đó <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> dùng của cải vỗ về các vùng phụ cận như Mân Việt ở phía đông và Tây Âu Lạc ở phía nam.</p>
+<p>Năm 179 TCN, Lưu Hằng lên ngôi trở thành Hán Văn Đế. Ông đã đảo ngược nhiều kế sách trước đó của Lã Hậu và tiến hành hòa giải đối với <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a>. Hán Văn Đế ra lệnh cho các quan lại đi kinh lý Chân Định, sai quân canh giữ bảo vệ huyện trấn và thường xuyên chăm lo hương hỏa tổ tiên của <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a>. Thừa tướng <a class="annotation" href="/nhan-vat/tran-binh" title="Trần Bình (giản thể: 陈平; phồn thể: 陳平,&amp;#160;? - 178 TCN), nguyên quán ở làng Hội Dũ, huyện Hương Vũ, là nhân vật chính trị thời Hán Sở và Tây Hán trong lịch sử Trung Quốc, từng giữ chức thừa tướng triều Hán. Ông là người thông minh tuyệt đỉnh, trí tuệ siêu phàm. Người đời sau có câu ví: Bày mưu ngan..." target="_blank" >Trần Bình</a> đề nghị cử Lục Giả đến Nam Việt vì họ đã biết nhau từ trước. Lục Giả đến Phiên Ngung thêm một lần nữa và giao bức thư của Hán Văn Đế cho <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> nhấn mạnh rằng những chính sách của Lã Hậu là nguyên nhân gây ra sự thù địch giữa Nam Việt với triều đình <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> và đem đến nỗi đau khổ cho dân thường ở biên giới. <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> lại quyết định quy phụ <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> lần nữa, rút lại danh xưng Hoàng đế và trở lại xưng Vương, Nam Việt lại trở thành nước chư hầu của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Tuy vậy, hầu như những sự thay đổi đó chỉ là bề ngoài, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> tiếp tục được gọi là Hoàng đế khắp Nam Việt. Ngoài 5 quận (hoặc 4 quận) trực tiếp cai trị, nhà Triệu còn gây ảnh hưởng đến mấy nhóm Bách Việt xung quanh như Đông Âu (Chiết Giang), Mân Việt (Phúc Kiến)<sup class="annotation badge" title="^ a ă â Nguyễn Việt, sách đã dẫn, tr 639">3</sup> .</p>
+<a name="trung-ky"></a><h3>Trung kỳ</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/35aea7c4dc9156edb32d04fd116d6bf9.jpg" /> <div class="caption"> <div class="magnify"></div> Kim ấn của Triệu Văn Đế.</div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/dc1f93de8790397bc939a8ee6d40ae70.jpg" /> <div class="caption"> <div class="magnify"></div> Hổ phù của hoàng đế.</div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/877b6bc3eda113997af66f3749fcffd4.jpg" /> <div class="caption"> <div class="magnify"></div> Ngọc y của Triệu Văn Đế.</div> </div> </div>
+<ul> <li><b>Văn đế trấn quốc</b> (137-125 TCN)</li> </ul>
+<p>Năm 137 TCN, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> mất vì tuổi cao (ước khoảng hơn 100), trưởng nam của ông vốn đã mất từ trước, vì vậy cháu của <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> là Triệu Mạt trở thành vua Nam Việt, tức Triệu Văn Đế.</p>
+<p>Năm 135 TCN, vua Mân Việt sai quân quấy rối vùng giới tuyến với Nam Việt. Triệu Văn Đế vì chưa kịp củng cố thực lực nên buộc phải khẩn cầu Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> gửi viện binh chống lại "<i>những kẻ nổi loạn Mân Việt</i>" như cách ông đề cập. Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> khen Triệu Mạt là một thần tử trung thành và phái Đại hành Vương Khôi, một viên chức cai trị người dân tộc thiểu số, và Đại tư nông Hàn An Quốc chỉ huy quân đội, ra lệnh chia quân thành 2 đạo tấn công Mân Việt từ hai hướng, một từ Dự Chương, hướng khác là từ Cối Kê (nay thuộc Thiệu Hưng). Nhưng trước khi quân Hán đến nơi thì vua Mân Việt là Dĩnh đã bị em trai là Dư Thiện ám sát, sau đó Dư Thiện đã nhanh chóng đầu hàng. Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> sau đó cử sứ giả là Nghiêm Trợ đến Phiên Ngung để trao quốc thư hàng phục của Mân Việt cho Triệu Văn Đế. Triệu Văn Đế tỏ lòng biết ơn đến Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> cùng lời hứa ông sẽ lai kinh triều kiến Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a>. Sau đó, Triệu Văn Đế cử hoàng tử Anh Tề đến Trường An cùng Nghiêm Trợ làm con tin. Trước đây Triệu Văn Đế chưa bao giờ tới Trường An. Một cận thần của ông đã ra sức khuyên không nên đi vì sợ rằng Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> sẽ tìm ra một vài nguyên nhân để ngăn cản ông quay trở về, điều đó sẽ dẫn đến sự diệt vong của nước Nam Việt. Triệu Văn Đế vì vậy đã cáo bệnh và không bao giờ đến Trường An. Ngay sau khi Mân Việt đầu hàng quân Hán, Vương Khôi đã phái Đường Mông, huyện lệnh Phiên Dương, đến để đưa tin Mân Việt đầu hàng cho Triệu Văn Đế. Khi ở Nam Việt, Đường Mông đã được giới thiệu ăn một loại nước chấm truyền thống của Nam Việt được làm từ quả sơn trà mua từ đất Thục. Ngạc nhiên rằng đó là một sản vật sẵn có, và Đường Mông đã được biết rằng có một tuyến đường từ Thục (nay là tỉnh Tứ Xuyên) đi đến Dạ Lang, rồi sau đó dọc theo sông Tang Kha (ngày nay là sông Bắc Bàn chảy qua <a class="annotation" href="/dia-danh/tinh-van-nam" title="Vân Nam (giản thể: 云南; phồn thể: 雲南; bính âm: Yúnnán) là một tỉnh ở phía tây nam của Cộng hòa Nhân dân Trung Hoa, giáp biên giới với Việt Nam. Vân Nam có dân số 44.150.000 người, diện tích 394.100&amp;#160;km². Thủ phủ của tỉnh này là thành phố Côn Minh. Vân Nam là nơi bắt nguồn của sông Hồng và sông Đà..." target="_blank" >tỉnh Vân Nam</a> và Quý Châu) đi thẳng đến kinh đô Phiên Ngung của Nam Việt. Ngay sau đó Đường Mông đã phác thảo một kế hoạch trình lên Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> đề nghị tập hợp 100.000 quân tinh nhuệ tại Dạ Lang, sau đó dùng thuyền vượt sông Tang Kha để mở cuộc tấn công bất ngờ vào Nam Việt. Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> đồng ý với kế hoạch của Đường Mông, phong ông làm Lang Trung tướng và cho phép ông dẫn đầu 1000 quân cùng nhiều quân lương và xe hàng từ hẻm Ba Phù (ngày nay gần huyện Hợp Giang, tỉnh Tứ Xuyên) tiến vào Dạ Lang. Nhiều xe hàng mang theo là quà tặng cho các lãnh chúa phong kiến của Dạ Lang như là quà hối lộ để họ tuyên bố trung thành với <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, điều mà sau đó họ đã làm, và Dạ Lang trở thành quận Kiền Vi của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>.</p>
+<p>Sau hơn một thập kỷ trị vì, Triệu Văn Đế đổ bệnh và qua đời khoảng năm 125 TCN.</p>
+<ul> <li><b>Minh đế hưng quốc</b> (125-113 TCN)</li> </ul>
+<p>Sau khi nghe tin cha đổ bệnh nặng, <a class="annotation" href="/nhan-vat/trieu-anh-te" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Anh Tề</a> nhận được sự chấp thuận từ Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> quay trở về Nam Việt. Sau khi Triệu Văn Đế băng hà, <a class="annotation" href="/nhan-vat/trieu-anh-te" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Anh Tề</a> lên ngôi vua Nam Việt, tức là <a class="annotation" href="/nhan-vat/trieu-minh-vuong" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Minh Vương</a>. Trước khi được phái đến Trường An, <a class="annotation" href="/nhan-vat/trieu-anh-te" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Anh Tề</a> đã kết hôn với một người đàn bà Nam Việt và có một con trai tên là <a class="annotation" href="/nhan-vat/trieu-kien-duc" title="Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam. 
+ Khi còn là Vương tử, tư dinh của ông được đặt tại vị trí nay là ch..." target="_blank" >Triệu Kiến Đức</a>. Trong khoảng thời gian <a class="annotation" href="/nhan-vat/trieu-anh-te" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Anh Tề</a> sống ở Trường An, ông lại cưới một người đàn bà Hàm Đan (có lẽ vì quê hương của <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> cũng ở vùng đó). Họ đã có một con trai tên là <a class="annotation" href="/nhan-vat/trieu-hung" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Hưng</a>. Ông đã chủ động xin Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> lập người vợ Hán thành Vương hậu và <a class="annotation" href="/nhan-vat/trieu-hung" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Hưng</a> thành Thế tử, việc làm này cuối cùng đã mang đến thảm họa cho Nam Việt. Ông mất khoảng năm 113 TCN.</p>
+<a name="hau-ky"></a><h3>Hậu kỳ</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/90091e438d5dc56f3e8445948433b5e0.jpg" /> <div class="caption"> <div class="magnify"></div> Sơ đồ chế độ hành chính...</div> </div> </div>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nha-trieu/43124c6fe3d68e88fb6aa259cd79be03.jpg" /> <div class="caption"> <div class="magnify"></div> ... của nhà Triệu.</div> </div> </div>
+<ul> <li><b>Ai đế vong quốc</b> (113-112 TCN)</li> </ul>
+<p><a class="annotation" href="/nhan-vat/trieu-hung" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Hưng</a> lên ngôi khi mới 5 tuổi, tức <a class="annotation" href="/nhan-vat/trieu-ai-vuong" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Ai Vương</a>, mẹ là Cù thái hậu tham chính. Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> sai sứ giả An Quốc Thiếu Quý, vốn là người tình cũ của Cù thái hậu, sang thuyết phục Nam Việt nội phụ <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Cù thái hậu lại cùng Thiếu Quý tư thông và muốn thuận theo <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, nhưng Thừa tướng người Việt là Lữ Gia phản đối. Năm 112 TCN, Lữ Gia đem quân đánh vào cung, giết chết Cù thái hậu và <a class="annotation" href="/nhan-vat/trieu-ai-vuong" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Ai Vương</a> cùng An Quốc Thiếu Quý, lập anh của <a class="annotation" href="/nhan-vat/trieu-ai-vuong" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Ai Vương</a> là <a class="annotation" href="/nhan-vat/trieu-kien-duc" title="Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam. 
+ Khi còn là Vương tử, tư dinh của ông được đặt tại vị trí nay là ch..." target="_blank" >Triệu Kiến Đức</a> lên ngôi, tức là Triệu Thuật <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a>.</p>
+<ul> <li><b>Dương đế phục quốc</b> (112-111 TCN)</li> </ul>
+<p>Năm 111 TCN, Hán <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> sai <a class="annotation" href="/nhan-vat/duong-boc" title="Dương Bộc (chữ Hán phồn thể: 楊僕; chữ Hán giản thể: 杨仆,&amp;#160;? -&amp;#160;?) là tướng lĩnh thời Tây Hán, người huyện Nghi Dương. 
+ Thời Hán Vũ Đế giữ chức Ngự sử, sau làm Chủ tước đô úy. Năm 112 TCN triều đình bổ nhiệm Bộc làm Lâu thuyền tướng quân suất lĩnh thủy quân, cùng với lục quân của Lộ Bác Đức tấ..." target="_blank" >Dương Bộc</a>, <a class="annotation" href="/dia-danh/lo-bac-duc" title="Lộ Bác Đức (chữ Hán: 路博德,&amp;#160;? -&amp;#160;?) là tướng lĩnh thời Tây Hán, người huyện Bình Châu quận Tây Hà (nay là quận Ly Thạch địa cấp thị Lữ Lương tỉnh Sơn Tây). 
+ Năm 119 TCN, Lộ Bác Đức đi theo tướng quân Hoắc Khứ Bệnh lên phía bắc chinh phạt Hung Nô, lập được chiến công, triều đình phong làm Bi ..." target="_blank" >Lộ Bác Đức</a> đem đại quân sang đánh. Vua Triệu là Thuật <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a> Kiến Đức và Thừa tướng Lữ Gia lần lượt đều bị bắt và bị hại (111 TCN). Dựa trên hệ thống các đền, miếu, đình, chùa thờ Lữ Gia, phu nhân và các tướng lĩnh của ông rải rác trên khắp vùng đồng bằng <a class="annotation" href="/dia-danh/song-hong" title="Sông Hồng có tổng chiều dài là 1,149 km bắt nguồn từ Trung Quốc chảy qua Việt Nam và đổ ra biển Đông. Đoạn chảy trên đất Việt Nam dài 510&amp;#160;km. Đây là dòng sông quan trọng của nền văn hóa lúa nước Việt Nam...." target="_blank" >sông Hồng</a> ở miền Bắc Việt Nam, rất có thể cuộc kháng chiến chống <a class="annotation" href="/nhan-vat/nha-tay-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Tây Hán</a> còn kéo dài đến năm 98 TCN. Sau khi Phiên Ngung thất thủ, Tây Vu Vương (thủ lĩnh đất tự trị Tây Vu với trung tâm là Cổ Loa<sup class="annotation badge" title="^ Viet Nam Social Sciences vol.1-6, tr.91, 2003 &quot;In 111 B.C. there prevailed a historical personage of the name of Tay Vu Vuong who took advantage of troubles circumstances in the early period of Chinese domination to raise his power, and finally was killed by his general assistant, Hoang Dong. Professor Tran Quoc Vuong saw in him the Tay Vu chief having in hands tens of thousands of households, governing thousands miles of land and establishing his center in Co Loa area (59.239). Tay Vu and Tay Au is in fact the same.">10</sup> <sup class="annotation badge" title="^ Bruce M. Lockhart, William J. Duiker The A to Z of Vietnam 2010, tr.357 &quot;Tây Vu, Administrative and territorial term for an ancient district in Vietnam. Located in the lower Red River Delta around the city of Co Loa, not far from present-day Hanoi, Tây Vu became an administrative district during the Au Lac and Nam...">11</sup> ) đã nổi dậy chống lại nguy cơ Bắc thuộc lần 1 trước sự xâm lăng của <a class="annotation" href="/nhan-vat/nha-tay-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Tây Hán</a>.<sup class="annotation badge" title="^ Từ điển bách khoa quân sự Việt Nam, 2004, tr.564 &quot;KHỞI NGHĨA TÂY VU VƯƠNG (lll TCN), khởi nghĩa của người Việt ở Giao Chỉ chống ách đô hộ của nhà Triệu. Khoảng cuối lll TCN, nhân lúc nhà Triệu suy yếu, bị nhà Tây Hán thôn tính, một thủ lĩnh người Việt (gọi là Tây Vu Vương, &quot;">12</sup>  Tả tướng Hoàng Đồng (黄同) của hai quận Giao Chỉ và Cửu Chân đã giết chết Tây Vu Vương đang làm loạn để hàng Hán.<sup class="annotation badge" title="^ Hán thư, Quyển 95, mục Tây Nam Di Lưỡng Việt Triều Tiên truyện, chép: &quot;故甌駱將左黃同斬西于王，封爲下鄜侯&quot; (Cổ Âu Lạc tướng tả Hoàng Đồng trảm Tây Vu vương, phong vi Hạ Phu hầu)">13</sup>  Thương Ngô vương Triệu Quang cùng họ hàng với vua nhà Triệu, nghe tin quân Hán đến, xin hàng, được phong làm Tùy Đào hầu<sup class="annotation badge" title="^ huyện Tùy Đào thuộc quận Nam Dương nhà Hán">14</sup> ; Huyện lệnh huyện Yết Dương là Sử Ðịnh (史定) hàng Hán được phong làm An Đạo hầu<sup class="annotation badge" title="^ huyện An Đạo thuộc quận Nam Dương nhà Hán">15</sup> ; tì tướng nhà Triệu là Tất Thủ (畢取) mang quân ra hàng được phong làm Liêu hầu <sup class="annotation badge" title="^ huyện Liêu thuộc quận Nam Dương nhà Hán">16</sup> ; quan Giám quận Quế Lâm là Cư Ông (居翁) dụ 40 vạn dân 2 quận Giao Chỉ và Cửu Chân ra hàng được phong làm Tương Thành hầu<sup class="annotation badge" title="^ huyện Tương Thành thuộc Đổ Dương nhà Hán">17</sup> . Vậy là các xứ ở Nam Việt đều xin hàng. Nhà Triệu và nước Nam Việt cùng diệt vong sau 97 năm tồn tại, trải 5 đời vua.</p>
+<p><br /></p>
+<a name="pho-he"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Phổ hệ</h2>
+<table class="wikitable table table-striped"> <tr> <th>Quân hiệu</th> <th>Nguyên danh</th> <th>Trị vì</th> </tr> <tr> <td colspan="4" ><b>Nhà Triệu</b><br /> 207 TCN - 111 TCN</td> </tr> <tr> <td><a class="annotation" href="/nhan-vat/vu-vuong" title="Vũ Vương (chữ Hán: 武王) hay Võ Vương, là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Vương</a> (武王, Wǔ Wáng, Mou5 Wong4) <p>hay <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> (武帝, Wǔ Dì, Mou5 Tai3)</p> </td> <td><a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> (趙佗, Zhào Tuó, Ziu6 To4)</td> <td>207 TCN-137 TCN</td> </tr> <tr> <td>Văn Vương (文王, Wén Wáng, Man4 Wong4) <p>hay Văn Đế (文帝, Wén Dì, Man4 Tai3)</p> </td> <td><a class="annotation" href="/nhan-vat/trieu-ho" title="Triệu Văn Đế (趙文帝) hay Triệu Văn Vương (趙文王), húy Triệu Mạt, có khi phiên âm là Triệu Muội (趙眜), còn gọi là Triệu Hồ (趙胡), là vị vua thứ 2 nhà Triệu nước Nam Việt, cháu nội của Triệu Đà, lên ngôi năm 137 TCN...." target="_blank" >Triệu Hồ</a> (趙胡, Zhào Hú, Ziu6 Wu4) hay Triệu Mạt/Muội (趙眜, Zhào Mò, Ziu6 Mut6)</td> <td>137 TCN-124 TCN</td> </tr> <tr> <td>Minh Vương (明王, Míng Wáng, Ming4 Wong4)</td> <td><a class="annotation" href="/nhan-vat/trieu-anh-te" title="Triệu Minh Vương (趙明王), húy Triệu Anh Tề (趙嬰齊) là vị vua thứ ba nhà Triệu nước Nam Việt, ở ngôi từ năm 125 TCN đến 113 TCN...." target="_blank" >Triệu Anh Tề</a> (趙嬰齊, Zhào Yīngqí, Ziu6 Ying1 Cai4)</td> <td>124 TCN-113 TCN</td> </tr> <tr> <td>Ai Vương (哀王, Āi Wáng, Oi1 Wong4)</td> <td><a class="annotation" href="/nhan-vat/trieu-hung" title="Triệu Ai Vương (chữ Hán: 趙哀王; 117 TCN-112 TCN) tên thật là Triệu Hưng (趙興), là vua thứ 4 nhà Triệu nước Nam Việt, trị vì từ năm 113 TCN - 112 TCN, tức chỉ 1 năm. 
+ Triệu Ai Vương là con thứ hai của vua Triệu Minh Vương và Cù hậu - người Hàm Đan (Trung Quốc). Khi lên nối ngôi, Triệu Hưng mới 4 tuổi...." target="_blank" >Triệu Hưng</a> (趙興, Zhào Xīng, Ziu6 Hing1)</td> <td>113 TCN-112 TCN</td> </tr> <tr> <td>Thuật <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a> (陽王, Yáng Wáng, Joeng4 Wong4)?</td> <td><a class="annotation" href="/nhan-vat/trieu-kien-duc" title="Triệu Dương Vương (趙陽王), hay Triệu Thuật Dương Vương (趙術陽王), Triệu Vệ Dương Vương (趙衛陽王), tên họ thật là Triệu Kiến Đức (趙建德), trị vì từ năm 112 TCN - 111 TCN, là vị vua cuối cùng của nhà Triệu nước Nam Việt trong lịch sử Việt Nam. 
+ Khi còn là Vương tử, tư dinh của ông được đặt tại vị trí nay là ch..." target="_blank" >Triệu Kiến Đức</a> (趙建德, Zhào Jiàndé, Ziu6 Gin3 Dak1)</td> <td>112 TCN-111 TCN</td> </tr> </table>
+<a name="vi-the-lich-su"></a><h2>Vị thế lịch sử</h2>
+<dl> <dd><i>Xem Vấn đề chính thống của nhà Triệu.</i></dd> </dl>
+<p>Nhà Triệu được giới sử học Trung Hoa coi là một phiên thuộc của <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, trong khi giới sử học Việt Nam vẫn tranh cãi theo hai luồng quan điểm: Những người đề cao thuyết Thiên mệnh của Nho giáo (cho rằng ngôi vị là do "Trời định", ai xưng đế ở vùng đất nào thì nghiễm nhiên được coi là vua, nắm giữ "Thiên Mệnh" của vùng đất đó, bất kể xuất thân thuộc dân tộc nào) thì sẽ nhìn nhận <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> là vua Việt Nam, đây là cách nhìn của nhiều sử gia Việt Nam thời phong kiến. Ngược lại, những nhà sử học có tư duy biện chứng về quốc gia - dân tộc, coi trọng nguồn gốc xuất thân, tính dân tộc của người cầm đầu chính quyền, bản chất của bộ máy quan lại nước Nam Việt (hầu hết quan lại Nam Việt là người Trung Hoa, còn người Việt là dân bị trị) và không công nhận thuyết "Thiên Mệnh" thì sẽ coi <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> là triều đại xâm chiếm của phương Bắc, đây là cách nhìn của các sử gia thời hiện đại.</p>
+<ul> <li><b>Nhà Triệu là một triều đại Việt Nam</b></li> </ul>
+<p>Nhà Triệu là một triều đại chính thống của Việt Nam được thể hiện qua các sử gia thời phong kiến, từ <a class="annotation" href="/nhan-vat/le-van-huu" title="Lê Văn Hưu (chữ Hán: 黎文休;1230-1322) là một nhà sử học đời nhà Trần, tác giả bộ Đại Việt sử ký, bộ quốc sử đầu tiên của Việt Nam. Bộ sách này không còn nhưng nhờ nó mà sử gia Ngô Sĩ Liên đã dựa vào để soạn bộ Đại Việt sử ký toàn thư...." target="_blank" >Lê Văn Hưu</a> (thế kỷ 13) đến <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> (đầu thế kỷ 20), coi đó là thời kỳ độc lập của Việt Nam, bởi vì họ Triệu cai trị Nam Việt độc lập với <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> cho tới tận năm 111 TCN, khi các đội quân <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> xâm lược đất nước này và sáp nhập nó vào đế chế Hán thành bộ Giao Chỉ. <a class="annotation" href="/nhan-vat/le-van-huu" title="Lê Văn Hưu (chữ Hán: 黎文休;1230-1322) là một nhà sử học đời nhà Trần, tác giả bộ Đại Việt sử ký, bộ quốc sử đầu tiên của Việt Nam. Bộ sách này không còn nhưng nhờ nó mà sử gia Ngô Sĩ Liên đã dựa vào để soạn bộ Đại Việt sử ký toàn thư...." target="_blank" >Lê Văn Hưu</a> đã viết trong <i>Đại Việt sử ký</i>: "<i><a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a> khai thác đất Việt ta mà tự làm đế trong nước, đối ngang với <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, gửi thư xưng là "lão phu", mở đầu cơ nghiệp đế vương cho <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> ta, công ấy có thể nói là to lắm vậy. Người làm vua <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a> sau này nếu biết bắt chước <a class="annotation" href="/nhan-vat/vu-de" title="Vũ Đế (chữ Hán: 武帝) là thụy hiệu của một số vị quân chủ...." target="_blank" >Vũ Đế</a> mà giữ vững bờ cõi, thiết lập việc quân quốc, giao thiệp với láng giềng phải đạo, giữ ngôi bằng nhân, thì gìn giữ bờ cõi được lâu dài, người phương Bắc không thể lại ngấp nghé được</i>".</p>
+<ul> <li><b>Nhà Triệu là một triều đại chiếm đóng đến từ Trung Hoa</b></li> </ul>
+<p>Quan điểm phủ nhận nhà Triệu được khởi xướng từ thế kỷ XVIII bởi học giả <a class="annotation" href="/nhan-vat/ngo-thi-si" title="Ngô Thì Sĩ (tiếng Trung: 吳時仕, 1726 - 1780), tự Thế Lộc, hiệu Ngọ Phong (午峰), đạo hiệu Nhị Thanh cư sĩ; là nhà sử học, nhà văn, nhà thơ nổi tiếng ở thế kỷ 18 tại Việt Nam; được Phan Huy Chú đánh giá là người có &quot;học vấn sâu rộng, văn chương hùng vĩ, làm rạng rỡ cho tông phái nho gia, là một đại gia ở..." target="_blank" >Ngô Thì Sĩ</a>. Trong <i>Việt sử tiêu án</i>, ông khẳng định nước Nam Việt là giặc ngoại xâm, bởi <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> là người Hán và từng là tướng theo lệnh của Tần Thủy Hoàng bành trướng xuống phía Nam:</p>
+<dl> <dd>"<i>An <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a> mất nước, để quốc thống về họ Triệu, chép to 4 chữ: "Kỷ <a class="annotation" href="/nhan-vat/trieu-vu-de" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Vũ Đế</a>". Người đời theo sau đó không biết là việc không phải. Than ôi! Đất Việt Nam Hải, Quế Lâm không phải là đất Việt Giao Chỉ, Cửu Chân, Nhật Nam. <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> khởi phát ở Long Xuyên, lập quốc ở Phiên Ngung, muốn cắt đứt bờ cõi, gồm cả nước ta vào làm thuộc quận, đặt ra giám chủ để cơ mi lấy dân, chứ chưa từng đến ở nước ta. Nếu coi là đã làm vua <a class="annotation" href="/dia-danh/nuoc-viet" title="Nước Việt có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Việt</a>, mà đến ở cai trị nước ta, thì sau đó có Lâm Sĩ Hoằng khởi ở đất Bàn Dương, Hưu Nghiễm khởi ở Quảng Châu, đều xưng là Nam Việt Vương, cũng cho theo Quốc kỷ được ư? <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> kiêm tính Giao Châu, cũng như Ngụy kiêm tính <a class="annotation" href="/dia-danh/nuoc-thuc" title="Tên gọi Thục có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Thục</a>, nếu sử <a class="annotation" href="/dia-danh/nuoc-thuc" title="Tên gọi Thục có thể chỉ đến một trong các khái niệm sau:..." target="_blank" >nước Thục</a> có thể đưa Ngụy tiếp theo Lưu Thiện, thì quốc sử ta cũng có thể đưa Triệu tiếp theo An Dương. Không thế, thì xin theo lệ ngoại thuộc để phân biệt với nội thuộc vậy</i>".</dd> </dl>
+<ul> <li><b>Các tài liệu lịch sử thời nhà Triệu:</b></li> </ul>
+<p>Sau khi tới thủ phủ Long Xuyên nhậm chức, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đã xin Tần Thủy Hoàng di dân 50 vạn người (tương đương số dân Việt thời đó) từ Trung Hoa đến vùng này để đồng hóa người Việt tại đây. Như vậy, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> thực sự muốn cải biến phong tục, tập quán của các bộ tộc Việt theo lối Trung Hoa chứ không hề muốn bảo tồn dân tộc Việt.</p>
+<p>Đến cuối đời, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đã quyết định bỏ danh hiệu Đế, quy phục <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> (nhưng vẫn xưng Hoàng Đế ở trong Nam Việt). <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> viết thư nhờ Lục Giả gửi cho vua Hán, trong thư ông viết:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td >Man Di đại trưởng lão phu, thần Đà, mạo muội đáng chết, hai lạy dâng thư lên Hoàng đế bệ hạ. Lão phu vốn là lại cũ ở đất Việt, Cao Đế ban cho ấn thao làm Nam Việt Vương. Hiếu Huệ Hoàng Đế lên ngôi, vì nghĩa không nỡ tuyệt nên ban cho lão phu rất hậu. Cao Hậu lên coi việc nước lại phân biệt Hoa - Di, ra lệnh không cho Nam Việt những khí cụ làm ruộng bằng sắt và đồng; ngựa, trâu, dê nếu cho thì cũng chỉ cho con đực, không cho con cái. Lão phu ở đất hẻo lánh, ngựa, trâu, dê đã già... Lại nghe đồn rằng, phần mộ của cha mẹ lão phu bị đập phá, anh em họ hàng đều bị giết. Vì vậy, bọn lại bàn nhau rằng: "Nay bên trong không được phấn chấn với <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, bên ngoài không lấy gì để tự cao khác với <a class="annotation" href="/dia-danh/nuoc-ngo" title="Ngô quốc (Phồn thể: 吳國; giản thể: 吴国), còn gọi là Câu Ngô (句吴) hay Công Ngô (工吴; 攻吾), là các tên gọi của một nước chư hầu của nhà Chu từ khi triều đại này ra đời cho tới khi kết thúc giai đoạn Xuân Thu trong lịch sử Trung Quốc. 
+ Nước Ngô nằm ở khu vực cửa sông Dương Tử, phía đông nước Sở, tương ứng..." target="_blank" >nước Ngô</a>". Vì vậy mới đổi xưng hiệu là Đế, để tự làm Đế nước mình, không dám làm điều gì hại đến thiên hạ. Cao Hoàng Hậu nghe tin cả giận, tước bỏ sổ sách của Nam Việt, khiến cho việc sai người đi sứ không thông... Lão phu ở đất Việt 49 năm, đến nay đã ẵm cháu rồi, những vẫn phải dậy sớm, ngủ muộn, nằm không yên chiếu, ăn không biết ngon, mắt không trông sắc đẹp, tai không nghe tiếng chuông trống, chỉ vì không được làm bề tôi <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> mà thôi. Nay may được bệ hạ có lòng thương đến, được khôi phục hiệu cũ, cho thông sứ như trước, lão phu dù chết xương cũng không nát. Vậy xin đổi tước hiệu, không dám xưng Đế nữa.<sup class="annotation badge" title="^ a ă Đại Việt sử ký toàn thư, Quyển 2, Kỷ nhà Triệu">1</sup> </td> <td >”</td> </tr> </table>
+<p>Như vậy, <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đã nhận rằng mình chỉ là phiên vương phục vụ cho <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>, thay mặt vua Hán để cai trị phía Nam, bản thân ông cũng chỉ coi thần dân người Việt là đám <i>"Man Di"</i> mà thôi.</p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<table class=" table table-striped"> <tr> <td valign="top"> <ul> <li>Vấn đề chính thống của nhà Triệu</li> <li>Nam Việt</li> <li>Người Nam Việt</li> <li>Trọng Thủy</li> </ul> </td> <td valign="top"> <ul> <li>Tây Vu Vương</li> <li>Âu Lạc</li> <li>Chiến tranh Hán-Nam Việt</li> <li>Mân Việt</li> </ul> </td> <td valign="top"> <ul> <li>Trường Sa</li> <li>Câu Đinh</li> <li>Lễ hội Nam Trì</li> <li>Lễ hội chọi trâu Hải Lựu</li> </ul> </td> </tr> </table>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Đại Việt sử ký toàn thư</li> <li>Khâm định Việt sử Thông giám Cương mục, Kỷ nhà Triệu</li> <li><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a> (2010), <i>Việt Nam sử lược</i>, Nhà xuất bản Thời đại</li> <li><a class="annotation" href="/nhan-vat/phan-huy-le" title="Giáo sư, Nhà giáo Nhân dân Phan Huy Lê (sinh ngày 23 tháng 2 năm 1934) là một trong những chuyên gia về lịch sử Việt Nam, Chủ tịch Hội Khoa học Lịch sử Việt Nam: Khóa II (1990–1995), khóa III (1995–2000), khóa IV (2000–2005, khóa V (2005–2010) và khóa VI (2010-2015), Giải thưởng Hồ Chí Minh về Khoa ..." target="_blank" >Phan Huy Lê</a>, <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a>, Hà Văn Tấn, Lương Ninh (1991), <i>Lịch sử Việt Nam, tập 1</i>, Nhà xuất bản Đại học và Giáo dục Chuyên nghiệp</li> <li>Đào Duy Anh (2005), <i>Lịch sử cổ đại Việt Nam</i>, Nhà xuất bản Văn hóa thông tin</li> <li>Nguyễn Việt (2010), <i>Hà Nội thời tiền Thăng Long</i>, Nhà xuất bản Hà Nội</li> <li><i>Sử ký Tư Mã Thiên</i>, quyển 113, mục Nam Việt liệt truyện</li> <li>Ban Cố, <i>Hán thư</i>, quyển 95, mục Tây Nam Di, Lưỡng Việt, Triều Tiên truyện</li> <li>Nhà Triệu tại Từ điển bách khoa Việt Nam</li> <li>Nam Viet (ancient kingdom, Asia) tại <i>Encyclopædia Britannica</i> <b >(tiếng Anh)</b></li> <li>Nước Nam Việt và các đời vua Triệu</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-4" > <ol class="references"> <li id="cite_note-zh.wikisource.org-1">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Đại Việt sử ký toàn thư, Quyển 2, Kỷ nhà Triệu</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Sima Qian - <i>Records of the Grand Historian</i>, section 113 《史記·南越列傳》</span></li> <li id="cite_note-nv639-3">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Nguyễn Việt, sách đã dẫn, tr 639</span></li> <li id="cite_note-dda457-4"><b>^</b> <span class="reference-text">Đào Duy Anh, sách đã dẫn, tr 457</span></li> <li id="cite_note-HNT-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Lưu An, Hoài Nam tử: quyển 18 - Nhân gian huấn, nguyên tác: 又利越之犀角、象齒、翡翠、珠璣，乃使尉屠睢發卒五十萬，為五軍，一軍塞鐔城之嶺，一軍守九疑之塞，一軍處番禺之都，一軍守南野之界，一軍結餘干之水，三年不解甲弛弩，使監祿無以轉餉，又以卒鑿渠而通糧道，以與越人戰，殺西嘔君譯吁宋。而越人皆入叢薄中，與禽獸處，莫肯為秦虜。相置桀駿以為將，而夜攻秦人，大破之，殺尉屠睢，伏尸流血數十萬。乃發適戍以備之。, Hán-Việt: Hựu lợi Việt chi tê giác, tượng xỉ, phỉ thúy, châu ki, nãi sử úy Đồ Tuy phát tốt 50 vạn, vi 5 quân, nhất quân tái Đàm Thành chi lĩnh, nhất quân thủ Cửu Nghi chi tái, nhất quân xử Phiên Ngu chi đô, nhất quân thủ Nam Dã chi giới, nhất quân kết Dư Can chi thủy, tam niên bất giải giáp thỉ nỗ, sử giám Lộc vô dĩ chuyển hướng, hựu dĩ tốt tạc cừ nhi thông lương đạo, dĩ dữ Việt nhân chiến, sát Tây ẩu quân Dịch Hu Tống. Nhi Việt nhân giai nhập tùng bạc trung, dữ cầm thú xử, mạc khẳng vi Tần lỗ. Tướng trí Kiệt Tuấn dĩ vi tướng, nhi dạ công Tần nhân, đại phá chi, sát úy Đồ Tuy, phục thi lưu huyết sổ thập vạn. Nãi phát thích thú dĩ bị chi.</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text"><a class="annotation" href="/nhan-vat/phan-huy-le" title="Giáo sư, Nhà giáo Nhân dân Phan Huy Lê (sinh ngày 23 tháng 2 năm 1934) là một trong những chuyên gia về lịch sử Việt Nam, Chủ tịch Hội Khoa học Lịch sử Việt Nam: Khóa II (1990–1995), khóa III (1995–2000), khóa IV (2000–2005, khóa V (2005–2010) và khóa VI (2010-2015), Giải thưởng Hồ Chí Minh về Khoa ..." target="_blank" >Phan Huy Lê</a>, <a class="annotation" href="/nhan-vat/tran-quoc-vuong" title="Trần Quốc Vượng có thể là:..." target="_blank" >Trần Quốc Vượng</a>, Hà Văn Tấn, Lương Ninh, sách đã dẫn, tr 144</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><i>Sử ký Tư Mã Thiên</i>, Quyển 113, mục Nam Việt liệt truyện, chép: "佗因此以兵威邊，財物賂遺閩越、西甌駱，役屬焉，東西萬餘里。" (Đà nhân thử dĩ binh uy biên, tài vật lộ di Mân Việt, Tây Âu Lạc, dịch thuộc yên, đông tây vạn dư lý)</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text"><i>Sử ký Tư Mã Thiên</i>, Quyển 113, mục Nam Việt liệt truyện, chép: "且南方卑溼，蠻夷中閒，其東閩越千人眾號稱王，其西甌駱裸國亦稱王。" (Thả nam phương ti thấp, Man Di trung gian, kì đông Mân Việt thiên nhân chúng hiệu xưng Vương, kỳ Tây Âu Lạc khỏa quốc diệc xưng Vương)</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Đào Duy Anh, sách đã dẫn, tr 427</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text"><i>Viet Nam Social Sciences</i> vol.1-6, tr.91, 2003 "In 111 B.C. there prevailed a historical personage of the name of Tay Vu Vuong who took advantage of troubles circumstances in the early period of Chinese domination to raise his power, and finally was killed by his general assistant, Hoang Dong. Professor Tran Quoc Vuong saw in him the Tay Vu chief having in hands tens of thousands of households, governing thousands miles of land and establishing his center in Co Loa area (59.239). Tay Vu and Tay Au is in fact the same.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Bruce M. Lockhart, William J. Duiker <i>The A to Z of Vietnam</i> 2010, tr.357 "Tây Vu, Administrative and territorial term for an ancient district in Vietnam. Located in the lower Red River Delta around the city of Co Loa, not far from present-day Hanoi, Tây Vu became an administrative district during the Au Lac and Nam...</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Từ điển bách khoa quân sự Việt Nam, 2004, tr.564 "KHỞI NGHĨA TÂY VU VƯƠNG (lll TCN), khởi nghĩa của người Việt ở Giao Chỉ chống ách đô hộ của nhà Triệu. Khoảng cuối lll TCN, nhân lúc nhà Triệu suy yếu, bị <a class="annotation" href="/nhan-vat/nha-tay-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Tây Hán</a> thôn tính, một thủ lĩnh người Việt (gọi là Tây Vu Vương, "</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Hán thư, Quyển 95, mục Tây Nam Di Lưỡng Việt Triều Tiên truyện, chép: "故甌駱將左黃同斬西于王，封爲下鄜侯" (Cổ Âu Lạc tướng tả Hoàng Đồng trảm Tây Vu vương, phong vi Hạ Phu hầu)</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text">huyện Tùy Đào thuộc quận Nam Dương <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a></span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">huyện An Đạo thuộc quận Nam Dương <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a></span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">huyện Liêu thuộc quận Nam Dương <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a></span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">huyện Tương Thành thuộc Đổ Dương <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a></span></li> </ol> </div>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nha-trang" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nhà Trắng            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nha-trinh" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: nhà Trịnh            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nha-trieu" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

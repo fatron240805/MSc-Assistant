@@ -1,0 +1,1412 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Phạm Văn Phú (1928-1975), nguyên là một tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ trường Võ bị Liên quân do Chính phủ Quốc gia Việt Nam mở ra ở nam Cao nguyên Trung phần vào thời điểm Quân đội Quốc gia còn là thành phần trong Quân đội Liên hiệp Pháp...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Phạm Văn Phú - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"451675d18e21c02bfbfa349e2c27f2a3"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Phạm Văn Phú" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Phạm Văn Phú (1928-1975), nguyên là một tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng.." />
+	<meta property="og:url" content="https://mail.nguoikesu.com/nhan-vat/pham-van-phu" />
+	<meta property="og:image" content="https://mail.nguoikesu.com/images/logo-square.png" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Phạm Văn Phú", "item": "https://nguoikesu.com/nhan-vat/pham-van-phu" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/pham-van-phu" }, "headline": "Phạm Văn Phú", "description": "Phạm Văn Phú (1928-1975), nguyên là một tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ trường Võ bị Liên quân do Chính phủ Quốc gia Việt Nam mở ra ở nam Cao nguyên Trung phần vào thời điểm Quân đội Quốc gia còn là thành phần trong Quân đội Liên hiệp Pháp. Ra trường, ông gia nhập vào Binh chủng Nhảy dù, về sau ông chuyển sang Chỉ huy Binh chủng Lực lượng Đặc biệt và Bộ binh cấp Sư đoàn. Sau cùng ông là Tư lệnh một trong 4 Quân đoàn và Vùng chiến thuật của Quân lực Cộng hòa. Ông là một trong năm tướng lĩnh Việt Nam Cộng hòa đã tự sát trong sự kiện 30 tháng 4 năm 1975.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/pham-van-phu" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-12-08T22:35:53+07:00", "dateCreated": "2017-12-08T22:35:53+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Phạm Văn Phú</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Phạm Văn Phú        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su-amp-binh-nghiep" title="">Tiểu sử &amp; Binh nghiệp</a></li>
+<li class="level-2"><a href="#quan-doi-quoc-gia-viet-nam" title="">Quân đội Quốc gia Việt Nam</a></li>
+<li class="level-2"><a href="#quan-luc-viet-nam-cong-hoa" title="">Quân lực Việt Nam Cộng hòa</a></li>
+<li class="level-1"><a href="#1975" title="">1975</a></li>
+<li class="level-1"><a href="#gia-dinh" title="">Gia đình</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >PHẠM VĂN PHÚ</th> </tr> <tr> <th colspan="2" >Tiểu sử</th> </tr> <tr> <th scope="row">Sinh</th> <td>16 tháng 10 năm 1928<br /> Hà Đông, Việt Nam</td> </tr> <tr> <th scope="row">Mất</th> <td>30 tháng 4, 1975 (47 tuổi)<br /> Sài Gòn, Việt Nam</td> </tr> <tr> <th colspan="2" >Binh nghiệp</th> </tr> <tr> <th scope="row">Phục vụ</th> <td><img alt="Flag of South Vietnam.svg" src="/images/wiki/pham-van-phu/b1411aee823934ddd441e7faf25f8a10.png" width="40" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/60px-Flag_of_South_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/80px-Flag_of_South_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" /> Việt Nam Cộng hòa</td> </tr> <tr> <th scope="row">Thuộc</th> <td><img alt="Flag of the South Vietnamese Army.jpg" src="/images/wiki/pham-van-phu/0ad0a5ca167424818fff4457ad9e13db.jpg" width="36" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_South_Vietnamese_Army.jpg/54px-Flag_of_the_South_Vietnamese_Army.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_South_Vietnamese_Army.jpg/72px-Flag_of_the_South_Vietnamese_Army.jpg 2x" data-file-width="1024" data-file-height="700" /> Quân lực VNCH</td> </tr> <tr> <th scope="row">Năm tại ngũ</th> <td>1952-1975</td> </tr> <tr> <th scope="row">Cấp bậc</th> <td><img alt="US-O8 insignia.svg" src="/images/wiki/pham-van-phu/c2a93bc82f7d818d7fbdff68d7b157f5.png" width="32" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/US-O8_insignia.svg/48px-US-O8_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/US-O8_insignia.svg/64px-US-O8_insignia.svg.png 2x" data-file-width="1262" data-file-height="591" /> Thiếu tướng</td> </tr> <tr> <th scope="row">Đơn vị</th> <td><img alt="Vietnamese Airborne Division 's Insignia.svg" src="/images/wiki/pham-van-phu/c10b55b0212a22534c1262f49d5ca657.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vietnamese_Airborne_Division_%27s_Insignia.svg/30px-Vietnamese_Airborne_Division_%27s_Insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vietnamese_Airborne_Division_%27s_Insignia.svg/40px-Vietnamese_Airborne_Division_%27s_Insignia.svg.png 2x" data-file-width="324" data-file-height="322" /> Binh chủng Nhảy dù<br /> <img alt="ARVN 1st Division SSI.svg" src="/images/wiki/pham-van-phu/cb3f569c85bd00fd6e641de54fea2df1.png" width="20" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ARVN_1st_Division_SSI.svg/30px-ARVN_1st_Division_SSI.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ARVN_1st_Division_SSI.svg/40px-ARVN_1st_Division_SSI.svg.png 2x" data-file-width="335" data-file-height="419" /> Sư đoàn 1 Bộ binh<br /> <img alt="81st Airborne Commando Battalion.svg" src="/images/wiki/pham-van-phu/03b6187a1eaa471e7276874356511c30.png" width="20" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/81st_Airborne_Commando_Battalion.svg/30px-81st_Airborne_Commando_Battalion.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/81st_Airborne_Commando_Battalion.svg/40px-81st_Airborne_Commando_Battalion.svg.png 2x" data-file-width="288" data-file-height="362" /> Lực lượng Đặc biệt<br /> <img alt="Hiệu kỳ Trung tâm Huấn luyện Quang Trung.png" src="/images/wiki/pham-van-phu/99bf9306d16cc2871183f2b418cc87a3.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/vi/thumb/a/ab/Hi%E1%BB%87u_k%E1%BB%B3_Trung_t%C3%A2m_Hu%E1%BA%A5n_luy%E1%BB%87n_Quang_Trung.png/30px-Hi%E1%BB%87u_k%E1%BB%B3_Trung_t%C3%A2m_Hu%E1%BA%A5n_luy%E1%BB%87n_Quang_Trung.png 1.5x, //upload.wikimedia.org/wikipedia/vi/thumb/a/ab/Hi%E1%BB%87u_k%E1%BB%B3_Trung_t%C3%A2m_Hu%E1%BA%A5n_luy%E1%BB%87n_Quang_Trung.png/40px-Hi%E1%BB%87u_k%E1%BB%B3_Trung_t%C3%A2m_Hu%E1%BA%A5n_luy%E1%BB%87n_Quang_Trung.png 2x" data-file-width="1500" data-file-height="1041" /> TTHL Quang Trung<br /> <img alt="QD II VNCH.jpg" src="/images/wiki/pham-van-phu/7555811b71d1ffe23730843f7108783c.jpg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/QD_II_VNCH.jpg/30px-QD_II_VNCH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/QD_II_VNCH.jpg/40px-QD_II_VNCH.jpg 2x" data-file-width="150" data-file-height="150" /> Quân đoàn II và QK 2</td> </tr> <tr> <th scope="row">Chỉ huy</th> <td><img alt="Flag of France.svg" src="/images/wiki/pham-van-phu/52f8163399ca4b27bfefd565deea686d.png" width="26" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/39px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/52px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /> QĐ Liên hiệp Pháp<br /> <img alt="Flag of South Vietnam.svg" src="/images/wiki/pham-van-phu/1f8319eca9ce07e641afe8e0dc87c4e7.png" width="26" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/39px-Flag_of_South_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/52px-Flag_of_South_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" /> Quân đội Quốc gia<br /> <img alt="Flag of the South Vietnamese Army.jpg" src="/images/wiki/pham-van-phu/9bfca3433582cde03c98af9ada0669c7.jpg" width="26" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_South_Vietnamese_Army.jpg/39px-Flag_of_the_South_Vietnamese_Army.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_the_South_Vietnamese_Army.jpg/52px-Flag_of_the_South_Vietnamese_Army.jpg 2x" data-file-width="1024" data-file-height="700" /> Quân lực VNCH</td> </tr> <tr> <th scope="row">Tham chiến</th> <td>Chiến tranh Việt Nam</td> </tr> <tr> <th scope="row">Khen thưởng</th> <td>B.quốc H.chương đệ III<sup class="annotation badge" title="^ Bảo quốc Huân chương đệ tam đẳng.">1</sup> </td> </tr> </table></div>
+<p><b>Phạm Văn Phú</b> (1928-1975), nguyên là một tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Thiếu tướng. Ông xuất thân từ trường Võ bị Liên quân do Chính phủ Quốc gia Việt Nam mở ra ở nam Cao nguyên Trung phần vào thời điểm Quân đội Quốc gia còn là thành phần trong Quân đội Liên hiệp Pháp. Ra trường, ông gia nhập vào Binh chủng Nhảy dù, về sau ông chuyển sang Chỉ huy Binh chủng Lực lượng Đặc biệt và Bộ binh cấp Sư đoàn. Sau cùng ông là Tư lệnh một trong 4 Quân đoàn và Vùng chiến thuật của Quân lực Cộng hòa. Ông là một trong năm tướng lĩnh Việt Nam Cộng hòa đã tự sát trong sự kiện 30 tháng 4 năm 1975.</p>
+<p></p>
+<p></p>
+<a name="tieu-su-amp-binh-nghiep"></a><h2>Tiểu sử &amp; Binh nghiệp</h2>
+<p>Ông sinh ngày 16 tháng 10 năm 1928, trong một gia đình Nho học tại Hà Đông, miền Bắc Việt Nam.<sup class="annotation badge" title="^ Địa giới trước kia là Thị xã tỉnh lỵ của tỉnh Hà Đông, nay là phạm vi của một Quận thuộc Trung tâm Thành phố Hà Nội.">2</sup>  Năm 1948, ông tốt nghiệp Trung học chương trình Pháp tại Hà Nội với văn bằng Tú tài bán phần (Part I). Sau đó ông được tuyển dụng làm công chức tại Hà Đông một thời gian đến khi gia nhập quân đội.</p>
+<a name="quan-doi-quoc-gia-viet-nam"></a><h3>Quân đội Quốc gia Việt Nam</h3>
+<p>Giữa năm 1952, thi hành lệnh động viên, ông nhập ngũ vào Quân đội Quốc gia, mang số quân: 48/300.402. Theo học khóa 8 Hoàng Thụy Đông tại trường Võ bị Liên quân Đà Lạt, khai giảng ngày 1 tháng 7 năm 1952. Ngày 28 tháng 6 năm 1953 mãn khóa tốt nghiệp với cấp bậc Thiếu úy hiện dịch. Ra trường ông được chọn phục vụ trong đơn vị Nhảy dù của Quân đội Liên hiệp Pháp. Sau đó, ông chuyển về Tiểu đoàn 5 Nhảy dù đảm trách chức vụ Trung đội trưởng. Tháng 12 cùng năm, ông được thăng cấp Trung úy giữ chức vụ Đại đội phó.</p>
+<p>Ngày 14 tháng 3 năm 1954, ông được cử làm Đại đội trưởng Đại đội 1 của Tiểu đoàn 5. Ngày 25 tháng 4, ông được đặc cách thăng cấp Đại úy tại mặt trận do chiến tích của Đại đội ông chỉ huy đạt được trong nhiệm vụ tái chiếm cứ điểm trọng yếu đồi Elianne trong trận <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a> Phủ.<sup class="annotation badge" title="^ Trong chiến dịch Điện Biên Phủ, Đại úy Phú đã từng bắt nhịp bài La Marseillaise (Quốc ca Pháp) cho lính Quốc gia Việt Nam vừa hát vừa xông lên phản kích ở đồi C1 nên được các sĩ quan Pháp cảm kích. Khi Điện Biên Phủ thất thủ, Việt Minh bắt giam ông cùng với Bréchignac, Botella, Clédic, Mackowiak và nhiều quân nhân khác. (Theo &quot;Tập đoàn cứ điểm Điện Biên Phủ: 24 giờ cuối cùng&quot; - Bernard B. Fall, Vũ Trấn Thủ dịch">3</sup>  Ngày 7 tháng 5, ông được ghi nhận là mất tích tại chiến trường do bị đối phương bắt làm tù binh, sau đó bị đưa về giam giữ ở trại giam Đình Cả, Thái Nguyên.<sup class="annotation badge" title="^ Đài Tiếng nói Việt Nam sau này nhận định: &quot;Viên tướng Tư lệnh Phạm Văn Phú, kẻ đã bại trận thảm hại tại chiến trường Tây Nguyên năm 1975, cũng từng là lính Việt chiến đấu hăng hái bên các chiến hữu Pháp tại trận Điện Biên Phủ năm 1954. Tại Điện Biên, ông Phạm Văn Phú khi đó si mê hát Quốc ca Pháp, hô hào các binh sĩ ngụy khác đánh trả quân đội Việt Minh của Đại tướng Võ Nguyên Giáp&quot; (http://vov.vn/blog/chinh-nghia-khong-thuoc-ve-che-do-viet-nam-cong-hoa-396862.vov)">4</sup> </p>
+<a name="quan-luc-viet-nam-cong-hoa"></a><h3>Quân lực Việt Nam Cộng hòa</h3>
+<p>Ngày 8 tháng 7 năm 1955, sau Hiệp định Genève, cùng trong số 20 sĩ quan tù binh được Việt Minh trao trả qua ngã cầu Hiền Lương, <a class="annotation" href="/dia-danh/song-ben-hai" title="Sông Bến Hải hay Rào Thanh là một con sông tại miền Trung Việt Nam. Sông này bắt nguồn từ núi Động Chân thuộc dãy Trường Sơn và chảy dọc theo vĩ tuyến 17° Bắc từ tây sang đông rồi đổ ra biển ở Cửa Tùng. Bến Hải là một địa danh ở thượng lưu sông, nên tên sông Bến Hải lấy từ địa danh này. Sông Bến Hải..." target="_blank" >sông Bến Hải</a>, <a class="annotation" href="/dia-danh/tinh-quang-tri" title="Quảng Trị là một tỉnh ven biển thuộc vùng cực Bắc Trung Bộ Việt Nam. Đây là tỉnh có Khu phi quân sự vĩ tuyến 17, là giới tuyến chia cắt hai miền Bắc - Nam Việt Nam, do đó cũng là một chiến trường ác liệt nhất trong suốt 20 năm của cuộc Chiến tranh Việt Nam (1954 - 1975)..." target="_blank" >tỉnh Quảng Trị</a> thuộc vĩ tuyến 17. Sau đó được biên chế vào Quân đội Việt Nam Cộng hòa. Tháng 9 cùng năm, ông được cử theo học lớp Dẫn đạo Chỉ huy tại Trung tâm Huấn luyện số 1 ở Quán Tre.<sup class="annotation badge" title="^ Tiền thân của Trung tâm Huấn luyện Quang Trung sau này.">5</sup>  Đến đầu tháng 2 năm 1956, ông được tái phục vụ trong Binh chủng Nhảy dù.</p>
+<p>Giữa tháng 1 năm 1960, ông được biệt phái qua đơn vị Bảo an, giữ chức vụ Tỉnh đoàn trưởng Bảo an tỉnh Kiến Phong. Tháng 5 cùng năm, ông được cử làm Quận trưởng quận Trà Cú thuộc <a class="annotation" href="/dia-danh/tinh-vinh-long" title="Vĩnh Long là một tỉnh nằm ở khu vực đồng bằng sông Cửu Long, thuộc miền Nam Việt Nam. Vĩnh Long cách Thành phố Hồ Chí Minh 135&amp;#160;km về phía Nam và cách Thành phố Cần Thơ 40&amp;#160;km về phía Bắc theo đường Quốc lộ 1A. Tỉnh nằm trong vùng khí hậu nhiệt đới gió mùa, dạng địa hình khá bằng phẳng với đ..." target="_blank" >tỉnh Vĩnh Long</a>. Ngày 26 tháng 10 cuối năm, nhân dịp lễ Quốc khánh lần thứ năm của nền Đệ nhất Cộng hòa, ông được thăng cấp Thiếu tá tại nhiệm.</p>
+<p>Đầu tháng 8 năm 1961, ông được cử làm Liên đội trưởng Liên đội Quan sát số 1 thuộc Lực lượng Đặc biệt. Hạ tuần tháng 10 cùng năm, được cử đi du học lớp Thực tập hành quân và Huấn luyện Lực lượng Đặc biệt tại Okinawa, Nhật Bản trong thời gian một tháng.</p>
+<p>Hạ tuần tháng 4 năm 1964, sau cuộc Chỉnh lý các tướng lĩnh trong Hội đồng Quân nhân Cách mạng để giành quyền lãnh đạo của tướng <a class="annotation" href="/nhan-vat/nguyen-khanh" title="Nguyễn Khánh (1927-2013) nguyên là một cựu tướng lĩnh gốc Nhảy dù của Quân lực Việt Nam Cộng hòa, cấp bậc Đại tướng. Ông xuất thân từ khóa đầu tiên ở trường Võ bị Liên quân Viễn Đông do Quân đội Thuộc địa Pháp mở ra tại Cao nguyên Trung phần Việt Nam. Ra trường, ông được phục vụ ở một đơn vị Vệ binh..." target="_blank" >Nguyễn Khánh</a>, ông được cử làm Chỉ huy trưởng đơn vị Lực lượng Đặc biệt Vùng 3 Chiến thuật. Đến ngày 10 tháng 8, ông được kiêm chức vụ Tham mưu trưởng Bộ tư lệnh Binh chủng Lực lượng Đặc biệt thay thế Trung tá Nguyễn Hộ.<sup class="annotation badge" title="^ Sinh năm 1921 tại Quảng Trị, tốt nghiệp khóa 1 Võ bị Trừ bị. Chức vụ sau cùng: Tư lệnh phó Lãnh thổ Quân đoàn II.">6</sup> Ngày 1 tháng 11, nhân kỷ niệm 1 năm cách mạng 1963, ông được thăng cấp Trung tá tại nhiệm.</p>
+<p>Tháng 4 năm 1965, ông được thăng cấp Đại tá và chuyển ra miền Trung nhận công tác tại Bộ tư lệnh Quân đoàn I ở Đà Nẵng. Cuối tháng 6, Xử lý thường vụ chức vụ Tư lệnh Sư đoàn 2 Bộ binh và Biệt khu 12 chiến thuật. Thượng tuần tháng 3 năm 1966, ông bàn giao chức vụ Tham mưu trưởng Lực lượng Đặc biệt lại cho Trung tá Nguyễn Hợp Đoàn, sau đó được cử làm Phụ tá cho Tư lệnh Sư đoàn 1 Bộ binh do Chuẩn tướng Phan Xuân Nhuận làm Tư lệnh. Hạ tuần tháng 10 cùng năm, ông được cử đi công cán tại Hồng Kông với nhiệm vụ đặc biệt trong thời gian 1 tuần lễ. Hạ tuần tháng 7 năm 1967, tiếp tục là Phụ tá Tư lệnh Sư đoàn 1 do Đại tá <a class="annotation" href="/nhan-vat/ngo-quang-truong" title="Ngô Quang Trưởng (1929-2007), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tại trường Sĩ quan Trừ bị do Quốc gia Việt Nam mở ra ở miền Nam Việt Nam. Trong thời gian tại ngũ, ông đã có hơn 12 năm phục vụ trong Binh chủng Nhảy dù..." target="_blank" >Ngô Quang Trưởng</a> làm Tư lệnh.</p>
+<p>Đầu tháng 7 năm 1968, ông thuyên chuyển về Vùng 4 Chiến thuật, được cử làm Tư lệnh Biệt khu 44 Chiến thuật khu vực Đồng Tháp Mười và khu vực biên giới Việt-Miên.<sup class="annotation badge" title="^ Biệt khu 44 được thành lập ngày 1 tháng 12 năm 1967 gồm 4 tỉnh Kiến Tường, Kiến Phong, Châu Đốc và An Giang.">7</sup> Trung tuần tháng 4 năm 1969, ông được đặc cách thăng cấp Chuẩn tướng tại nhiệm.</p>
+<p>Đầu tháng 1 năm 1970, được lệnh bàn giao Biệt khu 44 lại cho Đại tá Võ Hữu Hạnh, sau đó ông được bổ nhiệm vào chức vụ Tư lệnh Lực lượng Đặc biệt, thay thế Đại tá Phan Đình Thứ (tự Lam Sơn).<sup class="annotation badge" title="^ Đại tá Lam Sơn được chuyển đi làm Phụ tá cho Tư lệnh Biệt khu Thủ đô.">8</sup> </p>
+<ul> <li>-Thời điểm ông giữ chức vụ Tư lệnh, các sĩ quan Tham mưu gồm có:</li> </ul>
+<dl> <dd>-Phụ tá Tư lệnh: Đại tá Hồ Tiêu.<sup class="annotation badge" title="^ Sinh năm 1922 tại Quảng Trị, tốt nghiệp khóa 2 Võ bị Địa phương Trung Việt (còn gọi là trường Sĩ quan Đập Đá ở Huế)">9</sup> </dd> <dd>-Tham mưu trưởng: Trung tá Đỗ Trọng Khôi.<sup class="annotation badge" title="^ Sinh năm 1932 tại Hà Nội, tốt nghiệp trường khóa 7 Võ bị Quốc gia Đà Lạt.">10</sup> </dd> </dl>
+<p>Tháng 8 năm 1970, ông được lệnh bàn giao chức vụ Tư lệnh Lực lượng Đặc biệt lại cho Đại tá Hồ Tiêu. Sau đó ông được bổ nhiệm làm Tư lệnh Sư đoàn 1 Bộ binh thay thế Thiếu tướng <a class="annotation" href="/nhan-vat/ngo-quang-truong" title="Ngô Quang Trưởng (1929-2007), nguyên là một tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tại trường Sĩ quan Trừ bị do Quốc gia Việt Nam mở ra ở miền Nam Việt Nam. Trong thời gian tại ngũ, ông đã có hơn 12 năm phục vụ trong Binh chủng Nhảy dù..." target="_blank" >Ngô Quang Trưởng</a> được bổ nhiệm làm Tư lệnh Quân đoàn IV và Quân khu 4. Giữa tháng 4 năm 1971, ông được đặc cách thăng cấp Thiếu tướng tại nhiệm, do Sư đoàn 1 đạt được chiến công trong chiến dịch Lam sơn 719. Sau đó, ông được cử làm Trưởng đoàn hướng dẫn phái đoàn gồm 25 quân nhân các cấp có chiến tích ở Hạ Lào đi thăm viếng Trung Hoa Dân Quốc (Đài Loan).</p>
+<p>Trung tuần tháng 9 năm 1972, ông xin từ nhiệm để dưỡng bệnh sau khi bàn giao Sư đoàn 1 lại cho Đại tá Nguyễn Văn Điềm (nguyên Tư lệnh phó Sư đoàn). Đầu năm 1973, ông được chỉ định làm Chỉ huy trưởng Trung tâm Huấn luyện Quang Trung thay thế Thiếu tướng Đoàn Văn Quảng.</p>
+<p>Đầu tháng 11 năm 1974, ông bàn giao Trung tâm Huấn luyện Quang Trung lại cho Thiếu tướng Trần Bá Di (nguyên Tư lệnh phó Quân đoàn IV). Ngay sau đó, ông được bổ nhiệm làm Tư lệnh Quân đoàn II và Quân khu 2 thay thế Trung tướng <a class="annotation" href="/nhan-vat/nguyen-van-toan" title="Nguyễn Văn Toàn (1932-2005) nguyên là một tướng lĩnh gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, mang cấp bậc Trung tướng. Ông xuất thân từ những khóa đầu tiên tại trường Võ bị Quốc gia. Ra trường, được chọn phục vụ Binh chủng Kỵ binh, nên sau này ông được xem là một vị tướng xuất thân từ Thiết giáp..." target="_blank" >Nguyễn Văn Toàn</a>.<sup class="annotation badge" title="^ Trung tướng Toàn được trở về Trung ương giữ chức vụ Chỉ huy trưởng Binh chủng Thiết giáp.">11</sup> </p>
+<a name="1975"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>1975</h2>
+<p>Chiến dịch Tây Nguyên của Quân đội đối phương đã làm suy sụp tinh thần và đánh tan gần như hoàn toàn lực lượng của Quân lực Việt Nam Cộng hòa ở Cao nguyên Trung phần. Ngày 16 tháng 3, theo chỉ thị của Tổng thống <a class="annotation" href="/nhan-vat/nguyen-van-thieu" title="Nguyễn Văn Thiệu (5 tháng 4 năm 1923 - 29 tháng 9 năm 2001) nguyên là một sĩ quan trong Quân đội Quốc gia Việt Nam trực thuộc Pháp, từng được cả quân đội Pháp và Hoa Kỳ đào tạo, sau đó trở thành tướng lĩnh trong Quân lực Việt Nam Cộng hòa, mang cấp bậc Trung tướng. Sau vụ đảo chính năm 1963 lật đổ c..." target="_blank" >Nguyễn Văn Thiệu</a> trong cuộc họp khẩn cấp ngày 14 tháng 3<sup class="annotation badge" title="^ Cuộc họp gồm có Tổng thống Nguyễn Văn Thiệu, Tổng tham mưu trưởng Đại tướng Cao Văn Viên và 4 tướng Tư lệnh 4 Quân đoàn">12</sup>  tại Thị xã Cam Ranh. Ông được chỉ thị Tổ chức và chỉ huy cuộc triệt thoái toàn bộ Quân đoàn II và Quân khu 2 về Tuy Hòa để tái phối trí (Bộ tư lệnh Quân đoàn đặt ở Nha Trang). Cuộc triệt thoái này đã thất bại, làm rối loạn và thiệt hại lớn cho Quân đoàn II và Quân khu 2. Sau đó ông bị triệu tập về Sài Gòn nhưng vì lâm bệnh nặng nên không thể trình diện Tổng thống Thiệu được. Đầu tháng 4, ông phải vào điều trị tại Tổng y viện Cộng hòa.</p>
+<p>Đến sáng ngày 29 tháng 4 tại tư dinh số 19 đường Gia Long, Sài Gòn. Sau khi nhờ Đại úy Đỗ Đắc Tân (sĩ quan tùy viên) đưa phu nhân và các con ông lên phi trường Tân Sơn Nhứt để di tản ra khỏi Việt Nam, ông đã tự sát bằng một liều Choloroquine cực mạnh. Trung úy Mạnh (sĩ quan an ninh) biết được sự việc liền báo ngay cho phu nhân chưa kịp lên đường, quay trở lại đưa ông vào bệnh viện Grall cấp cứu nhưng vô vọng vì đã uống quá nhiều thuốc. Ông bị hôn mê đến 11 giờ 15 trưa ngày 30 tháng 4, tỉnh lại thều thào hỏi phu nhân về hiện tình chiến cuộc ra sao. Sau khi được biết Tổng thống <a class="annotation" href="/nhan-vat/duong-van-minh" title="Dương Văn Minh (16 tháng 2 năm 1916 - 9 tháng 8 năm 2001) nguyên là một cựu tướng lĩnh Bộ binh của Quân đội Việt Nam Cộng hòa, cấp bậc Đại tướng. Ông xuất thân từ khóa đầu tiên ở trường Sĩ quan Võ bị do Chính quyền Pháp tại Liên bang Đông Dương mở ra ở miền Đông Nam phần Việt Nam với mục đích đào tạ..." target="_blank" >Dương Văn Minh</a> đã ra lệnh cho toàn thể Quân lực Việt Nam Cộng hòa buông súng đầu hàng và quân giải phóng đã vào tới Sài Gòn, ông từ trần, hưởng dương 47 tuổi.</p>
+<a name="gia-dinh"></a><h2>Gia đình</h2>
+<ul> <li>Thân phụ: Cụ Phạm Văn Tích</li> <li>Thân mẫu: Cụ Nguyễn Thị Nhiễm.</li> <li>Nhạc phụ: Cụ Đỗ Văn Lựu (nguyên là Trung tá Chỉ huy phó Ngự lâm quân ở Đà Lạt thời Quốc trưởng Bảo Đại).</li> <li>Nhạc mẫu: Cụ Vương Chúc Anh (người Trung hoa gốc Thượng Hải)</li> <li>Phu nhân: Bà Đỗ Thị Lâm Đệ</li> </ul>
+<dl> <dd>Ông bà có tám người con gồm 5 trai và 3 gái. Một người con gái đang sống ở Việt Nam, 7 người còn lại đã định cư ở Hoa Kỳ.</dd> </dl>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Bảo quốc Huân chương đệ tam đẳng.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Địa giới trước kia là Thị xã tỉnh lỵ của <a class="annotation" href="/dia-danh/tinh-ha-dong" title="Hà Đông là một tỉnh cũ của Việt Nam. Tên gọi tỉnh Hà Đông thay thế cho tên gọi cũ là tỉnh Cầu Đơ vào ngày 6 tháng 12 năm 1904. Địa bàn tỉnh Cầu Đơ nguyên là tỉnh Hà Nội, được đổi tên sau khi cắt phần thành Hà Nội cho Pháp làm nhượng địa và tỉnh lỵ chuyển về Cầu Đơ. 
+ Đơn vị này tồn tại từ năm 1904 đ..." target="_blank" >tỉnh Hà Đông</a>, nay là phạm vi của một Quận thuộc Trung tâm Thành phố Hà Nội.</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Trong chiến dịch <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a> Phủ, Đại úy Phú đã từng bắt nhịp bài La Marseillaise (Quốc ca Pháp) cho lính Quốc gia Việt Nam vừa hát vừa xông lên phản kích ở đồi C1 nên được các sĩ quan Pháp cảm kích. Khi <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a> Phủ thất thủ, Việt Minh bắt giam ông cùng với Bréchignac, Botella, Clédic, Mackowiak và nhiều quân nhân khác. (Theo "Tập đoàn cứ điểm <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a> Phủ: 24 giờ cuối cùng" - Bernard B. Fall, Vũ Trấn Thủ dịch</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Đài Tiếng nói Việt Nam sau này nhận định: <i>"Viên tướng Tư lệnh Phạm Văn Phú, kẻ đã bại trận thảm hại tại chiến trường Tây Nguyên năm 1975, cũng từng là lính Việt chiến đấu hăng hái bên các chiến hữu Pháp tại trận <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a> Phủ năm 1954. Tại <a class="annotation" href="/dia-danh/dien-bien" title="Điện Biên là một tỉnh biên giới miền núi thuộc vùng Tây Bắc của Việt Nam, có tọa độ địa lý 20°54’ – 22°33’ vĩ độ Bắc và 102°10’ – 103°36’ kinh độ Đông. Nằm cách Thủ đô Hà Nội 504&amp;#160;km về phía Tây, phía Đông và Đông nam giáp tỉnh Sơn La, phía Bắc giáp tỉnh Lai Châu, phía Tây Bắc giáp tỉnh Vân Nam ..." target="_blank" >Điện Biên</a>, ông Phạm Văn Phú khi đó si mê hát Quốc ca Pháp, hô hào các binh sĩ ngụy khác đánh trả quân đội Việt Minh của Đại tướng <a class="annotation" href="/nhan-vat/vo-nguyen-giap" title="Võ Nguyên Giáp (25 tháng 8 năm 1911 – 4 tháng 10 năm 2013), còn được gọi là tướng Giáp hoặc anh Văn, là một nhà chỉ huy quân sự và chính trị gia Việt Nam. Ông là Đại tướng đầu tiên, Tổng tư lệnh của Quân đội Nhân dân Việt Nam, cũng là người chỉ huy đầu tiên Quân đội Nhân dân Việt Nam, là một trong n..." target="_blank" >Võ Nguyên Giáp</a>"</i> (http://vov.vn/blog/chinh-nghia-khong-thuoc-ve-che-do-viet-nam-cong-hoa-396862.vov)</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Tiền thân của Trung tâm Huấn luyện Quang Trung sau này.</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Sinh năm 1921 tại Quảng Trị, tốt nghiệp khóa 1 Võ bị Trừ bị. Chức vụ sau cùng: Tư lệnh phó Lãnh thổ Quân đoàn II.</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Biệt khu 44 được thành lập ngày 1 tháng 12 năm 1967 gồm 4 tỉnh Kiến Tường, Kiến Phong, <a class="annotation" href="/dia-danh/chau-doc" title="Châu Đốc là một thành phố trực thuộc tỉnh An Giang, Việt Nam, nằm ở đồng bằng sông Cửu Long, sát biên giới Việt Nam với Campuchia. 
+ Hiện nay, Châu Đốc không phải là tỉnh lị của tỉnh&amp;#160;An Giang, mà tỉnh lị là&amp;#160;thành phố Long Xuyên.Tuy nhiên, Châu Đốc lại từng là tỉnh lỵ của tỉnh Châu Đốc cũ v..." target="_blank" >Châu Đốc</a> và An Giang.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Đại tá Lam Sơn được chuyển đi làm Phụ tá cho Tư lệnh Biệt khu Thủ đô.</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Sinh năm 1922 tại Quảng Trị, tốt nghiệp khóa 2 Võ bị Địa phương Trung Việt (còn gọi là trường Sĩ quan Đập Đá ở Huế)</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Sinh năm 1932 tại Hà Nội, tốt nghiệp trường khóa 7 Võ bị Quốc gia Đà Lạt.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Trung tướng Toàn được trở về Trung ương giữ chức vụ Chỉ huy trưởng Binh chủng Thiết giáp.</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Cuộc họp gồm có Tổng thống <a class="annotation" href="/nhan-vat/nguyen-van-thieu" title="Nguyễn Văn Thiệu (5 tháng 4 năm 1923 - 29 tháng 9 năm 2001) nguyên là một sĩ quan trong Quân đội Quốc gia Việt Nam trực thuộc Pháp, từng được cả quân đội Pháp và Hoa Kỳ đào tạo, sau đó trở thành tướng lĩnh trong Quân lực Việt Nam Cộng hòa, mang cấp bậc Trung tướng. Sau vụ đảo chính năm 1963 lật đổ c..." target="_blank" >Nguyễn Văn Thiệu</a>, Tổng tham mưu trưởng Đại tướng Cao Văn Viên và 4 tướng Tư lệnh 4 Quân đoàn</span></li> </ol> </div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Trần Ngọc Thống, Hồ Đắc Huân, Lê Đình Thụy (2011). <i>Lược sử Quân lực Việt Nam Cộng hòa</i></li> </ul>
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/pham-van-huan" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Phạm Văn Huấn            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/pham-van-son" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Phạm Văn Sơn            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://mail.nguoikesu.com/nhan-vat/pham-van-phu" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

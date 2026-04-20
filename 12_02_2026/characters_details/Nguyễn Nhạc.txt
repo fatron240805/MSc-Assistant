@@ -1,0 +1,1540 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nguyễn Nhạc (chữ Hán: 阮岳; 1743 - 1793) hay còn gọi là Nguyễn Văn Nhạc, là vị vua sáng lập ra nhà Tây Sơn, ở ngôi hoàng đế từ năm 1778 đến năm 1788, xưng là Thái Đức Hoàng Đế. Từ năm 1789 - 1793, ông từ bỏ đế hiệu để trao lại quyền lãnh đạo cho em trai là hoàng đế Quang Trung, còn ông thay đổi tước h...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nguyễn Nhạc - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"8a8b2f39483416e51291b946323c6293"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nguyễn Nhạc" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nguyễn Nhạc (chữ Hán: 阮岳; 1743 - 1793) hay còn gọi là Nguyễn Văn Nhạc, là vị vua sáng lập ra nhà Tây Sơn, ở ngôi hoàn.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nguyen-nhac" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nguyen-nhac/4173e5dc1f51146fe76ff53397630300.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nguyễn Nhạc", "item": "https://nguoikesu.com/nhan-vat/nguyen-nhac" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nguyen-nhac" }, "headline": "Nguyễn Nhạc", "description": "Nguyễn Nhạc (chữ Hán: 阮岳; 1743 - 1793) hay còn gọi là Nguyễn Văn Nhạc, là vị vua sáng lập ra nhà Tây Sơn, ở ngôi hoàng đế từ năm 1778 đến năm 1788, xưng là Thái Đức Hoàng Đế. Từ năm 1789 - 1793, ông từ bỏ đế hiệu để trao lại quyền lãnh đạo cho em trai là hoàng đế Quang Trung, còn ông thay đổi tước hiệu của mình xuống thành Tây Sơn vương. Nguyễn Văn Nhạc và hai người em trai của ông, được biết với tên gọi Anh em Tây Sơn, là những lãnh đạo của cuộc khởi nghĩa Tây Sơn đã chấm dứt cuộc nội chiến kéo dài giữa hai tập đoàn phong kiến Trịnh ở phía Bắc và Nguyễn ở phía Nam, lật đổ hai tập đoàn này cùng nhà Hậu Lê.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nguyen-nhac/4173e5dc1f51146fe76ff53397630300.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nguyen-nhac" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-15T15:32:16+07:00", "dateCreated": "2017-11-15T15:32:16+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nguyễn Nhạc</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nguyễn Nhạc        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#tieu-su" title="">Tiểu sử</a></li>
+<li class="level-1"><a href="#khoi-nghia" title="">Khởi nghĩa</a></li>
+<li class="level-1"><a href="#ha-thanh-quy-nhon" title="">Hạ thành Quy Nhơn</a></li>
+<li class="level-1"><a href="#luong-dau-tho-dich" title="">Lưỡng đầu thọ địch</a></li>
+<li class="level-1"><a href="#hoa-bac-danh-nam" title="">Hoà bắc đánh nam</a></li>
+<li class="level-1"><a href="#loai-bo-nguy-co-phia-bac" title="">Loại bỏ nguy cơ phía bắc</a></li>
+<li class="level-1"><a href="#danh-gia-dinh" title="">Đánh Gia Định</a></li>
+<li class="level-2"><a href="#lan-thu-nhat" title="">Lần thứ nhất</a></li>
+<li class="level-2"><a href="#lan-thu-hai" title="">Lần thứ hai</a></li>
+<li class="level-2"><a href="#lan-thu-ba" title="">Lần thứ ba</a></li>
+<li class="level-2"><a href="#lan-thu-tu" title="">Lần thứ tư</a></li>
+<li class="level-1"><a href="#chien-thang-ngoai-mong-doi" title="">Chiến thắng ngoài mong đợi</a></li>
+<li class="level-1"><a href="#anh-em-bat-hoa" title="">Anh em bất hoà</a></li>
+<li class="level-1"><a href="#lai-mat-nam-bo" title="">Lại mất Nam bộ</a></li>
+<li class="level-1"><a href="#tu-bo-de-hieu" title="">Từ bỏ đế hiệu</a></li>
+<li class="level-1"><a href="#ke-hoach-do-dang" title="">Kế hoạch dở dang</a></li>
+<li class="level-1"><a href="#tu-tran" title="">Từ trần</a></li>
+<li class="level-1"><a href="#gia-quyen" title="">Gia quyến</a></li>
+<li class="level-2"><a href="#vo" title="">Vợ</a></li>
+<li class="level-2"><a href="#con" title="">Con</a></li>
+<li class="level-1"><a href="#nhan-dinh" title="">Nhận định</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >Thái Đức Hoàng Đế<br /> <font size="2">泰德帝</font></th> </tr> <tr> <td colspan="2" >Vua Việt Nam <small>(chi tiết...)</small></td> </tr> <tr> <td colspan="2" ><img alt="NguyenNhac.jpg" src="/images/wiki/nguyen-nhac/4173e5dc1f51146fe76ff53397630300.jpg" /> <div >Tượng Nguyễn Nhạc tại bảo tàng Quang Trung</div> </td> </tr> <tr> <th colspan="2" >Hoàng đế Đại Việt</th> </tr> <tr> <th scope="row">Trị vì</th> <td>1778 – 1788 <div class="timeline-wrapper"><map name="timeline_912da5e25acc1c3a308f03069d3f03b0" id="timeline_912da5e25acc1c3a308f03069d3f03b0"></map><img usemap="#timeline_912da5e25acc1c3a308f03069d3f03b0" src="/images/wiki/nguyen-nhac/b6ee85bdb3c204c9edb7843a04521be4.png" /></div> </td> </tr> <tr> <th scope="row">Đăng quang</th> <td>1778</td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td><font color="red"><b>Sáng lập triều đại</b></font></td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td><font color="blue">Quang Trung</font></td> </tr> <tr> <th colspan="2" >Tây Sơn Vương</th> </tr> <tr> <th scope="row">Tại vị</th> <td>1789 - 1793</td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td><font color="blue">Hiến Công</font></td> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Thê thiếp</th> <td> <ul> <li>Trần Thị Huệ<br /></li> <li>Ya Dố</li> </ul> </td> </tr> <tr> <th scope="row">Hậu duệ</th> <td> <table width="100%" class="collapsible collapsed" cellpadding="0" cellspacing="0" > <tr> <th >Hậu duệ</th> </tr> <tr> <td> <ul> <li><a class="annotation" href="/nhan-vat/nguyen-van-bao" title="Nguyễn Văn Bảo (阮文寶, 1776 - 1798): hay còn gọi là Nguyễn Bảo(阮寶), Tiểu triều vị vua bị phế truất của triều Tây Sơn...." target="_blank" >Nguyễn Văn Bảo</a><br /></li> <li>Nguyễn Thanh<br /></li> <li><a class="annotation" href="/nhan-vat/nguyen-han" title="Nguyễn Huân (1926–2017) là sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Chánh án Tòa án Quân sự Trung ương từ năm 1981 đến 1993...." target="_blank" >Nguyễn Hân</a><br /></li> <li>Nguyễn Văn Dũng<br /></li> <li>Nguyễn Văn Đức<br /></li> <li>Nguyễn Văn Lương<br /></li> <li>Thọ Hương<br /> <i>Và 2 người con gái khác</i></li> </ul> </td> </tr> </table> </td> </tr> <tr> <th scope="row">Tên thật</th> <td> <ul> <li>Hồ Nhạc<br /></li> <li>Nguyễn Văn Nhạc</li> </ul> </td> </tr> <tr> <th scope="row">Niên hiệu</th> <td>Thái Đức (泰德): 1778-1793</td> </tr> <tr> <th scope="row">Thụy hiệu</th> <td><font color="grey">Minh Đức Hoàng đế</font></td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Tây Sơn</td> </tr> <tr> <th scope="row">Thân phụ</th> <td>Nguyễn Phi Phúc</td> </tr> <tr> <th scope="row">Sinh</th> <td>1743<br /> Bình Định, Đàng Trong, Đại Việt</td> </tr> <tr> <th scope="row">Mất</th> <td>1793<br /> Quy Nhơn, Đại Việt</td> </tr> </table></div>
+<p><b>Nguyễn Nhạc</b> (chữ Hán: 阮岳; 1743 - 1793) hay còn gọi là <b>Nguyễn Văn Nhạc</b>, là vị vua sáng lập ra <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a>, ở ngôi hoàng đế từ năm 1778 đến năm 1788, xưng là <b>Thái Đức Hoàng Đế</b>. Từ năm 1789 - 1793, ông từ bỏ đế hiệu để trao lại quyền lãnh đạo cho em trai là hoàng đế Quang Trung, còn ông thay đổi tước hiệu của mình xuống thành <b>Tây Sơn vương</b>.</p>
+<p>Nguyễn Văn Nhạc và hai người em trai của ông, được biết với tên gọi <i>Anh em Tây Sơn</i>, là những lãnh đạo của cuộc khởi nghĩa Tây Sơn đã chấm dứt cuộc nội chiến kéo dài giữa hai tập đoàn phong kiến Trịnh ở phía Bắc và Nguyễn ở phía Nam, lật đổ hai tập đoàn này cùng <a class="annotation" href="/nhan-vat/nha-hau-le" title="Nhà Hậu Lê (Hán-Nôm: 家後黎・後黎朝, nhà Hậu Lê • Hậu Lê triều; 1427-1789) là một triều đại phong kiến Việt Nam, tồn tại sau thời Bắc thuộc lần 4 và đồng thời với nhà Mạc, nhà Tây Sơn trong một thời gian, trước nhà Nguyễn. 
+ Nhà Hậu Lê do Lê Thái Tổ lập ra, được phân biệt với nhà Tiền Lê (980-1009) do Lê Đ..." target="_blank" >nhà Hậu Lê</a>.</p>
+<p>Song ông không có ý muốn thống nhất đất nước khi đã tiêu diệt chúa Trịnh ở phía bắc mà lên ngôi hoàng đế khi đất nước chưa thống nhất. Về sau, ông đã bị lu mờ trước người đã tiếp tục lãnh đạo phong trào Tây Sơn trong công cuộc thống nhất đất nước là em trai ông, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>. Nhận thấy tài năng của em trai vượt hơn mình, để tránh nội bộ <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a> bị chia rẽ, ông giao lại quyền lãnh đạo cho em trai là <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, còn ông chỉ xưng là <b>Tây Sơn vương</b>, lui về ở tại thành Quy Nhơn. Năm 1793, ông uất ức rồi đột tử mà chết.</p>
+<p></p>
+<p></p>
+<a name="tieu-su"></a><h2>Tiểu sử</h2>
+<div class="thumb-img pull-left"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-nhac/17f541f77430b90d7b4105929cfb3687.jpg" /> <div class="caption"> <div class="magnify"></div> Nguồn gốc <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a></div> </div> </div>
+<p>Ba anh em Tây Sơn, Nguyễn Nhạc, <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> và <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> được gọi là <i>Tây Sơn tam kiệt</i>. Các nguồn tài liệu về thân thế Nguyễn Nhạc và anh em Tây Sơn chưa hoàn toàn thống nhất.</p>
+<p>Các sách <i>Đại Việt sử ký tục biên</i>, Hoàng Lê nhất thống chí, <i>Đại Nam thực lục tiền biên</i>, <i>Đại Nam chính biên liệt truyện</i>, Khâm định Việt sử Thông giám Cương mục đều ghi các thủ lĩnh Tây Sơn là họ Nguyễn, nhưng không nói tổ tiên là họ gì.</p>
+<p>Có giả thuyết cho rằng tổ tiên <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a> vốn họ Hồ ở làng Hương Cái, huyện Hưng Nguyên, <a class="annotation" href="/dia-danh/tinh-nghe-an" title="Nghệ An là tỉnh có diện tích lớn nhất Việt Nam thuộc vùng Bắc Trung Bộ. Trung tâm hành chính của tỉnh là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam.. Trước đây, Nghệ An cùng với Hà Tĩnh có cùng một tên chung là Hoan Châu (thời bắc thuộc), Nghệ An châu (đời nhà Lý, Trần), xứ Nghệ (năm ..." target="_blank" >tỉnh Nghệ An</a>. Họ theo chân chúa Nguyễn vào lập nghiệp miền Nam khi chúa Nguyễn vượt Lũy Thầy đánh ra đất Lê - Trịnh tới Nghệ An (năm 1655). Ông cố của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> tên là Hồ Phi Long (vào giúp việc cho nhà họ Đinh ở thôn Bằng Chân, <a class="annotation" href="/dia-danh/huyen-tuy-vien" title="Tuy Viễn là tên gọi để chỉ:..." target="_blank" >huyện Tuy Viễn</a>, tức An Nhơn) cưới vợ họ Đinh và sinh được một trai tên là Hồ Phi Tiễn. Hồ Phi Tiễn không theo việc nông mà bỏ đi buôn trầu ở ấp Tây Sơn, cưới vợ và định cư tại đó. Vợ của Hồ Phi Tiễn là Nguyễn Thị Đồng, con gái duy nhất của một phú thương đất Phú Lạc, do đó họ đổi họ của con cái mình từ họ Hồ sang họ Nguyễn của mẹ. Người con là Nguyễn Phi Phúc cũng chuyên nghề buôn trầu và làm ăn phát đạt. Cũng có tài liệu cho rằng họ Hồ đã đổi theo họ chúa Nguyễn ngay từ khi mới vào Nam<sup class="annotation badge" title="^ Xem Trung chi II họ Hồ Quỳnh Đôi và Tiểu chi Cụ Án, Trung chi 5">1</sup> <sup class="annotation badge" title="^ Việt Nam sử lược, Trần Trọng Kim, trang 70, (bản điện tử)">2</sup> <sup class="annotation badge" title="^ Khâm Định Việt Sử thông Giám Khương Mục, Quốc sử quán triều Nguyễn, bản điện tử, trang 294">3</sup> .</p>
+<p>Nguyễn Phi Phúc có tám người con, trong đó có ba người con trai: Nguyễn Nhạc, <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> và <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>. Lớn lên, ba anh em được đưa đến thụ giáo cả văn lẫn võ với thầy <a class="annotation" href="/nhan-vat/truong-van-hien" title="Trương Văn Hiến là thầy dạy học của ba thủ lĩnh của phong trào Tây Sơn là Nguyễn Nhạc, Nguyễn Huệ và Nguyễn Lữ trong lịch sử Việt Nam...." target="_blank" >Trương Văn Hiến</a>. Chính người thầy này đã phát hiện được khả năng khác thường của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> và khuyên ba anh em khởi nghĩa để xây dựng đại nghiệp. Tương truyền câu sấm: "Tây khởi nghĩa, Bắc thu công" là của ông.</p>
+<p>Trong những năm đầu tiên, Nguyễn Nhạc đóng vai trò quan trọng nhất. Tương truyền trước khi nổi dậy ông từng đi buôn trầu nên được gọi là <b>Hai Trầu</b>. Có sách nói Nguyễn Nhạc làm chức biện lại nên còn gọi là <b>Biện Nhạc</b>. Sử nhà Nguyễn chép rằng ông được chúa Nguyễn giao cho việc thu thuế trong vùng nhưng mang tiền thu thuế đánh bạc mất hết, cùng quẫn phải nổi dậy. Tuy nhiên theo các nhà nghiên cứu, tình tiết này thực chất là dụng ý nói xấu người "phản loạn" của nhà Nguyễn sau khi họ đã thắng trận.<sup class="annotation badge" title="^ Phong trào nông dân Tây Sơn - PGS Nguyễn Phan Quang; Việt Nam thời Tây Sơn - Lịch sử nội chiến 1771-1802, Tạ Trí Đại Trường">4</sup> .</p>
+<a name="khoi-nghia"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Khởi nghĩa</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-nhac/96db1568a1cf8613920746d3f29bb48e.jpg" /> <div class="caption"> <div class="magnify"></div> Ba anh em Nguyễn Nhạc: Nguyễn Nhạc, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a></div> </div> </div>
+<p>Từ khi Vũ vương <a class="annotation" href="/nhan-vat/nguyen-phuc-khoat" title="Nguyễn Phúc Khoát (chữ Hán: 阮福濶), húy là Hiểu (chữ Hán: 曉), còn gọi là Chúa Võ, hiệu Vũ Vương hoặc Võ Vương (1714–1765) là vị chúa Nguyễn thứ 8 của chính quyền Đàng Trong trong lịch sử Việt Nam, ở ngôi từ năm 1738 đến năm 1765...." target="_blank" >Nguyễn Phúc Khoát</a> qua đời (1765), chính sự họ Nguyễn ở Đàng Trong rối ren quanh việc chọn người lên ngôi chúa. Vũ vương vốn trước lập con thứ 9 (nhưng do chính cung sinh) là Nguyễn Phúc Hiệu làm thế tử, nhưng Hiệu mất sớm, để lại người con là <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a>. Con cả của Vũ vương là Nguyễn Phúc Chương cũng đã mất. Đáng lý ra theo thứ tự khi <a class="annotation" href="/nhan-vat/nguyen-phuc-khoat" title="Nguyễn Phúc Khoát (chữ Hán: 阮福濶), húy là Hiểu (chữ Hán: 曉), còn gọi là Chúa Võ, hiệu Vũ Vương hoặc Võ Vương (1714–1765) là vị chúa Nguyễn thứ 8 của chính quyền Đàng Trong trong lịch sử Việt Nam, ở ngôi từ năm 1738 đến năm 1765...." target="_blank" >Nguyễn Phúc Khoát</a> qua đời, phải lập người con thứ hai là <a class="annotation" href="/nhan-vat/nguyen-phuc-luan" title="Nguyễn Phúc Luân (chữ Hán: 阮福㫻, 11 tháng 6 năm 1733 - 24 tháng 10 năm 1765), còn gọi là Nguyễn Hưng Tổ (阮興祖), là một vương tử ở Đàng Trong, được di chiếu sẽ lên ngôi chúa Nguyễn ở Đàng Trong nhưng không thành. Ông bị quyền thần ngoại thích là Trương Phúc Loan sát hại. 
+ Ông là cha của Gia Long, vị h..." target="_blank" >Nguyễn Phúc Luân</a> lên ngôi, nhưng quyền thần <a class="annotation" href="/nhan-vat/truong-phuc-loan" title="Trương Phúc Loan (chữ Hán: 張福巒;&amp;#160;? - 1776) là một quyền thần cuối thời các Chúa Nguyễn ở Đàng trong. Trong hơn mười năm cầm quyền bính, Trương Phúc Loan đã lạm dụng quyền hành vì quyền lợi cá nhân, khuynh đảo chính sự ở Đàng trong, và ông là nguyên nhân chính khiến chính quyền các Chúa Nguyễn sụ..." target="_blank" >Trương Phúc Loan</a> nắm lấy triều chính, tự xưng là "Quốc phó", giết Luân mà lập người con thứ 16 của Vũ vương là <a class="annotation" href="/nhan-vat/nguyen-phuc-thuan" title="Nguyễn Phúc Thuần (chữ Hán: 定王 阮福淳; 1754 - 1776, ở ngôi 1765 - 1776) là Chúa Nguyễn thứ 9 trong lịch sử Việt Nam, quê gốc ở Gia Miêu, huyện Tống Sơn, Thanh Hóa, Việt Nam...." target="_blank" >Nguyễn Phúc Thuần</a> mới 12 tuổi lên ngôi, tức là Định vương, để dễ bề thao túng. Trong triều cũng như bên ngoài dư luận nhiều người bất bình vì khi Luân đã chết thì ngôi chúa lẽ ra phải thuộc về <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a>.</p>
+<p>Nhân cơ hội đó, Nguyễn Nhạc tập hợp lực lượng nổi dậy ở ấp Tây Sơn. Quân Tây Sơn bao gồm người Kinh, người Thượng, người Hoa tham gia rất đông. Khởi phát từ ấp Tây Sơn, ba anh em Nguyễn Nhạc, <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a>, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> tập hợp lực lượng, ban đầu chủ yếu là đồng bào người Thượng,gây dựng chiến khu, đứng lên khởi nghĩa. Lấy danh nghĩa chống lại Quốc phó <a class="annotation" href="/nhan-vat/truong-phuc-loan" title="Trương Phúc Loan (chữ Hán: 張福巒;&amp;#160;? - 1776) là một quyền thần cuối thời các Chúa Nguyễn ở Đàng trong. Trong hơn mười năm cầm quyền bính, Trương Phúc Loan đã lạm dụng quyền hành vì quyền lợi cá nhân, khuynh đảo chính sự ở Đàng trong, và ông là nguyên nhân chính khiến chính quyền các Chúa Nguyễn sụ..." target="_blank" >Trương Phúc Loan</a>, ủng hộ hoàng tôn <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> là cháu đích tôn của Vũ vương <a class="annotation" href="/nhan-vat/nguyen-phuc-khoat" title="Nguyễn Phúc Khoát (chữ Hán: 阮福濶), húy là Hiểu (chữ Hán: 曉), còn gọi là Chúa Võ, hiệu Vũ Vương hoặc Võ Vương (1714–1765) là vị chúa Nguyễn thứ 8 của chính quyền Đàng Trong trong lịch sử Việt Nam, ở ngôi từ năm 1738 đến năm 1765...." target="_blank" >Nguyễn Phúc Khoát</a>, Nguyễn Nhạc phất cờ nổi dậy năm 1771. Bởi Tây Sơn mang danh nghĩa ủng hộ hoàng tôn Dương và khi đánh trận thường la ó ầm ĩ nên dân gian có câu:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Binh triều là binh Quốc phó<br /> Binh ó là binh Hoàng tôn.</i></td> <td >”</td> </tr> </table>
+<p>Sau khi đứng vững ở địa bàn ấp Tây Sơn, năm sau, cuộc khởi nghĩa lan rộng và nghĩa quân đã thắng một số trận chống lại quân chúa Nguyễn được phái tới đàn áp cuộc khởi nghĩa. Bấy giờ ở Quy Nhơn có nhà giàu là Huyền Khê thường giúp tài chính cho Nguyễn Nhạc, nhân đó ông sắm thêm được nhiều vũ khí và chiêu mộ thêm được nhiều quân.</p>
+<p>Năm 1773, Nguyễn Nhạc đánh chiếm ấp Kiến Thành, rồi chia cho các tướng cùng coi giữ: chủ trại nhất Nguyễn Nhạc giữ hai huyện Phù Ly và Bồng Sơn, chủ trại nhì Nguyễn Thung giữ huyện Tuy Viền, chủ trại ba Huyền Khê coi việc hậu cần. Không những tập hợp cả những tay lục lâm như Nhưng Huy, Tứ Linh, Nguyễn Nhạc còn mật liên lạc với nữ chúa của nước Chiêm Thành sót lại lúc đó <sup class="annotation badge" title="^ Sau khi chiếm gần hết đất Chiêm Thành, chúa Nguyễn an trí dòng họ vua Chiêm ở Bình Thuận">5</sup> <sup class="annotation badge" title="^ Về sau, nữ chúa đó bị quân Nguyễn giết">6</sup>  đem quân đóng ở trại Thạch Thành để cứu lẫn nhau.</p>
+<a name="ha-thanh-quy-nhon"></a><h2>Hạ thành Quy Nhơn</h2>
+<p>Sau khi đứng vững ở căn cứ, Nguyễn Nhạc quyết định đánh thành Quy Nhơn, một trọng trấn của Đàng Trong, vốn xưa là kinh <a class="annotation" href="/dia-danh/thanh-do-ban" title="Thành Đồ Bàn hay Vijaya (tiếng Phạn विजय,&amp;#160;nghĩa Việt: Thắng lợi) còn gọi là thành cổ Chà Bàn hoặc thành Hoàng Đế, nay thuộc địa phận xã Nhơn Hậu, Thị xã An Nhơn và cách thành phố Quy Nhơn (tỉnh Bình Định, Việt Nam) 27&amp;#160;km về hướng tây bắc, là tên kinh đô của Chăm Pa trong thời kỳ Chăm Pa có..." target="_blank" >thành Đồ Bàn</a> của nước Chiêm Thành cũ. Quy Nhơn là trung tâm của khu vực Nam Trung bộ, nếu làm chủ Quy Nhơn có thể làm chủ cả khu vực này.</p>
+<p>Để đánh chiếm thành, Nguyễn Nhạc đã vận dụng mưu kế rất táo bạo. Ông tự ngồi vào cũi cho quân lính khiêng tới thành Quy Nhơn nộp cho tướng giữ thành là Nguyễn Khắc Tuyên, giả làm quân lính phản Tây Sơn, bắt tướng "giặc" về hàng với chúa Nguyễn. Khắc Tuyên tin là thật nên cho quân áp giải Nguyễn Nhạc vào. Nửa đêm, quân Tây Sơn trá hàng mở cũi cho Nguyễn Nhạc, ông cùng binh lính nổi dậy phối hợp với quân ngoại viện từ ngoài ùa vào đánh chiếm thành Quy Nhơn. Nguyễn Khắc Tuyên vội bỏ cả gia đình và ấn tín chạy trốn.</p>
+<p>Từ Quy Nhơn, Nguyễn Nhạc tiến ra đánh chiếm Quảng Ngãi. Sau đó ông đem quân vào đánh Phú Yên. Đến cuối năm 1773, quân Tây Sơn thắng như chẻ tre, nhanh chóng chiếm được Phú Yên, Diên Khánh, Bình Khang, Bình Thuận, quân Nguyễn phải rút vào Nam bộ.Quân Tây Sơn làm chủ vùng đất Quảng.</p>
+<a name="luong-dau-tho-dich"></a><h2>Lưỡng đầu thọ địch</h2>
+<p>Đầu năm 1774, chúa Nguyễn sai Tôn Thất Thăng mang quân từ Quảng Nam vào đánh Tây Sơn nhưng vừa thấy quân Tây Sơn, Thăng đã bỏ chạy. Nguyễn Nhạc đánh Bến Ván, uy hiếp Quảng Nam. Bấy giờ có hai người Tàu là Tập Đình và <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> mộ dũng sĩ hưởng ứng Tây Sơn. Nhân cơ hội đó, Nguyễn Nhạc lại đánh Quảng Nam, nhưng bị cai đội Nguyễn Cửu Dật đánh lui, phải rút về Thiên Lộc. Giữa năm 1774, chúa Nguyễn lại cử Tống Phúc Hiệp mang quân từ Gia Định theo hai đường thuỷ bộ ra đánh Nam Trung bộ, nhanh chóng lấy lại Bình Thuận, Diên Khánh, Bình Khang. Nguyễn Nhạc chỉ còn làm chủ từ Phú Yên ra Quảng Ngãi.</p>
+<p>Tuy nhiên lúc Tây Sơn vừa mất Bình Khang thì phía bắc lại có biến. Nhân lúc Đàng trong rối ren, cuối năm 1774, chúa <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> cử lão tướng Việp quận công <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> làm Bình Nam thượng tướng quân, mang 3 vạn quân vượt <a class="annotation" href="/dia-danh/song-gianh" title="Sông Gianh là một con sông chảy trên địa phận tỉnh Quảng Bình, bắt nguồn từ khu vực ven núi Cô Pi cao 2.017 m thuộc dãy Trường Sơn, chảy qua địa phận các huyện Minh Hóa, Tuyên Hoá, Quảng Trạch, Bố Trạch để đổ ra biển Đông ở Cửa Gianh...." target="_blank" >sông Gianh</a> nam tiến, cũng lấy lý do trừ khử <a class="annotation" href="/nhan-vat/truong-phuc-loan" title="Trương Phúc Loan (chữ Hán: 張福巒;&amp;#160;? - 1776) là một quyền thần cuối thời các Chúa Nguyễn ở Đàng trong. Trong hơn mười năm cầm quyền bính, Trương Phúc Loan đã lạm dụng quyền hành vì quyền lợi cá nhân, khuynh đảo chính sự ở Đàng trong, và ông là nguyên nhân chính khiến chính quyền các Chúa Nguyễn sụ..." target="_blank" >Trương Phúc Loan</a>, lập <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a>. Quân Trịnh lần lượt chiếm Bố Chính, Đồng Hới và tiến đến Thuận Hoá. Quân Nguyễn yếu thế, chúa Nguyễn phải trói <a class="annotation" href="/nhan-vat/truong-phuc-loan" title="Trương Phúc Loan (chữ Hán: 張福巒;&amp;#160;? - 1776) là một quyền thần cuối thời các Chúa Nguyễn ở Đàng trong. Trong hơn mười năm cầm quyền bính, Trương Phúc Loan đã lạm dụng quyền hành vì quyền lợi cá nhân, khuynh đảo chính sự ở Đàng trong, và ông là nguyên nhân chính khiến chính quyền các Chúa Nguyễn sụ..." target="_blank" >Trương Phúc Loan</a> nộp quân Trịnh, nhưng sau đó <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> vẫn tiến quân, đầu năm 1775 đánh chiếm Phú Xuân. Chúa Nguyễn không chống nổi phải bỏ chạy vào Quảng Nam.</p>
+<p>Nguyễn Nhạc nhân thời cơ đó mang quân hai đường thuỷ bộ ra đánh Quảng Nam. <a class="annotation" href="/nhan-vat/nguyen-phuc-thuan" title="Nguyễn Phúc Thuần (chữ Hán: 定王 阮福淳; 1754 - 1776, ở ngôi 1765 - 1776) là Chúa Nguyễn thứ 9 trong lịch sử Việt Nam, quê gốc ở Gia Miêu, huyện Tống Sơn, Thanh Hóa, Việt Nam...." target="_blank" >Nguyễn Phúc Thuần</a> vội bỏ Quảng Nam theo đường biển trốn vào Gia Định, phong <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> làm thế tử, ở lại Quảng Nam. Tháng 2 năm 1775, quân Trịnh tiến vào Quảng Nam. Quân Tây Sơn sai <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> rước Phúc Dương về Hội An. Quân Trịnh vượt đèo Hải Vân và đụng độ với quân Tây Sơn. Nguyễn Nhạc cử hai tướng người Hoa là Tập Đình làm tiên phong, <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> làm trung quân đánh Trịnh. <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> đang đà thắng lợi, đánh bại quân Tây Sơn ở Cẩm Sa. Tập Đình bỏ chạy tháo thân, theo đường biển về Trung Quốc, vì Nguyễn Nhạc muốn nhân cơ hội thua bắt giết do Tập Đình vốn là người bạo ngược, nhưng sau đó bị <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> bắt chém. Nguyễn Nhạc phải rút quân về Quy Nhơn.</p>
+<p>Nhân lúc Nguyễn Nhạc thua trận, Tống Phúc Hiệp lại từ Bình Khang ra đánh Phú Yên, quân Tây Sơn lại thua phải co về Quy Nhơn. Như vậy địa bàn của Nguyễn Nhạc chỉ còn Quy Nhơn và Quảng Ngãi.</p>
+<a name="hoa-bac-danh-nam"></a><h2>Hoà bắc đánh nam</h2>
+<p>Tình thế của Nguyễn Nhạc và quân Tây Sơn lúc đó rất nguy ngập. Cả quân Trịnh lẫn quân Nguyễn từ hai đằng đánh tới đều đang ở thế thắng trận. Nếu mang quân ra đương đầu với cả hai phía thì chắc chắn Nguyễn Nhạc sẽ bị tiêu diệt. Đứng trước tình thế đó, ông đã sáng suốt đưa ra quyết định đúng đắn.</p>
+<p>Nhận thấy quân Trịnh đang ở thế thắng liên tiếp từ khi vào nam, tiềm lực của Bắc hà lại lớn không thể đương đầu, Nguyễn Nhạc quyết định xin giảng hoà với chúa Trịnh để tập trung vào chiến trường phía nam. Ông sai người đến chỗ <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> xin đầu hàng và làm tiên phong cho chúa Trịnh để đánh chúa Nguyễn. Quân Trịnh đi xa bấy giờ đã mệt mỏi, quân sĩ nhớ nhà, <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> cũng muốn mượn sức Tây Sơn diệt họ Nguyễn nên nhân danh chúa Trịnh cho Nguyễn Nhạc hàng, phong làm "Tây Sơn trưởng hiệu tráng tiết tướng quân",sai <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> trao cờ và ấn kiếm cho ông. Dù thế, quận Việp lão luyện vẫn không lui quân, đóng sát địa giới Quảng Ngãi, định chờ nếu Tây Sơn bại trận sẽ tiến vào chiếm Quảng Ngãi và Quy Nhơn.</p>
+<p>Tống Phúc Hiệp lại sai sứ bắt Nguyễn Nhạc trả lại thế tử <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a>. Trước tình thế nguy ngập, Nguyễn Nhạc giả vờ nhận lời, rồi bí mất đưa thế tử ra Hà Liêu.</p>
+<a name="loai-bo-nguy-co-phia-bac"></a><h2>Loại bỏ nguy cơ phía bắc</h2>
+<p>Tạm yên mặt bắc nhưng Nguyễn Nhạc ở vào tình thế chỉ có một lựa chọn là phải thắng trận để chiếm lại Phú Yên từ tay quân Nguyễn, nếu không sẽ bị quân Trịnh đánh chụp.</p>
+<p>Trong tình thế các tướng đều thua trận bạc nhược, Nguyễn Nhạc quyết định cử em là <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, mới 23 tuổi, người sau này trở thành nhà quân sự kiệt xuất của Tây Sơn, làm chủ tướng mang quân vào nam. Để hỗ trợ cho <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, nhân nắm con bài <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> trong tay, Nguyễn Nhạc gả con gái cho Dương<sup class="annotation badge" title="^ Nhưng Nguyễn Phúc Dương biết Nguyễn Nhạc không thực lòng với mình bèn từ chối">7</sup> , rồi sai người vào Phú Yên điều đình với Tống Phúc Hiệp việc lập Phúc Dương làm chúa và cùng đánh Trịnh. Việc đàm phán đến nửa chừng thì <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> kéo quân tới đánh khiến Hiệp không kịp trở tay. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bắt sống Nguyễn Khoa Kiên, giết <a class="annotation" href="/nhan-vat/nguyen-van-hien" title="Nguyễn Văn Hiền là một doanh nhân người Đức gốc Việt. Ông là Chủ tịch Hội đồng quản trị Trung tâm Thương mại Đồng Xuân, trung tâm thương mại lớn nhất của người Việt tại Đức. 
+ Nguyễn Văn Hiền sinh năm 1957 tại thành phố Ninh Bình. Ông sang Đông Đức lao động lúc được 30 tuổi. Hai năm sau khi bức tườn..." target="_blank" >Nguyễn Văn Hiền</a>, Hiệp bỏ chạy. Tướng Nguyễn ở Bình Khang là Bùi Công Kế mang quân ra cứu bị <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bắt sống. Tướng khác là Tống Văn Khôi ở Khánh Hoà ra đánh cũng bị <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> giết tại trận.</p>
+<p><a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a> nhân lúc Tây Sơn mang quân vào nam liền lấn tới đóng quân ở Chu Ổ thuộc Quảng Ngãi, nhưng sau nghe tin <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> thắng trận không dám tiến nữa. Để tăng thêm thanh thế, Nguyễn Nhạc yêu cầu quận Việp phong chức cho em và <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> được phong làm "Tây Sơn hiệu tiền tướng quân". Ít lâu sau vì tuổi già sức yếu, quận Việp bỏ Quảng Nam lui về Phú Xuân rồi giao lại thành này cho các tướng dưới quyền, còn mình dẫn đại quân về bắc, sau bệnh chết dọc đường.</p>
+<p>Nhân lúc quân Trịnh rút khỏi Quảng Nam, các tướng cũ của họ Nguyễn lại nổi dậy chiếm nơi này. Nguyễn Nhạc lại điều <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> từ Phú Yên ra đánh tan quân Nguyễn, lấy lại Quảng Nam.</p>
+<a name="danh-gia-dinh"></a><h2>Đánh Gia Định</h2>
+<a name="lan-thu-nhat"></a><h3>Lần thứ nhất</h3>
+<p><a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> ra bắc để lại tướng người Hoa là <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> giữ thành Phú Yên. Tài bất mãn vì mất chức chánh tướng về tay <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> nên nghe theo lời dụ của Tống Phúc Hiệp, sang hàng chúa Nguyễn. Tây Sơn lại mất Phú Yên.</p>
+<p>Để chia thế quân Nguyễn, đầu năm 1776, Nguyễn Nhạc sai <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> mang quân theo đường thuỷ vào đánh Gia Định. <a class="annotation" href="/nhan-vat/nguyen-phuc-thuan" title="Nguyễn Phúc Thuần (chữ Hán: 定王 阮福淳; 1754 - 1776, ở ngôi 1765 - 1776) là Chúa Nguyễn thứ 9 trong lịch sử Việt Nam, quê gốc ở Gia Miêu, huyện Tống Sơn, Thanh Hóa, Việt Nam...." target="_blank" >Nguyễn Phúc Thuần</a> bỏ chạy về Bà Rịa. <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> chiếm được Gia Định nhưng không lâu sau các tướng Nguyễn là <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a>, <a class="annotation" href="/nhan-vat/mac-thien-tu" title="Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫), là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu. 
+ Khi cha ông qua đời (1735), lúc ấy ông đã 29 tuổi, ..." target="_blank" >Mạc Thiên Tứ</a>, Tống Phúc Hiệp, <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> đang tụ tập dần về Nam Bộ. <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> liền thu hết kho tàng của chúa Nguyễn rút về Quy Nhơn.</p>
+<p>Tháng 3 năm 1776, Nguyễn Nhạc sai <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> đem quân đánh Gia Định. <a class="annotation" href="/nhan-vat/nguyen-phuc-thuan" title="Nguyễn Phúc Thuần (chữ Hán: 定王 阮福淳; 1754 - 1776, ở ngôi 1765 - 1776) là Chúa Nguyễn thứ 9 trong lịch sử Việt Nam, quê gốc ở Gia Miêu, huyện Tống Sơn, Thanh Hóa, Việt Nam...." target="_blank" >Nguyễn Phúc Thuần</a> không có quân trong tay nên không chống lại, chạy vào <a class="annotation" href="/dia-danh/tran-bien" title="Trấn Biên có thể là:..." target="_blank" >Trấn Biên</a>. Quân Tây Sơn đại thắng.</p>
+<p>Tháng 6 năm 1776, Tống Phước Hiệp qua đời, <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a>, thủ lĩnh quân Đông Sơn hiềm khích với <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a>, đem quân đến đánh. <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> lúc đó từ quy Nhơn trốn về, ra lệnh cho <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> rút quân.</p>
+<a name="lan-thu-hai"></a><h3>Lần thứ hai</h3>
+<p>Tháng 10 năm 1776, <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> bỏ trốn từ Quy Nhơn về Gia Định, gọi <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> làm vây cánh. Tài tranh công với <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a>, hai bên đánh nhau. Nhân thua bỏ Gia Định về Ba Giòng. Tài ép Thuần nhường ngôi cho Dương làm <i>Tân chính vương</i>, còn Thuần làm <i>Thái thượng vương</i>.</p>
+<p>Tháng 3 năm 1777, Nguyễn Nhạc lại cử <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> làm tướng mang quân thuỷ vào đánh Gia Định. <a class="annotation" href="/nhan-vat/ly-tai" title="Lý Tài (李才,&amp;#160;?-1777) là tướng Việt Nam thời kỳ nội chiến Tây Sơn - chúa Nguyễn cuối thế kỷ 18 trong lịch sử Việt Nam. Ông vốn là một thương gia và là hải tặc người Hoa, trở thành chỉ huy trong lực lượng quân Tây Sơn; sau đó theo giúp chúa Nguyễn và cuối cùng bị chết trong cuộc tranh chấp quyền l..." target="_blank" >Lý Tài</a> thua trận bỏ chạy khỏi thành, đưa 2 chúa Nguyễn về Hóc Môn. Sau Tài rút khỏi Hóc Môn bị <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a> đón đường giết chết. Thuần theo Nhân giữ Tranh Giang, Dương theo tướng Trương Phúc Thận giữ Tài Phụ. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> chia đường đánh bại cả hai cánh quân Nguyễn. Thuần và Nhân bỏ chạy về Cần Thơ cầu viện <a class="annotation" href="/nhan-vat/mac-thien-tu" title="Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫), là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu. 
+ Khi cha ông qua đời (1735), lúc ấy ông đã 29 tuổi, ..." target="_blank" >Mạc Thiên Tứ</a> (tướng người Hoa), còn Dương bỏ chạy về Ba Việt (Bến Tre).</p>
+<p><a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đánh bại <a class="annotation" href="/nhan-vat/mac-thien-tu" title="Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫), là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu. 
+ Khi cha ông qua đời (1735), lúc ấy ông đã 29 tuổi, ..." target="_blank" >Mạc Thiên Tứ</a>. Thuần sai Nhân lẻn ra Bình Thuận cầu cứu Chu Văn Tiếp, <a class="annotation" href="/nhan-vat/tran-van-thuc" title="Trần Văn Thức (sinh 1952) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bà Rịa - Vũng Tàu...." target="_blank" >Trần Văn Thức</a>. Nguyễn Nhạc nhân lúc <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> thắng trận ở Nam bộ cũng cử binh đánh Phú Yên, Bình Thuận. Một cánh quân Tây Sơn ở Biên Hoà chặn đánh giết chết <a class="annotation" href="/nhan-vat/tran-van-thuc" title="Trần Văn Thức (sinh 1952) là đại biểu Quốc hội Việt Nam khóa 12, thuộc đoàn đại biểu Bà Rịa - Vũng Tàu...." target="_blank" >Trần Văn Thức</a>. Chu Văn Tiếp bỏ chạy. Nguyễn Nhạc chiếm lại Phú Yên đến Bình Thuận.</p>
+<p>Tháng 9 năm 1777, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> mang quân bao vây tấn công Ba Việt, bắt sống <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> và toàn bộ quân tướng. Dương và 18 tướng tuỳ tùng bị đưa về Gia Định xử tử.</p>
+<p><a class="annotation" href="/nhan-vat/nguyen-phuc-thuan" title="Nguyễn Phúc Thuần (chữ Hán: 定王 阮福淳; 1754 - 1776, ở ngôi 1765 - 1776) là Chúa Nguyễn thứ 9 trong lịch sử Việt Nam, quê gốc ở Gia Miêu, huyện Tống Sơn, Thanh Hóa, Việt Nam...." target="_blank" >Nguyễn Phúc Thuần</a> bại trận bỏ Cần Thơ sang Long Xuyên, định chờ <a class="annotation" href="/nhan-vat/mac-thien-tu" title="Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫), là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu. 
+ Khi cha ông qua đời (1735), lúc ấy ông đã 29 tuổi, ..." target="_blank" >Mạc Thiên Tứ</a> lấy tàu để chạy sang Trung Quốc cầu viện <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> nhưng bị quân Tây Sơn đuổi đến nơi, bắt được Thuần mang về Gia Định xử tử tháng 10 năm 1777. <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>, <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a> và <a class="annotation" href="/nhan-vat/mac-thien-tu" title="Mạc Thiên Tứ (鄚天賜), tự là Sĩ Lân (士麟), còn gọi là Mạc Thiên Tích (鄚天錫), là danh thần đời chúa Nguyễn. Ông sinh năm Mậu Tuất (1708) và mất năm Canh Tý (1780) (1708-1780). Ông là con Tổng binh Mạc Cửu - người được chúa Nguyễn phong là Tông Đức hầu. 
+ Khi cha ông qua đời (1735), lúc ấy ông đã 29 tuổi, ..." target="_blank" >Mạc Thiên Tứ</a> trốn thoát mỗi người một nơi.</p>
+<a name="lan-thu-ba"></a><h3>Lần thứ ba</h3>
+<p>Nguyễn Nhạc làm chủ toàn bộ đất đai từ Quảng Nam đến Hà Tiên. Năm 1778, ông lên ngôi hoàng đế, lấy niên hiệu là <b>Thái Đức</b>, không ràng buộc với chính quyền vua Lê chúa Trịnh ở Bắc Hà nữa.</p>
+<p>Sau khi <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> trở về Quy Nhơn, các tướng Nguyễn là <a class="annotation" href="/nhan-vat/do-thanh-nhan" title="Đỗ Thanh Nhơn (? - 1781) là một danh tướng Việt Nam cuối thế kỷ 18 dưới thời chúa Nguyễn Phúc Ánh. Cùng với Võ Tánh, Châu Văn Tiếp, ông được người đương thời xưng tụng là &quot;Gia Ðịnh tam hùng&quot;...." target="_blank" >Đỗ Thanh Nhân</a>, Chu Văn Tiếp nổi dậy, đón <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>, con <a class="annotation" href="/nhan-vat/nguyen-phuc-luan" title="Nguyễn Phúc Luân (chữ Hán: 阮福㫻, 11 tháng 6 năm 1733 - 24 tháng 10 năm 1765), còn gọi là Nguyễn Hưng Tổ (阮興祖), là một vương tử ở Đàng Trong, được di chiếu sẽ lên ngôi chúa Nguyễn ở Đàng Trong nhưng không thành. Ông bị quyền thần ngoại thích là Trương Phúc Loan sát hại. 
+ Ông là cha của Gia Long, vị h..." target="_blank" >Nguyễn Phúc Luân</a> về lập làm chúa, chiếm lại Gia Định. Được các lực lượng phương Tây như Pháp, Bồ Đào Nha giúp sức, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> lại mạnh lên. Năm 1778, vua Thái Đức sai tướng vào đánh nhưng lại bị thua và mất thêm Bình Thuận.</p>
+<p>Năm 1781, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> sợ uy quyền của Nhân quá lớn nên giết Nhân, lại đem quân đánh ra Bình Khang nhưng bị quân của vua Thái Đức đánh bại. Tháng 3 năm 1782, vua Thái Đức và <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> mang quân thuỷ bộ nam tiến, phá tan quân Nguyễn, giết chết cai cơ người Pháp là Manuel (Mạn Hoè). <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> bỏ chạy về Hậu Giang. Chu Văn Tiếp từ Bình Thuận vào cứu bị đánh bại phải co về. <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> cùng thế sai người sang Xiêm cầu viện.</p>
+<p>Vua Thái Đức chiếm lại Nam bộ, sai người giao hảo với Chân Lạp đề nghị hợp tác đánh <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>. Chân Lạp chia quân đón bắt được đoàn cầu viện Xiêm của <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> và suýt bắt được ông ta. <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> phải trốn ra <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a>.</p>
+<a name="lan-thu-tu"></a><h3>Lần thứ tư</h3>
+<p>Nguyễn Nhạc rút quân về bắc, Chu Văn Tiếp lại từ Bình Thuận mang quân vào đánh chiếm được Gia Định và đón <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> trở về. Tháng 2 năm 1783, Nguyễn Nhạc lại sai <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> mang quân nam tiến.</p>
+<p>Dù <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> đã lập tuyến phòng thủ trước vẫn bị quân Tây Sơn phá tan, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> bỏ chạy về Đồng Tuyên. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đánh phá Đồng Tuyên, Ánh bỏ chạy ra Hà Tiên rồi trốn ra <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a>. Tháng 8 năm 1783, quân Tây Sơn truy kích, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> chạy một vòng ra các đảo Cổ Long, Cổ Cốt rồi lại quay về Phú Quốc. Quân Tây Sơn vây đánh nhưng lúc đó có bão biển, các thuyền Tây Sơn phải giãn ra, sau 7 ngày đêm lênh đênh trên biển, Ánh thừa cơ lại trốn thoát, chạy hẳn ra <a class="annotation" href="/dia-danh/dao-tho-chu" title="Thổ Châu (hoặc Thổ Chu) là đảo lớn nhất trong quần đảo Thổ Châu và là trung tâm hành chính của xã Thổ Châu thuộc huyện Phú Quốc, tỉnh Kiên Giang, Việt Nam. Từ lâu, các hải đồ của người phương Tây thường gọi đảo này là Poulo Panjang (gốc từ tiếng Mã Lai Pulau Panjang, nghĩa là &quot;cù lao dài&quot; hoặc &quot;đảo ..." target="_blank" >đảo Thổ Chu</a> cách xa đất liền rồi đầu năm sau tự mình sang Xiêm La cầu viện.</p>
+<a name="chien-thang-ngoai-mong-doi"></a><h2>Chiến thắng ngoài mong đợi</h2>
+<p><a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> cầu viện được quân Xiêm, trở lại Nam bộ năm 1784 nhưng sang đầu năm 1785 lại bị <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> phá tan trong Trận Rạch Gầm - Xoài Mút nổi tiếng, Chu Văn Tiếp bị giết. <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> phải chạy sang Xiêm sống lưu vong.</p>
+<p>Năm 1782, Bắc hà có biến, phe người con lớn của chúa <a class="annotation" href="/nhan-vat/trinh-sam" title="Tĩnh Đô vương Trịnh Sâm (chữ Hán: 靖都王鄭森, 9 tháng 2 năm 1739 - 13 tháng 9 năm 1782), thụy hiệu Thánh Tổ Thịnh vương (聖祖盛王), là vị chúa Trịnh thứ 8 thời Lê Trung Hưng trong lịch sử Việt Nam, cai trị từ năm 1767 đến 1782. Ông người làng Sóc Sơn, huyện Vĩnh Lộc, Thanh Hoá, Việt Nam. 
+ Từ nhỏ ông đã được..." target="_blank" >Trịnh Sâm</a> vừa chết là Trịnh Tông làm binh biến lật đổ người con nhỏ mới được lập là <a class="annotation" href="/nhan-vat/trinh-can" title="Điện Đô vương Trịnh Cán (chữ Hán: 鄭檊, 1777 – 1782) là vị chúa Trịnh thứ 9 thời Lê Trung Hưng trong lịch sử Việt Nam, ở ngôi từ tháng 9 đến tháng 11 năm 1782, là con trai của chúa Trịnh Sâm và Tuyên phi Đặng Thị Huệ. Trịnh Cán sinh và mất tại thành Thăng Long khi mới 6 tuổi...." target="_blank" >Trịnh Cán</a>. Một tướng Bắc hà là <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> (thủ hạ cũ của <a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a>) không hợp tác với Trịnh Tông nên bỏ vào nam hàng Tây Sơn và được vua Thái Đức tin dùng.</p>
+<p>Năm 1786, khi tình hình phía nam đã tạm yên, Hữu Chỉnh khuyên vua Thái Đức đánh Phú Xuân để khôi phục lại đất đai của chúa Nguyễn trước đây. Vua Thái Đức đồng ý, liền cử <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> làm chỉ huy cùng các tướng <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> và phò mã <a class="annotation" href="/nhan-vat/vu-van-nham" title="Vũ Văn Nhậm (chữ Hán: 武文任,&amp;#160;? - 1788) hay Võ Văn Nhậm, là một danh tướng nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Vũ Văn Nhậm</a> (con rể vua Thái Đức) bắc tiến.</p>
+<p>Quân Trịnh ở Phú Xuân bị quân Tây Sơn dùng kế lừa khiến mất cảnh giác và nghi ngờ lẫn nhau. Tháng 5 năm 1786, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> nhanh chóng đánh chiếm thành Phú Xuân. Nghe theo kế của <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> - người muốn trả thù Trịnh Tông, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> quyết định mang quân ra đánh Thăng Long mà không hỏi ý vua anh. Vua Thái Đức nghe tin em đã mang quân bắc tiến, sai người đuổi theo gọi về nhưng không kịp.</p>
+<p>Với khẩu hiệu "Phù Lê diệt Trịnh", chỉ trong 1 tháng, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đánh bại quân Trịnh, Trịnh Tông tự sát. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> tôn phò <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> và được vua Lê Hiển Tông gả công chúa <a class="annotation" href="/nhan-vat/le-ngoc-han" title="Lê Ngọc Hân (chữ Hán: 黎玉忻, 1770-1799) còn gọi Ngọc Hân công chúa hay Bắc Cung Hoàng hậu (北宮皇后) là công chúa nhà Hậu Lê và hoàng hậu nhà Tây Sơn trong lịch sử Việt Nam, vợ của vua Quang Trung (Nguyễn Huệ). Dân gian còn lưu truyền tên gọi bà là Bà Chúa Tiên khi bà ở Phú Xuân vì dinh phủ lập ở chùa Kim..." target="_blank" >Lê Ngọc Hân</a> cho.</p>
+<p>Vua Thái Đức nghe tin, sợ không kiềm chế được Huệ nữa, vội vã ra bắc gọi em về. Sau khi lựa lời vỗ về em, vua Thái Đức tự mình cầm quân, thay đổi hết nhân sự do em sắp đặt rồi mới gặp gỡ vua <a class="annotation" href="/nhan-vat/le-chieu-thong" title="Lê Chiêu Thống (chữ Hán: 黎昭統, 1765 – 1793), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁), là vị hoàng đế thứ 16 và là cuối cùng của nhà Lê trung hưng, thực ở ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 năm 1789. 
+ Triều đại của ông chứng kiến sự thay đổi lớn t..." target="_blank" >Lê Chiêu Thống</a> vừa lên ngôi<sup class="annotation badge" title="^ Quỳnh Cư, Đỗ Đức Hùng, sách đã dẫn, tr 222">8</sup> . Trong cuộc hội kiến, <a class="annotation" href="/nhan-vat/le-chieu-thong" title="Lê Chiêu Thống (chữ Hán: 黎昭統, 1765 – 1793), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁), là vị hoàng đế thứ 16 và là cuối cùng của nhà Lê trung hưng, thực ở ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 năm 1789. 
+ Triều đại của ông chứng kiến sự thay đổi lớn t..." target="_blank" >Lê Chiêu Thống</a> xin cắt đất Nghệ An cho Tây Sơn. Nguyễn Nhạc trả lời:</p>
+<p><i>"Tôi tức giận <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> bị họ Trịnh áp chế nên đứng ra tôn phò. Nếu đất đai không phải của <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> thì một tấc tôi cũng không để. Nhưng nếu là của <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a>, một tấc tôi cũng không lấy".</i></p>
+<p>Đêm 17 tháng 8, ông cùng <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bí mật rút quân về nam. <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> nghe tin vội chạy theo, Nguyễn Nhạc cho làm quan ở Nghệ An.</p>
+<a name="anh-em-bat-hoa"></a><h2>Anh em bất hoà</h2>
+<p>Sử sách không ghi chép thật rõ ràng về sự kiện mâu thuẫn giữa anh em Tây Sơn. Các sử gia nhà Nguyễn cho rằng tại Nguyễn Nhạc "tư thông" với vợ <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>. Có tài liệu nói rằng Nguyễn Nhạc yêu cầu <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> nộp vàng bạc lấy từ kho của họ Trịnh ở Bắc Hà mang về nam nhưng Huệ không chịu; hơn thế vua em lại xin vua anh cho cai quản thêm Quảng Nam và vua anh không chấp thuận, do đó <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> chủ động mang quân vào nam đánh Nguyễn Nhạc<sup class="annotation badge" title="^ Tạ Trí Đại Trường, sách đã dẫn, tr 166.">9</sup> .</p>
+<p>Có ý kiến bàn thêm rằng, chủ trương của Nguyễn Nhạc là tập trung tiêu diệt chúa Nguyễn, chỉ đánh chiếm phần đất của chúa Nguyễn để thay thế cai trị tại miền Nam và giữ hòa bình với Bắc Hà, cho nên việc <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> tự ý đem quân bắc tiến là trái ý vua anh. Ngay khi biết tin <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đánh Thăng Long, vua Tây Sơn vội mang quân ra bắc, thực chất là để gọi em về. Mặt khác, Nguyễn Nhạc không yên tâm với sự phát triển thế lực riêng của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>. Trong khi đó, là người có hùng tâm, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> có chủ trương tự lực phát triển ra ngoài tầm kiềm chế của vua anh và việc bắc tiến của ông không hẳn chỉ vì lời khuyên của <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a><sup class="annotation badge" title="^ Tạ Trí Đại Trường, sách đã dẫn, tr 169">10</sup> .</p>
+<p>Sử cũ ghi rất vắn tắt và không thật rõ ràng về sự kiện này. Nguyễn Nhạc về Quy Nhơn nhưng <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> ở lại Phú Xuân, không theo về như những lần đi đánh Gia Định xong trước đây. Danh tiếng <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> lên cao, được nhân dân tôn là Đức Chúa. Nguyễn Nhạc sợ ảnh hưởng đến quyền lực của mình, doạ trị tội <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a><sup class="annotation badge" title="^ Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 176">11</sup> . Khoảng đầu năm 1787 <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> viết hịch kể tội Nguyễn Nhạc và mang 6 vạn quân nam tiến vây thành Quy Nhơn. Nguyễn Nhạc bị vây ngặt bèn gọi Đặng Văn Trấn, đang trấn thủ Gia Định, ra cứu. Trấn vâng lệnh mang quân ra, nhưng đến Phú Yên đã bị <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bắt sống. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> nã pháo tới tấp vào thành Quy Nhơn. Nguyễn Nhạc bị vây bức quá phải lên thành khóc xin em đừng đánh thành nữa. <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bằng lòng giảng hòa với anh<sup class="annotation badge" title="^ a ă Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 177">12</sup> <sup class="annotation badge" title="^ Tạ Trí Đại Trường, sách đã dẫn, tr 171">13</sup> .</p>
+<p>Tuy nhiên, theo một giáo sĩ phương Tây tại Việt Nam lúc đó, anh em Nguyễn Nhạc, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> tuy mâu thuẫn nhưng cho đến khi <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bắt được Đặng Văn Trấn, quân đội hai bên vẫn chưa thực sự đánh nhau thì <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> đứng ra điều đình và hai bên vì tình cảm trong nhà đã đồng ý giảng hoà<sup class="annotation badge" title="^ a ă Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 177">12</sup> .</p>
+<p>Nguyễn Nhạc phong vương cho hai em, mỗi người chia nhau giữ một khu vực từ tháng 4 năm 1787:</p>
+<ul> <li>Nguyễn Nhạc xưng là <i>Trung ương Hoàng đế</i>, đóng đô ở Quy Nhơn.</li> <li>Phong <a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a> làm <i>Đông Định Vương</i>, cai quản vùng đất Gia Định.</li> <li>Phong <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> làm <i>Bắc Bình Vương</i>, cai quản vùng đất từ đèo Hải Vân trở ra Bắc.</li> </ul>
+<p>Như vậy vua Thái Đức đã thoả mãn yêu cầu được cai quản Quảng Nam của em trai. Ở vào thời điểm vinh quang nhất của phong trào Tây Sơn trong công cuộc thống nhất đất nước 1786 - 1787 mà <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> là người tiêu biểu nhất thì phong trào Tây Sơn đã bị Nguyễn Nhạc phong kiến hoá, phân phong làm ba khu vực cai quản đất nước.</p>
+<p>Tới cuối năm 1788, nhận thấy việc phân phong giữa 3 anh em làm suy yếu sức mạnh chung của <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a>, Nguyễn Nhạc quyết định từ bỏ địa vị <i>"Trung ương Hoàng đế"</i> và giao lại binh quyền và lãnh thổ cho người em trai là <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>. Ông lui về làm <i>Tây Sơn Vương</i>, về ở tại Quy Nhơn là nơi đất tổ, còn <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> lên ngôi Hoàng đế, hiệu là Quang Trung. Đến lúc này <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a> đã thống nhất được vị trí lãnh đạo.</p>
+<a name="lai-mat-nam-bo"></a><h2>Lại mất Nam bộ</h2>
+<p>Anh em vua Thái Đức mâu thuẫn khiến kẻ địch lợi dụng ngay lập tức. Ở phía bắc, họ Trịnh ngóc đầu dậy rồi <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> ra sức hoành hành. Ở phía nam, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> cũng nhân cơ hội lực lượng Tây Sơn bị chia sẻ để quay trở về đánh lại Gia Định (tháng 7 năm 1787).</p>
+<p>Người em Đông Định vương chưa đánh nhau với địch đã bỏ chạy về Biên Hoà, bỏ Gia Định cho <a class="annotation" href="/nhan-vat/pham-van-tham" title="Phạm Văn Tham (chữ Hán: 范文參;&amp;#160;?-1789) một tướng lĩnh của phong trào Tây Sơn. 
+ Về tên Phạm Văn Tham có bản chép là Phạm Văn Sâm, có chị lấy Thái Đức Hoàng Đế Nguyễn Nhạc. Ông là anh của Hộ giá Thượng tướng quân Phạm Ngạn...." target="_blank" >Phạm Văn Tham</a> giữ<sup class="annotation badge" title="^ Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 183">14</sup> <sup class="annotation badge" title="^ Tạ Chí Đại Trường, sách đã dẫn, tr 217">15</sup> . Sau lại chạy luôn một mạch về Quy Nhơn rồi ốm và qua đời khiến vua Thái Đức mất một chỗ dựa về tinh thần. Mặc dù tháng 10 năm 1787, ông đã điều Nguyễn Văn Hưng vào tiếp viện cho <a class="annotation" href="/nhan-vat/pham-van-tham" title="Phạm Văn Tham (chữ Hán: 范文參;&amp;#160;?-1789) một tướng lĩnh của phong trào Tây Sơn. 
+ Về tên Phạm Văn Tham có bản chép là Phạm Văn Sâm, có chị lấy Thái Đức Hoàng Đế Nguyễn Nhạc. Ông là anh của Hộ giá Thượng tướng quân Phạm Ngạn...." target="_blank" >Phạm Văn Tham</a>, nhưng sau khi hai người vây đánh <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> ở Mỹ Lung không hạ được, Hưng lại rút quân về Quy Nhơn. Không hẳn việc Hưng rút về Quy Nhơn là theo lệnh của vua Thái Đức. Dù Hưng tự ý rút nhưng ông không trừng phạt tướng này cho thấy ông không còn quyết tâm và đủ nhuệ khí với chiến trường Nam bộ nữa, hoàn toàn phó thác cho <a class="annotation" href="/nhan-vat/pham-van-tham" title="Phạm Văn Tham (chữ Hán: 范文參;&amp;#160;?-1789) một tướng lĩnh của phong trào Tây Sơn. 
+ Về tên Phạm Văn Tham có bản chép là Phạm Văn Sâm, có chị lấy Thái Đức Hoàng Đế Nguyễn Nhạc. Ông là anh của Hộ giá Thượng tướng quân Phạm Ngạn...." target="_blank" >Phạm Văn Tham</a>. Những diễn biến sau này từ chiến trường Nam bộ cho thấy đây là sai lầm lớn của ông.</p>
+<p>Không có người hợp sức, <a class="annotation" href="/nhan-vat/pham-van-tham" title="Phạm Văn Tham (chữ Hán: 范文參;&amp;#160;?-1789) một tướng lĩnh của phong trào Tây Sơn. 
+ Về tên Phạm Văn Tham có bản chép là Phạm Văn Sâm, có chị lấy Thái Đức Hoàng Đế Nguyễn Nhạc. Ông là anh của Hộ giá Thượng tướng quân Phạm Ngạn...." target="_blank" >Phạm Văn Tham</a> bị đơn độc và dần dần trở nên yếu thế trước lực lượng ngày càng lớn mạnh của <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>. Ánh chuyển từ phòng ngự sang tấn công. Tới tháng 8 năm 1788, <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a> mất, Tham phải chạy ra ngoài tiếp tục chiến đấu. Tướng này chiến đấu bền bỉ đến tận đầu năm 1789 sau khi <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đá đánh xong quân Thanh, nhưng vì bị <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> vây ngặt và chặn đường biển về Quy Nhơn, buộc lòng phải đầu hàng.</p>
+<p>Trong khi đó vua em Bắc Bình vương vừa so gươm với ông đang quyết chí theo đuổi ý tưởng chinh phục phía bắc để xây dựng sự nghiệp riêng. Không phải vua em không quan tâm tới chiến trường Nam bộ<sup class="annotation badge" title="^ Trước khi cất đại quân bắc tiến đánh quân Thanh, Nguyễn Huệ đã sai một người cận thần là Diệm cầm thư vào nam cho Tham, dặn Tham cố gắng phòng thủ rồi đại quân quân Tây Sơn sẽ tới cứu. Nhưng đầu năm 1789, khi Diệm vào tới nơi thì Tham đã hàng Ánh. Diệm bí mật tìm gặp Tham và đưa thư của Nguyễn Huệ cho Tham. Tham đọc thư ân hận, bèn lưu Diệm trong đơn vị quân mình để chờ thời cơ. Việc bị tiết lộ, Tham bị Ánh giết chết">16</sup>  nhưng nguy cơ ở Bắc hà liên tiếp xảy ra không yên, từ họ Trịnh rồi <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> và sau đó là <a class="annotation" href="/nhan-vat/vu-van-nham" title="Vũ Văn Nhậm (chữ Hán: 武文任,&amp;#160;? - 1788) hay Võ Văn Nhậm, là một danh tướng nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Vũ Văn Nhậm</a> và chính <a class="annotation" href="/nhan-vat/le-chieu-thong" title="Lê Chiêu Thống (chữ Hán: 黎昭統, 1765 – 1793), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁), là vị hoàng đế thứ 16 và là cuối cùng của nhà Lê trung hưng, thực ở ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 năm 1789. 
+ Triều đại của ông chứng kiến sự thay đổi lớn t..." target="_blank" >Lê Chiêu Thống</a> dẫn quân Thanh về không phải nhỏ. Do đó <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> không thể dồn hết lực lượng vào chiến trường Nam bộ lúc đó. Lực lượng của vua Thái Đức đã hao mòn, lại mất hết nhuệ khí và ông cũng không có phương pháp nào vực dậy.</p>
+<a name="tu-bo-de-hieu"></a><h2>Từ bỏ đế hiệu</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-nhac/3b95371bd46fd133a7702a08f3163964.jpg" /> <div class="caption"> <div class="magnify"></div> Ấn Quảng Vận Chi Bảo và bút tích của vua Thái Đức (Nguyễn Nhạc). Cổ vật hiện đang được trưng bày tại Bảo tàng Quang Trung (Bình Định).</div> </div> </div>
+<p>Giữa anh em vua Thái Đức dù giảng hoà nhưng chưa hoàn toàn xoá bỏ hiềm nghi. Ông vẫn ngầm mang ý định giành lại quyền lực. Nhân tướng <a class="annotation" href="/nhan-vat/nguyen-van-due" title="Nguyễn Văn Duệ (chữ Hán: 阮文睿 hay 阮文裔): một tướng lĩnh cao cấp của phong trào Tây Sơn trong lịch sử Việt Nam. 
+ Nguyễn Văn Duệ là một đại tướng tâm phúc của Thái Đức Hoàng Đế Nguyễn Văn Nhạc. Ông tham gia nhiều chiến dịch lớn của Tây Sơn...." target="_blank" >Nguyễn Văn Duệ</a> dưới trướng <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> vốn được giao giữ Nghệ An để đề phòng <a class="annotation" href="/nhan-vat/nguyen-huu-chinh" title="Nguyễn Hữu Chỉnh (chữ Hán: 阮有整,&amp;#160;? - 1787), biệt hiệu Quận Bằng (鵬郡), là tướng thời Lê trung hưng và Tây Sơn trong thế kỷ 18. Ông là người huyện Chân Phúc, phủ Đức Quang, Trấn Nghệ An nay là xã Phúc Thọ, huyện Nghi Lộc, Nghệ An, Việt Nam...." target="_blank" >Nguyễn Hữu Chỉnh</a> lại ngả theo Nguyễn Nhạc, ông bèn tranh thủ sự ủng hộ của viên tướng này. Tháng 3 năm 1788, Nguyễn Duệ vào Quy Nhơn theo Nguyễn Nhạc rồi mang quân đánh ra Quảng Nam do <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> quản lý. Duệ nhanh chóng bị đánh tan. Duệ bị bắt và xử tử<sup class="annotation badge" title="^ a ă Tạ Chí Đại Trường, sách đã dẫn, tr 173">17</sup> .</p>
+<p>Anh em còn hiềm nghi nên <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> không thể dễ dàng mang đại quân qua vùng Nguyễn Nhạc quản lý vào Nam Bộ<sup class="annotation badge" title="^ Tạ Chí Đại Trường, sách đã dẫn, tr 174">18</sup> . Sau cái chết của <a class="annotation" href="/nhan-vat/nguyen-van-due" title="Nguyễn Văn Duệ (chữ Hán: 阮文睿 hay 阮文裔): một tướng lĩnh cao cấp của phong trào Tây Sơn trong lịch sử Việt Nam. 
+ Nguyễn Văn Duệ là một đại tướng tâm phúc của Thái Đức Hoàng Đế Nguyễn Văn Nhạc. Ông tham gia nhiều chiến dịch lớn của Tây Sơn...." target="_blank" >Nguyễn Văn Duệ</a> và sau đó là <a class="annotation" href="/nhan-vat/vu-van-nham" title="Vũ Văn Nhậm (chữ Hán: 武文任,&amp;#160;? - 1788) hay Võ Văn Nhậm, là một danh tướng nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Vũ Văn Nhậm</a> và diễn biến chiến trường Nam Bộ, vua Thái Đức đã tỏ ra bất lực và không gượng dậy được<sup class="annotation badge" title="^ a ă Tạ Chí Đại Trường, sách đã dẫn, tr 173">17</sup> . Không thể kìm chế người em hùng lược và thực lực đã suy, cuối năm 1788, ông từ bỏ đế hiệu và niên hiệu Thái Đức, tự xưng là <i>Tây Sơn vương</i>. Ông viết thư cho <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, chỉ xin giữ Quy Nhơn và nhường toàn bộ binh quyền, đất đai trong cả nước cho vua em; đồng thời ông cầu khẩn vua em mang gấp đại binh vào cứu Nam bộ (chiếu lên ngôi của Quang Trung nói rõ vấn đề này)<sup class="annotation badge" title="^ Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 218">19</sup> .</p>
+<p>Tuy nhiên lúc đó Bắc Bình vương dù biết lời cầu khẩn của ông nhưng không thể vào nam tham chiến vì 20 vạn quân Thanh do <a class="annotation" href="/nhan-vat/le-chieu-thong" title="Lê Chiêu Thống (chữ Hán: 黎昭統, 1765 – 1793), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Duy Kỳ (黎維祁), là vị hoàng đế thứ 16 và là cuối cùng của nhà Lê trung hưng, thực ở ngôi từ cuối tháng 7 âm lịch năm 1786 tới đầu tháng 1 năm 1789. 
+ Triều đại của ông chứng kiến sự thay đổi lớn t..." target="_blank" >Lê Chiêu Thống</a> rước về đã vượt qua biên giới. Nguy cơ phía bắc rõ ràng lớn và gấp hơn nên vua em buộc phải hoãn việc nam tiến thêm một thời gian nữa.</p>
+<a name="ke-hoach-do-dang"></a><h2>Kế hoạch dở dang</h2>
+<p>Mặc dù vua em Quang Trung đã đại thắng quân Mãn Thanh (1789) nhưng sau đó vẫn phải lo ổn định tình hình Bắc hà do tàn dư của <a class="annotation" href="/nhan-vat/nha-le" title="Nhà Lê sơ hay Lê sơ triều (chữ Nôm: 家黎初, chữ Hán: 初黎朝), là giai đoạn đầu của triều đại nhà Hậu Lê, một triều đại quân chủ chuyên chế trong lịch sử Việt Nam, được thành lập sau khi Lê Lợi phát động khởi nghĩa Lam Sơn đánh bại quân đội nhà Minh. Ông đổi tên Giao Chỉ (交阯), vốn tồn tại trong thời gian n..." target="_blank" >nhà Lê</a> còn sót lại và sức ép ngoại giao từ phía <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>. Vì vậy, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> được người Pháp hỗ trợ kéo ra đánh Bình Thuận, Bình Khang, Diên Khánh, quân của Tây Sơn vương Nguyễn Nhạc liên tiếp bại trận và mất mấy thành này. Cho tới năm 1791, ông chỉ còn cai quản Quy Nhơn, Phú Yên và Quảng Ngãi.</p>
+<p>Sau khi ổn định tình hình Bắc hà, Quang Trung quyết tâm tiêu diệt <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>. Ông ra sức trấn an vua anh và nhân dân trong vùng do vua anh cai quản để chuẩn bị nam tiến. Theo nhiều nhà nghiên cứu, việc Quang Trung sai <a class="annotation" href="/nhan-vat/vu-van-dung" title="Vũ Văn Dũng hay Võ Văn Dũng (chữ Hán: 武文勇) (?-1802) , là một danh tướng của nhà Tây Sơn, đứng đầu trong Tây Sơn thất hổ tướng. Ông là người được vua Quang Trung cử đi sứ vào những thời điểm quan trọng nhất, ông cũng là một trong những tướng lĩnh trung thành cuối cùng đã chiến đấu để bảo vệ sự tồn tạ..." target="_blank" >Vũ Văn Dũng</a> đi "xin" Càn Long đất Quảng Đông, Quảng Tây thực ra chỉ là một thủ thuật về chính trị. Quang Trung không có dụng tâm lấy đất Trung Quốc vì ông biết thực lực không thể, hay ít ra là chưa thể làm lúc đó. Hơn nữa, ông thu dụng quân lục lâm "Tàu ô", sai đánh phá biên giới Trung Quốc cốt để <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a> bị cuốn vào hoạt động ngoại giao và chống giặc cướp để cho ông có thời gian hỗ trợ vua anh dồn lực lượng vào chiến trường miền nam mà thôi.</p>
+<p>Để chuẩn bị phối hợp với vua em, năm 1792, Nguyễn Nhạc đóng nhiều tàu thuyền đóng ở cửa Thi Nại để nam tiến. Nhưng lúc đó là mùa gió nồm, chỉ thuận cho quân Nam ra, phải đợi đến mùa đông mới thuận gió cho quân Tây Sơn vào. <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> thừa dịp cùng quân Pháp, Bồ Đào Nha đánh úp cửa Thi Nại, đốt cháy nhiều thuyền chiến của Tây Sơn. Tây Sơn vương không phòng bị, lại phải thu quân về Quy Nhơn.</p>
+<p>Để báo thù trận đó, vua em Quang Trung dự định phát động chiến dịch rất lớn, huy động hơn 20 vạn quân thuỷ bộ, chia làm ba đường:</p>
+<ul> <li>Vua anh và quân "Tàu ô" cùng theo đường bộ từ Phú Yên vào đánh Gia Định</li> <li>Quân bộ của Quang Trung từ Phú Xuân đi thẳng qua lãnh thổ Vạn Tượng tới Nam Vang (Chân Lạp), từ đó cùng quân Chân Lạp kéo về Gia Định, bao bọc đường chạy của <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> không cho sang Xiêm.</li> <li>Quân thuỷ của Quang Trung sẽ tiến vào đón lõng tận Hà Tiên đổ bộ lên đất liền để ngăn Ánh chạy ra biển.</li> </ul>
+<p>Chính các giáo sĩ Pháp giúp <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> lúc đó cũng rất lo lắng và dự liệu Ánh khó lòng chống lại được Tây Sơn trận này. Tuy nhiên cái chết đột ngột của vua em Quang Trung tháng 9 năm 1792 khiến kế hoạch nam tiến này không bao giờ trở thành hiện thực.</p>
+<a name="tu-tran"></a><h2>Từ trần</h2>
+<p><a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> qua đời nhưng Nguyễn Nhạc không thể ra viếng vì quân của vua cháu là <a class="annotation" href="/nhan-vat/nguyen-quang-toan" title="Nguyễn Quang Toản (chữ Hán: 阮光纘, 1783 – 1802) hay Cảnh Thịnh hoàng đế (景盛皇帝), là con trai thứ của vua Quang Trung (Nguyễn Huệ). Ông lên ngôi tháng 8 năm 1792 khi mới 9 tuổi, sau khi Nguyễn Huệ mất, năm sau đổi niên hiệu thành Cảnh Thịnh. Tháng 8 năm 1801 ông đổi niên hiệu thành Bảo Hưng. Nguyễn Quan..." target="_blank" >Nguyễn Quang Toản</a> (Cảnh Thịnh) ngăn giữ phòng bị<sup class="annotation badge" title="^ a ă Quỳnh Cư, Đỗ Đức Hùng, sách đã dẫn, tr 224">20</sup> . <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> biết sự kiện này và tự tin mang quân bắc tiến đánh Quy Nhơn do sự nghi kỵ nội bộ giữa vua bác vua cháu <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a><sup class="annotation badge" title="^ Tạ Chí Đại Trường, sách đã dẫn, tr 302">21</sup> .</p>
+<p>Lúc đó Tây Sơn vương đã già yếu, lắm bệnh. Năm 1793, khi ông đang bệnh trên giường, <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> đánh ra Quy Nhơn. Các cánh quân dưới quyền Tây Sơn vương đều yếu ớt nhanh chóng bại trận hoặc bỏ chạy, để mất Phú Yên. Quân <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> tiến ra vây hãm Quy Nhơn. Ông không thể cầm quân nên sai con là Quang Bảo ra cự địch. Thành bị vây hãm 3 tháng. Trong tình thế nguy cấp, ông phải viết thư cầu cứu vua cháu. Cảnh Thịnh sai <a class="annotation" href="/nhan-vat/ngo-van-so" title="Ngô Văn Sở (chữ Hán: 吳文楚,&amp;#160;? - 1795), còn có tên là Ngô Hồng Chấn, Ngô Văn Tàng; là một danh tướng của nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Ngô Văn Sở</a>, <a class="annotation" href="/nhan-vat/pham-cong-hung" title="Phạm Công Hưng (范公興) hay còn gọi là Phạm Văn Hưng (范文興), một danh tướng, trụ cột của nhà Tây Sơn. 
+ Phạm Công Hưng là anh em cùng họ với Thái bảo Phạm Văn Tham, Hộ giá Phạm Ngạn, có chị hoặc em là Phạm Thị Liên lấy Quang Trung Hoàng Đế Nguyễn Văn Huệ...." target="_blank" >Phạm Công Hưng</a> mang quân vào cứu, quân <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> phải rút lui về Phú Yên<sup class="annotation badge" title="^ Tạ Chí Đại Trường, sách đã dẫn, tr 309">22</sup> .</p>
+<p>Dù Nguyễn Nhạc đã sai mang vàng bạc ra khao quân Phú Xuân nhưng Công Hưng vẫn chiếm cứ thành Quy Nhơn, kê biên kho tàng của ông. Thấy gia sản của mình sắp truyền cho con bị cháu chiếm đoạt, ông uất hận thổ huyết mà qua đời<sup class="annotation badge" title="^ a ă Quỳnh Cư, Đỗ Đức Hùng, sách đã dẫn, tr 224">20</sup> .</p>
+<p>Nguyễn Nhạc ở ngôi tổng cộng 10 năm (1778-1788), xưng hiệu <i>Thái Đức đế</i>, sau đó tự hạ xuống làm vương, xưng là <i>Tây Sơn vương</i> được 5 năm (1788-1793).</p>
+<p>Về sau, con ông là Quang Bảo bị em họ Quang Toản an trí ra huyện Phù Ly, gọi là Tiểu triều. Bảo không cam chịu, năm 1799 đánh chiếm lại thành Quy Nhơn rồi định theo hàng <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>. Quân của Ánh chưa tới thì Cảnh Thịnh đã điều quân vào đánh chiếm thành, giết chết Quang Bảo.</p>
+<p>Khi <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> tiêu diệt được Tây Sơn, sai người đào mộ vua Thái Đức và vua Quang Trung, giã hài cốt thành bột. Hộp sọ của hai vua bị mang bỏ vào vò và giam cầm trong ngục thất. Dân gian sau này gọi là "Ông Vò".</p>
+<a name="gia-quyen"></a><h2>Gia quyến</h2>
+<p>Theo sách <i>Nhà Tây Sơn</i><sup class="annotation badge" title="^ Quách Tấn, Quách Giao - Nhà Tây Sơn- Sở Văn hoá Thông tin Nghĩa Bình, 1988">23</sup> , Nguyễn Nhạc có vợ và các con như sau:</p>
+<a name="vo"></a><h3>Vợ</h3>
+<ul> <li>Bà Trần Thị Huệ</li> <li>Bà Ya Dố: gọi là cô Hầu, người Ba Na. Những ngày xây dựng căn cứ khởi nghĩa ở ấp Tây Sơn, bà có công giúp ông xây dựng hậu cần cho quân khởi nghĩa.</li> </ul>
+<a name="con"></a><h3>Con</h3>
+<ul> <li>Con gái: <ul> <li>Thọ Hương: năm 1775 gả cho chúa <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a></li> <li>2 cô con gái khác gả cho 2 vị tướng là <a class="annotation" href="/nhan-vat/truong-van-da" title="Trương Văn Đa (張文多,&amp;#160;? -&amp;#160;?) là phò mã của vua Thái Đức (Nguyễn Nhạc) và là danh tướng nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Trương Văn Đa</a> và <a class="annotation" href="/nhan-vat/vu-van-nham" title="Vũ Văn Nhậm (chữ Hán: 武文任,&amp;#160;? - 1788) hay Võ Văn Nhậm, là một danh tướng nhà Tây Sơn trong lịch sử Việt Nam...." target="_blank" >Vũ Văn Nhậm</a>.</li> </ul> </li> <li>Con trai: <ul> <li><a class="annotation" href="/nhan-vat/nguyen-van-bao" title="Nguyễn Văn Bảo (阮文寶, 1776 - 1798): hay còn gọi là Nguyễn Bảo(阮寶), Tiểu triều vị vua bị phế truất của triều Tây Sơn...." target="_blank" >Nguyễn Văn Bảo</a>: hay còn gọi là Nguyễn Bảo sinh năm 1776, năm 1793 bị Cảnh Thịnh phế làm Tiểu triều, cho ăn lộc một huyện Phù Ly.</li> <li>Nguyễn Thanh</li> <li><a class="annotation" href="/nhan-vat/nguyen-han" title="Nguyễn Huân (1926–2017) là sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Chánh án Tòa án Quân sự Trung ương từ năm 1981 đến 1993...." target="_blank" >Nguyễn Hân</a></li> <li>Nguyễn Dũng</li> <li>Nguyễn Văn Đức</li> <li>Nguyễn Văn Lương</li> </ul> </li> </ul>
+<p>Nguyễn Thanh, <a class="annotation" href="/nhan-vat/nguyen-han" title="Nguyễn Huân (1926–2017) là sĩ quan cấp cao trong Quân đội Nhân dân Việt Nam, hàm Trung tướng, nguyên Chánh án Tòa án Quân sự Trung ương từ năm 1981 đến 1993...." target="_blank" >Nguyễn Hân</a>, Nguyễn Dũng bị <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> bắt năm 1802 và bị giết.</p>
+<p>Nguyễn Văn Đức, Nguyễn Văn Lương bị bắt văo năm 1831 cùng với Nguyễn Văn Đâu (con Nguyễn Văn Đức), Minh Mạng ra lệnh chém ngang lưng.</p>
+<a name="nhan-dinh"></a><h2>Nhận định</h2>
+<p>Vua Thái Đức Nguyễn Nhạc là người phát động phong trào Tây Sơn. Ông là người đóng vai trò quan trọng nhất trong việc gây dựng phong trào buổi đầu cho đến khi dựng thành một cơ đồ riêng. Vua em <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> trẻ trung, hùng lược (khi khởi nghĩa mới 18 tuổi) sở dĩ sau này lập được nhiều chiến công hiển hách cũng nhờ vào cơ sở gây dựng ban đầu của ông<sup class="annotation badge" title="^ Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 34">24</sup> .</p>
+<p>Chính bởi vai trò gây dựng của ông cho <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a> sau này lớn mạnh và lập được nhiều chiến công (kể cả khi ông không còn vai trò "cầm trịch" đại cuộc), nhà Nguyễn rất căm ghét ông và các sử gia triều đại này luôn gán cho ông, không chỉ là "tội" với "triều đình" mà còn cả những điều xấu nhiều hơn cả trong 3 anh em Tây Sơn<sup class="annotation badge" title="^ Đi đánh bạc bị thua hết tiền thu thuế, tư thông với vợ của Nguyễn Huệ dẫn đến anh em xung đột...">25</sup> .</p>
+<p>Do những chiến công hiển hách của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>, tên tuổi của ông trong những nhà lãnh đạo Tây Sơn có phần bị lu mờ. Thậm chí ngoài các sử gia nhà Nguyễn, còn không ít nhà sử học ngày nay phê phán những sai lầm của ông và chê ông kém tài. Tuy nhiên, nếu nhìn nhận khách quan có thể thấy Nguyễn Nhạc đã có những quyết định sáng suốt trong những thời điểm then chốt.</p>
+<ul> <li>Xuất thân từ biện lại trong vùng núi, Nguyễn Nhạc đã chứng tỏ tài năng kiệt xuất của người đề xướng và lãnh đạo khi biết tập hợp và thu dụng mọi lực lượng trong xã hội để xây dựng thành một đội quân đông đảo, mạnh mẽ, đủ sức quật ngã chúa Nguyễn. Ông biết tranh thủ không chỉ sức dân trong nước mà còn cả hoạt động ngoại giao với các nước láng giềng như Chân Lạp và sau này là Xiêm La để củng cố thực lực cho mình.</li> <li>Đứng trước tình thế bị cả quân Trịnh và quân Nguyễn từ hai đằng ép lại, Nguyễn Nhạc tìm ra đường giải nguy là giảng hoà với kẻ địch lớn mạnh hơn lúc đó là họ Trịnh để rảnh tay lo việc phía nam. Hơn nữa, trong thế bị dồn vào chân tường, ông còn mạnh dạn, quyết đoán sử dụng người em <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> mới 23 tuổi, chưa từng làm chủ tướng, cầm quân đi đánh một trận quyết định (Phú Yên) mà chỉ có thắng mới còn đường sống.</li> <li>Nguyễn Nhạc biết tận dụng xung đột trong nội bộ gia tộc chúa Nguyễn để phát động khởi nghĩa. Ông đã giơ khẩu hiệu ủng hộ <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a>, như cách <a class="annotation" href="/nhan-vat/tran-thang" title="Trần Thắng (陳勝;&amp;#160;? - 208 TCN) là thủ lĩnh đầu tiên đứng lên khởi nghĩa chống lại nhà Tần, người khởi đầu cho phong trào lật đổ nhà Tần trong lịch sử Trung Quốc. Ông người Dương Thành, tỉnh Hà Nam, Trung Quốc...." target="_blank" >Trần Thắng</a> đã làm khi giả cách xưng ủng hộ công tử Phù Tô <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> chết oan để khởi nghĩa chống vua cướp ngôi Tần Nhị Thế. Thậm chí con bài <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> còn được ông sử dụng tới lần thứ hai trong cuộc chiến chống chúa Nguyễn (Phúc Thuần). Khi quyền thần <a class="annotation" href="/nhan-vat/truong-phuc-loan" title="Trương Phúc Loan (chữ Hán: 張福巒;&amp;#160;? - 1776) là một quyền thần cuối thời các Chúa Nguyễn ở Đàng trong. Trong hơn mười năm cầm quyền bính, Trương Phúc Loan đã lạm dụng quyền hành vì quyền lợi cá nhân, khuynh đảo chính sự ở Đàng trong, và ông là nguyên nhân chính khiến chính quyền các Chúa Nguyễn sụ..." target="_blank" >Trương Phúc Loan</a>, "tiêu điểm trừ khử" ban đầu đã chết (về tay quân Trịnh), ông lại gả con gái cho Dương để lung lạc một bộ phận tướng sĩ của chúa Nguyễn và chính con bài chính trị này góp phần giúp <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> làm nên trận tái chiếm Phú Yên mang ý nghĩa sống còn với chính quyền Tây Sơn.</li> <li>Ban đầu ông đã có ý định ngăn cản <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> phát triển tài năng và cơ nghiệp riêng. Hiển nhiên điều đó là khó tránh khỏi, một phản xạ như bản năng của một ông vua khi còn đương quyền và sung sức. Nhưng khi đã nhận ra tài năng của vua em có thể đảm đương được đại sự và biết thực lực của mình khi về già, Nguyễn Nhạc đã tự nguyện rút lui để nhường ngôi hoàng đế cho em, quyết không để việc tranh chấp trong nhà cho kẻ địch lợi dụng như anh em Trịnh Cối, Trịnh Tùng trước đây và chính anh em Quang Bảo, Quang Toản sau này. Ông đã nhận thấy được hậu quả của cuộc xung đột lần trước khiến kẻ địch lợi dụng và ông đã biết sửa chữa sai lầm. Hành động đó của Nguyễn Nhạc rất đúng đắn và nếu như vua em không sớm ra đi để hoàn thành việc tiêu diệt <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a>, thống nhất giang sơn, xây dựng Việt Nam hùng mạnh, người đời sau sẽ còn ca ngợi đức độ của ông như vua Cao Tổ <a class="annotation" href="/nhan-vat/ly-uyen" title="Đường Cao Tổ (chữ Hán: 唐高祖, 8 tháng 4, 566 – 25 tháng 6, 635), là vị hoàng đế khai quốc của triều Đường trong lịch sử Trung Quốc. Ông trị vì từ năm 618 đến năm 626, tổng cộng 8 năm. 
+ Ông từng phụng sự cho triều Tùy, Lý Uyên được giao cai quản khu vực tỉnh Sơn Tây ngày nay, trị sở ở Thái Nguyên. Trư..." target="_blank" >Lý Uyên</a>, biết rút lui đúng lúc cho con là <a class="annotation" href="/nhan-vat/ly-the-dan" title="Đường Thái Tông (chữ Hán: 唐太宗, 23 tháng 1, 599 – 10 tháng 7, 649), là vị Hoàng đế thứ hai của triều đại nhà Đường trong lịch sử Trung Quốc, trị vì từ năm 626 đến năm 649 với niên hiệu duy nhất là Trinh Quán (貞觀). 
+ Năm 617, Lý Thế Dân khuyên cha là Lý Uyên nên khởi binh phản nhà Tuỳ, lại có công đán..." target="_blank" >Lý Thế Dân</a> (Thái Tông) hoàn thành cơ nghiệp rực rỡ của <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a>. Những điều kiện khách quan không cho ý định của ông (và vua em) thành hiện thực.</li> </ul>
+<p>Hiển nhiên anh em Tây Sơn, trong đó có Nguyễn Nhạc, đã phạm phải sai lầm và <a class="annotation" href="/nhan-vat/nha-tay-son" title="Nhà Tây Sơn (chữ Nôm: 家西山, chữ Hán: 西山朝 / Tây Sơn triều) là triều đại tồn tại từ 1778 đến 1802, được thành lập trong bối cảnh tranh chấp quyền lực cuối thời Lê trung hưng (1533–1789). Theo cách gọi của phần lớn sử gia, nhất là các sử gia hiện đại tại Việt Nam thì &quot;nhà Tây Sơn&quot; được dùng để gọi triều..." target="_blank" >nhà Tây Sơn</a> phải trả giá cho sai lầm của những người lãnh đạo. Tên tuổi của Nguyễn Nhạc có thể không nổi tiếng như <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> nhưng nói đến khởi nghĩa Tây Sơn, cái tên đầu tiên được nhắc đến là Nguyễn Nhạc<sup class="annotation badge" title="^ .GS Nguyễn Phan Quang, &quot;Phong trào nông dân Tây Sơn&quot;">26</sup> </p>
+<p>Cho đến nay, các nhà nghiên cứu vẫn tiếp tục tranh luận về quan điểm giữa Nguyễn Nhạc và <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> trong việc "đánh nam dẹp bắc" (xem thêm bài về <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a>).</p>
+<p>Bản ý của vua Thái Đức là chỉ đánh chiếm Phú Xuân để thay thế chúa Nguyễn cai quản Nam hà mà thôi. Có ý kiến cho rằng ông muốn tập trung sức lực tận diệt lực lượng của <a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a> và tham vọng phát triển về phía nam, mở rộng bờ cõi sang Chân Lạp. Việc <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> bắc tiến Thăng Long hoàn ngoài dự định của ông, không chỉ khiến quân Tây Sơn phải phân tán lực lượng ra bắc mà về mặt cá nhân, sự phát triển lực lượng riêng của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> ảnh hưởng đến quyền lực toàn cục của ông, dần dần sẽ khó kìm chế được. Theo sách <i>Hoàng Lê nhất thống chí</i> của Ngô gia văn phái, một trong số ít những sách mô tả khá sinh động, chân thực về vua Thái Đức, chính lần ra bắc gọi em về, vua Thái Đức đã nói rõ với người Bắc hà quan điểm của ông để người Bắc hà yên tâm rằng <i>ông không hề có ý định chiếm giữ đất này</i>. <i>Ông không muốn kết oán với người Bắc hà</i>, theo ông là <i>một nước lớn có truyền thống lâu đời</i>, và cho rằng, <i>dù đời ông có chiếm được thì đời con cháu ông cũng không giữ được</i><sup class="annotation badge" title="^ Khâm định Việt sử thông giám cương mục, quyển 46">27</sup> .</p>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Tây Sơn</li> <li><a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a></li> <li><a class="annotation" href="/nhan-vat/nguyen-lu" title="Nguyễn Lữ (chữ Hán: 阮侶; 1754-1787) hay còn gọi là Nguyễn Văn Lữ (chữ Hán: 阮文侶) là em của vua Thái Đức Hoàng đế Nguyễn Nhạc và Quang Trung Hoàng đế Nguyễn Huệ nhà Tây Sơn, một trong những triều đại hiển hách nhất về võ công của Việt Nam...." target="_blank" >Nguyễn Lữ</a></li> <li><a class="annotation" href="/nhan-vat/hoang-ngu-phuc" title="Hoàng Ngũ Phúc (chữ Hán: 黃五福, 1713–1776) là danh tướng thời Lê trung hưng trong lịch sử Việt Nam. Ông quê ở xã Phụng Công, huyện Yên Dũng (hiện nay là thôn Tân Phượng, xã Tân Mỹ, huyên Yên Dũng, Bắc Giang, Việt Nam). Hoàng Ngũ Phúc có công lớn trong việc đánh dẹp các cuộc khởi nghĩa nông dân Đàng Ng..." target="_blank" >Hoàng Ngũ Phúc</a></li> <li><a class="annotation" href="/nhan-vat/nguyen-anh" title="Gia Long (chữ Hán: 嘉隆; 8 tháng 2 năm 1762 – 3 tháng 2 năm 1820), húy là Nguyễn Phúc Ánh (阮福暎), thường được gọi tắt là Nguyễn Ánh (阮暎), là vị hoàng đế đã sáng lập nhà Nguyễn, triều đại quân chủ cuối cùng trong lịch sử Việt Nam. Ông trị vì từ năm 1802 đến khi qua đời năm 1820, được truy tôn miếu hiệu ..." target="_blank" >Nguyễn Ánh</a></li> <li>Họ Hồ làng Quỳnh Đôi</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Xem Trung chi II họ Hồ Quỳnh Đôi và Tiểu chi Cụ Án, Trung chi 5</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Việt Nam sử lược, <a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, trang 70, (bản điện tử)</span></li> <li id="cite_note-3"><b>^</b> <span class="reference-text">Khâm Định Việt Sử thông Giám Khương Mục, Quốc sử quán triều Nguyễn, bản điện tử, trang 294</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text"><i>Phong trào nông dân Tây Sơn</i> - PGS Nguyễn Phan Quang; <i>Việt Nam thời Tây Sơn - Lịch sử nội chiến 1771-1802</i>, Tạ Trí Đại Trường</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Sau khi chiếm gần hết đất Chiêm Thành, chúa Nguyễn an trí dòng họ vua Chiêm ở Bình Thuận</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Về sau, nữ chúa đó bị quân Nguyễn giết</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Nhưng <a class="annotation" href="/nhan-vat/nguyen-phuc-duong" title="Nguyễn Phúc Dương (chữ Hán: 阮福暘;&amp;#160;?- 1777) là vị Chúa Nguyễn thứ 10 của Đàng Trong - vùng phía nam lãnh thổ nước Đại Việt chia cắt trong 2 thế kỷ...." target="_blank" >Nguyễn Phúc Dương</a> biết Nguyễn Nhạc không thực lòng với mình bèn từ chối</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Quỳnh Cư, Đỗ Đức Hùng, sách đã dẫn, tr 222</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">Tạ Trí Đại Trường, sách đã dẫn, tr 166.</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Tạ Trí Đại Trường, sách đã dẫn, tr 169</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 176</span></li> <li id="cite_note-ReferenceA-12">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 177</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Tạ Trí Đại Trường, sách đã dẫn, tr 171</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text">Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 183</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Tạ Chí Đại Trường, sách đã dẫn, tr 217</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Trước khi cất đại quân bắc tiến đánh quân Thanh, <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> đã sai một người cận thần là Diệm cầm thư vào nam cho Tham, dặn Tham cố gắng phòng thủ rồi đại quân quân Tây Sơn sẽ tới cứu. Nhưng đầu năm 1789, khi Diệm vào tới nơi thì Tham đã hàng Ánh. Diệm bí mật tìm gặp Tham và đưa thư của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> cho Tham. Tham đọc thư ân hận, bèn lưu Diệm trong đơn vị quân mình để chờ thời cơ. Việc bị tiết lộ, Tham bị Ánh giết chết</span></li> <li id="cite_note-tcdt173-17">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Tạ Chí Đại Trường, sách đã dẫn, tr 173</span></li> <li id="cite_note-tcdt174-18"><b>^</b> <span class="reference-text">Tạ Chí Đại Trường, sách đã dẫn, tr 174</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text">Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 218</span></li> <li id="cite_note-qc224-20">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Quỳnh Cư, Đỗ Đức Hùng, sách đã dẫn, tr 224</span></li> <li id="cite_note-21"><b>^</b> <span class="reference-text">Tạ Chí Đại Trường, sách đã dẫn, tr 302</span></li> <li id="cite_note-22"><b>^</b> <span class="reference-text">Tạ Chí Đại Trường, sách đã dẫn, tr 309</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text">Quách Tấn, Quách Giao - <i>Nhà Tây Sơn</i>- Sở Văn hoá Thông tin Nghĩa Bình, 1988</span></li> <li id="cite_note-24"><b>^</b> <span class="reference-text">Nguyễn Lương Bích, Phạm Ngọc Phụng, sách đã dẫn, tr 34</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Đi đánh bạc bị thua hết tiền thu thuế, tư thông với vợ của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a> dẫn đến anh em xung đột...</span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text">.GS Nguyễn Phan Quang, "Phong trào nông dân Tây Sơn"</span></li> <li id="cite_note-cm46-27"><b>^</b> <span class="reference-text">Khâm định Việt sử thông giám cương mục, quyển 46</span></li> </ol> </div>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li>Nguyễn Lương Bích, Phạm Ngọc Phụng (1976), <i>Tìm hiểu thiên tài quân sự của <a class="annotation" href="/nhan-vat/nguyen-hue" title="Nguyễn Huệ (1753 – 1792), tức Quang Trung Hoàng đế (光中皇帝) hay Bắc Bình Vương, là vị hoàng đế thứ hai của nhà Tây Sơn, sau khi Thái Đức Hoàng đế Nguyễn Nhạc thoái vị và nhường ngôi cho ông. Nguyễn Huệ không những là một trong những vị tướng lĩnh quân sự xuất sắc mà còn là một nhà cai trị tài giỏi, đư..." target="_blank" >Nguyễn Huệ</a></i>, Nhà xuất bản Quân đội nhân dân</li> <li>Ngô gia văn phái (1987), Hoàng Lê nhất thống chí, Nhà xuất bản Văn học</li> <li>Quỳnh Cư, Đỗ Đức Hùng (2001), <i>Các triều đại Việt Nam</i>, Nhà xuất bản Thanh niên</li> <li>Tạ Chí Đại Trường (2007), <i>Lịch sử nội chiến 1771-1802</i>, Nhà xuất bản Công an nhân dân</li> <li><a class="annotation" href="/nhan-vat/tran-trong-kim" title="Trần Trọng Kim (chữ Hán: 陳仲金; 1883 – 1953) là một học giả danh tiếng nhà giáo dục, nhà nghiên cứu sử học, văn học, tôn giáo Việt Nam, bút hiệu Lệ Thần (遺臣), thủ tướng của chính phủ Đế quốc Việt Nam (1945) được thành lập trong thời kỳ Đế quốc Nhật Bản chiếm đóng Việt Nam. Ông là tác giả của nhiều cuố..." target="_blank" >Trần Trọng Kim</a>, <i>Việt Nam sử lược</i> - bản điện tử</li> <li>Khâm định Việt sử thông giám cương mục</li> </ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nguyen-ngoc-tran" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nguyễn Ngọc Trân            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nguyen-nhan-thiep" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nguyễn Nhân Thiếp            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nguyen-nhac" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-nha-ho" class="mod-articles-category-title ">Thành nhà Hồ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-phu-dong" class="mod-articles-category-title ">Đền Phù Đổng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

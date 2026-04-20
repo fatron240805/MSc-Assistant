@@ -1,0 +1,1447 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Đỗ Phủ (chữ Hán: 杜甫; 712 – 770), biểu tự Tử Mỹ (子美), hiệu Thiếu Lăng dã lão (少陵野老), Đỗ Lăng dã khách (杜陵野客) hay Đỗ Lăng bố y (杜陵布衣), là một nhà thơ Trung Quốc nổi bật thời kì nhà Đường. Cùng với Lý Bạch, ông được coi là một trong hai nhà thơ vĩ đại nhất của lịch sử văn học Trung Quốc. Ông tài năng t...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Đỗ Phủ - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"18629d6681eccb2daf745b9f6e552af7"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Đỗ Phủ" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Đỗ Phủ (chữ Hán: 杜甫; 712 – 770), biểu tự Tử Mỹ (子美), hiệu Thiếu Lăng dã lão (少陵野老), Đỗ Lăng dã khách (�.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/do-phu" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/do-phu/dede514b70069606de44e3536371f923.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Đỗ Phủ", "item": "https://nguoikesu.com/nhan-vat/do-phu" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/do-phu" }, "headline": "Đỗ Phủ", "description": "Đỗ Phủ (chữ Hán: 杜甫; 712 – 770), biểu tự Tử Mỹ (子美), hiệu Thiếu Lăng dã lão (少陵野老), Đỗ Lăng dã khách (杜陵野客) hay Đỗ Lăng bố y (杜陵布衣), là một nhà thơ Trung Quốc nổi bật thời kì nhà Đường. Cùng với Lý Bạch, ông được coi là một trong hai nhà thơ vĩ đại nhất của lịch sử văn học Trung Quốc. Ông tài năng tuyệt vời và đức độ cao thượng nên từng được các nhà phê bình Trung Quốc gọi là Thi Sử (诗史) và Thi Thánh (诗圣). Trong suốt cuộc đời của mình, tham vọng lớn nhất của ông là có được một chức quan để giúp đất nước, nhưng ông đã không thể thực hiện được điều này. Cuộc đời ông, giống như cả đất nước, bị điêu đứng vì Loạn An Lộc Sơn năm 755, và 15 năm cuối đời ông là khoảng thời gian hầu như không ngừng biến động. Ông thường cùng Lý Bạch được gọi là Lý Đỗ (李杜). Về sau, có Lý Thương Ẩn cùng Đỗ Mục trứ danh thời Vãn Đường, được gọi là Tiểu Lý Đỗ (小李杜) để phân biệt, vì vậy cặp Lý Bạch-Đỗ Phủ được gọi là Đại Lý Đỗ (大李杜). Từ thời nhà Thanh, Đỗ Phủ được gọi là Lão Đỗ (老杜) để phân biệt với Đỗ Mục.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/do-phu/dede514b70069606de44e3536371f923.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/do-phu" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-10-31T11:03:03+07:00", "dateCreated": "2017-10-31T11:03:03+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Đỗ Phủ</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Đỗ Phủ        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#cuoc-doi" title="">Cuộc đời</a></li>
+<li class="level-2"><a href="#nhung-nam-dau-tien" title="">Những năm đầu tiên</a></li>
+<li class="level-2"><a href="#chien-tranh" title="">Chiến tranh</a></li>
+<li class="level-2"><a href="#thanh-do" title="">Thành Đô</a></li>
+<li class="level-2"><a href="#nhung-nam-sau-nay" title="">Những năm sau này</a></li>
+<li class="level-1"><a href="#tu-tuong-va-tac-pham" title="">Tư tưởng và tác phẩm</a></li>
+<li class="level-2"><a href="#lich-su" title="">Lịch sử</a></li>
+<li class="level-2"><a href="#dao-duc" title="">Đạo đức</a></li>
+<li class="level-2"><a href="#ky-thuat" title="">Kỹ thuật</a></li>
+<li class="level-1"><a href="#anh-huong" title="">Ảnh hưởng</a></li>
+<li class="level-1"><a href="#trich-dan-tieu-bieu" title="">Trích dẫn tiêu biểu</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+</ul>
+</div><table cellpadding="3px" cellspacing="0px" bgcolor="#F7F8FF"  class=" table table-striped"> <tr> <th  colspan="2">Đỗ Phủ</th> </tr> <tr> <td colspan="2" align="center"><img alt="Đỗ Phủ" src="/images/wiki/do-phu/dede514b70069606de44e3536371f923.jpg" /></td> </tr> <tr> <td align="right">Tiếng Trung:</td> <td>杜甫</td> </tr> <tr> <td align="right">Bính âm:</td> <td><b>Du Fu</b> hay <b>Tu Fu</b></td> </tr> <tr> <td align="right">Kana:</td> <td>と ほ</td> </tr> <tr> <td align="right">Tự:</td> <td>Tử Mỹ (子美)</td> </tr> <tr> <td align="right">Hiệu:</td> <td>Thiếu Lăng dã lão (少陵野老)<br /> Đỗ Lăng dã khách (杜陵野客)<br /> Đỗ Lăng bố y (杜陵布衣)</td> </tr> </table>
+<p><b>Đỗ Phủ</b> (chữ Hán: 杜甫; 712 – 770), biểu tự <b>Tử Mỹ</b> (子美), hiệu <b>Thiếu Lăng dã lão</b> (少陵野老), <b>Đỗ Lăng dã khách</b> (杜陵野客) hay <b>Đỗ Lăng bố y</b> (杜陵布衣), là một nhà thơ Trung Quốc nổi bật thời kì <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a>. Cùng với <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a>, ông được coi là một trong hai nhà thơ vĩ đại nhất của lịch sử văn học Trung Quốc. Ông tài năng tuyệt vời và đức độ cao thượng nên từng được các nhà phê bình Trung Quốc gọi là <b>Thi Sử</b> (诗史) và <b>Thi Thánh</b> (诗圣).</p>
+<p>Trong suốt cuộc đời của mình, tham vọng lớn nhất của ông là có được một chức quan để giúp đất nước, nhưng ông đã không thể thực hiện được điều này. Cuộc đời ông, giống như cả đất nước, bị điêu đứng vì Loạn An Lộc Sơn năm 755, và 15 năm cuối đời ông là khoảng thời gian hầu như không ngừng biến động. Ông thường cùng <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a> được gọi là <b>Lý Đỗ</b> (李杜). Về sau, có Lý Thương Ẩn cùng <a class="annotation" href="/nhan-vat/do-muc" title="Đỗ Mục (chữ Hán: 杜牧, 803-852?), tự Mục Chi, hiệu Phàn Xuyên; là một nhà thơ thời Vãn Đường trong lịch sử văn học Trung Quốc...." target="_blank" >Đỗ Mục</a> trứ danh thời Vãn Đường, được gọi là <b>Tiểu Lý Đỗ</b> (小李杜) để phân biệt, vì vậy cặp <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a>-Đỗ Phủ được gọi là <b>Đại Lý Đỗ</b> (大李杜). Từ thời <a class="annotation" href="/nhan-vat/nha-thanh" title="Nhà Thanh (tiếng Mãn Châu:  daicing gurun; tiếng Mông Cổ: Манж Чин Улс; chữ Hán: 清朝; bính âm: Qīng cháo; Wade-Giles: Ch'ing ch'ao; âm Hán-Việt: Thanh triều) là một triều đại do dòng họ Ái Tân Giác La (Aisin Gioro) ở Mãn Châu thành lập. Khi đó, Mãn Châu là một địa danh nằm tại phía bắc bán đảo Triều ..." target="_blank" >nhà Thanh</a>, Đỗ Phủ được gọi là <b>Lão Đỗ</b> (老杜) để phân biệt với <a class="annotation" href="/nhan-vat/do-muc" title="Đỗ Mục (chữ Hán: 杜牧, 803-852?), tự Mục Chi, hiệu Phàn Xuyên; là một nhà thơ thời Vãn Đường trong lịch sử văn học Trung Quốc...." target="_blank" >Đỗ Mục</a>.</p>
+<p>Mặc dù không nổi tiếng từ đầu, nhưng những tác phẩm của ông gây ảnh hưởng nhiều đến cả văn hóa Trung Quốc và Nhật Bản. Đối với độc giả phương Tây, tầm vóc các tác phẩm của ông sánh ngang với Virgil, Horace, Ovid, Shakespeare, Milton, Burns, Wordsworth, Béranger, Hugo. Đến nay, bài <i>Mao ốc vị thu phong sở phá ca</i> là bài thơ nổi tiếng nhất của ông.</p>
+<p></p>
+<p></p>
+<a name="cuoc-doi"></a><h2>Cuộc đời</h2>
+<a name="nhung-nam-dau-tien"></a><h3>Những năm đầu tiên</h3>
+<div class="thumb-img pull-left"> <div class="thumbnail" ><img alt="" src="/images/wiki/do-phu/a848efbc35b6d3a795bc49a9ac60f323.jpg" /> <div class="caption"> <div class="magnify"></div> Thi Thánh Đỗ Phủ.</div> </div> </div>
+<p>Đỗ Phủ sinh năm 712, không biết rõ nơi sinh, chỉ biết đại khái là ở gần Lạc Dương, <a class="annotation" href="/dia-danh/tinh-ha-nam" title="Hà Nam là một tỉnh nằm ở vùng đồng bằng sông Hồng Việt Nam. Phía Bắc tiếp giáp với Hà Nội, phía Đông giáp với tỉnh Hưng Yên và Thái Bình, phía Nam giáp tỉnh Ninh Bình, Đông Nam giáp tỉnh Nam Định và phía Tây giáp tỉnh Hòa Bình. Trong quy hoạch xây dựng, tỉnh này thuộc vùng Hà Nội. Tỉnh lị là thành p..." target="_blank" >tỉnh Hà Nam</a> (huyện Củng cũng có thể là nơi sinh của ông). Sau này ông tự coi mình là người kinh đô Trường An. Đỗ Phủ xuất thân trong một gia đình quý tộc, tự cho là dòng dõi vua Nghiêu đã sa sút. Cha ông tên Đỗ Nhàn (杜閒), mẹ là Thôi thị xuất thân từ gia tộc danh giá Thanh Hà Thôi thị (清河崔氏). Mẹ Đỗ Phủ mất sớm sau khi sinh ông, và được người thím nuôi một thời gian. Anh trai ông cũng mất sớm, riêng có ba em trai và một em gái khác mẹ, thường được nhắc đến trong thơ.</p>
+<p>Vì là con trai của một học giả, quan lại bậc thấp, thời trẻ ông được tiếp thu nền giáo dục của Trung Quốc truyền thống để lúc trưởng thành có thể ra làm quan: học thuộc lòng các tác phẩm triết học kinh điển Khổng giáo, lịch sử và thi ca. Sau này ông cho rằng mình đã sáng tác một số bài thơ hay ngay từ khi tuổi còn trẻ, nhưng không lưu giữ lại.</p>
+<p>Đầu những năm 730 ông đi tới vùng Giang Tô, Triết Giang; những bài thơ đầu tiên của ông, miêu tả một cuộc thi thơ, được cho là đã sáng tác ở cuối thời kỳ này, khoảng năm 735.</p>
+<p>Cùng năm ấy ông đi tới Trường An để dự thi nhưng bất ngờ bị đánh hỏng, việc này đã gây ra chỉ trích trong nhiều thế kỷ tiếp sau. Có lẽ ông đã trượt bởi vì cách hành văn thời ấy quá rắc rối và tối nghĩa, nhưng có ý kiến khác lại cho rằng ông trượt vì đã không tìm kiếm được các mối quan hệ ở kinh đô. Sau kì thi này ông tiếp tục đi du lịch quanh vùng Sơn Đông và Hà Bắc.</p>
+<p>Khoảng năm 740, cha của Đỗ Phủ qua đời. Theo cấp bậc của cha, Đỗ Phủ có thể được phép nhận một chức quan dân sự, nhưng ông đã dành ưu đãi này cho một người em khác mẹ. Bốn năm sau đó ông sống ở vùng Lạc Dương, thực hiện các bổn phận gia đình.</p>
+<p>Mùa thu năm 744 ông gặp <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a> lần đầu tiên, và giữa hai nhà thơ đã nảy sinh một tình bạn vong niên: Đỗ Phủ còn trẻ tuổi, trong khi <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a> đã nổi tiếng trên văn đàn. Hai ông đã viết nhiều bài thơ về nhau. Họ chỉ gặp lại nhau một lần nữa năm 745.</p>
+<p>Năm 746 Đỗ Phủ tới kinh đô để tìm kiếm một chức quan. Ông tham gia vào cuộc thi năm sau đó, nhưng tất cả thí sinh đều bị vị tể tướng đánh trượt (để chứng tỏ mình đã sáng suốt sử dụng hết người tài và ngăn chặn sự trỗi dậy của bất kỳ đối thủ tiềm tàng nào). Từ đó ông không bao giờ đi thi nữa, chỉ thỉnh cầu trực tiếp hoàng đế năm 751, 754 và có lẽ cả năm 755.</p>
+<p>Cuối cùng, vào năm 755 ông được chỉ định làm quan coi kho vũ khí. Dù đây chỉ là một chức nhỏ, ít nhất trong thời bình nó cũng là một buớc khởi đầu cho hoạn lộ của ông. Tuy nhiên, trước khi ông có thể nhậm chức, một loạt các sự kiện xảy ra đã khiến nó không bao giờ còn được thực hiện.</p>
+<a name="chien-tranh"></a><h3>Chiến tranh</h3>
+<p>Sự Biến An Lộc Sơn xảy ra vào tháng 12, 755 và chỉ tan rã hoàn toàn sau tám năm. Nó tàn phá xã hội Trung Quốc: năm 754 nước này có 52.9 triệu người, nhưng tới năm 764 chỉ còn lại 16.9 triệu, số còn lại đã bị giết hoặc bị dời đi. Trong thời gian này, Đỗ Phủ trải qua một cuộc sống trôi nổi, không thể định cư lâu dài ở đâu vì chiến tranh, cũng như nạn đói và sự bạc đãi của triều đình. Tuy nhiên, thời gian không hạnh phúc này khiến Đỗ Phủ trở thành một nhà thơ đồng cảm với những đau khổ, bất hạnh của người dân thường. Thực tế xung quanh, cuộc sống của gia đình ông, những người hàng xóm, những người qua đường– những điều ông nghe thấy và những gì ông hy vọng hay sợ hãi về tương lai– đã trở thành chủ đề chính trong những sáng tác của ông.</p>
+<p>Năm 756 Huyền Tông buộc phải thoái vị, bỏ kinh đô tháo chạy. Đỗ Phủ, khi ấy đã rời kinh đô, đưa gia đình tới nơi lánh nạn và tìm đường đi theo triều đình mới của Túc Tông, nhưng trên đường đi ông bị quân nổi loạn bắt đưa về Trường An. Vào mùa thu, con trai út của ông ra đời. Mọi người cho rằng trong khoảng thời gian này Đỗ Phủ đã bị bệnh sốt rét.</p>
+<p>Năm sau ông bỏ trốn khỏi Trường An, và được cho giữ chức Tả thập di trong triều đình mới tháng 5 năm 757. Chức vụ này khiến ông có cơ hội gặp gỡ Hoàng đế, nhưng chỉ mang tính nghi lễ. Đỗ Phủ nhanh chóng gặp rắc rối khi ông lợi dụng cơ hội này để dâng thư can gián việc loại bỏ Phòng Quán người bạn và là người bảo trợ của ông chỉ vì một lỗi nhỏ: sau đó tới lượt chính ông bị giam nhưng tới tháng 6 được thả ra. Tháng 9 năm ấy ông được cho phép về gặp gia đình, nhưng nhanh chóng quay lại triều ngày 8 tháng 12, 757. Ông cùng triều đình quay lại Trường An sau khi quân triều đình tái chiếm nó. Tuy nhiên, những lời can gián của ông không hợp với hoàng đế và vào mùa hè năm 758 ông bị giáng cấp làm Tư công tham quân ở Hoa Châu. Chức vụ này làm ông chán ngán: trong một bài thơ, ông đã viết:</p>
+<dl> <dd>Thúc đới phát cuồng dục đại khiếu,</dd> <dd>Bạ thư hà cấp lai tương nhưng.</dd> <dd><i>Xốc đai, điên những muốn gào:</i></dd> <dd><i>Giấy tờ đâu cứ ào ào chạy vô?</i></dd> </dl>
+<p>Mùa hè năm 759 ông lại ra đi; lý do của lần này thường được cho là vì nạn đói nhưng cũng có ý cho rằng ông ra đi vì vỡ mộng. Năm sau đó ông sống sáu tuần tại Tần Châu (hiện nay là Thiên Thuỷ, tỉnh Cam Túc), ở đây ông đã sáng tác sáu mươi bài thơ.</p>
+<a name="thanh-do"></a><h3><a class="annotation" href="/dia-danh/thanh-do" title="Thành Đô (tiếng Trung: 成都; bính âm: Chéngdu; Wade-Giles: Ch'eng-tu, phát âm: nghe ), là một thành phố tại tây nam Trung Quốc, tỉnh lỵ tỉnh Tứ Xuyên, là thành phố thuộc tỉnh, đông dân thứ năm Trung Quốc (2005). Thành Đô là một trong những trung tâm giao thông vận tải và giao thương quan trọng của Tru..." target="_blank" >Thành Đô</a></h3>
+<p>Năm 760 ông tới <a class="annotation" href="/dia-danh/thanh-do" title="Thành Đô (tiếng Trung: 成都; bính âm: Chéngdu; Wade-Giles: Ch'eng-tu, phát âm: nghe ), là một thành phố tại tây nam Trung Quốc, tỉnh lỵ tỉnh Tứ Xuyên, là thành phố thuộc tỉnh, đông dân thứ năm Trung Quốc (2005). Thành Đô là một trong những trung tâm giao thông vận tải và giao thương quan trọng của Tru..." target="_blank" >Thành Đô</a> (tỉnh Tứ Xuyên), nơi ông sẽ sống trong năm năm tiếp theo. Tới mùa thu năm đó ông rơi vào cảnh túng quẫn phải gửi thơ tới những người quen biết để cầu xin giúp đỡ. Ông được Nghiêm Vũ, một người bạn và là đồng môn đang làm tổng trấn ở <a class="annotation" href="/dia-danh/thanh-do" title="Thành Đô (tiếng Trung: 成都; bính âm: Chéngdu; Wade-Giles: Ch'eng-tu, phát âm: nghe ), là một thành phố tại tây nam Trung Quốc, tỉnh lỵ tỉnh Tứ Xuyên, là thành phố thuộc tỉnh, đông dân thứ năm Trung Quốc (2005). Thành Đô là một trong những trung tâm giao thông vận tải và giao thương quan trọng của Tru..." target="_blank" >Thành Đô</a> giúp đỡ. Dù vậy đây vẫn là một trong những giai đoạn thanh bình và hạnh phúc nhất của ông, và nhiều bài thơ sáng tác trong thời kỳ này miêu tả lại cuộc sống thanh bình trong "thảo đường" ở đó. Năm 762 ông rời thành phố này để tránh một cuộc bạo loạn, chỉ quay lại vào mùa hè năm 764 và được chỉ định làm Kiểm hiệu công bộ viên ngoại lang, tham gia vào chiến dịch chống lại người Tạng.</p>
+<a name="nhung-nam-sau-nay"></a><h3>Những năm sau này</h3>
+<p>Quân đội triều đình tái chiếm Lạc Dương, nơi sinh Đỗ Phủ, vào mùa đông năm 762, và vào mùa xuân năm 765 Đỗ Phủ cùng gia đình đi thuyền xuôi <a class="annotation" href="/dia-danh/song-duong-tu" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Dương Tử</a>, với ý định quay về Lạc Dương. Chuyến đi rất chậm, vì tình trạng sức khỏe kém của ông (lúc ấy ông mắc thêm bệnh mắt, điếc và nói chung đã ở tuổi già lại thêm những lo lắng phiền não). Họ dừng lại ở Quỳ Châu (hiện nay là Bạch Đế, Trùng Khánh) trong hai năm cho tới tận cuối mùa đông năm 766. Đây là giai đoạn phát triển rực rỡ cuối cùng của thơ Đỗ Phủ, và cũng chính ở đây ông đã sáng tác 437 bài thơ đa phần là thơ luật. Mùa thu năm 766 Bo Maolin trở thành tổng trấn trong vùng: ông giúp đỡ tài chính và trao cho Đỗ Phủ một chức quan thư ký không chính thức.</p>
+<p>Ông lập gia đình từ khoảng năm 752, và tới năm 757 họ đã có năm con (ba trai hai gái) nhưng một cậu con trai ông đã chết khi còn thơ ấu năm 755.</p>
+<p>Từ năm 754 ông bắt đầu bị bệnh phổi (có lẽ là hen suyễn). Tháng 3 năm 768 ông lại bắt đầu chuyến hành trình tới <a class="annotation" href="/dia-danh/tinh-ho-nam" title="Hồ Nam (tiếng Trung: 湖南; bính âm: Húnán; nghe ) là một tỉnh của Cộng hòa Nhân dân Trung Hoa, nằm ở khu vực trung-nam của quốc gia. Hồ Nam nằm ở phía nam của trung du Trường Giang và phía nam của hồ Động Đình (vì thế mới có tên gọi là Hồ Nam). Hồ Nam có giản xưng là &quot;Tương&quot; (湘), theo tên sông Tương c..." target="_blank" >tỉnh Hồ Nam</a>. Ông mất tại Đàm Châu 潭州 (nay là Trường Sa) vào tháng 11 hay tháng 12 năm 770, ở tuổi 59, trên một chiếc thuyền rách nát… Vợ và hai con trai ông vẫn ở tại đó thêm ít nhất hai năm nữa. Cuối cùng dòng dõi còn được biết của ông là một cháu trai, người đã đề nghị Nguyên Chẩn viết bài minh trên mộ ông vào năm 813.</p>
+<a name="tu-tuong-va-tac-pham"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Tư tưởng và tác phẩm</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/do-phu/0beaabbe7e552b7cde23f8ed1037a51d.jpg" /> <div class="caption">Một đoạn trong bài thơ "Thăm đền Lão Tử" của Đỗ Phủ, bản viết tay thế kỷ 16</div> </div> </div>
+<p>Giới phê bình văn học chú trọng tới tính sử, đạo đức và kỹ thuật sáng tác điêu luyện của ông.</p>
+<a name="lich-su"></a><h3>Lịch sử</h3>
+<p>Từ thời <a class="annotation" href="/nhan-vat/nha-tong" title="Nhà Tống (tiếng Trung: 宋朝; bính âm: Sòng Cháo, Wade-Giles: Sung Ch'ao, Hán-Việt: Tống Triều, phát âm tiếng Trung:&amp;#160;[sʊ̂ŋ tʂʰɑ̌ʊ̯]) là một triều đại cai trị ở Trung Quốc từ năm 960 đến 1279, họ đã thành công trong việc thống nhất Trung Quốc trong thời kỳ Ngũ Đại Thập Quốc, và được thay thế bởi nh..." target="_blank" >nhà Tống</a> thơ Đỗ Phủ đã được gọi là "thi sử" (詩史). Vấn đề lịch sử được đề cập trực tiếp trong thơ ông là sự bình luận các sách lược quân sự, các thắng bại của triều đình hay những ý kiến ông muốn đề đạt trực tiếp tới hoàng đế. Một cách gián tiếp, ông viết về ảnh hưởng của thời đại đối với đời sống chính mình cũng như người dân thường Trung Quốc.</p>
+<p>Những phản ánh chính trị của Đỗ Phủ dựa trên cảm xúc chứ không dựa trên tính toán. Ông ước ao mọi người bớt ích kỷ và làm tròn bổn phận của mình. Tuy nhiên, do người ta không thể không đồng ý với các quan điểm của ông nên các sự thật được biểu đạt đầy sức thuyết phục trong thơ ông đã khiến ông trở thành một nhân vật trung tâm trong thi sử Trung Quốc.</p>
+<a name="dao-duc"></a><h3>Đạo đức</h3>
+<p>Một danh hiệu thứ hai mà các nhà phê bình Trung Quốc đặt cho Đỗ Phủ là "thi thánh" (詩聖), ngang hàng với Khổng Tử, vị thánh về triết học. Trong một bài thơ ở thời kỳ đầu tiên của ông, <i>Binh xa hành</i>(兵車行) (khoảng năm 750), đã nói lên nỗi thống khổ của một người bị bắt đi lính trong quân đội triều đình, thậm chí trước khi xảy ra loạn An Lộc Sơn; bài thơ này nói lên sự xung đột giữa việc chấp nhận và hoàn thành nghĩa vụ, và sự ý thức rõ ràng về những đau khổ có thể nảy sinh. Chủ đề này liên tiếp được nhấn mạnh trong những bài thơ về cuộc đời của dân chúng và binh sĩ mà Đỗ Phủ sáng tác trong cả cuộc đời mình.</p>
+<p>Tuy việc Đỗ Phủ hay nhắc đến sự thống khổ của riêng mình có thể đem lại một ấn tượng về chủ nghĩa duy ngã. Nhưng thực tế hình ảnh ông trong đó luôn được quan sát dưới góc độ khách quan và hầu như chỉ được đưa ra sau chót để tự cảm thán. Vì thế, ông khiến bức tranh xã hội trong thơ mang tính khái quát cao hơn khi so sánh nó với một cá nhân tầm thường là chính mình.</p>
+<p>Tình thương của Đỗ Phủ đối với chính mình và với người khác chỉ là một phần trong các chủ đề của thơ ông: ông còn sáng tác nhiều bài về những chủ đề mà trước đó bị coi là không thích hợp để thể hiện trong thơ. Zhang Jie đã viết rằng đối với Đỗ Phủ, "mọi thứ trên thế giới này đều là thơ" (Chou p.&#160;67), các chủ đề trong thơ ông rất bao quát, như cuộc sống hàng ngày, thư họa, hội họa, thú vật và các chủ đề khác.</p>
+<a name="ky-thuat"></a><h3>Kỹ thuật</h3>
+<p>Trước tác của Đỗ Phủ đặc biệt nổi tiếng nhất vì tầm vóc của nó. Các nhà phê bình Trung Quốc thường dùng từ Tập đại thành 集大成, theo lời ca ngợi của Mạnh Tử dành cho Khổng Tử. Yuan Zhen là người đầu tiên lưu ý tới mức độ to lớn của các tác phẩm của Đỗ Phủ, năm 813 ông đã viết, (Đỗ Phủ) "đã thống nhất trong tác phẩm của mình những nét tiêu biểu mà người trước mới chỉ đề cập riêng lẻ". Ông là nhà thơ tài nghệ trong mọi phong cách thơ Trung Quốc. Ở bất cứ hình thức nào ông đều mang lại những tiến bộ vượt bậc hay đóng góp những ví dụ mẫu mực. Hơn nữa, thơ ông có phạm vi sử dụng từ vựng rộng lớn, từ cách nói trực tiếp và thông tục cho đến cách nói bóng và ngôn ngữ văn chương. Nội dung chính trong thơ đã thay đổi khi ông phát triển phong cách của mình để thích hợp với hoàn cảnh xung quanh. Những bài thơ đầu tiên theo phong cách trang nhã nhưng về sau này khi trải qua những cơ cực của chiến tranh thơ ông đã trở lại với phong cách đích thực của mình. Những bài thơ sáng tác trong giai đoạn ở Tần Châu đơn giản đến tàn nhẫn, phản ánh quang cảnh hoang tàn. Những bài thơ giai đoạn ở <a class="annotation" href="/dia-danh/thanh-do" title="Thành Đô (tiếng Trung: 成都; bính âm: Chéngdu; Wade-Giles: Ch'eng-tu, phát âm: nghe ), là một thành phố tại tây nam Trung Quốc, tỉnh lỵ tỉnh Tứ Xuyên, là thành phố thuộc tỉnh, đông dân thứ năm Trung Quốc (2005). Thành Đô là một trong những trung tâm giao thông vận tải và giao thương quan trọng của Tru..." target="_blank" >Thành Đô</a> nhẹ nhàng và đẹp đẽ, trong khi ở cuối giai đoạn Quỳ Châu đậm chi tiết và có tính dự báo.</p>
+<p>Dù sáng tác ở mọi thể loại thơ, Đỗ Phủ nổi tiếng nhất ở cận thể thi, một kiểu thơ có nhiều ràng buộc về hình thức và số lượng từ trong câu. Khoảng hai phần ba trong 1.500 tác phẩm hiện còn của ông là ở thể này, và nói chung ông được coi là nhà thơ tiêu biểu cho thể loại này. Những bài thơ đạt nhất của ông trong thể loại dùng phép đối song song để thêm nội dung biểu đạt thay vì chỉ là một quy định kỹ thuật thông thường.</p>
+<a name="anh-huong"></a><h2>Ảnh hưởng</h2>
+<div class="thumb-img pull-left"> <div class="thumbnail" ><img alt="" src="/images/wiki/do-phu/2d4a8e9440681306abb617d5a76181c8.jpg" /> <div class="caption"> <div class="magnify"></div> Một bản dịch Hangul thơ của Đỗ Phủ.</div> </div> </div>
+<p>Sinh thời và ngay sau khi mất, Đỗ Phủ đã không được đánh giá cao, phần vì những đổi mới trong phong cách và hình thức thơ ông. Một số bị coi là quá táo bạo và kỳ cục đối với giới phê bình văn học Trung Quốc. Chỉ một số ít tác giả đương thời có nhắc tới ông và miêu tả ông với tính chất tình cảm cá nhân, chứ không phải như một nhà thơ xuất chúng hay lý tưởng đạo đức. Thơ Đỗ Phủ cũng ít xuất hiện trong những hợp tuyển văn học thời kỳ đó.</p>
+<p>Tuy nhiên, ảnh hưởng của ông đối với thi ca Trung Quốc ngày càng mạnh mẽ, và tới thế kỷ thứ 9 ông đã trở nên rất nổi tiếng. Những lời ngợi ca đầu tiên dành cho Đỗ Phủ là của Bạch Cư Dị, người đã ca ngợi những tình cảm đạo đức trong một số tác phẩm của Đỗ Phủ. Hàn Vũ đã viết bài bênh vực mỹ học trong thơ Đỗ Phủ và <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a> trước những lời chỉ trích nhằm vào họ. Tới đầu thế kỷ thứ 10, Wei Zhuang đã cho dựng lại bản sao đầu tiên ngôi nhà tranh của ông ở Tứ Xuyên.</p>
+<p>Tới thế kỷ 11, trong giai đoạn Bắc Tống, danh tiếng Đỗ Phủ lên tới cực điểm. Trong thời gian này các nhà thơ trước đó đã được đánh giá lại một cách toàn diện, theo đó Vương Duy, <a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a> và Đỗ Phủ lần lượt được coi là đại diện cho xu hướng Phật giáo, Đạo giáo và Khổng giáo trong văn hóa Trung Quốc. Cùng lúc ấy, sự phát triển của Tân Khổng giáo đã đặt Đỗ Phủ lên vị trí cao nhất, vì trong cả cuộc đời, ông đã không vì đói nghèo cùng khổ mà quên đi quân vương của mình. Ảnh hưởng của ông càng tăng do khả năng hòa hợp những mặt đối lập: phe bảo thủ chính trị bị thu hút bởi sự trung thành của ông với hệ thống tôn ti trật tự sẵn có, còn phe cải cách nắm lấy mối quan tâm của ông đối với đời sống dân nghèo. Từ khi nước Cộng hòa nhân dân Trung Hoa được thành lập, sự trung thành với quốc gia và những quan tâm của ông tới người nghèo đã được giải thích sự phôi thai của chủ nghĩa dân tộc và chủ nghĩa xã hội, và ông được tán dương vì ông đã sử dụng ngôn ngữ giản dị "của nhân dân".</p>
+<p>Sự nổi tiếng của Đỗ Phủ lớn tới mức có thể đo được, như trường hợp của Shakespeare ở Anh. Mỗi nhà thơ Trung Quốc đều khó có thể <i>không</i> bị ảnh hưởng từ ông. Không bao giờ có một Đỗ Phủ thứ hai, các nhà thơ sau này tiếp nối truyền thống trong từng khía cạnh cụ thể của thơ ông. Mối quan tâm của Bạch Cư Dị tới dân nghèo, lòng yêu nước của Lục Du, các phản ánh cuộc sống hàng ngày của Mai Nghiêu Thần là một vài ví dụ.</p>
+<a name="trich-dan-tieu-bieu"></a><h2>Trích dẫn tiêu biểu</h2>
+<ul> <li>"Gia thư vạn kim" (Thư quê, muôn vàng) - Từ bài Xuân vọng (春望) của Đỗ Phủ: "Phong hoả liên tam nguyệt, gia thư để vạn kim = Khói lửa liền ba tháng, thư quê đáng muôn đồng (烽火連三月、家書抵萬金)".</li> <li>Cái chết của nhà thơ Đỗ Phủ</li> </ul>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i><b>Nhân sinh Thất thập cổ lai hy</b></i>. (Nghĩa là Người ngoài 70 xưa nay hiếm)</td> <td >”</td> </tr> <tr> <td colspan="3" class="cquotecite" > <div ><cite>— <b>Đỗ Phủ</b></cite></div> </td> </tr> </table>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Nghệ thuật <a class="annotation" href="/nhan-vat/nha-duong" title="Nhà Đường (tiếng Trung: 唐朝; bính âm: Táng Cháo, Hán Việt: Đường triều; phát âm tiếng Trung:&amp;#160;[tʰɑ̌ŋ tʂʰɑ̌ʊ]; tiếng Hán trung đại: Dâng) (18 tháng 6, 618 - 1 tháng 6, 907) là một Triều đại Trung Quốc tiếp nối sau nhà Tùy và sau nó là thời kì Ngũ Đại Thập Quốc. Nhà Đường được hoàng đế Đường Cao Tổ..." target="_blank" >nhà Đường</a></li> <li>Thơ Đường</li> <li><a class="annotation" href="/nhan-vat/ly-bach" title="Lý Bạch (chữ Hán: 李白; 701 - 762), biểu tự Thái Bạch (太白), hiệu Thanh Liên cư sĩ (青莲居士), là một trong những nhà thơ theo chủ nghĩa lãng mạn nổi tiếng nhất thời Thịnh Đường nói riêng và Trung Hoa nói chung. 
+ Suốt cuộc đời của mình, ông được tán dương là một thiên tài về thi ca, người đã mở ra một gia..." target="_blank" >Lý Bạch</a></li> <li>Bạch Cư Dị</li> <li>Các thi phẩm: Xuân vọng, Thạch Hào lại</li> </ul>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<div class="reflist" ></div>
+<ul> <li>Ch'en Wen-hua. <i>T'ang Sung tzu-liao k'ao</i>.</li> <li>Chou, Eva Shan; (1995). <i>Reconsidering Tu Fu: Literary Greatness and Cultural Context</i>. Cambridge University Press. ISBN 0-521-44039-4.</li> <li>Cooper, Arthur (translator); (1986). <i>Li Po and Tu Fu: Poems</i>. Viking Press. ISBN 0-14-044272-3.</li> <li>Hawkes, David; (1967). <i>A Little Primer of Tu Fu</i>. Oxford University Press. ISBN 962-7255-02-5.</li> <li>Hung, William; (1952). <i>Tu Fu: China's Greatest Poet</i>. Harvard University Press. ISBN 0-7581-4322-2.</li> <li>Owen, Stephen (editor); (1997). <i>An Anthology of Chinese Literature: Beginnings to 1911</i>. W.W. Norton &amp; Company. ISBN 0-393-97106-6.</li> <li>Rexroth, Kenneth (translator); (1971). <i>One Hundred Poems From the Chinese</i>. New Directions Press. ISBN 0811201815.</li> <li>Watson, Burton (editor); (1984). <i>The Columbia Book of Chinese Poetry</i>. Columbia University Press. ISBN 0-231-05683-4.</li> <li>Watson, Burton (translator); (2002). <i>The Selected Poems of Du Fu</i>. Columbia University Press. ISBN 0-231-12829-0.</li> </ul><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/do-phap-thuan" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Đỗ Pháp Thuận            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/do-thanh-nhan" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Đỗ Thanh Nhân            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/do-phu" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-pac-bo" class="mod-articles-category-title ">Khu di tích Pác Bó</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/co-do-hoa-lu" class="mod-articles-category-title ">Cố đô Hoa Lư</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/dinh-doc-lap" class="mod-articles-category-title ">Dinh Độc Lập</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-ngoc-son" class="mod-articles-category-title ">Đền Ngọc Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

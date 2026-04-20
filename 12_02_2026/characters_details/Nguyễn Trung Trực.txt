@@ -1,0 +1,1486 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837–1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam....">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Nguyễn Trung Trực - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"44a0c4a774bbcc50e93f934b1ea61fbd"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nguyễn Trung Trực" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837–1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/nguyen-trung-truc" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/nguyen-trung-truc/511895ed11cf34cb0972758ab0dff27f.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Nguyễn Trung Trực", "item": "https://nguoikesu.com/nhan-vat/nguyen-trung-truc" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/nguyen-trung-truc" }, "headline": "Nguyễn Trung Trực", "description": "Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837–1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/nguyen-trung-truc/511895ed11cf34cb0972758ab0dff27f.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/nguyen-trung-truc" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-20T14:52:56+07:00", "dateCreated": "2017-11-20T14:52:56+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Nguyễn Trung Trực</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Nguyễn Trung Trực        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#than-the-va-su-nghiep" title="">Thân thế và sự nghiệp</a></li>
+<li class="level-2"><a href="#la-dan-chai" title="">Là dân chài</a></li>
+<li class="level-2"><a href="#lam-quan-co" title="">Làm Quản cơ</a></li>
+<li class="level-3"><a href="#hoa-hong-nhat-tao" title="">Hỏa hồng Nhật Tảo</a></li>
+<li class="level-3"><a href="#kiem-bat-kien-giang" title="">Kiếm bạt Kiên Giang</a></li>
+<li class="level-2"><a href="#ra-phu-quoc-va-bi-bat" title="">Ra Phú Quốc và bị bắt</a></li>
+<li class="level-2"><a href="#tho-tu" title="">Thọ tử</a></li>
+<li class="level-1"><a href="#cau-noi-luu-danh" title="">Câu nói lưu danh</a></li>
+<li class="level-1"><a href="#khen-ngoi" title="">Khen ngợi</a></li>
+<li class="level-1"><a href="#tuong-nho" title="">Tưởng nhớ</a></li>
+<li class="level-1"><a href="#gia-quyen" title="">Gia quyến</a></li>
+<li class="level-2"><a href="#cha-me" title="">Cha mẹ</a></li>
+<li class="level-2"><a href="#vo-con" title="">Vợ con</a></li>
+<li class="level-1"><a href="#anh" title="">Ảnh</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/9e99f938ebdc1ef912026f65dc5aae71.jpg" width="200" height="268" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/vi/thumb/1/1c/Ch%C3%A2n_dung_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c%2C_%C4%91%E1%BB%81n_th%E1%BB%9D_t%E1%BA%A1i_Ph%C3%BA_Qu%E1%BB%91c.jpg/300px-Ch%C3%A2n_dung_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c%2C_%C4%91%E1%BB%81n_th%E1%BB%9D_t%E1%BA%A1i_Ph%C3%BA_Qu%E1%BB%91c.jpg 1.5x, //upload.wikimedia.org/wikipedia/vi/thumb/1/1c/Ch%C3%A2n_dung_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c%2C_%C4%91%E1%BB%81n_th%E1%BB%9D_t%E1%BA%A1i_Ph%C3%BA_Qu%E1%BB%91c.jpg/400px-Ch%C3%A2n_dung_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c%2C_%C4%91%E1%BB%81n_th%E1%BB%9D_t%E1%BA%A1i_Ph%C3%BA_Qu%E1%BB%91c.jpg 2x" data-file-width="2976" data-file-height="3989" /> <div class="caption"> <div class="magnify"></div> Chân dung <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực trong đền thờ tại Phú Quốc, Việt Nam.</div> </div> </div>
+<p><b><a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</b> (chữ Hán: 阮忠直; 1837<sup class="annotation badge" title="^ Ghi theo sách Hỏi đáp lịch sử Việt Nam tập 4, Nhà xuất bản Trẻ, năm 2007. Căn cứ biên bản hỏi cung ông Nguyễn Trung Trực tại khám đường Sài Gòn vào tháng 10 năm 1868, ông Trực &quot;mới được 30 tuổi&quot;(age’ de 30 ans), thì rất có thể ông sinh năm 1838. Nguyễn Q. Thắng và Nguyễn Bá Thế, Từ điển nhân vật Việt Nam cho rằng ông sinh năm 1837.">1</sup> –1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam.</p>
+<p></p>
+<p></p>
+<a name="than-the-va-su-nghiep"></a><h2>Thân thế và sự nghiệp</h2>
+<a name="la-dan-chai"></a><h3>Là dân chài</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/7fc3c76cdd9ee1ba5a1671160191fe52.jpg" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/T%C6%B0%E1%BB%A3ng_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg/300px-T%C6%B0%E1%BB%A3ng_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/T%C6%B0%E1%BB%A3ng_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg/400px-T%C6%B0%E1%BB%A3ng_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg 2x" data-file-width="2472" data-file-height="3296" /> <div class="caption"> <div class="magnify"></div> Tượng <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại sân đền thờ chính ở TP Rạch Giá.</div> </div> </div>
+<p>Sinh ra dưới thời Minh Mạng, thuở nhỏ ông có tên là <b>Chơn</b>. Từ năm Kỷ Mùi (1859) đổi là <b>Lịch</b> (<b><a class="annotation" href="/nhan-vat/nguyen-van-lich" title="Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837–1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam...." target="_blank" >Nguyễn Văn Lịch</a></b>, nên còn được gọi là <b>Năm Lịch</b>), và cũng từ tên <i>Chơn</i> ấy cộng với tính tình ngay thật, nên ông được thầy dạy học đặt thêm tên hiệu là <b>Trung Trực</b>.<sup class="annotation badge" title="^ Ghi theo sách Hỏi đáp lịch sử Việt Nam tập 4 (sách đã dẫn, tr. 46). Sách Hỏi đáp về cuộc khởi nghĩa Nguyễn Trung Trực (Nhà xuất bản QĐND, 2008, tr. 54) và Phan Thành Tài (bài in trong Nam Bộ - đất và người, do Hội Khoa học lịch sử TP. HCM tổ chức biên soạn, Nhà xuất bản Trẻ, tr. 167), đều cho biết khi ông Trực lui quân về Hòn Chông, mới đổi tên thành Nguyễn Trung Trực.">2</sup> </p>
+<p>Nguyên quán gốc <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực ở xóm Lưới, thôn Vĩnh Hội, tổng Trung An, <a class="annotation" href="/dia-danh/huyen-phu-cat" title="Phù Cát là một huyện miền biển của tỉnh Bình Định...." target="_blank" >huyện Phù Cát</a>, trấn Bình Định (ngày nay là thôn Vĩnh Hội, xã Cát Hải, <a class="annotation" href="/dia-danh/huyen-phu-cat" title="Phù Cát là một huyện miền biển của tỉnh Bình Định...." target="_blank" >huyện Phù Cát</a>, <a class="annotation" href="/dia-danh/tinh-binh-dinh" title="Bình Định là một tỉnh thuộc vùng duyên hải Nam Trung Bộ Việt Nam. Tỉnh lỵ của Bình Định là thành phố cảng Quy Nhơn nằm cách thủ đô Hà Nội 1.070&amp;#160;km về phía Nam và cách Thành phố Hồ Chí Minh 652&amp;#160;km về phía Bắc theo đường Quốc lộ 1A...." target="_blank" >tỉnh Bình Định</a>). Ông nội là Nguyễn Văn Đạo, cha là Nguyễn Văn Phụng (hoặc Nguyễn Cao Thăng), mẹ là bà Lê Kim Hồng.</p>
+<p>Sau khi hải quân Pháp nhiều lần bắn phá duyên hải Trung Bộ, gia đình ông phải phiêu bạt vào Nam, định cư ở xóm Nghề (một xóm trước đây chuyên nghề chài lưới), làng Bình Nhựt, tổng Cửu Cư Hạ, huyện Cửu An, Phủ Tân An (nay thuộc xã Thạnh Đức, huyện Bến Lức, tỉnh Long An) và sinh sống bằng nghề chài lưới vùng hạ lưu <a class="annotation" href="/dia-danh/song-vam-co" title="Sông Vàm Cỏ là một dòng sông ở Nam Bộ, Việt Nam, thuộc hệ thống sông Đồng Nai. Sông này có khoảng 10 phụ lưu trong đó hai chi lưu trực tiếp tạo nên dòng sông là sông Vàm Cỏ Đông và sông Vàm Cỏ Tây đều bắt nguồn từ Prey Veng (Campuchia) rồi hợp lưu tại ngã ba Bần Quỳ (Tân Trụ). Sông Vàm Cỏ chảy theo ..." target="_blank" >sông Vàm Cỏ</a>. Không rõ năm nào, lại dời lần nữa xuống làng Tân Thuận, tổng An Xuyên.(nay là xã Tân Tiến, huyện Đầm Dơi, tỉnh Cà Mau).</p>
+<p>Ông là con trưởng trong một gia đình có tám người con. Lúc nhỏ, ông rất hiếu động, thích học võ nên khi lớn lên ông là người có thể lực khỏe mạnh, giỏi võ nghệ và là người có nhiều can đảm, mưu lược.</p>
+<a name="lam-quan-co"></a><h3>Làm Quản cơ</h3>
+<p>Tháng 2 năm 1859 Pháp nổ súng tấn công <a class="annotation" href="/dia-danh/thanh-gia-dinh" title="Tọa độ: 10°43′07″B 106°43′26″Đ / 10,7186347°B 106,723938°Đ / 10.7186347; 106.723938 
+ Thành Gia Định, hay thành Sài Gòn (còn được biết đến với tên thành Phiên An) là tên một thành cũ ở Gia Định, tồn tại từ 1790 đến 1859. Đã có hai tòa thành được xây lên ở đây rồi bị phá hủy hoàn toàn...." target="_blank" >thành Gia Định</a>. Vốn xuất thân là dân chài, nằm trong hệ thống lính đồn điền của kinh lược <a class="annotation" href="/nhan-vat/nguyen-tri-phuong" title="Nguyễn Tri Phương (1800-1873) là một đại danh thần Việt Nam thời nhà Nguyễn. Ông là vị Tổng chỉ huy quân đội triều đình Nguyễn chống lại quân Pháp xâm lược lần lượt ở các mặt trận Đà Nẵng (1858), Gia Định (1861) và Hà Nội (1873)...." target="_blank" >Nguyễn Tri Phương</a>, nên ông sốt sắng theo và còn chiêu mộ được một số nông dân vào lính để gìn giữ Đại đồn Chí Hòa, dưới quyền chỉ huy của <a class="annotation" href="/nhan-vat/truong-dinh" title="Trương Định (chữ Hán: 張定; 1820-1864) hay Trương Công Định hoặc Trương Đăng Định, là võ quan nhà Nguyễn, và là thủ lĩnh chống Pháp giai đoạn 1859-1864, trong lịch sử Việt Nam...." target="_blank" >Trương Định</a>.</p>
+<p>Sau đó ông là quyền sung Quản binh đạo và chỉ huy đốt cháy tàu <i>L'Espérance</i> của Pháp,<sup class="annotation badge" title="^ a ă Quốc sử quán triều Nguyễn (2006), Đại Nam thực lục, tập 07, Nhà xuất bản Giáo dục, tr. 760">3</sup>  nên còn được gọi là <b>Quản Chơn</b> hay <b>Quản Lịch</b>. Trong sự nghiệp kháng thực dân Pháp của ông, có hai chiến công nổi bật, đã được danh sĩ <a class="annotation" href="/nhan-vat/huynh-man-dat" title="Huỳnh Mẫn Đạt (黃敏達, 1807-1882) còn gọi là Tuần Phủ Đạt là quan nhà Nguyễn và là nhà thơ ở thế kỷ 19 tại Nam Bộ, Việt Nam...." target="_blank" >Huỳnh Mẫn Đạt</a> khen ngợi bằng hai câu thơ sau:</p>
+<dl> <dd><i>Hỏa hồng Nhật Tảo oanh thiên đia</i></dd> <dd><i>Kiếm bạt Kiên Giang khấp quỷ thần.</i></dd> </dl>
+<p>Thái Bạch dịch:</p>
+<dl> <dd>Sông Nhật Tảo lửa hồng rực cháy, tiếng vang trời đất,&#160;<br /> Đồn Kiên Giang lưỡi kiếm tuốt ra, quỷ thần sợ khóc.<sup class="annotation badge" title="^ Xem toàn văn nơi đề mục Huỳnh Mẫn Đạt.">4</sup> </dd> </dl>
+<a name="hoa-hong-nhat-tao"></a><h4>Hỏa hồng Nhật Tảo</h4>
+<dl> <dd><i>Bài chính:</i> <i>Trận Nhật Tảo</i></dd> </dl>
+<p>Sau khi Đại đồn Chí Hòa thất thủ ngày 25 tháng 2 năm 1861, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực về Tân An. Đến ngày 12 tháng 4 năm 1861, thành Định Tường thất thủ, quân Pháp kiểm soát vùng Mỹ Tho, thường cho những tàu chiến vừa chạy tuần tra vừa làm đồn nổi di động. Một trong số đó là chiếc tiểu hạm <i>L'Espérance</i> (<i>Hy Vọng</i>), án ngữ nơi vàm Nhựt Tảo (nay thuộc xã An Nhựt Tân, huyện Tân Trụ, tỉnh Long An).</p>
+<p>Vào khoảng sáng ngày 10 tháng 12 năm 1861, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực cùng quyền sung Phó Quản binh đạo Huỳnh Khắc Nhượng, Võ Văn Quang, quản toán Nguyễn Học, và hương thôn Hồ Quang Chiêu (Đại Nam thực lục chép là lương thân Hồ Quang)...tổ chức cuộc phục kích đốt cháy tàu chiến này.<sup class="annotation badge" title="^ a ă Quốc sử quán triều Nguyễn (2006), Đại Nam thực lục, tập 07, Nhà xuất bản Giáo dục, tr. 760">3</sup> <sup class="annotation badge" title="^ Nguyễn Phan Quang cho biết: &quot;Theo tài liệu của Pháp thì trong trận đốt cháy tàu Espérance, Nguyễn Trung Trực đã được sự hướng dẫn, hỗ trợ của Trương Định&quot;.(Việt Nam thế kỷ 19, Nhà xuất bản TP. HCM, 2002, tr. 289)">5</sup> </p>
+<p>Trận này quân của <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đã diệt 17 lính và 20 cộng sự người Việt, chỉ có tám người trốn thoát (2 lính Pháp và 6 lính Tagal, tức lính đánh thuê Philippines, cũng còn gọi là lính Ma Ní)<sup class="annotation badge" title="^ Theo Phan Thành Tài, sách đã dẫn và Hỏi đáp lịch sử, tập 4, sách đã dẫn.">6</sup> .</p>
+<p>Lúc đó, viên sĩ quan chỉ huy tàu là trung úy hải quân Parfait không có mặt, nên sau khi hay tin dữ, Parfait đã dẫn quân tiếp viện đến đốt cháy nhiều nhà cửa trong làng Nhật Tảo để trả thù.</p>
+<p>Theo sau chiến thắng vừa kể, nhiều cuộc tấn công quân Pháp trên sông, trên bộ đã liên tiếp diễn ra...</p>
+<a name="kiem-bat-kien-giang"></a><h4>Kiếm bạt Kiên Giang</h4>
+<dl> <dd><i>Bài chính:</i> <i>Trận đồn Kiên Giang</i></dd> </dl>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/fec0af609047418085bd1a4d6e2f8dab.jpg" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_Anh_h%C3%B9ng_d%C3%A2n_t%E1%BB%99c_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg/300px-T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_Anh_h%C3%B9ng_d%C3%A2n_t%E1%BB%99c_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_Anh_h%C3%B9ng_d%C3%A2n_t%E1%BB%99c_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg/400px-T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_Anh_h%C3%B9ng_d%C3%A2n_t%E1%BB%99c_Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c.jpg 2x" data-file-width="2472" data-file-height="3296" /> <div class="caption"> <div class="magnify"></div> Tượng đài <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại công viên trung tâm thành phố Rạch Giá</div> </div> </div>
+<p>Sau lần đốt được tàu L’Espérance của Pháp, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực cùng nghĩa quân tiếp tục chiến đấu qua lại trên các địa bàn Gia Định, Biên Hòa. Khi Hòa ước Nhâm Tuất 1862 được ký, ba tỉnh miền Đông lọt vào tay thực dân Pháp, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực nhận chức Lãnh binh, đưa quân về hoạt động ở ba tỉnh miền Tây. Đầu năm 1867, ông được triều đình phong chức <i>Hà Tiên thành thủ úy</i><sup class="annotation badge" title="^ Có tài liệu nói Nguyễn Trung Trực nhận chức khi ở Tân An, có tài liệu nói ông ra Bình Định nhận chức.">7</sup>  để trấn giữ đất Hà Tiên, nhưng ông chưa kịp đến nơi thì tòa thành này đã bị quân Pháp chiếm mất vào ngày 24 tháng 6 năm 1867. Không theo lệnh triều đình rút quân ra Bình Thuận, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đem quân về lập mật khu ở Sân chim (tả ngạn sông Cái Lớn, huyện An Biên, <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a>). Từ nơi này, ông lại dẫn quân đến Hòn Chông (nay thuộc xã Bình An, huyện Kiên Lương, <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a>, lập thêm căn cứ kháng Pháp.</p>
+<p>Ở Kiên Giang, sau khi nắm được tình hình của đối phương và tập trung xong lực lượng (trong số đó có cả hương chức, nhân dân Việt - Hoa - Khmer); vào 4 giờ sáng ngày 16 tháng 6 năm 1868, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực bất ngờ dẫn quân từ Tà Niên (nay là xã Vĩnh Hòa Hiệp, <a class="annotation" href="/dia-danh/huyen-chau-thanh" title="Châu Thành là một từ được sử dụng khá nhiều làm địa danh ở miền Nam Việt Nam. Trong lịch sử, danh xưng là một tên chung để gọi “lị sở” hay là “thủ phủ” của tỉnh. Sau biến thành tên riêng của cả loạt “lị sở” hay là “thủ phủ” của nhiều tỉnh ở Nam Kỳ. Ngày nay, địa danh này vẫn còn được sử dụng khá nhi..." target="_blank" >huyện Châu Thành</a>, <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a>) đánh úp đồn Kiên Giang (nay là khu vực UBND <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a>), do Trung úy Sauterne chỉ huy.</p>
+<p>Kết thúc trận, nghĩa quân chiếm được đồn, tiêu diệt được 5 viên sĩ quan Pháp, 67 lính, thu trên 100 khẩu súng cùng nhiều đạn dược và làm chủ tình hình được 5 ngày liền<sup class="annotation badge" title="^ Số liệu ghi theo sách Lược sử đình Vĩnh Hòa Hiệp, sách đã dẫn, tr. 24.">8</sup> .</p>
+<p>Đây là lần đầu tiên, lực lượng nghĩa quân đánh đối phương ngay tại trung tâm đầu não của tỉnh. Nhận tin Chủ tỉnh Rạch Giá cùng vài sĩ quan khác bị giết ngay tại trận, George Diirrwell gọi đây là <i>một sự kiện bi thảm</i> (un événement tragique).<sup class="annotation badge" title="^ &quot;Bulletin de la Société des Études Indochines de Saigon&quot;, Sài Gòn, tr.40.">9</sup> </p>
+<p>Hai ngày sau (ngày 18 tháng 6 năm 1868), Thiếu tá hải quân A. Léonard Ausart, Đại úy Dismuratin, Trung úy hải quân Richard, Trung úy Taradel, Trần Bá Lộc, Tổng Đốc Phương nhận lệnh Bộ chỉ huy Pháp ở Mỹ Tho mang binh từ Vĩnh Long sang tiếp cứu. Ngày 21 tháng 6 năm 1868, Pháp phản công, ông phải lui quân về Hòn Chông (Kiên Lương, Kiên Giang) rồi ra <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a>, lập chiến khu tại Cửa Cạn nhằm kình chống đối phương lâu dài.</p>
+<a name="ra-phu-quoc-va-bi-bat"></a><h3>Ra Phú Quốc và bị bắt</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/511895ed11cf34cb0972758ab0dff27f.jpg" /> <div class="caption"> <div class="magnify"></div> Đền thờ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực ở Phú Quốc, ảnh chụp năm 2015.</div> </div> </div>
+<dl> <dd><i>Bài chính:</i> <i>Trận Cửa Cạn</i></dd> </dl>
+<p>Tháng 9 năm 1868, chiếc tàu Groeland chở Lãnh Binh Tấn (tức Huỳnh Văn Tấn, còn được gọi Huỳnh Công Tấn, trước có quen biết ông Trực vì cùng theo <a class="annotation" href="/nhan-vat/truong-dinh" title="Trương Định (chữ Hán: 張定; 1820-1864) hay Trương Công Định hoặc Trương Đăng Định, là võ quan nhà Nguyễn, và là thủ lĩnh chống Pháp giai đoạn 1859-1864, trong lịch sử Việt Nam...." target="_blank" >Trương Định</a> kháng Pháp. Sau này, Tấn trở thành cộng sự cho Pháp), cùng 150 lính ở Gò Công đến <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a> để bao vây và truy đuổi ông Trực.</p>
+<p>Nhà sử học <a class="annotation" href="/nhan-vat/pham-van-son" title="Phạm Văn Sơn (1915 - 1978) là một sử gia Việt Nam và là sĩ quan Quân lực Việt Nam Cộng hòa...." target="_blank" >Phạm Văn Sơn</a> thuật chuyện:</p>
+<dl> <dd><i>Hương chức và dân trên đảo bị đội Tấn dọa phải theo và phụ lực với hắn để bao vây bọn ông Trực. Sau hai trận ghê gớm, bọn ông Trực phải trốn vào trong núi. Đội Tấn rượt theo, nghĩa quân bị kẹt trong một khe núi nhỏ hẹp. Cùng đường, bọn ông Trực phải ra hàng...</i><sup class="annotation badge" title="^ Việt sử tân biên, quyển 5, tập thượng, Sài Gòn, 1962, tr.198">10</sup> </dd> </dl>
+<p>Giám đốc Sở nội vụ Paulin Vial viết:</p>
+<dl> <dd><i><a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực chịu nộp mạng, chỉ vì thiếu lương thực và vì mạng sống của bao nghĩa quân đang bị bao vây hàng tháng trời ròng rã tại Phú Quốc</i><sup class="annotation badge" title="^ Paulin Vial, sách đã dẫn.">11</sup> </dd> </dl>
+<p>Nhưng có người lại cho rằng để bảo toàn lực lượng nghĩa quân, nhân dân trên đảo và lòng hiếu với mẹ (<i>Pháp đã bắt mẹ của ông để uy hiếp</i>), <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tự ra nộp mình cho người Pháp và đã bị đưa về giam ở Sài Gòn.</p>
+<p>Nhưng theo lời khai ít ỏi của <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực khi ông bị giam cầm ở Khám Lớn Sài Gòn với Đại úy Piquet, thanh tra bổn quốc sự vụ, thì sự việc như thế này, trích biên bản hỏi cung:</p>
+<dl> <dd><i>...Tôi cho biết rõ rằng tôi đã tự ý quy thuận lãnh binh Tấn. Vì hắn đến đảo, hắn bảo viết thơ yêu cầu tôi quy hàng, vì chúng tôi bị bao vây trong núi không có gì để sống, tôi bảo một người dân trói tôi và dẫn tôi đến Tấn. Nếu tôi muốn tiếp tục chiến đấu, hắn không bắt tôi được dễ dàng như thế...</i><sup class="annotation badge" title="^ Dẫn lại theo sách Hỏi đáp cuộc khởi nghĩa Nguyễn Trung Trực. Nhà xuất bản QĐND, 2008 tr. 70.">12</sup> </dd> </dl>
+<p>Rất tiếc bản cáo của lãnh binh Tấn gửi cho thống đốc Nam kỳ về "việc bắt <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> trực và Tống binh Cân" đã bị thất lạc từ ngày 23 tháng 5 năm 1950, vì thế sự việc chưa được tường tận.<sup class="annotation badge" title="^ Nguyễn Nghị, Nguyễn Trung Trực qua một số tư liệu của Pháp cho biết: &quot;Nhiều hồ sơ tương đối quan trọng trong những năm 1860 đến đầu thập niên 1870, đã được ghi là phát hiện mất. Theo một số nhà chuyên môn thì người Pháp khi trở lại Việt Nam đã lấy đi...&quot;(Nam Bộ - xưa và nay, Nhà xuất bản TP. HCM và tạp chí Xưa và Nay, năm 2005, tr.255">13</sup> </p>
+<a name="tho-tu"></a><h3>Thọ tử</h3>
+<p>Bắt được <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực, Pháp đưa ông lên giam ở Khám Lớn Sài Gòn để lấy khẩu cung. Theo <i>Việt sử tân biên</i>, mặc dù Lãnh binh Tấn đã hết sức can thiệp để Pháp tha mạng cho ông Trực, nhưng Thống đốc Nam Kỳ G. Ohier không chịu. Vì cho rằng không thể tha được "một người đã không coi luật quốc tế ra gì, đã hạ một cái đồn của chúng ta và giết chết 30 người Pháp!"<sup class="annotation badge" title="^ Câu trong ngoặc kép, dịch nguyên văn theo Giám đốc sở nội vụ Paulin Vial (Việt sử tân biên, quyển 5, tập thượng, Sài Gòn, 1962, tr.198)">14</sup>  Và rồi ngày 27 tháng 10 năm 1868, nhà cầm quyền Pháp đã đưa ông Trực về lại Rạch Giá và sai một người khmer trên Tưa (người dân thường gọi ông là Bòn Tưa) đưa ông ra hành hình tại chợ Rạch Giá<sup class="annotation badge" title="^ Ðịa điểm hành quyết ngay tại miếng đất đối diện chợ nhà lồng Rạch Giá, lúc bấy giờ còn cây da cổ thụ. Trên miếng đất thấm máu Nguyễn Trung Trực, người Pháp cho xây lên Nhà Giây Thép, về sau là Ty Bưu Ðiện tỉnh lỵ. Riêng cây da cổ thụ đã bị đốn vào năm 1947.">15</sup> , hưởng dương khoảng 30tuổi.</p>
+<p>Người ta kể rằng:</p>
+<dl> <dd><i>Vào buổi sáng ngày 27 tháng 10 năm 1868, nhân dân Tà Niên<sup class="annotation badge" title="^ Theo Lược sử Đình Vĩnh Hòa Hiệp do Ban Bảo vệ di tích tổ chức biên soạn và ấn hành vào tháng 1 năm 2008: &quot;Từ đầu tháng 6 năm 1867 đến ngày 16 tháng 6 năm 1868, dân làng Tà Niên (nay là xã Vĩnh Hòa Hiệp) đã đùm bọc, chở che nghĩa quân Nguyễn Trung Trực, để họ chuẩn bị tấn công đồn Kiên Giang.">16</sup>  nơi nổi tiếng về nghề dệt chiếu, và nhiều nơi khác đổ xô ra chợ Rạch Giá, vì Pháp đem <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực ra hành quyết. Ông Trực yêu cầu Pháp mở trói, không bịt mắt để ông nhìn đồng bào và quê hương trước phút "ra đi". Bô lão làng Tà Niên đến vĩnh biệt ông, đã trải xuống đất một chiếc chiếu hoa có chữ "thọ"(chữ Hán) màu đỏ tươi thật đẹp cho ông bước đứng giữa. Ông hiên ngang, dõng dạc trước pháp trường, nhìn bầu trời, nhìn đất nước và từ giã đồng bào… <sup class="annotation badge" title="^ Theo Nguyễn Thị Diệp Mai, &quot;Làng Vĩnh Hòa Đông&quot; trên website Văn nghệ Sông Cửu Long [1]. Thông tin thêm: Có người cho rằng, chém ông Trực xong, người Pháp cho ráp đầu mình lại rồi cho liệm vào hòm đem chôn cất tử tế. Mộ ông chôn trong vòng thành ông Chánh, cách cầu ông Chánh chừng 70 m. Mộ chiếm một khu đất chừng 100 thước vuông, xây cao lên quá 3 thước, chung quang có xiềng xích bằng sắt...(theo Việt sử tân biên, quyển 5, tập thượng, tr. 199-200). Nhưng theo sách Hỏi đáp cuộc khởi nghĩa Nguyễn Trung Trực, thì đây là mả của một Trung úy hải quân Pháp, và ngôi mộ ấy đã bị phá vỡ năm 1945 khi đồng bào miền Nam cùng nổi dậy. Lại có người cho rằng quân Pháp đã cho chôn mình ông ở sau dinh Tỉnh trưởng (cũ), còn đầu ông thì đem bêu ở chợ Rạch Giá. Một đêm, có người lẻn đến lấy mất. Thực tế, cùng bị chém với ông Trực buổi ấy còn có hai người nữa nhưng không rõ tên tuổi và đã phạm tội gì. Chém xong, Pháp đem chôn tất cả ở phía sau dinh Tỉnh trưởng cũ (nay là Cung thiếu nhi thành phố Rạch Giá, nằm kề bên UBND tỉnh Kiên Giang), rồi không rõ ai đã trồng bên mộ một cây đa. Năm 1986, chánh quyền tỉnh Kiên Giang đã tìm được hài cốt ông ở nơi ấy và đã di táng về bên trong khuôn viên đình thờ Nguyễn Trung Trực tại thành phố Rạch Giá. Xem thêm [2].">17</sup> </i></dd> </dl>
+<p>Tương truyền, trước khi bị hành quyết <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đã ngâm một bài thơ:</p>
+<dl> <dd><i>Thư kiếm tùng nhung tự thiếu niên,</i></dd> <dd><i>Yêu gian đàm khí hữu long tuyền,</i></dd> <dd><i>Anh hùng nhược ngộ vô dung địa.</i></dd> <dd><i>Bảo hận thâm cừu bất đái thiên.</i></dd> </dl>
+<p>Thi sĩ Đông Hồ dịch:</p>
+<dl> <dd><i>Theo việc binh nhung thuở trẻ trai,</i></dd> <dd><i>Phong trần hăng hái tuốt gươm mài.</i></dd> <dd><i>Anh hùng gặp phải hồi không đất,</i></dd> <dd><i>Thù hận chang chang chẳng đội trời.</i></dd> </dl>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/978b1cdda7c8d89fb903691bd2f97e76.jpg" /> <div class="caption"> <div class="magnify"></div> Đền thờ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực ở Phú Quốc.</div> </div> </div>
+<a name="cau-noi-luu-danh"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Câu nói lưu danh</h2>
+<p>Khi ông bị người Pháp giải về Sài Gòn, viên thống soái Nam Kỳ lúc bấy giờ vừa dụ hàng vừa hăm dọa, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đã trả lời rằng:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Thưa Pháp soái, chúng tôi chắc rằng chừng nào ngài cho trừ hết cỏ trên mặt đất, thì mới may ra trừ tiệt được những người ái quốc của xứ sở này.</i></td> <td >”</td> </tr> </table>
+<p>Khi bị giam ở Khám Lớn Sài Gòn, ông cũng đã bình tĩnh nói với người hỏi cung là Đại úy Piquet:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Số phận tôi đã đầy đủ, tôi đã không thành công trong việc cứu nguy nước tôi, tôi chỉ xin một điều là người ta kết liễu đời tôi càng sớm càng tốt.</i></td> <td >”</td> </tr> </table>
+<p>Và trước khi hy sinh, ông còn khẳng khái nhắc lại:</p>
+<table class="cquote table table-striped" role="presentation" > <tr> <td >“</td> <td ><i>Bao giờ Tây nhổ hết cỏ <a class="annotation" href="/dia-danh/nuoc-nam" title="Việt Nam (tên chính thức: Cộng hòa xã hội chủ nghĩa Việt Nam) là một quốc gia nằm ở phía đông, giáp với Lào và Campuchia, thuộc bán đảo Đông Dương, thuộc khu vực Đông Nam Á thuộc châu Á. 
+ Phía bắc Việt Nam giáp với Trung Quốc, phía tây Việt Nam giáp với Lào và Campuchia, phía tây nam giáp vịnh Thái..." target="_blank" >nước Nam</a> mới hết người Nam đánh Tây</i></td> <td >”</td> </tr> </table>
+<a name="khen-ngoi"></a><h2>Khen ngợi</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/2cc86496635456f923b72cef87f680d7.jpg" /> <div class="caption"> <div class="magnify"></div> Mộ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực trong khuôn viên đền thờ chính tại Rạch Giá <sup class="annotation badge" title="^ Tuy nhiên, có ý kiến cho rằng hài cốt trong mộ không phải là của Nguyễn Trung Trực. Xem: [3].">18</sup> </div> </div> </div>
+<p>Danh sĩ <a class="annotation" href="/nhan-vat/nguyen-thong" title="Nguyễn Thông (1827–1884), tự Hy Phần, hiệu Kỳ Xuyên, biệt hiệu Độn Am; là quan nhà Nguyễn và là danh sĩ Việt Nam ở nửa đầu thế kỷ 19...." target="_blank" >Nguyễn Thông</a> viết:</p>
+<dl> <dd><i>"<a class="annotation" href="/nhan-vat/nguyen-van-lich" title="Nguyễn Trung Trực (chữ Hán: 阮忠直; 1837–1868) là thủ lĩnh phong trào khởi nghĩa chống Pháp vào nửa cuối thế kỷ 19 ở Nam Bộ, Việt Nam...." target="_blank" >Nguyễn Văn Lịch</a> tính thâm trầm, nghiêm nghị và can đảm…". (</i>truyện Hồ Huân Nghiệp <i>trong Kỳ Xuyên văn sao)</i></dd> </dl>
+<p>Paulin Vial kể:</p>
+<dl> <dd><i>Trong khi Đại úy hải quân Piquet, thanh tra bổn quốc sự vụ chất vấn ông Trực, ông Trực tỏ ra rất cương quyết và rất đàng hoàng chính đáng. Các câu trả lời của ông đã cho thấy một cách chính xác phẩm chất của con người đó, người đã đóng một vai trò đáng kể</i>.</dd> </dl>
+<p>Ở đoạn văn khác, Paulin Vial khen ngợi:</p>
+<dl> <dd><i><a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực là "người rất tự trọng, có tư cách đáng quý và đầy nghị lực", là " người có gương mặt thông minh và dễ có thiện cảm" là " một người chỉ huy trẻ tuổi, rất can đảm, chống nhau với ta ngót mười năm trời.</i><sup class="annotation badge" title="^ Sách đã dẫn, quyển 2, tr. 241.">19</sup> </dd> </dl>
+<p>Alfred Schreiner cho biết:</p>
+<dl> <dd><i>Trong suốt thời kỳ bị giam cầm, ông Trực không có lúc nào tỏ ra yếu đuối cả, một cách thẳng thắng và đàng hoàng, ông công nhận các chiến công của ông và cũng nhận là đã khinh thường sức mạnh của Pháp. Ngoài ra, ông chỉ yêu cầu ban cho ông một ân huệ, ấy là được xử tử ông ngay tức khắc.</i><sup class="annotation badge" title="^ Sách đã dẫn, tr. 300.">20</sup> </dd> </dl>
+<p>Trong một bài thơ điếu, <a class="annotation" href="/nhan-vat/huynh-man-dat" title="Huỳnh Mẫn Đạt (黃敏達, 1807-1882) còn gọi là Tuần Phủ Đạt là quan nhà Nguyễn và là nhà thơ ở thế kỷ 19 tại Nam Bộ, Việt Nam...." target="_blank" >Huỳnh Mẫn Đạt</a> có câu:</p>
+<dl> <dd><i>Anh hùng cường cảnh phương danh thọ</i></dd> <dd><i>Tu sát đê đầu vị tử nhân.</i></dd> </dl>
+<p>Dịch nghĩa:</p>
+<dl> <dd><i>Anh hùng cứng cổ danh thơm mãi</i></dd> <dd><i>Lũ sống khom lưng chết thẹn dần</i></dd> </dl>
+<p>Tương truyền, được tin ông thọ tử, vua Tự Ðức sai hoàng giáp <a class="annotation" href="/nhan-vat/le-khac-can" title="Lê Khắc Cẩn (chữ Hán: 黎克謹) người làng Hạnh Thị (thuộc huyện An Lão, Hải Phòng ngày nay) đỗ Hoàng giáp khoa Nhâm Tuất (1862) và từng đảm nhiệm nhiều chức vụ dưới triều Tự Đức. Ông là người Hải Phòng duy nhất đỗ Tiến sĩ Nho học dưới triều nhà Nguyễn. Lê Khắc Cẩn cũng là người có văn tài, nhiều trước t..." target="_blank" >Lê Khắc Cẩn</a> làm lễ truy điệu, đọc bài điếu với chính bút ngự rằng:<sup class="annotation badge" title="^ Theo ý kiến của Nguyễn Thị Thanh Xuân trong cuộc &quot;hội thảo khoa học về thân thế và sự nghiệp Nguyễn Trung Trực&quot; trong hai ngày 7 và 8 tháng 10 năm 1988 tại Rạch Giá, thì bài thơ trên do nhà thơ Trương Gia Mô làm ra. Điều này rất có thể, vì Nguyễn Nghị căn cứ Cơ mật viện trích tư sự, đề ngày 6 tháng 2 năm Tự Đức 24 (1872) cho biết: &quot;Mãi bốn năm sau khi Nguyễn Trung Trực mất, triều đình Huế mới có văn thư yêu cầu cứu xét rõ nguyên ủy, sự trạng của hai tên này (Nguyễn Trung Trực và Hồ Huân Nghiệp) xuất thân như thế nào, đã từng làm quan hay chưa, theo ai làm việc gì, chết ngày nào&quot; để xem có nên hay không nên tặng thưởng...(Tài liệu cơ mật mang ký hiệu R. 73/199 tại Lưu trữ Trung ương 2. Dẫn theo Nguyễn Trung Trực qua một số tư liệu Pháp, sách đã dẫn, tr.254)">21</sup> </p>
+<dl> <dd> <table width="100%"> <tr> <td width="50%"> <dl> <dd><i>Ký bi ngư nhân</i></dd> <dd><i>Hùng tại quốc sĩ</i></dd> <dd><i>Hỏa Nhựt Tảo thuyền</i></dd> <dd><i>Ðồ Kiên Giang lũy</i></dd> <dd><i>Ðịch khái đồng cừu</i></dd> <dd><i>Thân tiên tự thỉ</i></dd> <dd><i>Hiệu khí cổ kim</i></dd> <dd><i>Thử nhân nam tư</i></dd> <dd><i>Xích huyết hoàng sa</i></dd> <dd><i>Ô hô dĩ hi</i></dd> <dd><i>Huyết thực thiên thu</i></dd> <dd><i>Chương nhữ trung nghĩa.</i></dd> </dl> </td> <td width="50%"> <dl> <dd>Thái Bạch dịch:</dd> <dd>'<i>Giỏi thay người chài</i></dd> <dd><i>Mạnh thay quốc sĩ</i></dd> <dd><i>Đốt thuyền Nhật Tảo,</i></dd> <dd><i>Phá lũy Kiên Giang.</i></dd> <dd><i>Thù nước chưa xong</i></dd> <dd><i>Thân sao đã mất</i></dd> <dd><i>Hiệu khí xưa nay</i></dd> <dd><i>Người nam tử ấy</i></dd> <dd><i>Máu đỏ, cát vàng</i></dd> <dd><i>Hỡi ơi thôi vậy</i></dd> <dd><i>Ngàn năm hương khói,</i></dd> <dd><i>Trung nghĩa còn đây.</i></dd> </dl> </td> </tr> </table> </dd> </dl>
+<p>Và cũng chính nhà vua này đã sắc phong ông làm <b>Thượng Ðẳng Linh Thần</b>, thờ tại làng Vĩnh Thanh Vân, Rạch Giá nơi ông đã hiên ngang thà chịu chết chớ không chịu đầu hàng Pháp. Đã rất nhiều năm qua, dân làng Vĩnh Thanh Vân, nhất là những ngư dân, luôn tôn kính và tự hào về <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực, một người xuất thân từ giới dân chài áo vải, vậy mà đã trở thành một vị anh hùng, đúng với ý nghĩa: "Sống làm Tướng và chết làm Thần!" và "anh khí như hồng", nghĩa là khí tiết của người anh hùng rực rỡ như cầu vồng bảy sắc.</p>
+<a name="tuong-nho"></a><h2>Tưởng nhớ</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/nguyen-trung-truc/7ec63b7a5ef529a24b1dbc4b39cbbac5.jpg" /> <div class="caption"> <div class="magnify"></div> Tượng <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại Phú Quốc, nơi ông bị Pháp bắt</div> </div> </div>
+<p>Sau khi ông bị hành hình, dân chúng cảm thương vô cùng nên đã bí mật thờ ông như một vị anh hùng trong đền thờ Nam Hải đại vương (cá Ông hay cá Voi), chính là ngôi đền thờ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại thành phố Rạch Giá hiện nay.</p>
+<p>Và khi người Pháp không còn cai trị Việt Nam, vào năm 1970, nhân dân địa phương đã lập tượng <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực bằng đồng, màu đen đặt trước "chợ nhà lồng" Rạch Giá (cũ). Hiện nay, tượng thờ này được sơn lại màu nâu đỏ, và đã được di dời vào trong khuôn viên khu đền thờ của ông tại thành phố Rạch Giá. Năm 2000, người ta đã cho làm một tượng mới bằng cũng bằng đồng lớn hơn, màu xám, để thay thế, và khu "chợ nhà lồng" mà sau này nó còn có tên là "Khu thương mại", cũng đã di dời nơi khác để nơi đó trở thành công viên.</p>
+<p>Nhiều tỉnh thuộc đồng bằng <a class="annotation" href="/dia-danh/song-cuu-long" title="Sông Cửu Long, hay Cửu Long Giang (chữ Hán: 九龍江), là tên gọi chung cho các phân lưu của sông Mê Kông chảy trên lãnh thổ của Việt Nam...." target="_blank" >sông Cửu Long</a>... nhân dân đã lập đền thờ ông và hằng năm đều có tổ chức lễ tưởng niệm trọng thể. (Đình <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại Rạch Giá tổ chức lễ giỗ vào các ngày từ 26 đến 28 tháng 8 âm lịch. Đình và mộ nơi này đã được công nhận là di tích Lịch–Văn hóa cấp quốc gia vào ngày 06 tháng 12 năm 1989).</p>
+<p>Tại huyện Tân Trụ, tỉnh Long An, nơi diễn ra trận "Hỏa hồng Nhựt Tảo oanh thiên địa" của <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đốt cháy tàu L’Esperance của Pháp (ngay cạnh Vàm sông Nhựt Tảo), chính quyền và nhân dân đã xây dựng và khánh thành Đền Tưởng niệm <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực trên khu đất rộng 6 ha ngày 14/10/2010.</p>
+<p>[4]</p>
+<a name="gia-quyen"></a><h2>Gia quyến</h2>
+<a name="cha-me"></a><h3>Cha mẹ</h3>
+<p>Tương truyền, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực rất có hiếu với mẹ. Là con trưởng, hàng ngày ông phải đi đánh bắt cá để có tiền phụ giúp gia đình. Theo sách <i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>, lúc ông đến ở Tà Niên, chuẩn bị tấn công đồn Kiên Giang, ông đã đưa mẹ đến ẩn náu ở nhà ông Dương Công Thuyên ở chợ Rạch Giá. Đến khi rút Hòn Chông, ông cũng đưa mẹ đi theo. Chỉ đến khi vượt biển ra <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a>, ông mới đành phải để mẹ ở lại.</p>
+<p>Không bắt được ông, thực dân Pháp đã sai người bắt mẹ ông<sup class="annotation badge" title="^ Ở một vài sách đã dẫn bên trên và trong lời khai của ông Trực đều không có chi tiết này">22</sup> , rồi tìm mọi cách để bà viết thư khuyên con ra hàng, nhưng bà không nghe. Về sau, biết tin con ra hàng, bà tức giận thổ huyết mà chết. Nhưng có người lại nói rằng mẹ ông không bị quân Pháp bắt. Đây là chuyện bịa để buộc ông vì chữ hiếu mà ra hàng. Lúc Pháp tấn công Hòn Chông, thì bà đã đi lánh nạn ở đâu không rõ. Nhưng sau đó bà về ẩn náu ở Tân Thuận (nay là xã Tân Tiến, huyện Đầm Dơi, tỉnh Cà Mau) rồi mất ở đó<sup class="annotation badge" title="^ Hỏi đáp cuộc khởi nghĩa Nguyễn Trung Trực, tr. 61-62">23</sup> .</p>
+<p>Cũng theo sách này, cha <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực mất sớm, bỏ lại 8 người con khiến mẹ ông phải sớm hôm tảo tần vất vả.<sup class="annotation badge" title="^ Hỏi đáp cuộc khởi nghĩa Nguyễn Trung Trực,tr. 26 và 93.">24</sup>  Nhưng theo câu chuyện còn lưu lại trong họ tộc<sup class="annotation badge" title="^ Theo bài Những hậu duệ của Nguyễn Trung Trực">25</sup>  cha ông Trực không mất sớm. Bởi sau khi <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực bị bắt ở Phú Quốc, ông vẫn còn sống để đưa gia đình mình và gia đình của các nghĩa quân xuống ghe về ẩn náu ở Cà Mau. Khi chồng đi, bà Tô Kim Hồng (sách <i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i> ghi là Lê Kim Hồng, tức mẹ ông Trực), vẫn còn ở lại Hòn Chông, trong sự quản thúc của chính quyền thực dân và bà đã mất ở đó. Mãi sau này hài cốt của bà mới được cải táng về nằm bên cạnh chồng ở Cà Mau. Hiện nay, hậu duệ của dòng họ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đông đúc cả ngàn người, sống rải rác ở khắp nơi, nhưng tập trung đông nhất là ở hai xã Tân Đức và Tân Tiến, huyện Đầm Dơi.</p>
+<a name="vo-con"></a><h3>Vợ con</h3>
+<p>Cũng theo lời kể thì ông có người vợ tên Điều (tục gọi là bà Đỏ. Có nguồn cho rằng bà Điều và bà Đỏ là hai chị em ruột chứ không phải một người), người làng Minh Lương (nay thuộc <a class="annotation" href="/dia-danh/huyen-chau-thanh" title="Châu Thành là một từ được sử dụng khá nhiều làm địa danh ở miền Nam Việt Nam. Trong lịch sử, danh xưng là một tên chung để gọi “lị sở” hay là “thủ phủ” của tỉnh. Sau biến thành tên riêng của cả loạt “lị sở” hay là “thủ phủ” của nhiều tỉnh ở Nam Kỳ. Ngày nay, địa danh này vẫn còn được sử dụng khá nhi..." target="_blank" >huyện Châu Thành</a>, Kiên Giang). Bà Điều là người đã từng theo sát ông trong suốt thời gian chống Pháp ở Kiên Giang. Có lần bà đi do thám đồn Săn Đá ở Rạch Giá, bị đối phương bắt được, nhưng <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đến giải cứu kịp. Sau, bà bị bắt lần nữa, bị nhốt trong khám lớn Rạch Giá, mãi đến khi ông Trực đánh chiếm đồn bót trên (1868) mới giải thoát cho bà. Chưa rõ hai người có con hay không, bà đã hy sinh ở đâu và lúc nào.</p>
+<p>Khi ở <a class="annotation" href="/dia-danh/dao-phu-quoc" title="Phú Quốc, còn được mệnh danh là Đảo Ngọc, là hòn đảo lớn nhất của Việt Nam, cũng là đảo lớn nhất trong quần thể 22 đảo tại đây, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo khác tạo thành huyện đảo Phú Quốc trực thuộc tỉnh Kiên Giang. Toàn bộ huyện đảo có tổng diện tích 589,23&amp;#160;km² (th..." target="_blank" >đảo Phú Quốc</a>, ông có thêm một vợ tên là Lê Kim Định (tục gọi bà <i>Quan Lớn Tướng</i>), sinh được một trai nhưng chết non. Hiện còn mộ và đền thờ của bà ở Cửa Cạn (Phú Quốc)...<sup class="annotation badge" title="^ Nhiều người soạn, Cuộc khởi nghĩa Nguyễn Trung Trực. Nhà xuất bản QĐND, 2008, tr. 26-28.">26</sup>  Theo lời kể, thì khi nghĩa quân bị vây khổn vào năm 1968, bà Định đã dùng ghe theo dòng sông Cửa Cạn để ra biển về đất liền. Nhưng chẳng may gặp đoạn sông bị cát lấp, ghe của bà bị mắc lại, không đi được. Kiệt sức, bà sinh non trong một đêm mưa bão, và rồi bị băng huyết mà chết. Hài nhi sinh non cũng chết theo. Có người tìm gặp cả hai thi hài, đem giấu vào một bọng cây. Đến khi yên ổn, người dân mới đem hài cốt hai mẹ con bà chôn cất tử tế tại bãi Ông Lang. Mộ bà được gọi là mộ Bà Lớn.</p>
+<p>Trong biên bản hỏi cung khi <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực bị giam ở Khám Lớn Sài Gòn, có câu:...<i>Số phận tôi đã đầy đủ, tôi đã không thành công trong việc cứu nguy nước tôi, tôi chỉ xin một điều là người ta kết liễu đời tôi càng sớm càng tốt và mong rằng người ta cho những đứa con của tôi lên Sài Gòn</i>. Nếu căn cứ vào câu này, thì ông có ít nhất hai ba đứa con, nhưng cuộc đời của họ sau này ra sao, không thấy tài liệu nào nói đến.</p>
+<a name="anh"></a><h2>Ảnh</h2>
+<ul class="gallery mw-gallery-traditional"> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nguyen-trung-truc/9f1bd54b3d1388cc71c7a94e98a75c70.jpg" /></div> </div> <div class="gallerytext"> <p>Một khẩu đại bác loại nhỏ, thô sơ của nghĩa quân <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực.</p> </div> </div> </li> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nguyen-trung-truc/4038c91ed7f6b8d72fefd790c94edc5f.jpg" /></div> </div> <div class="gallerytext"> <p>Mảnh ván tàu Espérance, được trưng bày tại đền thờ chính.</p> </div> </div> </li> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nguyen-trung-truc/a0ad0e3edb999f5a43b176ac6a4f881f.jpg" /></div> </div> <div class="gallerytext"> <p>Nơi <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực thọ án, nay là Bưu điện thành phố Rạch Giá.</p> </div> </div> </li> <li class="gallerybox" > <div > <div class="thumb-img" > <div ><img alt="" src="/images/wiki/nguyen-trung-truc/146a0950807aa5501706e1e5bcc28228.jpg" /></div> </div> <div class="gallerytext"> <p>Chiếu Tà Niên do dân làm ra, để tỏ lòng tôn kính ông Nguyễn.</p> </div> </div> </li> </ul>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Trận Nhật Tảo</li> <li>Trận đồn Kiên Giang</li> <li>Trận Cửa Cạn</li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-3" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text">Ghi theo sách <i>Hỏi đáp lịch sử Việt Nam</i> tập 4, Nhà xuất bản Trẻ, năm 2007. Căn cứ biên bản hỏi cung ông <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại khám đường Sài Gòn vào tháng 10 năm 1868, ông Trực "mới được 30 tuổi"(age’ de 30 ans), thì rất có thể ông sinh năm 1838. Nguyễn Q. Thắng và Nguyễn Bá Thế, <i>Từ điển nhân vật Việt Nam</i> cho rằng ông sinh năm 1837.</span></li> <li id="cite_note-2"><b>^</b> <span class="reference-text">Ghi theo sách <i>Hỏi đáp lịch sử Việt Nam tập 4</i> (sách đã dẫn, tr. 46). Sách <i>Hỏi đáp về cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực (Nhà xuất bản QĐND, 2008, tr. 54) và Phan Thành Tài (bài in trong Nam Bộ - đất và người, do Hội Khoa học lịch sử TP. HCM tổ chức biên soạn, Nhà xuất bản Trẻ, tr. 167), đều cho biết khi ông Trực lui quân về Hòn Chông, mới đổi tên thành <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực.</i></span></li> <li id="cite_note-:0-3">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Quốc sử quán triều Nguyễn (2006), Đại Nam thực lục, tập 07, Nhà xuất bản Giáo dục, tr. 760</span></li> <li id="cite_note-4"><b>^</b> <span class="reference-text">Xem toàn văn nơi đề mục <a class="annotation" href="/nhan-vat/huynh-man-dat" title="Huỳnh Mẫn Đạt (黃敏達, 1807-1882) còn gọi là Tuần Phủ Đạt là quan nhà Nguyễn và là nhà thơ ở thế kỷ 19 tại Nam Bộ, Việt Nam...." target="_blank" >Huỳnh Mẫn Đạt</a>.</span></li> <li id="cite_note-5"><b>^</b> <span class="reference-text">Nguyễn Phan Quang cho biết: "Theo tài liệu của Pháp thì trong trận đốt cháy tàu <i>Espérance</i>, <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực đã được sự hướng dẫn, hỗ trợ của <a class="annotation" href="/nhan-vat/truong-dinh" title="Trương Định (chữ Hán: 張定; 1820-1864) hay Trương Công Định hoặc Trương Đăng Định, là võ quan nhà Nguyễn, và là thủ lĩnh chống Pháp giai đoạn 1859-1864, trong lịch sử Việt Nam...." target="_blank" >Trương Định</a>".(<i>Việt Nam thế kỷ 19</i>, Nhà xuất bản TP. HCM, 2002, tr. 289)</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">Theo Phan Thành Tài, sách đã dẫn và <i>Hỏi đáp lịch sử,</i> tập 4, sách đã dẫn.</span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text">Có tài liệu nói <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực nhận chức khi ở Tân An, có tài liệu nói ông ra Bình Định nhận chức.</span></li> <li id="cite_note-8"><b>^</b> <span class="reference-text">Số liệu ghi theo sách <i>Lược sử đình Vĩnh Hòa Hiệp</i>, sách đã dẫn, tr. 24.</span></li> <li id="cite_note-9"><b>^</b> <span class="reference-text">"Bulletin de la Société des Études Indochines de Saigon", Sài Gòn, tr.40.</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text"><i>Việt sử tân biên</i>, quyển 5, tập thượng, Sài Gòn, 1962, tr.198</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">Paulin Vial, sách đã dẫn.</span></li> <li id="cite_note-12"><b>^</b> <span class="reference-text">Dẫn lại theo sách <i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>. Nhà xuất bản QĐND, 2008 tr. 70.</span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Nguyễn Nghị, <i><a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực qua một số tư liệu của Pháp</i> cho biết: "Nhiều hồ sơ tương đối quan trọng trong những năm 1860 đến đầu thập niên 1870, đã được ghi là phát hiện mất. Theo một số nhà chuyên môn thì người Pháp khi trở lại Việt Nam đã lấy đi..."(Nam Bộ - xưa và nay, Nhà xuất bản TP. HCM và tạp chí Xưa và Nay, năm 2005, tr.255</span></li> <li id="cite_note-14"><b>^</b> <span class="reference-text">Câu trong ngoặc kép, dịch nguyên văn theo Giám đốc sở nội vụ Paulin Vial (<i>Việt sử tân biên</i>, quyển 5, tập thượng, Sài Gòn, 1962, tr.198)</span></li> <li id="cite_note-15"><b>^</b> <span class="reference-text">Ðịa điểm hành quyết ngay tại miếng đất đối diện <i>chợ nhà lồng</i> Rạch Giá, lúc bấy giờ còn cây da cổ thụ. Trên miếng đất thấm máu <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực, người Pháp cho xây lên Nhà Giây Thép, về sau là Ty Bưu Ðiện tỉnh lỵ. Riêng cây da cổ thụ đã bị đốn vào năm 1947.</span></li> <li id="cite_note-16"><b>^</b> <span class="reference-text">Theo <i>Lược sử Đình Vĩnh Hòa Hiệp</i> do Ban Bảo vệ di tích tổ chức biên soạn và ấn hành vào tháng 1 năm 2008: "Từ đầu tháng 6 năm 1867 đến ngày 16 tháng 6 năm 1868, dân làng Tà Niên (nay là xã Vĩnh Hòa Hiệp) đã đùm bọc, chở che nghĩa quân <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực, để họ chuẩn bị tấn công đồn Kiên Giang.</span></li> <li id="cite_note-17"><b>^</b> <span class="reference-text">Theo Nguyễn Thị Diệp Mai, "Làng Vĩnh Hòa Đông" trên website Văn nghệ Sông Cửu Long [1]. Thông tin thêm: Có người cho rằng, chém ông Trực xong, người Pháp cho ráp đầu mình lại rồi cho liệm vào hòm đem chôn cất tử tế. Mộ ông chôn trong vòng thành ông Chánh, cách cầu ông Chánh chừng 70 m. Mộ chiếm một khu đất chừng 100 thước vuông, xây cao lên quá 3 thước, chung quang có xiềng xích bằng sắt...(theo <i>Việt sử tân biên</i>, quyển 5, tập thượng, tr. 199-200). Nhưng theo sách <i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>, thì đây là mả của một Trung úy hải quân Pháp, và ngôi mộ ấy đã bị phá vỡ năm 1945 khi đồng bào miền Nam cùng nổi dậy. Lại có người cho rằng quân Pháp đã cho chôn mình ông ở sau dinh Tỉnh trưởng (cũ), còn đầu ông thì đem bêu ở chợ Rạch Giá. Một đêm, có người lẻn đến lấy mất. Thực tế, cùng bị chém với ông Trực buổi ấy còn có hai người nữa nhưng không rõ tên tuổi và đã phạm tội gì. Chém xong, Pháp đem chôn tất cả ở phía sau dinh Tỉnh trưởng cũ (nay là Cung thiếu nhi thành phố Rạch Giá, nằm kề bên UBND <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a>), rồi không rõ ai đã trồng bên mộ một cây đa. Năm 1986, chánh quyền <a class="annotation" href="/dia-danh/tinh-kien-giang" title="Kiên Giang (nghe ) là một tỉnh ven biển thuộc đồng bằng sông Cửu Long ở miền Nam Việt Nam, với phần lớn diện tích của tỉnh thuộc địa bàn tỉnh Rạch Giá trước đó. Đây là tỉnh có diện tích lớn nhất miền tây và lớn nhì ở miền nam (sau tỉnh Bình Phước). Tuy nhiên, cũng có thời kỳ toàn bộ diện tích tỉnh K..." target="_blank" >tỉnh Kiên Giang</a> đã tìm được hài cốt ông ở nơi ấy và đã di táng về bên trong khuôn viên đình thờ <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực tại thành phố Rạch Giá. Xem thêm [2].</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text">Tuy nhiên, có ý kiến cho rằng hài cốt trong mộ không phải là của <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực. Xem: [3].</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text">Sách đã dẫn, quyển 2, tr. 241.</span></li> <li id="cite_note-20"><b>^</b> <span class="reference-text">Sách đã dẫn, tr. 300.</span></li> <li id="cite_note-21"><b>^</b> <span class="reference-text">Theo ý kiến của Nguyễn Thị Thanh Xuân trong cuộc "hội thảo khoa học về thân thế và sự nghiệp <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực" trong hai ngày 7 và 8 tháng 10 năm 1988 tại Rạch Giá, thì bài thơ trên do nhà thơ Trương Gia Mô làm ra. Điều này rất có thể, vì Nguyễn Nghị căn cứ <i>Cơ mật viện trích tư sự,</i> đề ngày 6 tháng 2 năm Tự Đức 24 (1872) cho biết: "Mãi bốn năm sau khi <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực mất, triều đình Huế mới có văn thư yêu cầu cứu xét rõ nguyên ủy, sự trạng của hai tên này (<a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực và Hồ Huân Nghiệp) xuất thân như thế nào, đã từng làm quan hay chưa, theo ai làm việc gì, chết ngày nào" để xem có nên hay không nên tặng thưởng...(Tài liệu cơ mật mang ký hiệu R. 73/199 tại Lưu trữ Trung ương 2. Dẫn theo <i><a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực qua một số tư liệu Pháp</i>, sách đã dẫn, tr.254)</span></li> <li id="cite_note-22"><b>^</b> <span class="reference-text">Ở một vài sách đã dẫn bên trên và trong lời khai của ông Trực đều không có chi tiết này</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text"><i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>, tr. 61-62</span></li> <li id="cite_note-24"><b>^</b> <span class="reference-text"><i>Hỏi đáp cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>,tr. 26 và 93.</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Theo bài <i>Những hậu duệ của <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i></span></li> <li id="cite_note-26"><b>^</b> <span class="reference-text">Nhiều người soạn, <i>Cuộc khởi nghĩa <a class="annotation" href="/nhan-vat/nguyen-trung" title="Nguyễn Trung (sinh năm 1935) là một nhà ngoại giao, cựu đại sứ Việt Nam tại Thái Lan và CHLB Đức, ông cũng từng là cộng tác viên Ban Nghiên cứu của Thủ tướng và là thành viên Viện nghiên cứu Phát triển...." target="_blank" >Nguyễn Trung</a> Trực</i>. Nhà xuất bản QĐND, 2008, tr. 26-28.</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/nguyen-trung-ngan" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Nguyễn Trung Ngạn            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/nguyen-truong-giang" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Nguyễn Trường Giang            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/nguyen-trung-truc" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>

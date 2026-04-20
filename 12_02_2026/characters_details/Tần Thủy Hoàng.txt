@@ -1,0 +1,1575 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" dir="ltr">
+
+<head>
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+	<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/css">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+
+	<meta name="HandheldFriendly" content="true"/>
+	<meta name="apple-mobile-web-app-capable" content="YES"/>
+	<!-- //META FOR IOS & HANDHELD -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta charset="utf-8">
+	<meta name="author" content="Wikipedia">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng...">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Tần Thủy Hoàng - Người Kể Sử - Lịch sử Việt Nam</title>
+	<link href="/templates/ja_simpli/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/template-j4.css" rel="stylesheet" />
+	<link href="/templates/ja_simpli/css/custom.css" rel="stylesheet" />
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script type="application/json" class="joomla-script-options new">{"bootstrap.tooltip":{".annotation":{"animation":true,"container":"body","html":true,"trigger":"hover focus","boundary":"clippingParents","sanitize":true}},"joomla.jtext":{"ERROR":"L\u1ed7i","MESSAGE":"Tin nh\u1eafn","NOTICE":"Ch\u00fa \u00fd","WARNING":"C\u1ea3nh b\u00e1o","JCLOSE":"\u0110\u00f3ng","JOK":"OK","JOPEN":"M\u1edf"},"system.paths":{"root":"","rootFull":"https:\/\/nguoikesu.com\/","base":"","baseFull":"https:\/\/nguoikesu.com\/"},"csrf.token":"a23de48a12541e87b9fe7aa7a67b54f8"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/ja_simpli/js/template.js"></script>
+	
+	<meta property="fb:app_id" content="2081513905238192" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Tần Thủy Hoàng" />
+	<meta property="og:site_name" content="Người Kể Sử - Lịch sử Việt Nam" />
+	<meta property="og:description" content="Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), c�.." />
+	<meta property="og:url" content="https://nguoikesu.com/nhan-vat/tan-thuy-hoang" />
+	<meta property="og:image" content="https://nguoikesu.com/images/wiki/tan-thuy-hoang/b0d2efbd371073dad4131fb4353c51f6.jpg" />
+	<!-- Start: Google Structured Data -->
+             <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nguoikesu.com/" }, { "@type": "ListItem", "position": 2, "name": "Nhân Vật", "item": "https://nguoikesu.com/nhan-vat" }, { "@type": "ListItem", "position": 3, "name": "Tần Thủy Hoàng", "item": "https://nguoikesu.com/nhan-vat/tan-thuy-hoang" } ] } </script> <script type="application/ld+json" data-type="gsd"> { "@context": "https://schema.org", "@type": "Article", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://nguoikesu.com/nhan-vat/tan-thuy-hoang" }, "headline": "Tần Thủy Hoàng", "description": "Tần Thủy Hoàng (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) , tên thật là Doanh Chính (嬴政), còn có tên khác là Triệu Chính (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc và trở thành vị Hoàng đế sáng lập ra nhà Tần, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49. Tự gọi mình là Thủy Hoàng Đế (始皇帝) sau khi Trung nguyên (Trung Quốc ngày nay) được thống nhất, Tần Thủy Hoàng là một nhân vật quan trọng trong lịch sử Trung Quốc, mở ra gần hai thiên niên kỷ của hoàng gia cai trị Trung Quốc. Sau khi thống nhất, ông và thừa tướng Lý Tư đã thông qua một loạt các cải cách lớn về kinh tế và chính trị . Ông đã tiến hành nhiều dự án khổng lồ, bao gồm việc xây dựng và hợp nhất các bộ phận của Vạn Lý Trường Thành, lăng mộ kích thước thành phố nổi tiếng được bảo vệ bởi đội quân đất nung có kích thước thật, và một hệ thống đường quốc gia lớn, với cái giá của rất nhiều mạng người. Để đảm bảo sự ổn định, ông đặt ra ngoài vòng pháp luật và đốt cháy nhiều cuốn sách và chôn sống một số học giả.", "image": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/wiki/tan-thuy-hoang/b0d2efbd371073dad4131fb4353c51f6.jpg" }, "author": { "@type": "Person", "name": "Thành Nguyễn", "url": "https://nguoikesu.com/nhan-vat/tan-thuy-hoang" }, "publisher": { "@type": "Organization", "name": "NguoiKeSu.com", "logo": { "@type": "ImageObject", "url": "https://nguoikesu.com/images/logo.png" } }, "datePublished": "2017-11-24T11:40:24+07:00", "dateCreated": "2017-11-24T11:40:24+07:00", "dateModified": "2023-01-18T12:34:02+07:00" } </script>
+            <!-- End: Google Structured Data -->
+
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<!-- Custom color style -->
+	<link href="https://fonts.googleapis.com/css?family=Petrona:400,400italic,700,700italic" rel="stylesheet" type="text/css" >
+<link id="custom-style-css" href="/media/ja_simpli/css/custom-styles/15.css" rel="stylesheet" type="text/css" >
+	<!-- Custom code -->
+	<script async defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(function($){
+		$(document).ready(function(){
+	    	$(".ads-container:hidden").remove();
+	    	(adsbygoogle = window.adsbygoogle || []).onload = function () {
+		        [].forEach.call(document.getElementsByClassName('adsbygoogle'), function () {
+		            adsbygoogle.push({})
+		        })
+		    }
+	    });
+	})(jQuery);
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R9L1KHW5QT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R9L1KHW5QT');
+</script>	<!-- // Custom code -->
+	<script>
+		var isJ4 = true;
+	</script>
+</head>
+
+<body class="page-article  page-list-items">
+
+	<!-- Custom code -->
+		<!-- // Custom code -->
+
+<div class="main">
+
+		<!-- HEADER -->
+	<header id="header" class="header" role="banner">
+		<div class="container">
+		<div class="row">
+	    	<!-- Logo - header left -->
+	    	<div class="span4">
+			<a class="navbar-brand logo logo-text" href="/">
+				<strong></strong>
+				<small class="slogan"></small>
+			</a>
+			</div>
+			<!-- // Logo -->
+
+				    	<!-- ADS-->
+	    	<div class="banner span8  ">
+				
+<div id="mod-custom127" class="mod-custom custom">
+    <div class="ads-container visible-phone" style="max-width:720px;">
+  <!--<span class="ads-text ads-text-vertical">Quảng cáo</span>-->
+  <!-- Top Banner 728x90 -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="5129345629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div></div>
+
+			</div>
+			<!-- // ADS-->
+					</div>
+		</div>	</header>
+	<!-- // HEADER -->
+			<!-- MAIN NAVIGATION -->
+	<nav id="mainnav" class="navbar navbar-static-top" role="navigation">
+		<div class="navbar-inner">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+			      	<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" data-bs-toggle="collapse" data-bs-target=".nav-collapse">
+						<i class="fa fa-bars"></i>
+			        	<span>Menu</span>
+			      	</button>
+
+					<!-- The Nav -->
+					<div class="nav-collapse collapse">
+						<ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/" >Trang Chủ</a></li><li class="nav-item item-103 deeper parent"><a href="/dong-lich-su" >Dòng Lịch Sử</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-103" data-bs-toggle="collapse" data-bs-target=".nav-collapse-103" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-103"><li class="nav-item item-124"><!--<span class="mod-menu__heading nav-header "></span>-->
+<ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</li></ul></li><li class="nav-item item-106 deeper parent"><a href="/tu-lieu" >Tư Liệu</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-106" data-bs-toggle="collapse" data-bs-target=".nav-collapse-106" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-106"><li class="nav-item item-118"><a href="/tu-lieu/quan-su" >Quân Sự</a></li><li class="nav-item item-119"><a href="/tu-lieu/tac-pham" >Tác Phẩm</a></li><li class="nav-item item-208"><a href="/tu-lieu/bang-giao" >Bang Giao</a></li><li class="nav-item item-247"><a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" >Biểu đồ thời gian</a></li></ul></li><li class="nav-item item-104 current active deeper parent"><a href="/nhan-vat" aria-current="location">Nhân Vật</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-104" data-bs-toggle="collapse" data-bs-target=".nav-collapse-104" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-104"><li class="nav-item item-160"><a href="/anh-hung-dan-toc?types[0]=1" >Anh Hùng Dân Tộc</a></li><li class="nav-item item-163"><a href="/danh-nhan-van-hoa?types[0]=1" >Danh nhân văn hóa</a></li></ul></li><li class="nav-item item-116"><a href="/di-tich-lich-su?types[0]=1" >Di Tích</a></li><li class="nav-item item-107"><a href="/thoi-su" >Ngày Nay</a></li><li class="nav-item item-179"><a href="/sach" >Sách</a></li><li class="nav-item item-122"><a href="/video" >Video</a></li><li class="nav-item item-223 deeper parent"><a href="/hoi-dap" >Q&amp;A</a><span class="subnav-toggle" data-toggle="collapse" data-target=".nav-collapse-223" data-bs-toggle="collapse" data-bs-target=".nav-collapse-223" aria-expanded="true"><i class="fa fa-angle-down"></i></span><ul class="mod-menu__sub list-unstyled small nav-collapse-223"><li class="nav-item item-230"><a href="/hoi-dap/lop-12" >Lịch sử lớp 12</a></li><li class="nav-item item-229"><a href="/hoi-dap/lop-11" >Lịch sử lớp 11</a></li><li class="nav-item item-228"><a href="/hoi-dap/lop-10" >Lịch sử lớp 10</a></li><li class="nav-item item-227"><a href="/hoi-dap/lop-9" >Lịch sử lớp 9</a></li><li class="nav-item item-226"><a href="/hoi-dap/lop-8" >Lịch sử lớp 8</a></li><li class="nav-item item-225"><a href="/hoi-dap/lop-7" >Lịch sử lớp 7</a></li><li class="nav-item item-224"><a href="/hoi-dap/lop-6" >Lịch sử lớp 6</a></li></ul></li></ul>
+
+					</div>
+					<!-- // The Nav -->
+				</div>
+
+							</div>
+		</div>		</div>
+	</nav>
+	<!-- // MAIN NAVIGATION -->
+	
+	
+	
+	
+	
+
+<div id="top-3" class="top-sl section grey-bg no-padding">
+<div class="container">
+
+<div class="row">
+
+		<div class="span9">
+		<div class="ja-module module my-2 " id="Mod17"><div class="module-inner"><div class="module-ct"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Bạn đang ở: &#160;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/" class="pathway"><span>Trang chủ</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item"><a href="/nhan-vat" class="pathway"><span>Nhân Vật</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Tần Thủy Hoàng</span></li>    </ol>
+    </nav>
+</div></div></div>
+	</div>
+		<div class="span3">
+		<div class="ja-module module my-2 " id="Mod122"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom122" class="mod-custom custom">
+    <form action="/tim-kiem" method="get" class="form-inline m-0" role="search">
+  <input name="q" maxlength="200" autocomplete="off" class="inputbox input-large p-1 pull-right" type="search" size="20" placeholder="Tìm kiếm ...">
+</form></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+		<!-- MAIN BODY -->
+	<div class="mainbody">
+		<div class="container">			<div class="mainbody-inner row ">
+        <!-- Content -->
+        <main id="content" class="content span8" role="main">
+
+          <!-- Breadcrums -->
+          
+          <!-- // Breadcrums -->
+
+          <div id="system-message-container" aria-live="polite"></div>
+
+          <div class="com-content-article item-page page-list-items" >
+    
+        <div class="page-header">
+        <h1> Nhân Vật Lịch Sử </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 >
+            Tần Thủy Hoàng        </h2>
+                            </div>
+        
+        
+            <dl class="article-info text-muted">
+
+            <dt class="article-info-term">
+                            Banner được lưu thành công.                    </dt>
+
+        
+        
+                    			<dd class="category-name hasTooltip" title="Chuyên mục: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/nhan-vat" ><span itemprop="genre">Nhân Vật Lịch Sử</span></a>							</dd>        
+        
+        
+    
+            
+        
+            </dl>
+    
+    
+        
+                                                <div  class="com-content-article__body">
+        <div id="toc">
+<div class="toc-title"><strong>Mục Lục</strong> [<a href="#" onclick="jQuery('#toc').toggleClass('expand'); return false;">Thu / Mở</a>]</div>
+<ul>
+<li class="level-1"><a href="#ten-goi" title="">Tên gọi</a></li>
+<li class="level-2"><a href="#y-nghia" title="">Ý nghĩa</a></li>
+<li class="level-2"><a href="#su-dung" title="">Sử dụng</a></li>
+<li class="level-1"><a href="#than-the" title="">Thân thế</a></li>
+<li class="level-1"><a href="#thoi-tre-luu-lac" title="">Thời trẻ lưu lạc</a></li>
+<li class="level-1"><a href="#tan-vuong-chinh" title="">Tần vương Chính</a></li>
+<li class="level-2"><a href="#cung-co-quyen-luc" title="">Củng cố quyền lực</a></li>
+<li class="level-2"><a href="#nhiem-vu-am-sat-cua-kinh-kha" title="">Nhiệm vụ ám sát của Kinh Kha</a></li>
+<li class="level-2"><a href="#vu-am-sat-cua-cao-tiem-ly" title="">Vụ ám sát của Cao Tiệm Ly</a></li>
+<li class="level-1"><a href="#thong-nhat-trung-hoa" title="">Thống nhất Trung Hoa</a></li>
+<li class="level-2"><a href="#hanh-chinh" title="">Hành chính</a></li>
+<li class="level-2"><a href="#nong-nghiep" title="">Nông nghiệp</a></li>
+<li class="level-2"><a href="#kinh-te-va-van-tu" title="">Kinh tế và văn tự</a></li>
+<li class="level-2"><a href="#vu-am-sat-cua-truong-luong" title="">Vụ ám sát của Trương Lương</a></li>
+<li class="level-2"><a href="#xay-dung" title="">Xây dựng</a></li>
+<li class="level-3"><a href="#bac-van-ly-truong-thanh" title="">Bắc: Vạn Lý Trường Thành</a></li>
+<li class="level-3"><a href="#nam-kenh-linh-cu" title="">Nam: Kênh Linh Cừ</a></li>
+<li class="level-3"><a href="#khac" title="">Khác</a></li>
+<li class="level-2"><a href="#tu-tuong" title="">Tư tưởng</a></li>
+<li class="level-2"><a href="#mo-mang-cuong-tho" title="">Mở mang cương thổ</a></li>
+<li class="level-1"><a href="#nhung-nam-cuoi-va-qua-doi" title="">Những năm cuối và qua đời</a></li>
+<li class="level-2"><a href="#tim-kiem-truong-sinh-bat-lao" title="">Tìm kiếm trường sinh bất lão</a></li>
+<li class="level-2"><a href="#cai-chet" title="">Cái chết</a></li>
+<li class="level-2"><a href="#am-muu-cua-nguoi-ke-vi" title="">Âm mưu của người kế vị</a></li>
+<li class="level-1"><a href="#lang-mo-va-di-tich" title="">Lăng mộ và di tích</a></li>
+<li class="level-1"><a href="#gia-dinh" title="">Gia đình</a></li>
+<li class="level-1"><a href="#nhan-dinh" title="">Nhận định</a></li>
+<li class="level-1"><a href="#trong-van-hoa" title="">Trong văn hóa</a></li>
+<li class="level-2"><a href="#tac-pham-vien-tuong" title="">Tác phẩm viễn tưởng</a></li>
+<li class="level-2"><a href="#phim" title="">Phim</a></li>
+<li class="level-2"><a href="#truyen-hinh" title="">Truyền hình</a></li>
+<li class="level-2"><a href="#am-nhac" title="">Âm nhạc</a></li>
+<li class="level-2"><a href="#tro-choi-dien-tu" title="">Trò chơi điện tử</a></li>
+<li class="level-1"><a href="#xem-them" title="">Xem thêm</a></li>
+<li class="level-1"><a href="#tham-khao" title="">Tham khảo</a></li>
+<li class="level-1"><a href="#chu-thich" title="">Chú thích</a></li>
+</ul>
+</div><div class="infobox"><table class="infobox" > <tr> <th colspan="2" >Tần Thủy Hoàng Đế<br /> <font size="2">秦始皇帝</font></th> </tr> <tr> <td colspan="2" >Hoàng đế Trung Hoa <small>(chi tiết...)</small></td> </tr> <tr> <td colspan="2" ><img alt="Qinshihuang.jpg" src="/images/wiki/tan-thuy-hoang/b0d2efbd371073dad4131fb4353c51f6.jpg" /></td> </tr> <tr> <th colspan="2" >Vua nước Tần</th> </tr> <tr> <th scope="row">Trị vì</th> <td>7 tháng 6 năm 247 TCN – 221 TCN <div class="timeline-wrapper"><map name="timeline_dae4f88756e1f6faaf299c01acd81f6b" id="timeline_dae4f88756e1f6faaf299c01acd81f6b"></map><img usemap="#timeline_dae4f88756e1f6faaf299c01acd81f6b" src="/images/wiki/tan-thuy-hoang/c1e9c0eaeb24dc5cf62670b60e24ce66.png" /></div> </td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td><font color="grey">Tần Trang Tương vương</font></td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td><font color="red"><b>Thay đổi tước hiệu</b></font></td> </tr> <tr> <th colspan="2" >Hoàng đế Đại Tần</th> </tr> <tr> <th scope="row">Trị vì</th> <td>221 TCN – 10 tháng 9 năm 210 TCN <div class="timeline-wrapper"><map name="timeline_5f9a5f497104393b5942d845e18fe654" id="timeline_5f9a5f497104393b5942d845e18fe654"></map><img usemap="#timeline_5f9a5f497104393b5942d845e18fe654" src="/images/wiki/tan-thuy-hoang/9643a52dd6e484f9a4b0bbd62d766b43.png" /></div> </td> </tr> <tr> <th scope="row">Tiền nhiệm</th> <td><font color="red"><b>Không có, danh hiệu mới xưng</b></font></td> </tr> <tr> <th scope="row">Kế nhiệm</th> <td><font color="blue">Tần Nhị Thế</font></td> </tr> <tr> <th colspan="2" >Thông tin chung</th> </tr> <tr> <th scope="row">Tên thật</th> <td>Doanh Chính (嬴政)</td> </tr> <tr> <th scope="row">Triều đại</th> <td>Nhà Tần</td> </tr> <tr> <th scope="row">Thân phụ</th> <td>Tần Trang Tương vương</td> </tr> <tr> <th scope="row">Thân mẫu</th> <td>Đế thái hậu Triệu Cơ</td> </tr> <tr> <th scope="row">Sinh</th> <td>259 TCN</td> </tr> <tr> <th scope="row">Mất</th> <td>210 TCN<br /> Trung Quốc</td> </tr> <tr> <th scope="row">An táng</th> <td>Lăng mộ Tần Thủy Hoàng</td> </tr> <tr> <td colspan="2" > <div ></div> <img alt="Chữ ký của Tần Thủy Hoàng Đế" src="/images/wiki/tan-thuy-hoang/dcb8643c065726903d3ba5d5cfec8938.png" /></td> </tr> </table></div>
+<p><b>Tần Thủy Hoàng</b> (tiếng Hán: 秦始皇)(tháng 1 hoặc tháng 12, 259 TCN – 10 tháng 9, 210 TCN) <sup class="annotation badge" title="^ “Emperor Qin Shi Huang -- First Emperor of China”. TravelChinaGuide.com. Truy cập ngày 10 tháng 9 năm 2007.&amp;#160;">1</sup> <sup class="annotation badge" title="^ a ă â Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 2.">2</sup> , tên thật là <b>Doanh Chính</b> (嬴政), còn có tên khác là <b>Triệu Chính</b> (趙政), là vị vua thứ 36 của nước Tần ở Trung Quốc từ năm 246 TCN đến 221 TCN trong thời kỳ Chiến Quốc <sup class="annotation badge" title="^ a ă â Duiker, William J. Spielvogel, Jackson J. Edition: 5, illustrated. (2006). World History: Volume I: To 1800. Thomson Higher Education publishing. ISBN 0-495-05053-9, 9780495050537. pg 78.">3</sup>  và trở thành vị Hoàng đế sáng lập ra <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a>, đồng thời là hoàng đế đầu tiên của Trung Quốc thống nhất vào năm 221 TCN<sup class="annotation badge" title="^ a ă â Duiker, William J. Spielvogel, Jackson J. Edition: 5, illustrated. (2006). World History: Volume I: To 1800. Thomson Higher Education publishing. ISBN 0-495-05053-9, 9780495050537. pg 78.">3</sup>  sau khi tiêu diệt các nước chư hầu khác. Ông cai trị cho đến khi qua đời vào năm 210 TCN ở tuổi 49.<sup class="annotation badge" title="^ a ă â Ren, Changhong. Wu, Jingyu. (2000). Rise and Fall of the Qin Dynasty. Asiapac Books Pte Ltd. ISBN 981-229-172-5, 9789812291721">4</sup> </p>
+<p>Tự gọi mình là <i>Thủy Hoàng Đế</i> (始皇帝) sau khi Trung nguyên (Trung Quốc ngày nay) được thống nhất, Tần Thủy Hoàng là một nhân vật quan trọng trong lịch sử Trung Quốc, mở ra gần hai thiên niên kỷ của hoàng gia cai trị Trung Quốc. Sau khi thống nhất, ông và thừa tướng Lý Tư đã thông qua một loạt các cải cách lớn về kinh tế và chính trị <sup class="annotation badge" title="^ a ă â Duiker, William J. Spielvogel, Jackson J. Edition: 5, illustrated. (2006). World History: Volume I: To 1800. Thomson Higher Education publishing. ISBN 0-495-05053-9, 9780495050537. pg 78.">3</sup> . Ông đã tiến hành nhiều dự án khổng lồ, bao gồm việc xây dựng và hợp nhất các bộ phận của Vạn Lý Trường Thành, lăng mộ kích thước thành phố nổi tiếng được bảo vệ bởi đội quân đất nung có kích thước thật, và một hệ thống đường quốc gia lớn, với cái giá của rất nhiều mạng người. Để đảm bảo sự ổn định, ông đặt ra ngoài vòng pháp luật và đốt cháy nhiều cuốn sách và chôn sống một số học giả.<sup class="annotation badge" title="^ a ă â Ren, Changhong. Wu, Jingyu. (2000). Rise and Fall of the Qin Dynasty. Asiapac Books Pte Ltd. ISBN 981-229-172-5, 9789812291721">4</sup> </p>
+<p></p>
+<p></p>
+<a name="ten-goi"></a><h2>Tên gọi</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/2cc54279bf16d1a8195e843335791bee.png" /> <div class="caption"> <div class="magnify"></div> 始皇帝<br /> <i>Thủy Hoàng Đế</i><br /> "Hoàng đế đầu tiên"<br /> (tiểu triện<br /> từ 220 BC)</div> </div> </div>
+<a name="y-nghia"></a><h3>Ý nghĩa</h3>
+<p>Trong thời gian trước thời <a class="annotation" href="/nhan-vat/nha-chu" title="Nhà Chu (tiếng Trung: 周朝; bính âm: Zhōu Cháo; Wade–Giles: Chou Ch'ao [tʂóʊ tʂʰɑ̌ʊ]) là triều đại phong kiến trong lịch sử Trung Quốc, triều đại này nối tiếp sau nhà Thương và trước nhà Tần ở Trung Quốc. 
+ Nhà Chu tồn tại lâu hơn bất cứ một triều đại nào khác trong lịch sử Trung Quốc, khoảng 800 năm...." target="_blank" >nhà Chu</a> và sau đó, các nhà cai trị các quốc gia độc lập của Trung Quốc theo quy ước đều xưng "vương" (王). Sau khi đánh bại vị vua chư hầu cuối cùng của Chiến Quốc vào năm 221 trước Công nguyên, vua Doanh Chính của Tần đã trở thành người cai trị trên thực tế của toàn Trung Nguyên. Để ăn mừng thành tích này và củng cố cơ sở quyền lực của mình, Doanh Chính đã tạo ra một danh hiệu mới tự xưng là Tần Thủy Hoàng Đế (秦始皇帝), thường được rút ngắn là Tần Thủy Hoàng (秦始皇), cũng gọi là Tần Vương (秦王). (Xem <i>Vương triều đại Tần</i> và <i>Kinh kha hành thích Tần Vương</i>)</p>
+<ul> <li>Chữ Thủy (始) có nghĩa là "đầu tiên" <sup class="annotation badge" title="^ a ă Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. pp 23-24, 26.">5</sup> . Người thừa kế sau đó sẽ được gọi tiếp là "Nhị Thế", "Tam Thế" và như vậy cho đến muôn đời.</li> <li>Chữ Hoàng Đế (皇帝) đến từ thần thoại Tam Hoàng Ngũ Đế (三皇五帝) (thế kỷ thứ 3 trước Công nguyên), nơi chữ này được trích ra <sup class="annotation badge" title="^ ‘‘The Great Wall. (1981). Luo, Zhewen Luo. Lo, Che-wen. Wilson, Dick Wilson. Drege, J. P. Contributor Che-wen Lo. McGraw-Hill. ISBN 0-07-070745-6, 9780070707450. pg 23.">6</sup> . Bằng cách thêm vào một tiêu đề như vậy, Tần Thủy Hoàng hy vọng sẽ có sự thiêng liêng và uy tín của Hoàng Đế (黄帝) trước kia.</li> <li>Ngoài ra, chữ "Hoàng" (皇) có nghĩa là "sáng" hay "lộng lẫy" và "thường xuyên nhất được sử dụng như là một chữ chỉ thiên đường" <sup class="annotation badge" title="^ Lewis, Mark Edward (2007). The Early Chinese Empires: Qin and Han. Belknap Press of Harvard University Press. tr.&amp;#160;52. ISBN&amp;#160;0-674-02477-X, 978-0674024779 Kiểm tra giá trị |isbn= (trợ giúp).&amp;#160;">7</sup> .</li> </ul>
+<a name="su-dung"></a><h3>Sử dụng</h3>
+<p>Cả hai tên gọi "Tần Thủy Hoàng Đế" (秦始皇帝) và "Tần Thủy Hoàng" (秦始皇) đều xuất hiện trong Sử ký bằng văn bản của Tư Mã Thiên. Cái tên Tần Thủy Hoàng Đế xuất hiện lần đầu tiên trong chương 5 <sup class="annotation badge" title="^ Wikisource Records of the Grand Historian Chapter 5.">8</sup> , mặc dù cái tên Tần Thủy Hoàng ngắn hơn lại là tên của chương 6 (秦始皇本纪) <sup class="annotation badge" title="^ Wikisource Records of the Grand Historian Chapter 6.">9</sup> <sup class="annotation badge" title="^ Book.sina.com.cn. &quot;Sina.&quot; 帝王相貌引起的歷史爭議. Retrieved on 2009-01-18.">10</sup> . Tuy nhiên, tên Tần Thủy Hoàng Đế được coi là chính xác do Doanh Chính hợp nhất chữ Hoàng (hoàng gia) và Đế (cai trị), để tạo ra chữ Hoàng đế <sup class="annotation badge" title="^ see Chinese Emperors by Ma Yan. ISBN 978-1-4351-0408-2.">11</sup> </p>
+<a name="than-the"></a><div class="clearfix bg-light my-3 p-2">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="9450491832"></ins>
+</div></div>
+</div><h2>Thân thế</h2>
+<p>Tần Thủy Hoàng là con trai cả của Trang Tương Vương nước Tần <sup class="annotation badge" title="^ a ă â Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 2.">2</sup> <sup class="annotation badge" title="^ a ă â ‘‘Records of the Grand Historian: Qin Dynasty (English translation). (1996). Ssu-Ma, Ch'ien. Sima, Qian. Burton Watson as translator. Edition: 3, reissue, revised. Columbia. University Press. ISBN 0-231-08169-3, 9780231081696. pg 35. pg 59.">12</sup> , mẹ là Triệu Cơ, vốn là một người thiếp của Lã Bất Vi - một thương nhân và sau trở thành Tướng quốc nước Tần. Ông sinh ra vào tháng giêng<sup class="annotation badge" title="^ Không phải lịch Thái Sơ hay âm lịch hiện nay, mà là lịch Chuyên Húc được dùng trước thời nhà Hán. Lịch đó lấy tháng mười làm tháng đầu năm">13</sup>  năm 259 TCN <sup class="annotation badge" title="^ Lü, Buwei. Translated by Knoblock, John. Riegel, Jeffrey. The Annals of Lü Buwei: Lü Shi Chun Qiu: a Complete Translation and Study. (2000). Stanford University Press. ISBN 0-8047-3354-6, 9780804733540.">14</sup> , ở đô thành Hàm Đan của <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> (趙). Vì lý do nơi sinh này nên có ý kiến cho rằng lúc nhỏ, ông họ Triệu tên Chính<sup class="annotation badge" title="^ a ă â ‘‘Records of the Grand Historian: Qin Dynasty (English translation). (1996). Ssu-Ma, Ch'ien. Sima, Qian. Burton Watson as translator. Edition: 3, reissue, revised. Columbia. University Press. ISBN 0-231-08169-3, 9780231081696. pg 35. pg 59.">12</sup> . Tổ tiên của ông được cho là đến từ vùng Cam Túc <sup class="annotation badge" title="^ a ă â Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 2.">2</sup> .</p>
+<p>Sử sách, mà cụ thể là sử ký Tư Mã Thiên ghi nơi sinh và cha mẹ ông<sup class="annotation badge" title="^ a ă Tư Mã Thiên 2006, tr.&amp;#160;38-63">15</sup> ; nhưng chính Tư Mã Thiên cũng cho biết, có thuyết nói rằng Tần Thủy Hoàng là con của Lã Bất Vi<sup class="annotation badge" title="^ a ă â b c Tư Mã Thiên 2006, tr.&amp;#160;456-461">16</sup> .</p>
+<p>Năm 265 TCN, vua Tần là Tần Chiêu Vương lập con trai thứ là An Quốc quân Doanh Trụ làm Thái tử. Công tử Tử Sở là con trai giữa của Thái tử với một người vợ thứ, Hạ Cơ. Hạ Cơ không được An Quốc quân yêu mến, nên Tử Sở phải đi làm con tin của Tần ở <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> để đảm bảo cho một hiệp ước đình chiến giữa hai quốc gia <sup class="annotation badge" title="^ a ă â b c Tư Mã Thiên 2006, tr.&amp;#160;456-461">16</sup> <sup class="annotation badge" title="^ a ă Huang, Ray. China: A Macro History Edition: 2, revised. (1987). M.E. Sharpe publishing. ISBN 1-56324-730-5, 9781563247309. pg 32.">17</sup> . Tần nhiều lần đem quân đánh Triệu, làm Triệu thua to trong trận Trường Bình đẫm máu, nên <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> càng bạc đãi Tử Sở. Sau ông có quen với Lã Bất Vi, một thương gia giàu có. Bằng mưu mô của mình, Lã Bất Vi đã dâng Triệu Cơ, vũ nữ và người thiếp của Lã đang mang thai <sup class="annotation badge" title="^ a ă Huang, Ray. China: A Macro History Edition: 2, revised. (1987). M.E. Sharpe publishing. ISBN 1-56324-730-5, 9781563247309. pg 32.">17</sup> , cho Tử Sở, lại giúp Tử Sở về Tần làm Thái tử rồi lên ngôi vua, thành Trang Tương Vương nước Tần. Cái thai trong bụng được Triệu Cơ giấu kín, để đủ tháng sinh ra, đặt tên là Chính, tức Tần Thủy Hoàng sau này.</p>
+<p>Tuy nhiên, theo ý kiến của một số sử gia Trung Quốc hiện đại gần đây<sup class="annotation badge" title="^ Thế Chiến Quốc (2003), Nhà xuất bản Văn hóa - Thông tin, Hà Nội">18</sup>  thì Doanh Chính là con của Tử Sở chứ không phải là con của Lã Bất Vi. Thuyết này lập luận tập trung vào 2 điểm:</p>
+<ul> <li>Một bộ phận lớn triều thần nước Tần vẫn tin vào việc Doanh Chính là con Tử Sở và vẫn hết lòng ủng hộ Doanh Chính trước sau như một. Do đó, chính quyền của Doanh Chính vẫn đứng vững trước cuộc binh biến do Phàn Ô Kỳ phát động nhằm dựng Thành Kiệu lên ngôi. Đại tướng Vương Tiễn đi dẹp cuộc binh biến này trả lời Phàn Ô Kỳ: "Thái hậu có mang mười tháng mới sinh, vậy nay tức là con tiên vương đẻ ra..." Ngay trong thời đó, những người theo thuyết gán Lã Bất Vi là cha Doanh Chính cũng không thể lý giải một cách khoa học vì sao Triệu Cơ lại mang thai Doanh Chính tới 12 tháng mà lập luận theo cách "thiên mệnh" rằng: "Có thể tại lòng trời muốn sinh ra một vị chân mạng thiên tử nên mới để người mẹ hoài thai lâu như vậy...". Các nhà sử học lý giải rằng: Thực tế, Doanh Chính vẫn chỉ nằm trong bụng mẹ 10 tháng như những đứa trẻ khác kể từ khi Vu Cơ về với Tử Sở. Do cộng thêm thời gian Vu Cơ ở với Bất Vi, thời gian mới là 12 tháng.</li> <li>Thuyết này là sản phẩm của sĩ phu các nước chư hầu Sơn Đông bị Tần Thủy Hoàng tiêu diệt. Họ căm hờn vì bị mất nước, nên nhân việc mẹ vua Tần từng là thiếp của Bất Vi để đặt ra chuyện này nhằm hạ thấp kẻ thù không đội trời chung của mình.</li> </ul>
+<p>Các giáo sư John Knoblock và Jeffrey Riegel, trong bản dịch Lã thị Xuân Thu của họ, gọi câu chuyện này "rõ ràng là sai, nhằm mục đích phỉ báng Bất Vi và xúc phạm Hoàng đế đầu tiên." <sup class="annotation badge" title="^ The Annals of Lü Buwei. Knoblock, John and Riegel, Jeffrey Trans. Stanford University Press. 2001. ISBN&amp;#160;978-0-8047-3354-0.&amp;#160; p. 9">19</sup> </p>
+<a name="thoi-tre-luu-lac"></a><h2>Thời trẻ lưu lạc</h2>
+<p>Hai năm ngay trước khi Tần Thủy Hoàng ra đời (262 TCN - 260 TCN), nước Tần và <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> đánh nhau đẫm máu trong trận chiến Trường Bình, kết cục 450.000 quân Triệu đều bị thảm sát, Triệu đại bại. Vì vậy, Triệu đối xử với công tử Tử Sở hết sức khắc nghiệt, "<i>xe ngựa, vật dụng dùng chẳng được sẵn, ở cảnh cùng khốn có vẻ bực bội</i><sup class="annotation badge" title="^ a ă â b c Tư Mã Thiên 2006, tr.&amp;#160;456-461">16</sup> ", dù ông đã nổi danh khắp chư hầu với tư cách là người kế thừa vương vị khi cha ông lên ngôi. Năm 257 TCN, Tần Chiêu Vương sai tướng Vương Ý vây đô thành Hàm Đan, Triệu cùng quẫn muốn giết Tử Sở, ông cùng Lã Bất Vi chạy thoát về với quân Tần, nhưng Triệu Cơ cùng Doanh Chính không kịp trốn theo, phải ở lại Triệu. Triệu muốn giết cả hai người nhưng Triệu Cơ là con nhà tai mắt ở Triệu, vì thế hai mẹ con đều sống. Họ lẩn trốn trong dân gian suốt 7 năm trời đằng đẵng (257 TCN - 250 TCN)<sup class="annotation badge" title="^ a ă â b c Tư Mã Thiên 2006, tr.&amp;#160;456-461">16</sup> .</p>
+<p>Năm 250 TCN, Tần Chiêu Tương vương chết, An Quốc quân lên ngôi, tức là Tần Hiếu Văn Vương, lập Tử Sở làm Thái tử, <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> bèn đưa Triệu Cơ và Doanh Chính về Tần. Hiếu Văn Vương làm vua không lâu thì chết, Tử Sở kế thừa vương vị, tức là Tần Trang Tương Vương, phong Lã Bất Vi chức Thừa tướng, tước Văn Tín hầu. Năm 247 TCN, Trang Tương Vương mất sau ba năm trị vì, ngôi vua thuộc về Doanh Chính, khi ấy mới 13 tuổi <sup class="annotation badge" title="^ a ă Tư Mã Thiên 2006, tr.&amp;#160;38-63">15</sup> <sup class="annotation badge" title="^ a ă Donn, Lin. Donn, Don. Ancient China. (2003). Social Studies School Service. Social Studies. ISBN 1-56004-163-3, 9781560041634. pg 49.">20</sup> .</p>
+<a name="tan-vuong-chinh"></a><h2>Tần vương Chính</h2>
+<a name="cung-co-quyen-luc"></a><h3>Củng cố quyền lực</h3>
+<p>Tần Vương lên ngôi, tôn mẹ là Triệu Cơ (趙姬) làm Thái hậu, phong Thừa tướng Lã Bất Vi làm Tướng quốc, gọi là "<i>trọng phụ</i>", coi như người cha thứ hai của mình<sup class="annotation badge" title="^ a ă â b c Tư Mã Thiên 2006, tr.&amp;#160;456-461">16</sup> .</p>
+<p>Tướng quốc vốn là chồng cũ của thái hậu, thường ra vào cung cấm tư thông với bà ta. Tần Vương còn nhỏ nên không hay biết hoặc giả vờ không hay biết. Sau đó thì Lã Bất Vi cảm thấy lo sợ nhà vua nhỏ tuổi biết chuyện nên ngầm sai người tìm kiếm một nam nhân cường tráng, dương vật lớn là Lao Ái (嫪毐) <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> . Theo Sử ký, ông trước tiên dùng Lao Ái làm gia nhân rồi dâng Ái vào cung giả làm hoạn quan bằng cách nhổ râu để "hầu hạ" thái hậu. Sau một thời gian thái hậu sợ Tần vương biết chuyện bèn dời Hàm Dương về cựu đô là Ung Thành (雍) sống cùng Lao Ái và sinh được hai con trai <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> .</p>
+<p>Nhờ thái hậu, Lao Ái được phong làm Trường Tín hầu, cũng mưu xây dựng thế lực, mở phủ nuôi thực khách như Lã Bất Vi. Lao Ái mưu đồ cho con mình và thái hậu nối ngôi khi Tần vương Chính qua đời. Nhưng trong một bữa ăn tối do say rượu nên Lao Ái bắt đầu khoác lác về việc là cha dượng của vị vua trẻ <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> .</p>
+<p>Năm 238 trước Công nguyên, Doanh Chính đi du lịch đến Ung Thành. Lao Ái chiếm con dấu của thái hậu và huy động một đội quân trong một nỗ lực để bắt đầu một cuộc đảo chính và nổi loạn <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> . Hơn 1 triệu đồng tiền đồng được đặt trên đầu của Lao Ái nếu bị bắt sống hoặc nửa triệu nếu chết <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> . Những người ủng hộ Lao Ái bị bắt và bị chặt đầu còn Lao Ái thì bị trói và xé xác bởi 5 cỗ xe ngựa, trong khi toàn bộ gia đình của ông ta thì bị giết cả ba họ. Hai người con riêng của thái hậu đều bị giết và bà bị giam lỏng cho đến khi chết nhiều năm sau đó. Vụ việc liên quan tới Lã Bất Vi, ông bị cách chức, lưu đày rồi sang năm 235 TCN thì được cho một chén rượu độc để tự tử <sup class="annotation badge" title="^ a ă Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. pp 23-24, 26.">5</sup> <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> . Doanh Chính sau đó nắm quyền đầy đủ như vua của nước Tần. Thay thế Lã Bất Vi, Lý Tư trở thành thừa tướng mới.</p>
+<a name="nhiem-vu-am-sat-cua-kinh-kha"></a><h3>Nhiệm vụ ám sát của Kinh Kha</h3>
+<p>Nước Yên khi đó nhỏ, yếu và thường xuyên bị sách nhiễu bởi các binh sĩ nên không phải là đối thủ của nước Tần <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Vì vậy Thái tử Đan <a class="annotation" href="/dia-danh/nuoc-yen" title="Yên quốc (Phồn thể: 燕國; Giản thể: 燕国) là một quốc gia chư hầu ở phía bắc của nhà Chu trong lịch sử Trung Quốc, tồn tại từ thời kỳ đầu của Tây Chu qua Xuân Thu tới Chiến Quốc. Thời kỳ Chiến Quốc Yên là một trong số 7 bảy quốc gia hùng mạnh và có ảnh hưởng tới chiến cuộc nhất, được sử sách liệt vào Ch..." target="_blank" >nước Yên</a> cầu xin dũng sĩ Kinh Kha đi hành thích Tần vương Chính vào năm 227 TCN <sup class="annotation badge" title="^ a ă â Ren, Changhong. Wu, Jingyu. (2000). Rise and Fall of the Qin Dynasty. Asiapac Books Pte Ltd. ISBN 981-229-172-5, 9789812291721">4</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Đi theo Kinh Kha có Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a>. Họ giả vờ tặng cho Doanh Chính bản đồ của Đốc Cương và cái đầu của Phàn Ư Kỳ <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> .</p>
+<p>Mang theo một thanh chuỷ thủ tẩm thuốc độc giấu trong tờ bản đồ, Kinh Kha và Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a> vào trong triều đình nước Tần. Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a> mang tờ bản đồ còn Kinh Kha mang đầu Phàn Ư Kỳ. Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a> hoảng sợ biến sắc mặt do run lên vì sợ hãi. Kinh Kha giải thích rằng cộng sự của ông "chưa bao giờ dám đặt mắt vào Thiên tử" và lấy bản đồ trong tay Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a> dâng nộp vua Tần <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Khi mở bản đồ Kinh Kha rút thanh chuỷ thủ đâm Doanh Chính. Nhà vua liền lùi lại và rút thanh kiếm sau lưng để bảo vệ mình <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Vào thời điểm đó, các quan đều không được phép mang vũ khí. Kinh Kha đuổi theo, cố gắng để đâm nhà vua nhưng lại trượt. Doanh Chính lại rút kiếm của mình và cắt đùi Kinh Kha. Kinh Kha liền ném con dao găm nhưng lại trượt một lần nữa. Chịu tám vết thương từ thanh kiếm của nhà vua, Kinh Kha nhận ra nỗ lực của ông đã thất bại. Cả Kinh Kha và Tần <a class="annotation" href="/nhan-vat/vu-duong" title="Vũ Dương (chữ Hán: 武暘,&amp;#160;? -&amp;#160;?), có sách chép là Vũ Tích, người làng Man Nhuế, huyện Thanh Lâm, thừa tuyên Hải Dương (nay thuộc thôn Mạn Nhuế, thị trấn Nam Sách (xã Thanh Lâm cũ), huyện Nam Sách, tỉnh Hải Dương). Đỗ Trạng nguyên khoa Quý Sửu, niên hiệu Hồng Đức thứ 24 (1493). Làm quan đến Hà..." target="_blank" >Vũ Dương</a> đều bị giết sau đó <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup>  Nước Yên bị chinh phục bởi nước Tần 5 năm sau đó <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> .</p>
+<a name="vu-am-sat-cua-cao-tiem-ly"></a><h3>Vụ ám sát của Cao Tiệm Ly</h3>
+<p>Cao Tiệm Ly là một người bạn thân của Kinh Kha, người muốn trả thù cho cái chết của ông.<sup class="annotation badge" title="^ Elizabeth, Jean. Ward, Laureate. (2008). The Songs and Ballads of Li He Chang. ISBN 1-4357-1867-4, 9781435718678. p 51">23</sup> . Là một người nghệ sĩ gảy đàn trúc nổi tiếng, một ngày kia ông được triệu tập bởi Doanh Chính để chơi các nhạc cụ. Một số người trong cung điện biết đến ông trong quá khứ kêu lên, "Đây là Cao Tiệm Ly" <sup class="annotation badge" title="^ a ă â b Wu, Hung. The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art. Stanford University Press, 1989. ISBN 0-8047-1529-7, 9780804715294. p 326.">24</sup> . Do không muốn giết một nhạc sĩ có tay nghề cao, hoàng đế đã ra lệnh móc mắt ông <sup class="annotation badge" title="^ a ă â b Wu, Hung. The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art. Stanford University Press, 1989. ISBN 0-8047-1529-7, 9780804715294. p 326.">24</sup>  nhưng lại cho phép Cao Tiệm Ly chơi đàn trong sự hiện diện của ông <sup class="annotation badge" title="^ a ă â b Wu, Hung. The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art. Stanford University Press, 1989. ISBN 0-8047-1529-7, 9780804715294. p 326.">24</sup>  Ông nghe Cao Tiệm Ly gảy đàn rất thích thú nên mỗi ngày lại cho phép xích lại gần hơn. Cao Tiệm Ly lén đổ chì vào bầu đàn rồi nhân dịp Doanh Chính ngồi cạnh mà đánh nhưng vì mắt mù nên đánh không trúng. Cao Tiệm Ly sau đó bị xử tử <sup class="annotation badge" title="^ a ă â b Wu, Hung. The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art. Stanford University Press, 1989. ISBN 0-8047-1529-7, 9780804715294. p 326.">24</sup> </p>
+<a name="thong-nhat-trung-hoa"></a><h2>Thống nhất Trung Hoa</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/69372ccaeed436432c286afe8b9ce130.jpg" /> <div class="caption"> <div class="magnify"></div> Lãnh thổ của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a></div> </div> </div>
+<p>Khi Tần vương Chính lên ngôi, nước Tần đã rất lớn mạnh, có ưu thế áp đảo so với 6 nước chư hầu còn lại. Đất Tần đã mở mang về phía đông rất rộng, lấy từ các nước lân cận như Hàn, Triệu, Ngụy, Sở và <a class="annotation" href="/nhan-vat/nha-chu" title="Nhà Chu (tiếng Trung: 周朝; bính âm: Zhōu Cháo; Wade–Giles: Chou Ch'ao [tʂóʊ tʂʰɑ̌ʊ]) là triều đại phong kiến trong lịch sử Trung Quốc, triều đại này nối tiếp sau nhà Thương và trước nhà Tần ở Trung Quốc. 
+ Nhà Chu tồn tại lâu hơn bất cứ một triều đại nào khác trong lịch sử Trung Quốc, khoảng 800 năm...." target="_blank" >nhà Chu</a> (bị diệt năm 249 TCN). Các nước chư hầu Sơn Đông luôn bị đẩy vào thế chống đỡ, nhiều lần tổ chức liên minh chống Tần nhưng chỉ đạt được một số thắng lợi tạm thời, không ngăn cản được quân Tần đông tiến. Tần vương tiếp tục duy trì chính sách "thân xa đánh gần", giao hảo với <a class="annotation" href="/dia-danh/nuoc-te" title="Tề quốc (Phồn thể: 齊國; giản thể: 齐国) là tên gọi của một quốc gia chư hầu của nhà Chu từ thời kì Xuân Thu đến tận thời kì Tần Thủy Hoàng thống nhất Trung Hoa. Lãnh thổ của quốc gia này hiện tương ứng với đại bộ phận tỉnh Sơn Đông. 
+ Đất nước này khởi đầu từ Khương Tử Nha, khai quốc công thần giúp Chu..." target="_blank" >nước Tề</a>, uy hiếp lấn chiếm Tam Tấn và Sở. Nước Tề giữ quan hệ với Tần nên không ra quân cứu các chư hầu khác.</p>
+<p>Tần vương Chính bên trong dùng Úy Liêu, Lý Tư bày mưu kế, bên ngoài dùng cha con Vương Tiễn, Vương Bí và Mông Ngao, Mông Vũ làm tướng đánh dẹp các nước.</p>
+<p>Năm 230 TCN, Tần vương Chính tung ra các chiến dịch cuối cùng của thời kỳ Chiến Quốc nhằm chinh phục các vương quốc độc lập còn lại. Nước Hàn (韓) trước đó bị Tần đánh bại nhiều lần, đã rất nhỏ yếu không còn khả năng kháng cự nên là nước đầu tiên bị hạ. Hàn vương An sợ hãi, vội thu hết sổ sách, địa đồ trong nước sang đầu hàng nộp đất. Tần vương chính thức thôn tính nước Hàn.</p>
+<p>Sau khi diệt Hàn, Tần vương Chính điều quân đánh Triệu. Tướng Triệu là Lý Mục đẩy lui được quân Tần. Tần vương bèn dùng kế ly gián, sai người đút lót cho gian thần <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> là Quách Khai, xui Khai gièm pha Lý Mục. Triệu U Mục vương nghe lời gièm, tin rằng Lý Mục có mưu phản, bèn giết chết Lý Mục. Sau đó quân Tần nhân cơ hội <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> bị động đất liền tấn công để chinh phục nơi Doanh Chính được sinh ra <sup class="annotation badge" title="^ Hk.chiculture.net. &quot;HKChinese culture.&quot; 破趙逼燕. Retrieved on 2009-01-18.">25</sup> <sup class="annotation badge" title="^ a ă â b c Haw, Stephen G. (2007). Beijing a Concise History. Routledge. ISBN 978-0-415-39906-7. p 22 -23.">26</sup> . Năm 228 TCN, quân Tần phá vỡ kinh thành Hàm Đan, bắt sống Triệu vương Thiên. Anh Thiên là Triệu Gia chạy lên đất Đại phía bắc xưng vương.</p>
+<p>Tần vương Chính quay sang đánh Ngụy để hoàn tất chiến thuật diệt Tam Tấn đầu tiên trong 6 nước. Năm 225 TCN, quân Tần hùng mạnh tấn công Đại Lương, tháo nước sông vào thành. Ngụy vương Giả không chống nổi phải ra hàng.</p>
+<p>Ngay trong năm 225 TCN, Tần vương Chính sai <a class="annotation" href="/nhan-vat/ly-tin" title="Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc...." target="_blank" >Lý Tín</a> mang 20 vạn quân đánh Sở. <a class="annotation" href="/nhan-vat/ly-tin" title="Lý Tín (Chữ Hán: 李信) là một tướng nước Tần cuối thời Chiến Quốc...." target="_blank" >Lý Tín</a> bị tướng Sở là Hạng Yên đánh bại. Tần vương Chính bèn nghe theo lão tướng Vương Tiễn, tổng động viên 60 vạn quân giao cho Vương Tiễn ra mặt trận.</p>
+<p>Vương Tiễn đánh Sở trong 2 năm, đánh bại Hạng Yên, bắt sống Sở vương Phụ Sô. Hạng Yên chạy thoát, lập vua Sở mới là Xương Bình quân lên ngôi. Vương Tiễn lại tấn công xuống phía nam, giết chết vua Sở và Hạng Yên, bình định <a class="annotation" href="/dia-danh/nuoc-so" title="Sở quốc (chữ Hán: 楚國), đôi khi được gọi Kinh Sở (chữ Phạn: श्रीक्रुंग / Srikrung, chữ Hán: 荆楚), là một chư hầu của nhà Chu tồn tại thời Xuân Thu Chiến Quốc. Cương vực của quốc gia này án ngữ khoảng giữa Hoài Hà và Dương Tử. 
+ Suốt dọc lịch sử, Sở tận dụng được địa thế núi non hiểm trở cận Tây để thô..." target="_blank" >nước Sở</a>. Nước Sở, quốc gia chư hầu lớn lớn nhất và kình địch nhất của nước Tần đến năm 223 TCN bị chinh phục <sup class="annotation badge" title="^ Sima Qian: The First Emperor. Tr. by Raymond Dawson. Oxford University Press. Edition 2007, Chronology, p. xxxix">27</sup> .</p>
+<p>Chỉ còn 2 <a class="annotation" href="/dia-danh/nuoc-te" title="Tề quốc (Phồn thể: 齊國; giản thể: 齐国) là tên gọi của một quốc gia chư hầu của nhà Chu từ thời kì Xuân Thu đến tận thời kì Tần Thủy Hoàng thống nhất Trung Hoa. Lãnh thổ của quốc gia này hiện tương ứng với đại bộ phận tỉnh Sơn Đông. 
+ Đất nước này khởi đầu từ Khương Tử Nha, khai quốc công thần giúp Chu..." target="_blank" >nước Tề</a> phía đông và Yên phía bắc. Năm 222 TCN, Tần vương sai con Vương Tiễn là Vương Bí mang quân tấn công Yên. Yên vương Hỉ sợ hãi bỏ Kế tại Liêu Đông để chạy sang Bình Nhưỡng, rồi lừa bắt giết thái tử Đan, nộp đầu cho nước Tần để tạ tội với Tần vương Chính. Nhưng Tần vương Chính vẫn hạ lệnh tiến quân, phá vỡ thành Bình Nhưỡng, bắt sống Yên vương Hỷ và gia đình hoàng gia.</p>
+<p>Quân Tần nhân đó tiến sang đánh đất Đại. Đại vương Gia (anh Triệu vương Thiên) bị bắt bèn tự sát.</p>
+<p>Còn lại <a class="annotation" href="/dia-danh/nuoc-te" title="Tề quốc (Phồn thể: 齊國; giản thể: 齐国) là tên gọi của một quốc gia chư hầu của nhà Chu từ thời kì Xuân Thu đến tận thời kì Tần Thủy Hoàng thống nhất Trung Hoa. Lãnh thổ của quốc gia này hiện tương ứng với đại bộ phận tỉnh Sơn Đông. 
+ Đất nước này khởi đầu từ Khương Tử Nha, khai quốc công thần giúp Chu..." target="_blank" >nước Tề</a> ở phía đông nước Tần mà bây giờ là bán đảo Sơn Đông, vốn không quen việc chiến tranh suốt hơn 40 năm. Năm 221 TCN, Tần vương Chính lấy cớ Tề vương Kiến mang 300.000 quân phòng thủ ở biên giới phía tây là hành động gây hấn, bèn sai Vương Bí mang quân từ <a class="annotation" href="/dia-danh/nuoc-yen" title="Yên quốc (Phồn thể: 燕國; Giản thể: 燕国) là một quốc gia chư hầu ở phía bắc của nhà Chu trong lịch sử Trung Quốc, tồn tại từ thời kỳ đầu của Tây Chu qua Xuân Thu tới Chiến Quốc. Thời kỳ Chiến Quốc Yên là một trong số 7 bảy quốc gia hùng mạnh và có ảnh hưởng tới chiến cuộc nhất, được sử sách liệt vào Ch..." target="_blank" >nước Yên</a> tiến thẳng xuống phía nam đánh úp kinh thành Lâm Tri. Tề vương Kiến không chống nổi, phải đầu hàng. Cả sáu nước hoàn toàn bị thôn tính.</p>
+<p>Lần đầu tiên trong lịch sử, toàn Trung Quốc đã được thống nhất bởi một nhà cai trị mạnh mẽ. Trong cùng năm đó, Doanh Chính tự xưng là "Thủy Hoàng Đế" (始皇帝), không còn là một vị vua theo nghĩa cũ và vượt xa những thành tựu của các vị vua <a class="annotation" href="/nhan-vat/nha-chu" title="Nhà Chu (tiếng Trung: 周朝; bính âm: Zhōu Cháo; Wade–Giles: Chou Ch'ao [tʂóʊ tʂʰɑ̌ʊ]) là triều đại phong kiến trong lịch sử Trung Quốc, triều đại này nối tiếp sau nhà Thương và trước nhà Tần ở Trung Quốc. 
+ Nhà Chu tồn tại lâu hơn bất cứ một triều đại nào khác trong lịch sử Trung Quốc, khoảng 800 năm...." target="_blank" >nhà Chu</a> cũ <sup class="annotation badge" title="^ a ă â b Clements, Jonathan (2006). The First Emperor of China. Sutton Publishing. ISBN 0-7509-3959-1. pp. 82, 102-103, 131, 134.">28</sup> .</p>
+<p>Ở miền Nam, các cuộc mở rộng bằng quân sự tiếp tục trong suốt triều đại của ông, với các vùng khác nhau được sáp nhập với <a class="annotation" href="/dia-danh/tinh-quang-dong" title="Tọa độ: 23°24′B 113°30′Đ / 23,4°B 113,5°Đ / 23.4; 113.5 
+ Quảng Đông là một tỉnh nằm ven bờ biển Đông của Cộng hòa Nhân dân Trung Hoa. Quảng Đông đã vượt qua Hà Nam và Tứ Xuyên để trở thành tỉnh đông dân nhất Trung Quốc vào năm 2005, với 79 triệu cư dân thường trú có hộ khẩu và 31 triệu người nhập c..." target="_blank" >tỉnh Quảng Đông</a> và một bộ phận hiện nay của Việt Nam <sup class="annotation badge" title="^ a ă â b c Haw, Stephen G. (2007). Beijing a Concise History. Routledge. ISBN 978-0-415-39906-7. p 22 -23.">26</sup> .</p>
+<p>Sau khi đã thôn tính các chư hầu, Tần Vương Chính đề nghị các bầy tôi bàn về danh hiệu cho mình. Thừa tướng là Vương Quán, Ngự sử Đại phu Phùng Kiếp, Đình úy Lý Tư cho rằng cơ nghiệp của Tần vương Chính lớn hơn cả Ngũ Đế thời cổ; trong các vua cổ đại thì Thái Hoàng là cao quý nhất nên khuyên ông xưng là Thái Hoàng. Tần vương Chính quyết định bỏ chữ <i>thái,</i> lấy chữ <i>hoàng,</i> thêm chữ <i>đế,</i> của những vị đế thời thượng cổ hiệu gọi là <b>Hoàng Đế</b>.</p>
+<p>Đồng thời, ông phê chuẩn các kiến nghị khác của bầy tôi, từ đó mệnh ban ra gọi là <i>chế</i>, lệnh ban ra gọi là <i>chiếu</i>, thiên tử tự xưng gọi là <b>trẫm</b>. Ông truy tôn vua cha Tần Trang Tương Vương là Thái thượng hoàng.</p>
+<p>Vì là hoàng đế Trung Hoa đầu tiên nên ông xưng hiệu <b>Thủy Hoàng Đế</b>. Thủy Hoàng có nghĩa là "hoàng đế đầu tiên", và ông muốn con cháu đời sau lấy danh hiệu: Nhị thế, Tam thế... cho đến vạn thế.</p>
+<p>Tần Thủy Hoàng cũng theo thuyết Ngũ hành: đất, gỗ, kim loại, lửa và nước. Người ta tin rằng <a class="annotation" href="/nhan-vat/nha-chu" title="Nhà Chu (tiếng Trung: 周朝; bính âm: Zhōu Cháo; Wade–Giles: Chou Ch'ao [tʂóʊ tʂʰɑ̌ʊ]) là triều đại phong kiến trong lịch sử Trung Quốc, triều đại này nối tiếp sau nhà Thương và trước nhà Tần ở Trung Quốc. 
+ Nhà Chu tồn tại lâu hơn bất cứ một triều đại nào khác trong lịch sử Trung Quốc, khoảng 800 năm...." target="_blank" >nhà Chu</a> trước đó cai trị bởi sức mạnh của lửa, đại diện bởi màu đỏ. Nhà Tần kế tục, lấy hành thủy (nước) mà cai trị, đại diện là màu đen. Màu đen trở thành màu sắc cho hàng may mặc, cờ, cờ hiệu<sup class="annotation badge" title="^ Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 27.">29</sup> . Các mối liên quan khác bao gồm phía bắc là hướng hồng y, mùa đông và số sáu <sup class="annotation badge" title="^ Murowchick, Robert E. (1994). China: Ancient Culture, Modern Land. University of Oklahoma Press, 1994. ISBN 0-8061-2683-3, 9780806126838. p105.">30</sup> .</p>
+<a name="hanh-chinh"></a><h3>Hành chính</h3>
+<p>Tần Thủy Hoàng bắt vương tộc sáu nước mà ông đã chiếm, kể cả gia đình các đại thần của họ, phải dời đến Hàm Dương, kinh đô của Tần, để cho ông dễ kiểm soát họ. Triều đình đem phát mãi hết đất đai của họ.</p>
+<p>Sau khi thống nhất Trung Quốc, trong một nỗ lực để tránh cục diện chư hầu cát cứ như đời Chu, lập tức thực hiện một loạt cải cách quan trọng, hủy bỏ chế độ cũ, các quốc gia chinh phục được không được phép được gọi là quốc gia độc lập <sup class="annotation badge" title="^ Imperialism in Early China. CA. 1600BC - 8AD'. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44'">31</sup> . Ông chia cả nước thành 36 quận (郡) và sau đó là 40 <sup class="annotation badge" title="^ a ă â b c Haw, Stephen G. (2007). Beijing a Concise History. Routledge. ISBN 978-0-415-39906-7. p 22 -23.">26</sup> ; quận thú, huyện lệnh do triều đình bổ nhiệm, có thể điều động bất cứ lúc nào. Quận là một quân khu lớn, nhất là ở những miền mới chiếm được. Vì muốn thống nhất quốc gia, Tần Thủy Hoàng chia mỗi quận thành nhiều huyện (县), hương (乡) và các đơn vị lý (里) <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> , có một quận thú coi về dân sự, và một quân uý coi về quân sự. Ở trên cùng, có một viên giám ngự sử chỉ chịu trách nhiệm với nhà vua, như vậy không một viên quan nào chuyên quyền được, không thể thành một ông chúa như thời trước khi thành lập nhà nước. Quan lại lớn nhỏ đều không truyền lại cho đời sau, mà là do Hoàng đế đích thân bổ nhiệm dựa trên thành tích <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> . Ông còn đưa các quý tộc cũ chuyển về thủ phủ Hàm Dương để tiện giám sát quản lý. Thời Tần Thủy Hoàng, 36 quận tương ứng với tỉnh ngày nay. Hệ thống này là khác với triều đại trước, vốn có liên minh lỏng lẻo và liên đoàn <sup class="annotation badge" title="^ a ă â Veeck, Gregory. Pannell, Clifton W. (2007). China's Geography: Globalization and the Dynamics of Political, Economic, and Social Change. Rowman &amp;amp; Littlefield publishing. ISBN 0-7425-5402-3, 9780742554023. p57-58.">33</sup> . Người dân không còn có thể được xác định bởi khu vực bản địa hoặc nhà nước phong kiến trước đây của họ, như khi một người từ Sở được gọi là "người Sở" (楚人) <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> <sup class="annotation badge" title="^ Nguồn tin cũng đề cập đến ch'ien-shou là tên mới của người Tần. Đây có lẽ là chữ do Wade-Giles phiên âm chữ (秦受) có nghĩa là &quot;người dân của đế chế Tần&quot;.">34</sup> </p>
+<p>Tới năm 213 TCN, vị Đại phu người Tề<sup class="annotation badge" title="^ Thời Tần bác sĩ là chức quan, không mang nghĩa &quot;thầy lang&quot;. Người Tề là thuộc nước Tề thời Chiến Quốc">35</sup>  là Thuần Vu Việt nhắc lại đề nghị xin phong đất cho người tông tộc làm chư hầu, Thủy Hoàng theo ý kiến của Lý Tư bác đi.</p>
+<a name="nong-nghiep"></a><h3>Nông nghiệp</h3>
+<p>Tần Thủy Hoàng theo Pháp gia nên khuyến khích binh, nông; ghét công, thương. Muốn nắm hết mối lợi thương nghiệp, triều đình đày hết phú thương có những xưởng sản xuất sắt lại miền Thiểm Tây và miền Tứ Xuyên. Hai trăm ngàn gia đình phú thương, tiểu thương bị đày tại xứ Thục và miền An Dương (phía nam Lạc Dương ngày nay), hẳn là để làm ruộng.</p>
+<p>Nông dân được ưu đãi. Đất không còn là sở hữu của nhà vua nữa, mà của người làm ruộng. Người chủ ruộng có quyển bán ruộng và ai cũng có quyền mua. Chế độ đó gọi là danh điền, tạo nên một giới địa chủ có những cơ sở rất lớn, dần dần thành một giai cấp có quyền hành tương tự như các chư hầu nhỏ thời trước.</p>
+<p>Năm hay mười nhà họp nhau thành một liên gia, chịu chung trách nhiệm với nhau. Chế độ này được áp dụng ở Trung Hoa cho tới đầu đời <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Tráng đinh nào cũng phải đi lính tới già. Gia đình nào có ba người đàn ông thì phải chia làm hai hộ. Hình luật khắc nghiệt hơn thời trước nhiều.</p>
+<a name="kinh-te-va-van-tu"></a><h3>Kinh tế và văn tự</h3>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/5b6f8eff2a4801be0a667cc96f2cea75.jpg" /> <div class="caption"> <div class="magnify"></div> Trọng lượng 5 - cân với một mô tả từ sắc lệnh của Tần Thủy Hoàng để tiêu chuẩn hóa trọng lượng và các phép đo, 221 TCN</div> </div> </div>
+<p>Ông cũng thống nhất Trung Quốc về kinh tế bằng cách tiêu chuẩn hóa các đơn vị phép đo của Trung Quốc như trọng lượng và đơn vị đo, tiền tệ, chiều dài các trục bánh xe để tạo điều kiện thuận lợi cho vận chuyển trên hệ thống đường bộ <sup class="annotation badge" title="^ a ă â Veeck, Gregory. Pannell, Clifton W. (2007). China's Geography: Globalization and the Dynamics of Political, Economic, and Social Change. Rowman &amp;amp; Littlefield publishing. ISBN 0-7425-5402-3, 9780742554023. p57-58.">33</sup>  và để dễ tính thuế và thu thuế. Thuế trả bằng lúa, phải dùng thuyền, xe chở đến các quận và kinh đô. Hoàng đế cũng phát triển một mạng lưới rộng lớn đường giao thông và kênh kết nối các tỉnh để cải thiện thương mại giữa chúng <sup class="annotation badge" title="^ a ă â Veeck, Gregory. Pannell, Clifton W. (2007). China's Geography: Globalization and the Dynamics of Political, Economic, and Social Change. Rowman &amp;amp; Littlefield publishing. ISBN 0-7425-5402-3, 9780742554023. p57-58.">33</sup> . Các loại tiền tệ của các quốc gia khác nhau cũng tiêu chuẩn hóa <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> .</p>
+<p>Trước triều đại Tần, mỗi miền có một ngôn ngữ và chữ viết riêng. Một quan chức Tần đi cai trị một nước khác, không hiểu ngôn ngữ nước đó thì khó làm tròn nhiệm vụ. Theo Lý Tư, chữ viết của nhà nước Tần đã được chuẩn hóa thông qua việc loại bỏ các hình thức biến thể trong chữ viết của nước Tần. Chữ viết mới được tiêu chuẩn hóa này sau đó đã được chính thức phổ biến trong tất cả các khu vực được chinh phục, do đó cùng với các chữ viết khu vực để hình thành một ngôn ngữ, một hệ thống truyền thông cho toàn cõi Trung Quốc <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> .</p>
+<a name="vu-am-sat-cua-truong-luong"></a><h3>Vụ ám sát của Trương Lương</h3>
+<p>Năm 231 TCN, nước Tần đánh bại nước Hàn. Một quý tộc Hàn có tên là Trương Lương thề trả thù hoàng đế Tần. Ông bán tất cả tài sản có giá trị của mình và vào năm 218 TCN, ông đã thuê 1 lực sĩ làm sát thủ và làm cho anh ta 1 một cái chuỳ sắt nặng một trăm hai mươi cân (khoảng 160&#160;lb hoặc 97&#160;kg) <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup>  Cả hai người ẩn nấp trong 1 bụi cây dọc theo tuyến đường đi chơi của hoàng đế và khi đoàn xa giá đến gần, sát thủ liền ném chùy làm vỡ tan toa xe đi đầu. Tuy nhiên, Thủy Hoàng thực ra là ở trong toa xe thứ hai. Do đó, nỗ lực không thành công <sup class="annotation badge" title="^ a ă Wintle, Justin Wintle. (2002). China. Rough Guides Publishing. ISBN 1-85828-764-2, 9781858287645. p 61. p 71.">36</sup> , Cả hai người đều trốn thoát được mặc dù bị truy lùng gắt gao <sup class="annotation badge" title="^ a ă â b c d đ e Mah, Adeline Yen. (2003). A Thousand Pieces of Gold: Growing Up Through China's Proverbs. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.">21</sup> .</p>
+<a name="xay-dung"></a><h3>Xây dựng</h3>
+<a name="bac-van-ly-truong-thanh"></a><h4>Bắc: Vạn Lý Trường Thành</h4>
+<p>Tần trong nhiều năm đã chiến đấu với nhiều bộ tộc du mục ở phía bắc và tây bắc. Các bộ lạc Hung Nô không bị đánh bại và chinh phục, do đó chiến dịch kéo dài và không thành công, và để ngăn chặn Hung Nô xâm lấn biên giới phía bắc, Thủy Hoàng đã ra lệnh xây dựng một bức tường phòng thủ to lớn <sup class="annotation badge" title="^ a ă â b c Haw, Stephen G. (2007). Beijing a Concise History. Routledge. ISBN 978-0-415-39906-7. p 22 -23.">26</sup> <sup class="annotation badge" title="^ Li, Xiaobing. (2007). A History of the Modern Chinese Army. University Press of Kentucky, 2007.ISBN 0-8131-2438-7, 9780813124384. p.16">37</sup> . Bức tường này có hàng trăm ngàn người được huy động để xây dựng và là tiền thân của Vạn Lý Trường Thành hiện tại của Trung Quốc. Nó kết nối với rất nhiều khúc thành được xây dựng trong suốt bốn thế kỷ trước bởi các <a class="annotation" href="/dia-danh/nuoc-yen" title="Yên quốc (Phồn thể: 燕國; Giản thể: 燕国) là một quốc gia chư hầu ở phía bắc của nhà Chu trong lịch sử Trung Quốc, tồn tại từ thời kỳ đầu của Tây Chu qua Xuân Thu tới Chiến Quốc. Thời kỳ Chiến Quốc Yên là một trong số 7 bảy quốc gia hùng mạnh và có ảnh hưởng tới chiến cuộc nhất, được sử sách liệt vào Ch..." target="_blank" >nước Yên</a>, Triệu, Nguỵ nên là một mạng lưới các bức tường nhỏ liên kết bảo vệ những vách đá khó vượt qua. Một tượng đài vĩ đại của Trung Quốc cho đến ngày nay, Vạn Lý Trường Thành vẫn còn tồn tại, mở cửa cho công chúng <sup class="annotation badge" title="^ a ă â b Clements, Jonathan (2006). The First Emperor of China. Sutton Publishing. ISBN 0-7509-3959-1. pp. 82, 102-103, 131, 134.">28</sup> <sup class="annotation badge" title="^ Huang, Ray. (1997). China: A Macro History. Edition: 2, revised, illustrated. M.E. Sharpe publishing. ISBN 1-56324-731-3, 9781563247316. p 44">38</sup> .</p>
+<a name="nam-kenh-linh-cu"></a><h4>Nam: Kênh Linh Cừ</h4>
+<p>Miền Nam Trung Quốc có một câu nói nổi tiếng "Ở miền Bắc có Trường Thành, ở miền Nam có kênh Linh Cừ" (北有长城,南有灵渠) <sup class="annotation badge" title="^ Sina.com. &quot;Sina.com.&quot; 秦代三大水利工程之一：灵渠. Retrieved on 2009-02-02.">39</sup> . Năm 214 TCN, Thủy Hoàng bắt đầu dự án xây dựng một kênh đào lớn để vận chuyển quân nhu cho quân đội <sup class="annotation badge" title="^ a ă â b c Mayhew, Bradley. Miller, Korina. English, Alex. South-West China: lively Yunnan and its exotic neighbours. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.">40</sup>  Kênh cũng cho phép vận chuyển nước giữa phía bắc và phía nam Trung Quốc <sup class="annotation badge" title="^ a ă â b c Mayhew, Bradley. Miller, Korina. English, Alex. South-West China: lively Yunnan and its exotic neighbours. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.">40</sup> . Với chiều dài 34&#160;km, con kênh này nối liền sông Tương chảy vào <a class="annotation" href="/dia-danh/song-duong-tu" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Dương Tử</a> và sông Li Giang rồi lại chảy vào sông Châu Giang <sup class="annotation badge" title="^ a ă â b c Mayhew, Bradley. Miller, Korina. English, Alex. South-West China: lively Yunnan and its exotic neighbours. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.">40</sup> . Con kênh kết nối hai tuyến đường thủy chính của Trung Quốc và hỗ trợ sự mở rộng của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> vào phía tây nam <sup class="annotation badge" title="^ a ă â b c Mayhew, Bradley. Miller, Korina. English, Alex. South-West China: lively Yunnan and its exotic neighbours. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.">40</sup> . Công trình được coi là một trong những 3 những kỳ công tuyệt vời của kỹ thuật Trung Quốc cổ đại bên cạnh Vạn Lý Trường Thành và Đô Giang Yển của Tứ Xuyên <sup class="annotation badge" title="^ a ă â b c Mayhew, Bradley. Miller, Korina. English, Alex. South-West China: lively Yunnan and its exotic neighbours. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.">40</sup> .</p>
+<a name="khac"></a><h4>Khác</h4>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/1de4984afe770a16f6c9735ac7c58447.jpg" /> <div class="caption"> <div class="magnify"></div> Hình vẽ cung A Phòng</div> </div> </div>
+<p>Sau khi thống nhất đất nước, Tần Thủy Hoàng di chuyển ra khỏi cung điện Hàm Dương (咸阳宫) và bắt đầu xây dựng cung A Phòng (阿房宫) khổng lồ về phía nam của <a class="annotation" href="/dia-danh/song-vi" title="Sông Vị hay Vị Hà (tiếng Trung: 渭河; Bính âm: Wèi Hé; Wade-Giles: Wei Ho) là một con sông ở tây trung bộ Trung Quốc, chi lưu lớn nhất của Hoàng Hà. Sông Vị bắt nguồn gần huyện Vị Nguyên ở tỉnh Cam Túc, cách Hoàng Hà gần 200&amp;#160;km ở Lan Châu. Tuy nhiêu, do Hoàng Hà ngoặt về hướng bắc quá đột ngột, h..." target="_blank" >sông Vị</a>, dựa trên tên người thiếp yêu nhất của Tần Thủy Hoàng <sup class="annotation badge" title="^ Chang, Kwang-chih. Xu, Pingfang. Lu, Liancheng. Allan, Sarah. (2005). The Formation of Chinese Civilization: An Archaeological Perspective. Yale University Press. ISBN 0-300-09382-9, 9780300093827. pg 258.">41</sup> . Phải dùng 70 vạn tù nhân để cất, chở đá từ các núi phương bắc xuống, chở gỗ từ các rừng phương nam lên.</p>
+<p>Chưa hết, trong một khoảng mà bán kính dài trên trăm cây số chung quanh kinh đô, còn xây thêm 270 cung điện nữa. Bao nhiêu châu báu, nhạc công và vũ nữ của lục quốc, ông gom cả về đó để làm vui tai mắt cho ông. Tương truyền cuối đời Tần, kinh đô bị chiếm và đốt, ba tháng sau ngọn lửa mới tắt.</p>
+<p>Khi chiếm được kinh đô một nước chư hầu nào, Thủy Hoàng sai người vẽ kiểu cung điện của nước đó để về xây dựng lại y hệt tại Hàm Dương, ở bên cung điện của ông, thành một dãy dài cả mấy dặm. Bao nhiêu đồng và vũ khí trong thiên hạ gom cả về để đúc 12 pho tượng, mỗi tượng nặng 24.000 cân bày trong cung.</p>
+<a name="tu-tuong"></a><h3>Tư tưởng</h3>
+<p>Trong khi Trung Quốc thời Chiến Quốc trước đó là có chiến tranh triền miên, nó cũng được xem như là thời của tự do tư tưởng <sup class="annotation badge" title="^ a ă Goldman, Merle. (1981). China's Intellectuals: Advise and Dissent. Harvard University Press. ISBN 0-674-11970-3, 9780674119703. pg 85.">42</sup> . Tần Thủy Hoàng loại bỏ hàng hàng trăm tư tưởng bao gồm Nho giáo và các triết lý khác <sup class="annotation badge" title="^ a ă Goldman, Merle. (1981). China's Intellectuals: Advise and Dissent. Harvard University Press. ISBN 0-674-11970-3, 9780674119703. pg 85.">42</sup> <sup class="annotation badge" title="^ Chaurasia, Radhey Shyam. (2004). History of Modern China. Atlantic Publishers &amp;amp; Distributors. ISBN 81-269-0315-5, 9788126903153. pg 317.">43</sup> . Sau khi Trung Quốc thống nhất, với tất cả các trường phái khác bị cấm, Pháp gia đã trở thành hệ tư tưởng ủng hộ của triều đại <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> <sup class="annotation badge" title="^ a ă â b c d Chang, Chun-shu Chang. (2007). The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44">32</sup> . Pháp gia là một hệ thống mà về cơ bản yêu cầu mọi người tuân theo pháp luật hoặc bị trừng phạt.</p>
+<p>Bắt đầu từ năm 213 TCN, với nỗ lực vận động của Lý Tư và để tránh việc các học giả so sánh triều đại của ông với quá khứ, Tần Thủy Hoàng ra lệnh cho đốt phần lớn sách, chỉ cho giữ những sách về chiêm tinh học, nông nghiệp, y học, bói toán, và lịch sử của nhà nước Tần <sup class="annotation badge" title="^ a ă Li-Hsiang Lisa Rosenlee. Ames, Roger T. (2006). Confucianism and Women: A Philosophical Interpretation. SUNY Press. ISBN 0-7914-6749-X, 9780791467497. p 25.">44</sup> . Điều này cũng phục vụ mục đích thúc đẩy hơn nữa việc cải cách liên tục của hệ thống chữ viết bằng cách loại bỏ các chữ viết lỗi thời<sup class="annotation badge" title="^ a ă â b Clements, Jonathan (2006). The First Emperor of China. Sutton Publishing. ISBN 0-7509-3959-1. pp. 82, 102-103, 131, 134.">28</sup> . Kẻ nào không tuân lệnh mà lén lút giữ thì bị trừng phạt một cách nặng nề.</p>
+<p>Theo Sử ký Tư Mã Thiên, vào năm sau ở Hàm Dương có hơn 460 nhà nho bị chôn sống do sở hữu những cuốn sách bị cấm <sup class="annotation badge" title="^ a ă Li-Hsiang Lisa Rosenlee. Ames, Roger T. (2006). Confucianism and Women: A Philosophical Interpretation. SUNY Press. ISBN 0-7914-6749-X, 9780791467497. p 25.">44</sup> <sup class="annotation badge" title="^ a ă Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. p 33.">45</sup> . Con cả của Thủy Hoàng là hoàng tử Phù Tô can ông không nên thi hành lệnh này vì sợ thiên hạ không yên <sup class="annotation badge" title="^ Twitchett, Denis. Fairbank, John King. Loewe, Michael. The Cambridge History of China: The Ch'in and Han Empires 221 B.C.-A.D. 220. Edition: 3. Cambridge University Press, 1986. ISBN 0-521-24327-0, 9780521243278. p 71.">46</sup>  nên Tần Thủy Hoàng nổi giận sai Phù Tô đi lên miền bắc để giám sát tướng Mông Điềm ở Thượng Quận. Thư viện triều đình thì vẫn còn giữ bản sao của những cuốn sách bị cấm nhưng hầu hết trong số này đã bị phá hủy khi Hạng Vũ đốt cháy cung điện Hàm Dương vào năm 206 TCN <sup class="annotation badge" title="^ Từ Sử ký Tư Mã Thiên, bản dịch bởi Raymond Dawson trong Sima Qian: The First Emperor. Oxford University Press, ed. 2007, pp. 74-75, 119, 148-9">47</sup> .</p>
+<a name="mo-mang-cuong-tho"></a><h3>Mở mang cương thổ</h3>
+<p>Mới hoàn thành sự thống nhất Trung Quốc, chưa kịp củng cố ở trong, Thủy Hoàng đã nghĩ đến việc mở mang bờ cõi ra nước ngoài.</p>
+<p>Các dân tộc du mục miền bắc gọi chung là Hung Nô vẫn là mối lo từ đời Thương, Chu. họ thường xâm lấn biên giới, có chỗ sống lẫn lộn với người Trung Hoa. Đầu đời Tần họ đã len lỏi vào Hà Nam, Tần Thủy Hoàng vội chặn họ lại, sai Mông Điềm làm chánh tướng cầm quân, cùng với con Vương Bí, cháu Vương Tiễn là Vương Ly làm phó tướng, đưa quân đánh dẹp và trấn thủ biên giới phía bắc.</p>
+<p>Trong thời gian hơn một năm, Mông Điềm đã chỉ huy quân Tần đánh lui quân Hung Nô ở phía bắc, giành được thắng lợi. Quân Hung Nô bị đánh đuổi từ Du Trung dọc theo <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a> đi về đông đến Âm Sơn tất cả 31 huyện, xây thành trên <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a> để làm giới hạn. Lại sai Mông Điềm vượt <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a> lấy đất Cao Khuyết, Đào Sơn, Bắc Giả, xây đình và thành lũy ở đấy để đuổi người Nhung và đưa những người bị đày đến đấy để ở và lần đầu những nơi này trở thành huyện.</p>
+<p>Mông Điềm đánh bại Hung Nô, trấn thủ Thượng Quận (nay là phía đông nam huyện Du Lâm – Thiểm Tây), bắt đầu việc cai trị biên giới. Trong quá trình chinh phạt, Mông Điềm trước sau chú trọng khai phá vùng biên ải, lấy các vùng đất mới làm thành "Tân Tần Địa", chia thành 44 huyện, cắt đặt quan lại.</p>
+<p>Mông Điềm chiêu tập nam đinh trong nước đi xây dựng các tuyến phòng thủ ở những nơi hiểm yếu dọc theo biên giới. Trong vài năm, ở biên giới phía bắc Hàm Dương đã xây dựng được ba tuyến phòng ngự.</p>
+<ul> <li>Tuyến thứ nhất nằm ở Bắc <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a>, giữa núi Âm Sơn và <a class="annotation" href="/dia-danh/duong-son" title="Dương Sơn có thể là:..." target="_blank" >Dương Sơn</a>.</li> <li>Tuyến thứ hai là phía tây, quận Cửu Nguyên, nằm dọc theo phía tây dãy Âm Sơn nối với Trường Thành ở <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a>.</li> <li>Tuyến thứ ba chính là Trường Thành có từ thời Tần được điều chỉnh lại.</li> </ul>
+<p>Trên cơ sở đó, Mông Điềm còn huy động sức dân trong nước xây dựng Trường Thành dọc theo biên giới phía đông. Lúc bây giờ, ở biên giới phía bắc nước Tần, ngoài Trường Thành của nước Tần còn có Trường Thành của <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> và <a class="annotation" href="/dia-danh/nuoc-yen" title="Yên quốc (Phồn thể: 燕國; Giản thể: 燕国) là một quốc gia chư hầu ở phía bắc của nhà Chu trong lịch sử Trung Quốc, tồn tại từ thời kỳ đầu của Tây Chu qua Xuân Thu tới Chiến Quốc. Thời kỳ Chiến Quốc Yên là một trong số 7 bảy quốc gia hùng mạnh và có ảnh hưởng tới chiến cuộc nhất, được sử sách liệt vào Ch..." target="_blank" >nước Yên</a> còn lại từ thời Chiến Quốc. Phía tây Trường Thành bắt nguồn từ Lâm Thao <sup class="annotation badge" title="^ Huyện Mân - tỉnh Cam Túc ngày nay">48</sup> . Phía đông trải dài tới tận Liêu Đông, dài hơn vạn dặm. Đây chính là Vạn Lý Trường Thành nổi tịếng thế giới ngày nay.</p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/34ae089f4a2d69bb0eb8afe2c64d1bed.png" /> <div class="caption"> <div class="magnify"></div> Bản đồ các khu vực lẻ tẻ do <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> chiếm được của các nhóm tộc Bách Việt ở phía Nam <a class="annotation" href="/dia-danh/song-duong-tu" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Dương Tử</a> sau năm 210 TCN.</div> </div> </div>
+<p>Tần Thủy Hoàng còn sai Đồ Thư đem quân, sai Sử Lộc đào ngòi vận lương đi đánh lấy Bách Việt, tức các tỉnh Chiết Giang, Lục Lương (???), Nam Hải (Quảng Đông), Quế Lâm (Quảng Tây), và một phần miền Bắc của Việt Nam, thời đó gọi là Âu Lạc của An <a class="annotation" href="/nhan-vat/duong-vuong" title="Dương Vương (chữ Hán: 陽王) là thụy hiệu của một số vị quân chủ...." target="_blank" >Dương Vương</a> (hay Tượng quận theo cách gọi của Trung Quốc).</p>
+<p>Năm 214 TCN, Tần Thủy Hoàng sai <a class="annotation" href="/nhan-vat/trieu-da" title="Triệu Vũ đế (chữ Hán: 趙武帝, 257 TCN - 137 TCN), húy Triệu Đà (chữ Hán: 趙佗), tự Bá Uy (chữ Hán: 伯倭), hiệu Nam Hải lão phu (chữ Hán: 南海老夫). Triệu Đà vốn là người Trung Hoa (sau này gọi là người Hán), quê ở huyện Chân Định (真定), quận Hằng Sơn (恒山), đời nhà Tần (ngày nay là huyện Chính Định (正定), tỉnh Hà..." target="_blank" >Triệu Đà</a> đưa những người thường trốn tránh, người ở rể và người đi buôn đánh lấy đất Lục Lương, đóng đồn ở <a class="annotation" href="/dia-danh/nui-ngu-linh" title="Tọa độ: 25°10′B 112°20′Đ / 25,167°B 112,333°Đ / 25.167; 112.333 
+ Nam Lĩnh (chữ Hán giản thể: 南岭, chữ Hán phồn thể: 南嶺), còn gọi là Ngũ Lĩnh (tiếng Hán: 五岭) là tên loạt dãy núi ở vùng ranh giới các tỉnh Hồ Nam, Giang Tây, Quảng Đông, Quảng Tây của Trung Quốc, ngăn cách vùng Lưỡng Quảng với phần lãnh..." target="_blank" >núi Ngũ Lĩnh</a>, lập thành Quế Lâm, Tượng quận, Nam Hải cho những người bị đi đày đến đấy canh giữ.</p>
+<p>Năm 213 TCN, Thủy Hoàng lại đem đày những quan coi ngục không thanh liêm đi xây Trường Thành và đi thú ở đất Nam Việt.</p>
+<p>Có thể coi Tần Thủy Hoàng đã lập được một đế quốc lớn vào bậc nhất thế giới thời đó, và người phương Tây, do những thương nhân chở lụa sang bán, đã biết danh <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a>, gọi Trung Hoa là nước Tần.</p>
+<p>Chỉ trong mười mấy năm Thủy Hoàng thực hiện được bấy nhiêu công trình về nội trị, tổ chức hành chính, thống nhất ngôn ngữ, văn tự v.v..., xây cất, đắp đường, mở mang cương vực, được nhiều sử gia coi là vĩ đại.</p>
+<a name="nhung-nam-cuoi-va-qua-doi"></a><h2>Những năm cuối và qua đời</h2>
+<a name="tim-kiem-truong-sinh-bat-lao"></a><h3>Tìm kiếm trường sinh bất lão</h3>
+<p>Trong những năm cuối đời, Tần Thủy Hoàng sợ cái chết và tuyệt vọng tìm kiếm thuốc trường sinh, được cho là sẽ cho phép ông sống mãi mãi. Ông bị ám ảnh với việc có được sự bất tử và bị lừa bởi nhiều người nói có thể cung cấp thuốc trường sinh <sup class="annotation badge" title="^ a ă Ong, Siew Chey. Marshall Cavendish. (2006). China Condensed: 5000 Years of History &amp;amp; Culture. ISBN 981-261-067-7, 9789812610676. p 17.">49</sup> . Ông cũng viếng thăm đảo Chi Phù ba lần để đạt được sự bất tử <sup class="annotation badge" title="^ Aikman, David. (2006). Qi. Publishing Group. ISBN 0-8054-3293-0, 9780805432930. p 91.">50</sup> </p>
+<div class="center"> <div class="thumb-img"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/47cbab45207c0fb4ce69fc7d89123363.jpg" /> <div class="caption"> <div class="magnify"></div> Tàu của Từ Phúc ra khơi năm 219 TCN để tìm kiếm thuốc trường sinh.</div> </div> </div> </div>
+<p>Tần Thủy Hoàng nghe theo lời Hầu Sinh và Lư Sinh muốn tu tiên, bèn tự xưng là <b>chân nhân</b> nhưng ít lâu sau hai người lại bất bình vì sự hà khắc của Thủy Hoàng nên cùng nhau bỏ trốn. Thủy Hoàng cũng cấp cho Từ Phúc một con tàu chở hàng trăm đồng nam và đồng nữ tìm kiếm núi Bồng Lai thần bí <sup class="annotation badge" title="^ a ă Wintle, Justin Wintle. (2002). China. Rough Guides Publishing. ISBN 1-85828-764-2, 9781858287645. p 61. p 71.">36</sup> . Họ cũng được gửi đi để tìm An Cơ Sinh, một người bất tử 1.000 năm tuổi mà Tần Thủy Hoàng cho là đã gặp trong một chuyến vi hành và là người đã mời ông đi tìm mình ở Bồng Lai <sup class="annotation badge" title="^ Fabrizio Pregadio. The Encyclopedia of Taoism. London: Routledge, 2008: 199">51</sup> . Những người này không bao giờ trở lại, có lẽ bởi vì họ biết rằng nếu họ quay về mà không có thuốc trường sinh như đã hứa, họ chắc chắn sẽ bị tử hình. Truyền thuyết cho rằng họ đến Nhật Bản và thuộc địa hóa nó <sup class="annotation badge" title="^ a ă Ong, Siew Chey. Marshall Cavendish. (2006). China Condensed: 5000 Years of History &amp;amp; Culture. ISBN 981-261-067-7, 9789812610676. p 17.">49</sup> . Cũng có thể là việc đốt sách, vốn được xem như là một sự lãng phí về văn học, là một phần trong nỗ lực của Thủy Hoàng để tập trung tâm trí của các học giả giỏi nhất của ông trong việc nghiên cứu giả kim thuật. Một số học giả bị tử hình là những người không thể cung cấp bất kỳ bằng chứng về khả năng siêu nhiên của họ. Điều này có thể là phương tiện cuối cùng để kiểm khả năng của họ: nếu bất kỳ người trong số họ có sức mạnh siêu nhiên, họ chắc chắn sẽ sống lại <sup class="annotation badge" title="^ a ă â b Clements, Jonathan (2006). The First Emperor of China. Sutton Publishing. ISBN 0-7509-3959-1. pp. 82, 102-103, 131, 134.">28</sup> . Do Thủy Hoàng sợ chết và các "linh hồn xấu xa", ông cho xây dựng một loạt các đường hầm và lối đi thông qua mỗi cung điện của mình, bởi vì chúng sẽ giữ cho ông an toàn từ các linh hồn xấu xa vì ông di chuyển mà không bị nhìn thấy.</p>
+<a name="cai-chet"></a><h3>Cái chết</h3>
+<p>Năm 211 TCN, một thiên thạch được cho là rơi xuống Đông Quận (东郡) ở chỗ thấp của <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a>. Trên thiên thạch có người ghi dòng chữ "Thủy Hoàng chết thì đất bị chia." <sup class="annotation badge" title="^ a ă Liang, Yuansheng. (2007). The Legitimation of New Orders: Case Studies in World History. Chinese University Press. ISBN 962-996-239-X, 9789629962395. pg 5.">52</sup>  Khi Thủy Hoàng biết được, ông đã phái người đi điều tra. Không ai nhận là người đã viết dòng chữ nên tất cả những người sống gần đó đều bị giết. Tảng thiên thạch sau đó bị đốt cháy và nghiền thành bột <sup class="annotation badge" title="^ a ă â ‘‘Records of the Grand Historian: Qin Dynasty (English translation). (1996). Ssu-Ma, Ch'ien. Sima, Qian. Burton Watson as translator. Edition: 3, reissue, revised. Columbia. University Press. ISBN 0-231-08169-3, 9780231081696. pg 35. pg 59.">12</sup> .</p>
+<p>Sau đó, Thủy Hoàng đi kinh lý phía đông, Tả Thừa tướng Lý Tư đi theo, Hữu Thừa tướng Khứ Tật ở nhà. <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a>, con nhỏ của Thủy Hoàng, được nhà vua yêu mến xin đi theo, vua bằng lòng.</p>
+<p>Sau khi tế vua Hạ Vũ ở Cối Kê, Tần Thủy Hoàng trở về kinh. Trên đường trở về phía tây đến bến Bình Nguyên thì bị bệnh.</p>
+<p>Thủy Hoàng ghét người ta nói đến việc chết, cho nên quần thần không ai dám nói với nhà vua về việc chuẩn bị cho việc ông qua đời. Khi bệnh càng nặng, nhà vua viết thư đóng dấu của vua gửi đến hoàng tử Phù Tô nói: "Con về Hàm Dương với đám tang, và chôn cất ta ở đấy." Bức thư đã niêm phong ở trong phủ trung xa thuộc quyền Triệu Cao. Bức thư có dấu của nhà vua làm tin chưa giao cho sứ giả, thì Thủy Hoàng qua đời ở Bình Đài (平台), thuộc đất Sa Khâu (沙丘), là nơi cách khoảng hai tháng đi bằng đường bộ cách kinh thành Hàm Dương vào ngày 10 tháng 9 năm 210 TCN theo lịch Julius <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> <sup class="annotation badge" title="^ O'Hagan Muqian Luo, Paul. (2006). 讀名人小傳學英文: famous people. 寂天文化. publishing. ISBN 986-184-045-1, 9789861840451. p16.">53</sup> <sup class="annotation badge" title="^ Xinhuanet.com. &quot;Xinhuanet.com.&quot; 中國考古簡訊：秦始皇去世地沙丘平臺遺跡尚存. Retrieved on 2009-01-28.">54</sup> . Sử liệu phương Tây cho rằng ông chết do uống phải thuốc thủy ngân do các ngự y chế ra<sup class="annotation badge" title="^ a ă â b Wright, David Curtis (2001). The History of China. Greenwood Publishing Group. tr.&amp;#160;49. ISBN&amp;#160;0-313-30940-X.&amp;#160;">55</sup>  mà những viên thuốc này vốn được làm nhằm mục đích giúp cho Tần Thủy Hoàng bất tử <sup class="annotation badge" title="^ a ă â b Wright, David Curtis (2001). The History of China. Greenwood Publishing Group. tr.&amp;#160;49. ISBN&amp;#160;0-313-30940-X.&amp;#160;">55</sup> .</p>
+<p>Thừa tướng Lý Tư thấy nhà vua mất ở xa kinh đô nên đã trở thành vô cùng lo lắng rằng tin tức về cái chết của Thủy Hoàng có thể kích hoạt một cuộc nổi dậy lớn trong toàn đế chế <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> , bèn giấu kín điều đó, không báo tang, chở quan tài trong một cỗ xe mát, cho một hoạn quan được vua yêu ngồi trong xe, đến đâu thì dâng thức ăn, trăm quan vẫn tâu việc như thường <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Viên hoạn quan ở trong xe nghe lời tâu, liền bảo: "<i>Được!</i>". Chỉ có <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a>, Triệu Cao và một vài hoạn quan thân tín của nhà vua, tất cả có năm sáu người biết là nhà vua đã chết <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> .</p>
+<p>Xe đi từ Tỉnh Hình đến Cửu Nguyên. Gặp lúc trời nắng, chiếc xe mát phát ra mùi thối, đoàn tùy tùng sai các quan đi theo chở trên xe một thạch cá muối để đánh lẫn mùi thối <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Đi theo đường thẳng đến Hàm Dương mới báo tang.</p>
+<p>Tổng cộng, ông ở ngôi được 35 năm, trong đó 24 năm là làm vua nước Tần từ năm 246 TCN đến năm 222 TCN, và 11 năm làm hoàng đế của đế chế Tần từ năm 221 TCN đến năm 210 TCN.</p>
+<a name="am-muu-cua-nguoi-ke-vi"></a><h3>Âm mưu của người kế vị</h3>
+<p>Cuối cùng, sau khoảng hai tháng, Lý Tư và xa giá trở lại Hàm Dương, nơi mà các tin tức về cái chết của Tần Thủy Hoàng mới được công bố <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> . Sau khi ông chết, Phù Tô theo lệ sẽ là hoàng đế nối ngôi <sup class="annotation badge" title="^ a ă â b Tung, Douglas S. Tung, Kenneth. [2003] (2003). More Than 36 Stratagems: A Systematic Classification Based On Basic Behaviours. Trafford Publishing. ISBN 1-4120-0674-0, 9781412006743.">56</sup> .</p>
+<p>Lý Tư và Triệu Cao âm mưu giết Phù Tô vì vị tướng được yêu thích bởi Phù Tô là Mông Điềm, người mà họ không ưa <sup class="annotation badge" title="^ a ă â b Tung, Douglas S. Tung, Kenneth. [2003] (2003). More Than 36 Stratagems: A Systematic Classification Based On Basic Behaviours. Trafford Publishing. ISBN 1-4120-0674-0, 9781412006743.">56</sup>  và sợ; anh trai của Mông Điềm là 1 viên quan cấp cao, người đã có lần trừng phạt Triệu Cao <sup class="annotation badge" title="^ Sima Qian: The First Emperor. Tr. Raymond Dawson. Oxford University Press. Edition 2007. p. 54">57</sup> . Họ đã sợ rằng nếu Phù Tô được lên ngôi, họ sẽ bị mất quyền lực <sup class="annotation badge" title="^ a ă â b Tung, Douglas S. Tung, Kenneth. [2003] (2003). More Than 36 Stratagems: A Systematic Classification Based On Basic Behaviours. Trafford Publishing. ISBN 1-4120-0674-0, 9781412006743.">56</sup> , vì vậy nên Triệu Cao bèn cùng Lý Tư âm mưu phá hủy bức thư của Thủy Hoàng gửi cho hoàng tử Phù Tô (con cả của Thủy Hoàng), đặt ra chuyện thừa tướng Lý Tư đã nhận được tờ chiếu của Thủy Hoàng ở Sa Khâu trước khi chết bảo lập <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a> làm thái tử; sau đó lại làm một bức thư khác gửi cho hoàng tử Phù Tô và tướng Mông Điềm kể tội hai người, ra lệnh cho hai người phải chết <sup class="annotation badge" title="^ a ă â b Tung, Douglas S. Tung, Kenneth. [2003] (2003). More Than 36 Stratagems: A Systematic Classification Based On Basic Behaviours. Trafford Publishing. ISBN 1-4120-0674-0, 9781412006743.">56</sup> . Kế hoạch này đã thành công, và em của Phù Tô là <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a> bèn lên nối ngôi, tức là Nhị Thế hoàng đế <sup class="annotation badge" title="^ a ă â b c d đ e ê g h i k l m Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). The First Emperor: Selections from the Historical Records. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.">22</sup> </p>
+<p>Tần Nhị Thế tuy nhiên lại không có khả năng như người cha của mình. Các cuộc khởi nghĩa nhanh chóng nổ ra. Triều đại của ông là một thời điểm bất ổn về dân sự và tất cả mọi thứ được xây dựng bởi Tần Thủy Hoàng sụp đổ chỉ trong một thời gian ngắn <sup class="annotation badge" title="^ a ă â b c Haw, Stephen G. (2007). Beijing a Concise History. Routledge. ISBN 978-0-415-39906-7. p 22 -23.">26</sup> . Một trong những nỗ lực nổi dậy ngay lập tức là việc <a class="annotation" href="/nhan-vat/tran-thang" title="Trần Thắng (陳勝;&amp;#160;? - 208 TCN) là thủ lĩnh đầu tiên đứng lên khởi nghĩa chống lại nhà Tần, người khởi đầu cho phong trào lật đổ nhà Tần trong lịch sử Trung Quốc. Ông người Dương Thành, tỉnh Hà Nam, Trung Quốc...." target="_blank" >Trần Thắng</a> và Ngô Quảng khởi nghĩa ở làng Đại Trạch <sup class="annotation badge" title="^ a ă Liang, Yuansheng. (2007). The Legitimation of New Orders: Case Studies in World History. Chinese University Press. ISBN 962-996-239-X, 9789629962395. pg 5.">52</sup> .</p>
+<a name="lang-mo-va-di-tich"></a><h2>Lăng mộ và di tích</h2>
+<p>Một trong những dự án đầu tiên mà Tần Thủy Hoàng thực hiện trong khi còn sống là xây dựng lăng mộ cho mình. Năm 215 TCN, ông ra lệnh cho tướng Mông Điềm dùng 300.000 người để bắt đầu việc xây dựng <sup class="annotation badge" title="^ a ă Wood, Frances. (2008). China's First Emperor and His Terracotta Warriors. p 33.">45</sup> . Các nguồn khác lại cho rằng ông ra lệnh cho 720.000 lao động để xây dựng ngôi mộ <sup class="annotation badge" title="^ a ă Donn, Lin. Donn, Don. Ancient China. (2003). Social Studies School Service. Social Studies. ISBN 1-56004-163-3, 9781560041634. pg 49.">20</sup> . Một lần nữa, với quan sát của John Man của về dân số của thời gian (xem đoạn trên), các ước tính lịch sử có vẻ còn gây tranh cãi. Ngôi mộ chính (nằm ở vị trí 3<span class="plainlinks nourlexpansion"><span class="geo-default"><span class="geo-dms" title="Bản đồ, không ảnh, cùng các dữ liệu khác cho vị trí này"><span class="latitude">34°22′52,75″B</span> <span class="longitude">109°15′13,06″Đ</span></span></span><span class="geo-multi-punct"> / </span><span class="geo-nondefault"><span class="geo-dec" title="Bản đồ, không ảnh, cùng các dữ liệu khác cho vị trí này">34,36667°B 109,25°Đ</span></span></span>) có chứa xá Thủy Hoàng vẫn chưa được mở ra và có bằng chứng cho thấy rằng nó vẫn còn tương đối nguyên vẹn <sup class="annotation badge" title="^ Jane Portal and Qingbo Duan, The First Emperor: China's Terracotta Arm, British Museum Press, 2007, p. 207.">58</sup> .</p>
+<p>Tư Mã Thiên mô tả ngôi mộ rất nhiều châu báu, có một bản đồ của một trăm con sông, trên đó <a class="annotation" href="/dia-danh/song-hoang-ha" title="Hoàng Hà (tiếng Hán: 黃河; pinyin: Huáng Hé; Wade-Giles: Hwang-ho, nghĩa là &quot;sông màu vàng&quot;), là con sông dài thứ 3 châu Á xếp sau sông Trường Giang (Dương Tử) và sông Yenisei, với chiều dài 5.464&amp;#160;km sông Hoàng Hà xếp thứ 6 thế giới về chiều dài. 
+ Sông Hoàng Hà chảy qua 9 tỉnh của CHND Trung Hoa..." target="_blank" >sông Hoàng Hà</a>, <a class="annotation" href="/dia-danh/song-duong-tu" title="Trường Giang (giản thể: 长江; phồn thể: 長江; nghe  pinyin: Cháng Jiāng; Wade-Giles: Ch'ang Chiang) hay sông Dương Tử (扬子江 nghe , Yángzǐ Jiāng hay Yangtze Kiang; Hán-Việt: Dương Tử Giang) là con sông dài nhất châu Á và đứng thứ ba trên thế giới sau sông Nin ở Châu Phi, sông Amazon ở Nam Mỹ. 
+ Trường Gia..." target="_blank" >sông Dương Tử</a> và <a class="annotation" href="/dia-danh/bien-dong" title="Biển Đông là tên gọi riêng của Việt Nam để nói đến vùng biển có tên quốc tế là South China Sea (tiếng Anh) hay Mer de Chine méridionale (tiếng Pháp), là một biển rìa lục địa và là một phần của Thái Bình Dương, trải rộng từ Singapore tới eo biển Đài Loan và bao phủ một diện tích khoảng 3.447.000 km²...." target="_blank" >biển Đông</a> đều bằng thủy ngân. Hầm mộ ngày đêm đều thắp đèn đốt bằng dầu cá, một loại cá đặc biệt giống hình người. Quan tài hạ rồi, người ta nấu đồng để gắn phần mộ và đặt một cái máy để hễ có kẻ nào lén vào đào mả thì sẽ bị những mũi tên từ mọi chỗ phát ra tự động bắn vào <sup class="annotation badge" title="^ Man, John. The Terracotta Army, Bantam Press 2007 p170. ISBN 978-0-593-05929-6.">59</sup> . Ngôi mộ được xây dựng trên núi Li Sơn, cách Tây An 30&#160;km. Các nhà khảo cổ học hiện đại đã xác định ngôi mộ, và đã đưa người máy vào thăm dò sâu bên trong. Các thăm dò cho thấy số lượng thủy ngân cao bất thường, tỷ lệ cao khoảng 100 lần so với tự nhiên, cho thấy rằng một số phần của truyền thuyết là đáng tin cậy <sup class="annotation badge" title="^ a ă â b Wright, David Curtis (2001). The History of China. Greenwood Publishing Group. tr.&amp;#160;49. ISBN&amp;#160;0-313-30940-X.&amp;#160;">55</sup> . Bí mật của ngôi mộ được duy trì vì hầu hết các công nhân xây dựng ngôi mộ đều bị giết <sup class="annotation badge" title="^ a ă â b Wright, David Curtis (2001). The History of China. Greenwood Publishing Group. tr.&amp;#160;49. ISBN&amp;#160;0-313-30940-X.&amp;#160;">55</sup> <sup class="annotation badge" title="^ Leffman, David. Lewis, Simon. Atiyah, Jeremy. Meyer, Mike. Lunt, Susie. (2003). China. Edition: 3, illustrated. Rough Guides publishing. ISBN 1-84353-019-8, 9781843530190. pg 290.">60</sup> .</p>
+<p>Nhà sử học Trung Quốc Tư Mã Thiên, viết một thế kỷ sau cái chết của hoàng đế đầu tiên, đã viết rằng cần đến hơn 700,000 người để xây dựng lăng mộ. Nhà sử học người Anh John Man chỉ ra rằng con số này lớn hơn bất kỳ thành phố nào trên thế giới tại thời điểm đó và tính toán nền móng đã được xây dựng bởi 16.000 người trong hai năm <sup class="annotation badge" title="^ Man, John. The Terracotta Army, Bantam Press 2007 p125. ISBN 978-0-593-05929-6.">61</sup> . Trong khi Tư Mã Thiên không bao giờ đề cập đến đội quân đất nung, những bức tượng này đã được phát hiện bởi một nhóm các nông dân đào giếng vào ngày 29 tháng 3 năm 1974 <sup class="annotation badge" title="^ Huang, Ray. (1997). China: A Macro History. Edition: 2, revised, illustrated. M.E. Sharpe publishing. ISBN 1-56324-731-3, 9781563247316. p 37">62</sup> . Các binh sĩ này được tạo ra với một loạt các hỗn hợp khuôn đất sét và sau đó tiếp tục được cá nhân hóa bằng tay bởi các nghệ sĩ. Có khoảng 6.000 Chiến binh đất nung và mục đích của họ là để bảo vệ Hoàng đế trong thế giới bên kia khỏi các linh hồn xấu xa. Cũng trong đội quân này là xe ngựa và 40.000 vũ khí thực sự bằng đồng <sup class="annotation badge" title="^ Portal, Jane. &quot;The First Emperor: China's Terra Cotta Army. Cambridge, Massachusetts: Harvard University Press, 2007.">63</sup> .</p>
+<a name="gia-dinh"></a><h2>Gia đình</h2>
+<p>Sau đây là một số thành viên gia đình của Tần Thủy Hoàng:</p>
+<ul> <li>Cha mẹ <ul> <li>Tần Trang Tương Vương</li> <li>Triệu Cơ</li> </ul> </li> <li>Anh em <ul> <li>Hai em cùng mẹ khác cha, do Triệu thái hậu tư thông với Lao Ái</li> <li>Doanh Tử Anh, sau là Tần Tam Thế</li> </ul> </li> <li>Con cái <ul> <li>Doanh Phù Tô (tự sát)</li> <li>Doanh <a class="annotation" href="/nhan-vat/ho-hoi" title="Tần Nhị Thế (chữ Hán: 秦二世; 230 TCN - 207 TCN), hay Nhị Thế Hoàng đế (二世皇帝), tên thật là Doanh Hồ Hợi (嬴胡亥), là vị Hoàng đế thứ hai của nhà Tần trong lịch sử Trung Quốc, trị vì từ 210 TCN đến 207 TCN...." target="_blank" >Hồ Hợi</a>, sau là Tần Nhị Thế (con thứ 18)</li> <li>Doanh Cao (bị Tần Nhị Thế giết)</li> <li>Doanh Tương Lư (bị Tần Nhị Thế giết)</li> <li>10 con gái (bị Tần Nhị Thế giết)</li> </ul> </li> </ul>
+<p>dòng tộc lưu lạc đời sau:</p>
+<ul> <li>Thiên Đại Hải Sơn</li> <li>Thiên Đại Vũ Anh</li> <li>Thiên Đại Thế Anh</li> <li>Thiên Đại Thế Phương <ul> <li>và một số hoàng thân chưa rõ(Trung Quốc,Việt Nam,Ấn Độ)</li> </ul> </li> </ul>
+<p>Tần Thủy Hoàng có khoảng 100 người con, nhưng hầu hết tên của họ đều chưa được biết. Sử sách cũng không nhắc đến tên một người vợ nào của ông. (số liệu Việt Nam,Trung Quốc tiết lộ năm 2010 theo bộ văn hóa bảo tồn hoàng gia Trung Quốc)</p>
+<a name="nhan-dinh"></a><h2>Nhận định</h2>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/bbd5501f20ef8d05710601c24035fa11.jpg" /> <div class="caption"> <div class="magnify"></div> Một bức tượng hiện đại của Tần Thuỷ Hoàng, gần các bức tượng đất sét trong lăng mộ ông.</div> </div> </div>
+<p>Trong truyền thống chép sử của Trung Quốc, Tần Thủy Hoàng luôn được miêu tả như một vị vua tàn bạo, người bị ám ảnh bởi các vụ ám sát. Sau này, ông các nhà sử học Khổng giáo lên án việc ông cho đốt sách và chôn sống Nho sĩ. Họ cuối cùng đã biên soạn danh sách Mười tội ác của Tần để làm nổi bật hành động bạo ngược của Thủy Hoàng.</p>
+<p>Nhà thơ và chính khách nổi tiếng đời <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a> là Giả Nghị kết luận bài viết <i>Kiều Tần Di</i> (过秦论) của mình với những gì đã trở thành bản án Nho giáo tiêu chuẩn trong những lý do cho sự sụp đổ của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a>. Bài tiểu luận của Giả Nghị, được ngưỡng mộ như kiệt tác của thuật hùng biện và lý luận, đã được chép trong 2 tác phẩm lịch sử đời Hán và đã có ảnh hưởng sâu rộng về tư tưởng chính trị Trung Quốc như một minh hoạ cổ điển của lý thuyết Nho giáo <sup class="annotation badge" title="^ Loewe, Michael. Twitchett, Denis. (1986). The Cambridge History of China: Volume I: the Ch'in and Han Empires, 221 B.C. – A.D. 220. Cambridge University Press. ISBN 0-521-24327-0.">64</sup> . Ông cho sự tan rã của Tần là do sự thất bại trong việc biểu thị nhân tính và sự công bình và không nhận ra sự khác biệt giữa sức mạnh tấn công và sức mạnh để củng cố <sup class="annotation badge" title="^ Lovell, Julia. (2006). The Great Wall: China Against the World, 1000 BC-AD 2000. Grove Press. ISBN 0-8021-1814-3, 9780802118141. pg 65.">65</sup> </p>
+<p>Tuy nhiên, các sử gia phương Tây nhìn nhận ông là một trong những nhân vật ngoại hạng trong mọi thời đại. Ông chỉ cầm quyền chưa đầy mười lăm năm mà làm cho nước Trung Hoa thay đổi hẳn, thống nhất về mọi mặt, mở mang thêm bờ cõi, thành một đế quốc lớn thời thượng cổ. Đó là một thành tựu được kể là vượt bậc. Ngày nay cái tên "China" hay "Sino" mà người phương Tây dùng để gọi Trung Quốc đều xuất phát từ phiên âm chữ "Tần" (<i>Sin</i>) mà ra. Nhiều nhà sử học nhắc tới Tần Thủy Hoàng song song với Napoleon.</p>
+<p>Trong thời hiện đại hơn, đánh giá lịch sử về Hoàng đế đầu tiên khác với sử học truyền thống Trung Quốc đã bắt đầu xuất hiện. Các đánh giá lại này được thúc đẩy bởi điểm yếu của Trung Quốc trong nửa cuối của thế kỷ 19 và đầu thế kỷ 20, cùng việc truyền thống Nho giáo tại thời điểm đó bắt đầu được nhìn thấy bởi một số người như là trở ngại cho sự hòa nhập của Trung Quốc vào thế giới hiện đại, mở đường cho việc thay đổi quan điểm.</p>
+<p>Trong thời gian lãnh thổ Trung Quốc xâm phạm bởi các quốc gia nước ngoài, Quốc Dân Đảng nhấn mạnh vai trò của Tần Thủy Hoàng trong việc đẩy lui các rợ phía Bắc, đặc biệt là trong việc xây dựng Vạn lý trường thành.</p>
+<p>Một nhà sử học tên là Mã Phi Bách (馬非百) đã cho xuất bản một tiểu sử xét lại về Hoàng đế đầu tiên mang tên <i>Tần Thủy Hoàng Đế Truyền</i> (秦始皇帝传) vào năm 1941, gọi ông là "một trong những anh hùng vĩ đại của lịch sử Trung Quốc". Ông so sánh Thủy Hoàng với các nhà lãnh đạo đương đại Tưởng Giới Thạch và nhìn thấy nhiều điểm tương đồng trong sự nghiệp, chính sách của họ, vốn là hai người mà ông ngưỡng mộ. Cuộc chiến tranh Bắc phạt cuối những năm 1920 trực tiếp dưới sự chỉ đạo chính phủ Quốc Dân Đảng tại Nam Kinh được so sánh với sự thống nhất mang lại bởi Tần Thủy Hoàng.</p>
+<div class="thumb-img pull-right"> <div class="thumbnail" ><img alt="" src="/images/wiki/tan-thuy-hoang/2a6f034b9d349bc268046822e068fc37.jpg" /> <div class="caption"> <div class="magnify"></div> Một bức tượng hiện đại của Hoàng đế đầu tiên</div> </div> </div>
+<p>Với sự ra đời của Cách mạng Cộng sản vào năm 1949, giải thích mới lại nổi lên. Việc thành lập của chế độ cách mạng mới đã dẫn đến việc định nghĩa lại đánh giá về Tần Hoàng, lần này là cho phù hợp với cách nghĩ của chủ nghĩa Mao. Giải thích mới về Tần Hoàng nói chung là một sự kết hợp của quan điểm truyền thống và hiện đại, nhưng về cơ bản là quan trọng. Điều này được minh họa trong <i>Sử ký toàn thư của Trung Quốc</i>, được biên soạn vào tháng 9 năm 1955 như là một cuộc khảo sát chính thức của lịch sử Trung Quốc. Công trình này mô tả những bước tiến lớn của Tần Thủy Hoàng theo hướng thống nhất và tiêu chuẩn tương ứng với lợi ích của nhóm cầm quyền và tầng lớp thương gia, không phải là quốc gia của nhân dân, và sự sụp đổ của triều đại của ông sau đó là một biểu hiện của đấu tranh giai cấp. Các cuộc tranh luận lâu năm về sự sụp đổ của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> cũng giải thích về chủ nghĩa Mác là các cuộc khởi nghĩa của nông dân là một cuộc nổi dậy chống lại sự đàn áp - một cuộc nổi dậy làm suy yếu các triều đại, nhưng luôn thất bại vì sự thỏa hiệp với "yếu tố tầng lớp chủ đất".</p>
+<p>Từ năm 1972, tuy nhiên, điểm khác biệt căn bản chính thức của Tần Thủy Hoàng đã được nổi bật trên khắp Trung Quốc. Việc đánh giá lại được khởi xướng bởi tiểu sử <i>Tần Thủy Hoàng</i> của Hồng Sĩ Đệ. Nghiên cứu được xuất bản bởi báo chí nhà nước này được phổ biến đại chúng và đã bán được 1,85 triệu bản trong vòng hai năm. Trong thời đại mới, Tần Thủy Hoàng được xem như là một nhà lãnh đạo nhìn xa trông rộng, phá hủy các lực lượng của các bộ phận và thành lập thống nhất nhà nước đầu tiên tập trung, thống nhất trong lịch sử Trung Quốc bằng cách từ bỏ quá khứ. Các thuộc tính cá nhân, chẳng hạn như cuộc tìm kiếm của ông cho sự bất tử, được nhấn mạnh trong sử học truyền thống, hầu như đã đề cập. Các đánh giá mới mô tả trong thời gian trị vì của mình (một kỷ nguyên thay đổi chính trị và xã hội), ông không chống lại việc sử dụng phương pháp bạo lực để nghiền nát sự chống cách mạng. Tuy nhiên, ông bị chỉ trích là không còn kỹ lưỡng như ông đã từng làm và kết quả là, sau khi ông chết, sự phá hoại ẩn dưới sự lãnh đạo của thái giám Triệu Cao đã có thể thu được quyền để khôi phục lại trật tự phong kiến cũ.</p>
+<p>Để vòng này đánh giá lại, một giải thích mới cho sự sụp đổ của triều đại <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> nhanh chóng được đưa ra trong một bài báo mang tên "Cuộc đấu tranh giai cấp trong thời kỳ giữa Tần và Hán" trong số ra năm 1974 của Cờ Đỏ để thay thế lời giải thích cũ. Các giả thuyết mới tuyên bố rằng nguyên nhân gây ra sự sụp đổ của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> là nằm trong sự thiếu triệt để của chế độ độc tài của Tần Thủy Hoàng, thậm chí đến mức độ cho phép chúng đi sâu vào các cơ quan quyền lực chính trị và chiếm lấy các vị trí quan trọng.</p>
+<p>Mao Trạch Đông, Chủ tịch nước Cộng hòa Nhân dân Trung Hoa, bị nguyền rủa do sự đàn áp trí thức của mình. Khi được so sánh với Tần Thủy Hoàng, Mao trả lời: "Ông ấy chôn sống 460 học giả; chúng tôi chôn cất 46.000 học giả còn sống... Bạn [trí thức] nguyền rủa chúng tôi là Tần Thủy Hoàng. Bạn đã sai. Chúng tôi đã hơn Tần Thủy Hoàng gấp trăm lần".<sup class="annotation badge" title="^ Mao Zedong sixiang wan sui! (1969), p. 195. Referenced in Governing China (2nd ed.) by Kenneth Lieberthal (2004).">66</sup> </p>
+<a name="trong-van-hoa"></a><h2>Trong văn hóa</h2>
+<a name="tac-pham-vien-tuong"></a><h3>Tác phẩm viễn tưởng</h3>
+<ul> <li>Trong cuộc Chiến tranh Triều Tiên, vở kịch <i>Song of the Yi River</i> được sản xuất. Vở kịch dựa trên vụ ám sát Tần Thủy Hoàng của Kinh Kha. Trong vở kịch, Doanh Chính được miêu tả như một bạo chúa độc ác và là kẻ xâm lược của các quốc gia khác. Ngược lại, Kinh Kha là một chiến binh hào hiệp, người đã nói rằng "Hàng chục ngàn người bị thương là tất cả đồng chí của tôi." Một quảng cáo trên báo rất lớn cho vở kịch này đã tuyên bố: "Cuộc xâm lược chắc chắn sẽ kết thúc trong thất bại, hòa bình phải được chiến thắng bằng mọi giá." Vở kịch miêu tả một kẻ yếu chiến đấu chống lại kẻ xâm lược nước ngoài mạnh mẽ, độc ác với sự giúp đỡ từ một tình nguyện viên nước ngoài giao cảm.</li> <li>Jorge Luis Borges (1899-1986), nhà văn Argentina đã viết bài luận nổi tiếng về Tần Thủy Hoàng mang tên "The Wall and the Books" ("<span lang="es" xml:lang="es">La muralla y los libros</span>") trong bộ sưa tầm năm 1952 của <i>Other Inquisitions</i> (<i><span lang="es" xml:lang="es">Otras Inquisiciones</span></i>). Nó tập trung vào sự đối lập giữa quy mô xây dựng của Vạn lý trường thành và việc đốt sách đã xác định triều đại của ông <sup class="annotation badge" title="^ Southerncrossreview.org. &quot;Southerncrossreview.org.&quot; &quot;The Wall and the Books&quot;. Truy cập 2009-02-02.">67</sup> .</li> <li>Năm 1956, cuốn sách <i>Lord of the East</i> là một chuyện tình lãng mạn lịch sử về con gái yêu của Tần Thủy Hoàng, người đã bỏ đi với người yêu của mình. Câu chuyện sử dụng Tần Thủy Hoàng để tạo ra các rào cản cho cặp vợ chồng trẻ <sup class="annotation badge" title="^ Openlibrary.org. &quot;Openlibrary.org.&quot; The Lord of the East. Retrieved on 2009-02-02.">68</sup> .</li> <li>Năm 1984, cuốn sách <i>Bridge of Birds</i> của Barry Hughart miêu tả Tần Thủy Hoàng là một người hoang tưởng đạt được sự bất tử do có trái tim bị lấy đi bởi "Ông già trên núi".</li> <li><i>The Chinese Emperor</i> của Jean Levi, xuất hiện vào năm 1984. Tác phẩm lịch sử tưởng tượng này di chuyển từ cuộc thảo luận chính trị và pháp luật của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> đến thăm dò tâm lý của Tần Thủy Hoàng, trong đó đội quân đất nung của ông thực ra là thiết bị tự động tạo ra để thay thế con người có thể sai lầm.</li> <li>Trong tiểu thuyết năm 1985 <i>Contact (tiểu thuyết)</i> của Carl Sagan, nhân vật Xi Qiaomu, người tham gia vào cuộc khai quật lăng mộ của Hoàng đế Tần trong Cách mạng Văn hóa được viếng thăm bởi một người ngoài hành tinh trong hình dạng của Hoàng đế <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> <sup class="annotation badge" title="^ Sagan, Carl. (1985). Contact. Pocket Books. ISBN 0-671-70180-0. Pages 302-304, 368-370, 404-405.">69</sup> .</li> <li>Trong bộ sách <i>Area 51</i>, Tần Thủy Hoàng được tiết lộ là một người ngoài hành tinh bị trục xuất và mắc kẹt trên Trái Đất trong một cuộc nội chiến giữa các vì sao. Vạn Lý Trường Thành thực ra được thiết kế để hiển thị biểu tượng cho 'giúp đỡ' trong ngôn ngữ của ông, và ông ra lệnh cho xây dựng nó với hy vọng rằng tàu vũ trụ đi qua sẽ nhận thấy và giải cứu ông.</li> <li>Trong <i>Hydra's Ring</i>, tiểu thuyết thứ 39 của bộ sách <i>Outlanders</i>, Tần Thủy Hoàng được tiết lộ là vẫn còn sống vào đầu thế kỷ 23 thông qua công nghệ nano ngoài hành tinh đã ban cho ông một hình thức của sự bất tử.</li> <li>Trong bộ sách <i>Magic Tree House</i>, một cuốn có tiêu đề <i>Day of the Dragon King</i>, tên của Tần Thủy Hoàng Đế.</li> <li><i>Ten Dragon Tails</i> của Candy Taylor Tutt chứa "The Wall", một truyện ngắn lịch sử tưởng tượng dựa trên việc xây dựng Vạn lý trường thành.</li> <li><i>Emperor!: A Romance of Ancient China</i> của Lanny Fields lấy trọng tâm quanh Tần Thủy Hoàng và một cựu chiến binh La Mã tên là Scipio Lucius Marcus, người mà Tần Thủy Hoàng trở thành bạn sau khi Marcus Scipio cứu ông nhiều lần. Tác phẩm hư cấu này được kể qua cái nhìn của nhà sử học Tư Mã Thiên, người viết về Marcus Scipio sau khi ông này đi từ Roma đến Trung Quốc.</li> <li>Trong <i>Interesting Times</i> của Terry Pratchett, một pháp sư tên Rincewind, phát hiện ra một bộ áo giáp thuộc sở hữu trước kia của Tần Thủy Hoàng cho phép anh ta kiểm soát đội quân đất nung. Như với hầu hết các tác phẩm trong bộ sách <i>Discworld</i> của Pratchett, cuốn sách này là được dựa trên khái niệm thế giới thực. Trong trường hợp này, mô hình của nó là ảnh hưởng văn hóa của Hoàng đế Tần Thủy Hoàng vào Trung Quốc hiện đại.</li> <li><i>The Tiger Warrior</i> của David Gibbins (Bantam; tháng 6 năm 2009) thêu dệt lịch sử của Tần Thủy Hoàng và cuộc tìm kiếm sự bất tử của ông với lính lê dương La Mã, các bộ lạc Ấn Độ, các binh sĩ Anh thời Victoria và một câu chuyện khảo cổ học-phiêu lưu hiện đại.</li> <li>Trong sách trò chơi nhập vai Wraith: the Oblivion, bóng ma "Tần Thủy Hoàng" tiếp tục cai trị thế giới bên kia của Trung Quốc cho đến ngày nay, với sự hỗ trợ bởi một đội quân bất khả chiến bại dựa trên đội quân đất nung.</li> </ul>
+<a name="phim"></a><h3>Phim</h3>
+<ul> <li><i>Hoàng đế đầu tiên</i> (1963) - Bộ phim miêu tả Tần Thủy Hoàng là một hoàng đế giỏi chiến đấu với nguồn gốc từ trong quân đội. Mặc cho thứ hạng của mình, Tần Thủy Hoàng được thể hiện ngồi xung quanh lửa trại với những người đàn ông bình thường. Tần Thủy Hoàng chuyển đổi Sở phu nhân từ kẻ thù thành một người vợ lẽ trung thành <sup class="annotation badge" title="^ Samuraidvd. &quot;Samuraidvd.&quot; Shin No Shikoutei. Retrieved on 2009-02-02.">70</sup> .</li> <li><i>Cuộc chiến tại phố hoa</i> (1986) - Bộ phim đề cập đến tên của Tần Thủy Hoàng hai lần là người đã áp đặt lời nguyền không có xác thịt cho Lopan vào năm 272 trước Công nguyên.</li> <li>Người tình của Tần Thủy Hoàng</li> <li><i>Bản hùng ca thời Tần</i> (1996) - Bộ phim tập trung vào mối quan hệ của Tần Thủy Hoàng với Cao Tiệm Ly, một người bạn của sát thủ Kinh Kha. Tiệm Ly chơi bài <i>Song of Yishui</i> cho Kinh Kha trước khi ông bắt tay vào nhiệm vụ ám sát Thủy Hoàng <sup class="annotation badge" title="^ NYTimes.com. &quot;FILM REVIEW; Was a United China Worth Any Sacrifice? STEPHEN HOLDEN. NYtimes.com.&quot; Film review. Retrieved on 2009-02-02.">71</sup> . Vai Tần Thủy Hoàng do Khương Văn đảm nhiệm</li> <li><i>Kinh Kha hành thích Tần vương</i> (1999) - Bộ phim tập trung dựa trên danh tính của cha Tần Thủy Hoàng, sự đối xử nhẫn tâm của ông với các quan, và sự phản bội bởi người yêu thời thơ ấu của ông, mở đường cho nỗ lực ám sát của Kinh Kha. Đạo diễn Trần Khải Ca đã tìm cách đặt câu hỏi liệu động cơ của Tần Thủy Hoàng có xứng đáng hay không. Một chủ đề chính trong bộ phim này là cuộc xung đột giữa sự cống hiến của Tần Thủy Hoàng với sự thề ước của ông và người yêu, Triệu phu nhân (Củng Lợi).<sup class="annotation badge" title="^ IMDb.com. &quot;IMDb-162866.&quot; Emperor and the Assassin. Retrieved on 2009-02-02.">72</sup>  Đạo diễn Trần Khải Ca cũng đảm nhận vai Lã Bất Vi trong phim.</li> <li>Anh hùng bộ phim năm 2002 của đạo diễn Trương Nghệ Mưu với Trần Đạo Minh đóng vai Tần Thủy Hoàng.</li> <li><i>Thần thoại</i> (2005) - Bộ phim có Thành Long trong vai Mông Nghị, một vị tướng theo Tần Thủy Hoàng. Nghị được đầu thai vào thời hiện tại là nhà khảo cổ học. Kim Hee-sun đồng đóng vai chính là một công chúa Triều Tiên, người buộc phải kết hôn với Tần Thủy Hoàng <sup class="annotation badge" title="^ IMDb.com. &quot;IMDb-365847.&quot; San wa. Retrieved on 2009-02-02.">73</sup> .</li> <li><i>Xác ướp: Lăng mộ Hoàng đế Rồng</i> (2008) - Bộ phim có Lý Liên Kiệt đóng vai chính, một xác ướp sống lại được gọi là "Hoàng đế Rồng" và có thể là một tham chiếu đến Tần Thủy Hoàng. Vai trò của nhân vật này được tưởng tượng hóa cao vì sở hữu sức mạnh kỳ diệu <sup class="annotation badge" title="^ Tookey, Chris (ngày 7 tháng 8 năm 2008). “The Mummy: Tomb Of The Dragon Emperor - After this, I want my Mummy!”. London: Daily Mail.&amp;#160;">74</sup> .</li> </ul>
+<a name="truyen-hinh"></a><h3>Truyền hình</h3>
+<ul> <li><i>Tần Thủy Hoàng</i> (1986) - một bộ phim truyền hình 63 tập ghi lại những sự kiện từ khi sinh ra cho đến khi qua đời của Tần Thủy Hoàng. Nó được sản xuất bởi ATV của Hồng Kông. Ca từ của bài hát chủ đề mở tóm tắt câu chuyện như sau: "Mặt đất sẽ nằm ngay dưới chân ta; không ai sẽ ngang hàng với ta cả" <sup class="annotation badge" title="^ Sina.com. &quot;Sina.com.cn.&quot; 历史剧:正史侠说. Retrieved on 2009-02-02.">75</sup> </li> <li><i>Histeria!</i> (1998–1999) - một bộ phim hoạt hình. Pepper Mills muốn chữ ký của Tần Thủy Hoàng vì nghĩ ông là Scooby Doo.</li> <li><i>Vạn lý trường thành</i> (1999) - một trong các tập phim của History Bites. Bob Bainborough trong vai Tần Thủy Hoàng.</li> <li><i>Khử tà diệt ma 2</i> (1999) - một bộ phim truyền hình siêu nhiên-tưởng tượng của Hồng Kông. Có một cảnh hồi tưởng Tần Thủy Hoàng bị lừa rằng biến thành ma cà rồng là chìa khóa để đạt được sự bất tử.</li> <li><i>Tầm Tần ký</i> (2001) - Một sản phẩm của TVB dựa trên cuốn tiểu thuyết khoa học viễn tưởng của Hoàng Dị. Nó có ngôi sao Lâm Phong đóng vai Triệu Phan, một người dân của <a class="annotation" href="/dia-danh/nuoc-trieu" title="Triệu quốc (Phồn thể: 趙國, Giản thể: 赵国) là một quốc gia chư hầu có chủ quyền trong thời Chiến Quốc trong lịch sử Trung Quốc. Triệu là nước có vai trò đáng kể trong giai đoạn này, cùng với 6 quốc gia hùng mạnh khác lập ra cục diện Chiến quốc thất hùng (戰國七雄). Lãnh thổ Triệu quốc tương ứng với khu vực..." target="_blank" >nước Triệu</a> lấy danh tính của Doanh Chính và trở thành Tần Thủy Hoàng. Ông được sự hỗ trợ của Hạng Thiếu Long, một nhà du hành vượt thời gian từ thế kỷ 21 <sup class="annotation badge" title="^ TVB. &quot;TVB.&quot; A Step to the Past TVB. Retrieved on 2009-02-02.">76</sup> .</li> <li><i>Tần Thủy Hoàng</i> (2002) - một phim truyền hình do Trung Quốc đại lục sản xuất. Nó có tính năng như là một câu chuyện bán giả tưởng cuộc đời của hoàng đế từ thời thơ ấu cho đến khi chết. Trương Phong Nghị đóng vai Tần Thủy Hoàng <sup class="annotation badge" title="^ CCTV. &quot;CCTV.&quot; List the 30 episode series. Retrieved on 2009-02-02.">77</sup> .</li> <li><i>Martin bí ẩn</i> (2003–2006) - một bộ phim hoạt hình. Nhân vật chính phát hiện rằng đội quân đất nung thực ra được tạo ra để giữ cho Tần Thủy Hoàng bên trong ngôi mộ của mình và không giúp ông trong thế giới tâm linh.</li> <li><i>Tần Thủy Hoàng - Người tạo nên đất nước Trung Hoa</i> (2006) - một bộ phim tài liệu đặc biệt về Tần Thủy Hoàng. James Pax đóng vai Tần Thủy Hoàng. Nó được chiếu trên Channel 4 ở Anh Quốc vào năm 2006 <sup class="annotation badge" title="^ DocumentaryStorm">78</sup> .</li> <li><i>Bí mật của Tần Thủy Hoàng, bạo chúa và tầm nhìn</i> (2006) - một phim tài liệu của National Geographic. Nó cung cấp một cái nhìn sâu sắc về nhà cai trị tuyệt vời và gây tranh cãi này <sup class="annotation badge" title="^ Blockbuster. &quot;Blockbuster.&quot; Secrets of China's First emperor. Retrieved on 2009-02-02.">79</sup> .</li> <li><i>Tần Thủy Hoàng</i> (2008) - phim tài liệu 3 tiếng của The History Channel. Xu Pengkai đóng vai Tần Thủy Hoàng <sup class="annotation badge" title="^ Historychannel.com. &quot;Tomb of China's First EmperorHistorychannel.com.&quot; Retrieved on 2009-02-02.">80</sup> .</li> <li><i>Thần thoại</i> (2010) - một phim truyền hình Trung Quốc sản xuất bởi Thành Long và dựa trên bộ phim cùng tên năm 2005. Hai nhân vật vô tình quay ngược thời gian về thời kỳ <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a>. Họ lấy nhân dạng của Mông Nghị và Triệu Cao và trở thành đối thủ trong cung đình của đế quốc Tần.</li> <li><i>Stargate SG-1</i> Trong loạt phim truyền hình này, Sytem Lord Yu Huang Shang Ti được báo cáo là dựa trên vị Hoàng đế này.</li> <li>Tần thời mỹ nhân Minh Nguyệt Tâm (Lệ Cơ Truyện) (2017) với Tần vương Doanh Chính do Trương Bân Bân thủ vai, đóng cặp là Địch Lệ Nhiệt Ba vai nữ chính Công Tôn Lệ.</li> </ul>
+<a name="am-nhac"></a><h3>Âm nhạc</h3>
+<ul> <li>Tần Thủy Hoàng là nhân vật chính trong vở opera <i>The First Emperor</i>.</li> <li>Nhạc sĩ Thụy Điển Evert Taube cho thấy các hành động và động cơ của Tần Thủy Hoàng trong bài hát "Muren Och Böckerna" ("The Wall And The Books").</li> </ul>
+<a name="tro-choi-dien-tu"></a><h3>Trò chơi điện tử</h3>
+<ul> <li>Trò chơi điện tử năm 1995 <i>Qin: Tomb of the Middle Kingdom</i> mô tả nhiệm vụ của một học giả khảo cổ tưởng để khám phá điểm an táng của Hoàng đế đầu tiên.</li> <li>Trong trò chơi máy tính năm 2002 <i>Prince Of Qin</i>, người chơi đóng vai con trai cả của Tần Thủy Hoàng là Phù Tô, người bị buộc phải tự tử nhưng trong trò chơi thì Phù Tô không chết mà sẽ chiến đấu cho quyền thừa kế ngai vàng của mình và tìm kiếm sự thật về cái chết của Tần Thủy Hoàng.</li> <li>Trò chơi điện tử năm 2003 <i>Indiana Jones and the Emperor's Tomb</i> mô tả Indiana Jones tiến vào lăng mộ của Tần Thủy Hoàng để thu hồi "The Heart of the Dragon".</li> <li>Trong trò chơi điện tử năm 2005 <i>Civilization IV</i>, Tần Thủy Hoàng là một trong hai nhà lãnh đạo có thể chơi được của Trung Quốc <sup class="annotation badge" title="^ Gamefaqs.com. &quot;Gamefaqs-165.&quot; Civilization IV. Retrieved on 2009-02-03.">81</sup> .</li> <li>Trong trò chơi máy tính <i>Emperor: Rise of the Middle Kingdom</i>, chiến dịch của <a class="annotation" href="/nhan-vat/nha-tan" title="Nhà Tần 秦朝 (221 TCN - 206 TCN) là triều đại kế tục nhà Chu và trước nhà Hán trong lịch sử Trung Quốc. Tần (Qín, tạm đọc là Chin), có thể là một nguồn gốc của từ &quot;China&quot; trong các ngôn ngữ Tây phương. Việc thống nhất Trung Quốc năm 221 TCN dưới thời Tần Thuỷ Hoàng đã đánh dấu sự khởi đầu của đế quốc ..." target="_blank" >nhà Tần</a> có các người chơi là kiến trúc sư trưởng của Tần Thủy Hoàng, phụ trách giám sát việc xây dựng kinh đô, kênh Linh Cừ, Vạn Lý Trường Thành, cũng như ngôi mộ của Thủy Hoàng và đội quân đất nung, mặc dù trò chơi có quyền tự do với các khung thời gian mà trong đó các sự kiện thực sự diễn ra.</li> <li>Trò chơi PlayStation <i>Fear Effect 2: Retro Helix</i> có rất nhiều giao dịch với những huyền thoại của ngôi mộ của hoàng đế và Bát Tiên.</li> <li>Trong <i>Rise of Nations</i>, người chơi hoặc đối phương có thể xây dựng "Terracotta Army", một trong những "kỳ quan của thế giới" trong trò chơi.</li> <li>Tần Thủy Hoàng cũng được tiết lộ là trùm cuối cùng của trò chơi điện tử <i>Shin Sangoku Musou: Multi Raid 2</i></li> <li>Trong <i>Assassin's Creed II</i>, một Assassin tên là Wei Yu đã giết chết Tần Thủy Hoàng bằng một cây giáo. <i>Assassin's Creed Encyclopedia</i> cũng nói rằng Tần Thủy Hoàng được hỗ trợ bởi Templar, tổ chức đối kháng chính trong thương hiệu Assassin's Creed.</li> <li>Trong <i>Tomb Raider II</i> (1997), nhà thám hiểm Lara Croft phát hiện ra 'Dagger of Xian' sau khi viếng thăm 'Temple of Xian'. Màn chơi này cho thấy một sự tương đồng với mô tả của lăng mộ của Tần Thủy Hoàng, bao gồm cả một căn phòng với được trang trí bằng đội quân đất nung.</li> <li>Tần Thủy Hoàng là một trong 32 nhân vật lịch sử xuất hiện như là nhân vật đặc biệt trong trò chơi điện tử <i>Romance of the Three Kingdoms XI</i> của Koei. Ông được gọi bằng tên "Doanh Chính" trong trò chơi và có các chỉ số cao hơn tất cả các nhân vật khác, ngoại trừ Quảng Trọng.</li> <li>MMORPG nổi tiếng Con đường tơ lụa có map lăng mộ Tần Thủy Hoàng, vốn chỉ có sẵn cho người chơi cấp 75 hoặc cao hơn.</li> <li>Trò chơi điện tử Võ lâm truyền kỳ mobile - tựa game được VNG phát hành năm 2016, có cuộc chiến tần lăng hàng ngày kèm theo đó là thủy hoàng hạ thế, sự kiện tốn 1 dạ minh châu để có thể tham dự.</li> </ul>
+<a name="xem-them"></a><h2>Xem thêm</h2>
+<ul> <li>Nhà Tần</li> <li>Tần Nhị Thế</li> <li>Lý Tư</li> <li>Triệu Cao</li> <li>Hàn Phi</li> <li>Mông Điềm</li> <li>Lăng mộ Tần Thủy Hoàng</li> <li>Ngọc bích họ Hòa</li> </ul>
+<a name="tham-khao"></a><h2>Tham khảo</h2>
+<ul> <li><span class="citation book">Clements, Jonathan (2006). <i>The First Emperor of China</i>. Sutton Publishing. ISBN&#160;978-07509-3960-7.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Clements%2C+Jonathan&amp;rft.aufirst=Jonathan&amp;rft.aulast=Clements&amp;rft.btitle=The+First+Emperor+of+China&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-07509-3960-7&amp;rft.pub=Sutton+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Portal, Jane (2007). <i>The First Emperor, China's Terracotta Army</i>. British Museum Press. ISBN&#160;9781932543261.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Portal%2C+Jane&amp;rft.aufirst=Jane&amp;rft.aulast=Portal&amp;rft.btitle=The+First+Emperor%2C+China%27s+Terracotta+Army&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=9781932543261&amp;rft.pub=British+Museum+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Wood, Frances (2007). <i>The First Emperor of China</i>. Profile. ISBN&#160;1846680328.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Wood%2C+Frances&amp;rft.aufirst=Frances&amp;rft.aulast=Wood&amp;rft.btitle=The+First+Emperor+of+China&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1846680328&amp;rft.pub=Profile&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li>Sử ký Tư Mã Thiên, thiên: <ul> <li><i>Tần bản kỷ</i></li> <li><i>Tần Thủy Hoàng bản kỷ</i></li> <li><i>Truyện Lã Bất Vi</i></li> </ul> </li> <li><span class="citation book">Bodde, Derk (1978). “The State and Empire of Ch'in”. Trong Twitchett, Denis; Loewe, Michael. <i>The Cambridge history of China</i> <b>1</b>. Cambridge: Cambridge Univ. Press. ISBN&#160;0-521-21447-5.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.atitle=The+State+and+Empire+of+Ch%27in&amp;rft.au=Bodde%2C+Derk&amp;rft.aufirst=Derk&amp;rft.aulast=Bodde&amp;rft.btitle=The+Cambridge+history+of+China&amp;rft.date=1978&amp;rft.genre=bookitem&amp;rft.isbn=0-521-21447-5&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+Univ.+Press&amp;rft.volume=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Clements, Jonathan (2006). <i>The First Emperor of China</i>. Sutton Publishing. ISBN&#160;978-0-7509-3960-7.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Clements%2C+Jonathan&amp;rft.aufirst=Jonathan&amp;rft.aulast=Clements&amp;rft.btitle=The+First+Emperor+of+China&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-7509-3960-7&amp;rft.pub=Sutton+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Cotterell, Arthur (1981). <i>The first emperor of China: the greatest archeological find of our time</i>. New York: Holt, Rinehart, and Winston. ISBN&#160;0-03-059889-3.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Cotterell%2C+Arthur&amp;rft.aufirst=Arthur&amp;rft.aulast=Cotterell&amp;rft.btitle=The+first+emperor+of+China%3A+the+greatest+archeological+find+of+our+time&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=0-03-059889-3&amp;rft.place=New+York&amp;rft.pub=Holt%2C+Rinehart%2C+and+Winston&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Guisso, R.W.L.; Pagani, Catherine; Miller, David (1989). <i>The first emperor of China</i>. New York: Birch Lane Press. ISBN&#160;1-55972-016-6.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Guisso%2C+R.W.L.&amp;rft.au=Miller%2C+David&amp;rft.au=Pagani%2C+Catherine&amp;rft.aufirst=R.W.L.&amp;rft.aulast=Guisso&amp;rft.btitle=The+first+emperor+of+China&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=1-55972-016-6&amp;rft.place=New+York&amp;rft.pub=Birch+Lane+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Yu-ning, Li biên tập (1975). <i>The First Emperor of China</i>. White Plains, N.Y.: International Arts and Sciences Press. ISBN&#160;0-87332-067-0.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.btitle=The+First+Emperor+of+China&amp;rft.date=1975&amp;rft.genre=book&amp;rft.isbn=0-87332-067-0&amp;rft.place=White+Plains%2C+N.Y.&amp;rft.pub=International+Arts+and+Sciences+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Portal, Jane (2007). <i>The First Emperor, China's Terracotta Army</i>. British Museum Press. ISBN&#160;978-1-932543-26-1.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Portal%2C+Jane&amp;rft.aufirst=Jane&amp;rft.aulast=Portal&amp;rft.btitle=The+First+Emperor%2C+China%27s+Terracotta+Army&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-1-932543-26-1&amp;rft.pub=British+Museum+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Qian, Sima (1961). <i>Records of the Grand Historian: Qin dynasty</i>. Burton Watson, trans. New York: Columbia Univ. Press.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Qian%2C+Sima&amp;rft.aufirst=Sima&amp;rft.aulast=Qian&amp;rft.btitle=Records+of+the+Grand+Historian%3A+Qin+dynasty&amp;rft.date=1961&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Columbia+Univ.+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Wood, Frances (2007). <i>The First Emperor of China</i>. Profile. ISBN&#160;1-84668-032-8.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Wood%2C+Frances&amp;rft.aufirst=Frances&amp;rft.aulast=Wood&amp;rft.btitle=The+First+Emperor+of+China&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1-84668-032-8&amp;rft.pub=Profile&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> <li><span class="citation book">Yap, Joseph P (2009). <i>Wars With the Xiongnu, A Translation From Zizhi tongjian</i>. AuthorHouse. ISBN&#160;978-1-4490-0604-4.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Yap%2C+Joseph+P&amp;rft.aufirst=Joseph+P&amp;rft.aulast=Yap&amp;rft.btitle=Wars+With+the+Xiongnu%2C+A+Translation+From+Zizhi+tongjian&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-1-4490-0604-4&amp;rft.pub=AuthorHouse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></li> </ul>
+<a name="chu-thich"></a><h2>Chú thích</h2>
+<div class="reflist columns references-column-count references-column-count-2" > <ol class="references"> <li id="cite_note-1"><b>^</b> <span class="reference-text"><span class="citation news">“Emperor Qin Shi Huang -- First Emperor of China”. TravelChinaGuide.com<span class="reference-accessdate">. Truy cập ngày 10 tháng 9 năm 2007</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.btitle=Emperor+Qin+Shi+Huang+--+First+Emperor+of+China&amp;rft.date=10+th%C3%A1ng+9+n%C4%83m+2007&amp;rft.genre=book&amp;rft.pub=TravelChinaGuide.com&amp;rft_id=http%3A%2F%2Fwww.travelchinaguide.com%2Fattraction%2Fshaanxi%2Fxian%2Fterra_cotta_army%2Fqin_shihuang_1.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></span></li> <li id="cite_note-Wood1-2">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Wood, Frances. (2008). <i>China's First Emperor and His Terracotta Warriors</i>. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 2.</span></li> <li id="cite_note-duik-3">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Duiker, William J. Spielvogel, Jackson J. Edition: 5, illustrated. (2006). <i>World History: Volume I: To 1800</i>. Thomson Higher Education publishing. ISBN 0-495-05053-9, 9780495050537. pg 78.</span></li> <li id="cite_note-Ren-4">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Ren, Changhong. Wu, Jingyu. (2000). <i>Rise and Fall of the Qin Dynasty</i>. Asiapac Books Pte Ltd. ISBN 981-229-172-5, 9789812291721</span></li> <li id="cite_note-Wood2-5">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Wood, Frances. (2008). <i>China's First Emperor and His Terracotta Warriors</i>. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. pp 23-24, 26.</span></li> <li id="cite_note-6"><b>^</b> <span class="reference-text">‘‘The Great Wall<i>. (1981). Luo, Zhewen Luo. Lo, Che-wen. Wilson, Dick Wilson. Drege, J. P. Contributor Che-wen Lo. McGraw-Hill. ISBN 0-07-070745-6, 9780070707450. pg 23.</i></span></li> <li id="cite_note-7"><b>^</b> <span class="reference-text"><span class="citation book">Lewis, Mark Edward (2007). <i>The Early Chinese Empires: Qin and Han</i>. Belknap Press of Harvard University Press. tr.&#160;52. ISBN&#160;0-674-02477-X, 978-0674024779 <span  class="error citation-comment">Kiểm tra giá trị <code >|isbn=</code> (trợ giúp)</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Lewis%2C+Mark+Edward&amp;rft.aufirst=Mark+Edward&amp;rft.aulast=Lewis&amp;rft.btitle=The+Early+Chinese+Empires%3A+Qin+and+Han&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0-674-02477-X978-0674024779&amp;rft.pages=52&amp;rft.pub=Belknap+Press+of+Harvard+University+Press&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DEHKxM31e408C%26lpg%3DPA52%26dq%3Dthe%2520early%2520chinese%2520emperors%2520lewis%2520%2522was%2520most%2520frequently%2520used%2520as%2520an%2520epithet%2520of%2520Heaven%2522%26pg%3DPA52%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></span></li> <li id="cite_note-shijichapter5-8"><b>^</b> <span class="reference-text">Wikisource <i>Records of the Grand Historian</i> Chapter 5.</span></li> <li id="cite_note-shijichapter6-9"><b>^</b> <span class="reference-text">Wikisource <i>Records of the Grand Historian</i> Chapter 6.</span></li> <li id="cite_note-10"><b>^</b> <span class="reference-text">Book.sina.com.cn. "Sina." <i>帝王相貌引起的歷史爭議.</i> Retrieved on 2009-01-18.</span></li> <li id="cite_note-11"><b>^</b> <span class="reference-text">see <i>Chinese Emperors</i> by Ma Yan. ISBN 978-1-4351-0408-2.</span></li> <li id="cite_note-RGH-12">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">‘‘Records of the Grand Historian: Qin Dynasty <i>(English translation). (1996). Ssu-Ma, Ch'ien. Sima, Qian. Burton Watson as translator. Edition: 3, reissue, revised. Columbia. University Press. ISBN 0-231-08169-3, 9780231081696. pg 35. pg 59.</i></span></li> <li id="cite_note-13"><b>^</b> <span class="reference-text">Không phải lịch Thái Sơ hay âm lịch hiện nay, mà là lịch Chuyên Húc được dùng trước thời <a class="annotation" href="/nhan-vat/nha-han" title="Nhà Hán (giản thể: 汉朝; phồn thể: 漢朝; bính âm: Hàn cháo; Wade–Giles: Han Ch'au; Hán-Việt: Hán triều; 206 TCN – 220) là triều đại kế tục nhà Tần (221 TCN - 207 TCN), và được tiếp nối bởi thời kỳ Tam Quốc (220-280). Triều đại này được thành lập bởi Lưu Bang, một lãnh tụ khởi nghĩa chống lại sự cai trị ..." target="_blank" >nhà Hán</a>. Lịch đó lấy tháng mười làm tháng đầu năm</span></li> <li id="cite_note-LuAnnal-14"><b>^</b> <span class="reference-text">Lü, Buwei. Translated by Knoblock, John. Riegel, Jeffrey. <i>The Annals of Lü Buwei</i>: Lü Shi Chun <i>Qiu: a Complete Translation and Study</i>. (2000). Stanford University Press. ISBN 0-8047-3354-6, 9780804733540.</span></li> <li id="cite_note-sk1-15">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Tư Mã Thiên 2006, tr.&#160;38-63</span></li> <li id="cite_note-sk2-16">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Tư Mã Thiên 2006, tr.&#160;456-461</span></li> <li id="cite_note-Huang-17">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Huang, Ray. <i>China: A Macro History</i> Edition: 2, revised. (1987). M.E. Sharpe publishing. ISBN 1-56324-730-5, 9781563247309. pg 32.</span></li> <li id="cite_note-18"><b>^</b> <span class="reference-text"><i>Thế Chiến Quốc</i> (2003), Nhà xuất bản Văn hóa - Thông tin, Hà Nội</span></li> <li id="cite_note-19"><b>^</b> <span class="reference-text"><span class="citation book"><i>The Annals of Lü Buwei</i>. Knoblock, John and Riegel, Jeffrey Trans. Stanford University Press. 2001. ISBN&#160;978-0-8047-3354-0.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.btitle=The+Annals+of+L%C3%BC+Buwei&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=978-0-8047-3354-0&amp;rft.pub=Stanford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span> p. 9</span></li> <li id="cite_note-Ancient-20">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Donn, Lin. Donn, Don. <i>Ancient China</i>. (2003). Social Studies School Service. Social Studies. ISBN 1-56004-163-3, 9781560041634. pg 49.</span></li> <li id="cite_note-Mah-21">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <span class="reference-text">Mah, Adeline Yen. (2003). <i>A Thousand Pieces of Gold: Growing Up Through China's Proverbs</i>. Published by HarperCollins. ISBN 0-06-000641-2, 9780060006419. p 32-34.</span></li> <li id="cite_note-Firsteselect-22">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <sup><i><b>đ</b></i></sup> <sup><i><b>e</b></i></sup> <sup><i><b>ê</b></i></sup> <sup><i><b>g</b></i></sup> <sup><i><b>h</b></i></sup> <sup><i><b>i</b></i></sup> <sup><i><b>k</b></i></sup> <sup><i><b>l</b></i></sup> <sup><i><b>m</b></i></sup> <span class="reference-text">Sima Qian. Dawson, Raymond Stanley. Brashier, K. E. (2007). <i>The First Emperor: Selections from the Historical Records</i>. Oxford University Press. ISBN 0-19-922634-2, 9780199226344. pg 15 - 20, pg 82, pg 99.</span></li> <li id="cite_note-23"><b>^</b> <span class="reference-text">Elizabeth, Jean. Ward, Laureate. (2008). <i>The Songs and Ballads of Li He Chang</i>. ISBN 1-4357-1867-4, 9781435718678. p 51</span></li> <li id="cite_note-Wu-24">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Wu, Hung. <i>The Wu Liang Shrine: The Ideology of Early Chinese Pictorial Art</i>. Stanford University Press, 1989. ISBN 0-8047-1529-7, 9780804715294. p 326.</span></li> <li id="cite_note-25"><b>^</b> <span class="reference-text">Hk.chiculture.net. "HKChinese culture." <i>破趙逼燕.</i> Retrieved on 2009-01-18.</span></li> <li id="cite_note-Haw-26">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Haw, Stephen G. (2007). <i>Beijing a Concise History</i>. Routledge. ISBN 978-0-415-39906-7. p 22 -23.</span></li> <li id="cite_note-27"><b>^</b> <span class="reference-text"><i>Sima Qian: The First Emperor</i>. Tr. by Raymond Dawson. Oxford University Press. Edition 2007, Chronology, p. xxxix</span></li> <li id="cite_note-Clements-28">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Clements, Jonathan (2006). <i>The First Emperor of China</i>. Sutton Publishing. ISBN 0-7509-3959-1. pp. 82, 102-103, 131, 134.</span></li> <li id="cite_note-Wood4-29"><b>^</b> <span class="reference-text">Wood, Frances. (2008). <i>China's First Emperor and His Terracotta Warriors</i>. Macmillan publishing. ISBN 0-312-38112-3, 9780312381127. p 27.</span></li> <li id="cite_note-30"><b>^</b> <span class="reference-text">Murowchick, Robert E. (1994). <i>China: Ancient Culture, Modern Land</i>. University of Oklahoma Press, 1994. ISBN 0-8061-2683-3, 9780806126838. p105.</span></li> <li id="cite_note-31"><b>^</b> <span class="reference-text">Imperialism in Early China. CA. 1600BC - 8AD'. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44'</span></li> <li id="cite_note-Chang-32">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <sup><i><b>d</b></i></sup> <span class="reference-text">Chang, Chun-shu Chang. (2007). <i>The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, CA. 1600BC - 8AD</i>. University of Michigan Press. ISBN 0-472-11533-2, 9780472115334. p 43-44</span></li> <li id="cite_note-Veeck-33">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <span class="reference-text">Veeck, Gregory. Pannell, Clifton W. (2007). <i>China's Geography: Globalization and the Dynamics of Political, Economic, and Social Change</i>. Rowman &amp; Littlefield publishing. ISBN 0-7425-5402-3, 9780742554023. p57-58.</span></li> <li id="cite_note-34"><b>^</b> <span class="reference-text">Nguồn tin cũng đề cập đến ch'ien-shou là tên mới của người Tần. Đây có lẽ là chữ do Wade-Giles phiên âm chữ (秦受) có nghĩa là "người dân của đế chế Tần".</span></li> <li id="cite_note-35"><b>^</b> <span class="reference-text">Thời Tần bác sĩ là chức quan, không mang nghĩa "thầy lang". Người Tề là thuộc <a class="annotation" href="/dia-danh/nuoc-te" title="Tề quốc (Phồn thể: 齊國; giản thể: 齐国) là tên gọi của một quốc gia chư hầu của nhà Chu từ thời kì Xuân Thu đến tận thời kì Tần Thủy Hoàng thống nhất Trung Hoa. Lãnh thổ của quốc gia này hiện tương ứng với đại bộ phận tỉnh Sơn Đông. 
+ Đất nước này khởi đầu từ Khương Tử Nha, khai quốc công thần giúp Chu..." target="_blank" >nước Tề</a> thời Chiến Quốc</span></li> <li id="cite_note-Wintle-36">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Wintle, Justin Wintle. (2002). <i>China</i>. Rough Guides Publishing. ISBN 1-85828-764-2, 9781858287645. p 61. p 71.</span></li> <li id="cite_note-Li-37"><b>^</b> <span class="reference-text">Li, Xiaobing. (2007). <i>A History of the Modern Chinese Army</i>. University Press of Kentucky, 2007.ISBN 0-8131-2438-7, 9780813124384. p.16</span></li> <li id="cite_note-38"><b>^</b> <span class="reference-text">Huang, Ray. (1997). <i>China: A Macro History</i>. Edition: 2, revised, illustrated. M.E. Sharpe publishing. ISBN 1-56324-731-3, 9781563247316. p 44</span></li> <li id="cite_note-39"><b>^</b> <span class="reference-text">Sina.com. "Sina.com." <i>秦代三大水利工程之一：灵渠.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-Mayhew-40">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <sup><i><b>c</b></i></sup> <span class="reference-text">Mayhew, Bradley. Miller, Korina. English, Alex. <i>South-West China: lively Yunnan and its exotic neighbours</i>. Lonely Planet. ISBN 1-86450-370-X, 9781864503708. pg 222.</span></li> <li id="cite_note-41"><b>^</b> <span class="reference-text">Chang, Kwang-chih. Xu, Pingfang. Lu, Liancheng. Allan, Sarah. (2005). <i>The Formation of Chinese Civilization: An Archaeological Perspective</i>. Yale University Press. ISBN 0-300-09382-9, 9780300093827. pg 258.</span></li> <li id="cite_note-Goldman-42">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Goldman, Merle. (1981). <i>China's Intellectuals: Advise and Dissent</i>. Harvard University Press. ISBN 0-674-11970-3, 9780674119703. pg 85.</span></li> <li id="cite_note-43"><b>^</b> <span class="reference-text">Chaurasia, Radhey Shyam. (2004). <i>History of Modern China</i>. Atlantic Publishers &amp; Distributors. ISBN 81-269-0315-5, 9788126903153. pg 317.</span></li> <li id="cite_note-Lih-44">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Li-Hsiang Lisa Rosenlee. Ames, Roger T. (2006). <i>Confucianism and Women: A Philosophical Interpretation</i>. SUNY Press. ISBN 0-7914-6749-X, 9780791467497. p 25.</span></li> <li id="cite_note-Wood5-45">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Wood, Frances. (2008). <i>China's First Emperor and His Terracotta Warriors</i>. p 33.</span></li> <li id="cite_note-46"><b>^</b> <span class="reference-text">Twitchett, Denis. Fairbank, John King. Loewe, Michael. <i>The Cambridge History of China: The Ch'in and Han Empires 221 B.C.-A.D. 220</i>. Edition: 3. Cambridge University Press, 1986. ISBN 0-521-24327-0, 9780521243278. p 71.</span></li> <li id="cite_note-47"><b>^</b> <span class="reference-text">Từ <i>Sử ký Tư Mã Thiên</i>, bản dịch bởi Raymond Dawson trong <i>Sima Qian: The First Emperor</i>. Oxford University Press, ed. 2007, pp. 74-75, 119, 148-9</span></li> <li id="cite_note-48"><b>^</b> <span class="reference-text">Huyện Mân - tỉnh Cam Túc ngày nay</span></li> <li id="cite_note-Ong-49">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Ong, Siew Chey. Marshall Cavendish. (2006). <i>China Condensed: 5000 Years of History &amp; Culture</i>. ISBN 981-261-067-7, 9789812610676. p 17.</span></li> <li id="cite_note-50"><b>^</b> <span class="reference-text">Aikman, David. (2006). Qi. Publishing Group. ISBN 0-8054-3293-0, 9780805432930. p 91.</span></li> <li id="cite_note-51"><b>^</b> <span class="reference-text">Fabrizio Pregadio. <i>The Encyclopedia of Taoism</i>. London: Routledge, 2008: 199</span></li> <li id="cite_note-LiangY-52">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <span class="reference-text">Liang, Yuansheng. (2007). <i>The Legitimation of New Orders: Case Studies in World History</i>. Chinese University Press. ISBN 962-996-239-X, 9789629962395. pg 5.</span></li> <li id="cite_note-53"><b>^</b> <span class="reference-text">O'Hagan Muqian Luo, Paul. (2006). <i>讀名人小傳學英文: famous people</i>. 寂天文化. publishing. ISBN 986-184-045-1, 9789861840451. p16.</span></li> <li id="cite_note-54"><b>^</b> <span class="reference-text">Xinhuanet.com. "Xinhuanet.com." <i>中國考古簡訊：秦始皇去世地沙丘平臺遺跡尚存.</i> Retrieved on 2009-01-28.</span></li> <li id="cite_note-wright-55">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text"><span class="citation book">Wright, David Curtis (2001). <i>The History of China</i>. Greenwood Publishing Group. tr.&#160;49. ISBN&#160;0-313-30940-X.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Wright%2C+David+Curtis&amp;rft.aulast=Wright%2C+David+Curtis&amp;rft.btitle=The+History+of+China&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-313-30940-X&amp;rft.pages=49&amp;rft.pub=Greenwood+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></span></li> <li id="cite_note-Tung-56">^ <sup><i><b>a</b></i></sup> <sup><i><b>ă</b></i></sup> <sup><i><b>â</b></i></sup> <sup><i><b>b</b></i></sup> <span class="reference-text">Tung, Douglas S. Tung, Kenneth. [2003] (2003). More Than 36 Stratagems: A Systematic Classification Based On Basic Behaviours. Trafford Publishing. ISBN 1-4120-0674-0, 9781412006743.</span></li> <li id="cite_note-57"><b>^</b> <span class="reference-text"><i>Sima Qian: The First Emperor</i>. Tr. Raymond Dawson. Oxford University Press. Edition 2007. p. 54</span></li> <li id="cite_note-58"><b>^</b> <span class="reference-text">Jane Portal and Qingbo Duan, <i>The First Emperor: China's Terracotta Arm</i>, British Museum Press, 2007, p. 207.</span></li> <li id="cite_note-59"><b>^</b> <span class="reference-text">Man, John. <i>The Terracotta Army</i>, Bantam Press 2007 p170. ISBN 978-0-593-05929-6.</span></li> <li id="cite_note-60"><b>^</b> <span class="reference-text">Leffman, David. Lewis, Simon. Atiyah, Jeremy. Meyer, Mike. Lunt, Susie. (2003). <i>China</i>. Edition: 3, illustrated. Rough Guides publishing. ISBN 1-84353-019-8, 9781843530190. pg 290.</span></li> <li id="cite_note-61"><b>^</b> <span class="reference-text">Man, John. <i>The Terracotta Army</i>, Bantam Press 2007 p125. ISBN 978-0-593-05929-6.</span></li> <li id="cite_note-62"><b>^</b> <span class="reference-text">Huang, Ray. (1997). <i>China: A Macro History</i>. Edition: 2, revised, illustrated. M.E. Sharpe publishing. ISBN 1-56324-731-3, 9781563247316. p 37</span></li> <li id="cite_note-63"><b>^</b> <span class="reference-text">Portal, Jane. "The First Emperor: China's Terra Cotta Army. Cambridge, Massachusetts: Harvard University Press, 2007.</span></li> <li id="cite_note-64"><b>^</b> <span class="reference-text">Loewe, Michael. Twitchett, Denis. (1986). <i>The Cambridge History of China: Volume I: the Ch'in and Han Empires, 221 B.C. – A.D. 220</i>. Cambridge University Press. ISBN 0-521-24327-0.</span></li> <li id="cite_note-65"><b>^</b> <span class="reference-text">Lovell, Julia. (2006). <i>The Great Wall: China Against the World, 1000 BC-AD 2000</i>. Grove Press. ISBN 0-8021-1814-3, 9780802118141. pg 65.</span></li> <li id="cite_note-66"><b>^</b> <span class="reference-text"><i>Mao Zedong sixiang wan sui!</i> (1969), p. 195. Referenced in <i>Governing China</i> (2nd ed.) by Kenneth Lieberthal (2004).</span></li> <li id="cite_note-67"><b>^</b> <span class="reference-text">Southerncrossreview.org. "Southerncrossreview.org." "The Wall and the Books". Truy cập 2009-02-02.</span></li> <li id="cite_note-68"><b>^</b> <span class="reference-text">Openlibrary.org. "Openlibrary.org." <i>The Lord of the East.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-69"><b>^</b> <span class="reference-text">Sagan, Carl. (1985). <i>Contact</i>. Pocket Books. ISBN 0-671-70180-0. Pages 302-304, 368-370, 404-405.</span></li> <li id="cite_note-70"><b>^</b> <span class="reference-text">Samuraidvd. "Samuraidvd." <i>Shin No Shikoutei.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-71"><b>^</b> <span class="reference-text">NYTimes.com. "FILM REVIEW; Was a United China Worth Any Sacrifice? STEPHEN HOLDEN. NYtimes.com." <i>Film review.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-72"><b>^</b> <span class="reference-text">IMDb.com. "IMDb-162866." <i>Emperor and the Assassin.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-73"><b>^</b> <span class="reference-text">IMDb.com. "IMDb-365847." <i>San wa.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-74"><b>^</b> <span class="reference-text"><span class="citation news">Tookey, Chris (ngày 7 tháng 8 năm 2008). “The Mummy: Tomb Of The Dragon Emperor - After this, I want my Mummy!”. London: <i>Daily Mail.</i></span><i><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fvi.wikipedia.org%3AT%E1%BA%A7n+Th%E1%BB%A7y+Ho%C3%A0ng&amp;rft.au=Tookey%2C+Chris&amp;rft.aufirst=Chris&amp;rft.aulast=Tookey&amp;rft.btitle=The+Mummy%3A+Tomb+Of+The+Dragon+Emperor+-+After+this%2C+I+want+my+Mummy%21&amp;rft.date=7+th%C3%A1ng+8+n%C4%83m+2008&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=%27%27Daily+Mail&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Freviews%2Farticle-1042695%2FThe-Mummy-Tomb-Of-The-Dragon-Emperor--After-I-want-Mummy.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span >&#160;</span></span></i></span></li> <li id="cite_note-75"><b>^</b> <span class="reference-text">Sina.com. "Sina.com.cn." <i>历史剧:正史侠说.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-76"><b>^</b> <span class="reference-text">TVB. "TVB." <i>A Step to the Past TVB.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-77"><b>^</b> <span class="reference-text">CCTV. "CCTV." <i>List the 30 episode series.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-78"><b>^</b> <span class="reference-text">DocumentaryStorm</span></li> <li id="cite_note-79"><b>^</b> <span class="reference-text">Blockbuster. "Blockbuster." <i>Secrets of China's First emperor.</i> Retrieved on 2009-02-02.</span></li> <li id="cite_note-80"><b>^</b> <span class="reference-text">Historychannel.com. "<i>Tomb of China's First Emperor</i>Historychannel.com." Retrieved on 2009-02-02.</span></li> <li id="cite_note-81"><b>^</b> <span class="reference-text">Gamefaqs.com. "Gamefaqs-165." <i>Civilization IV.</i> Retrieved on 2009-02-03.</span></li> </ol> </div><script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3a07843dd7000196de986&product=inline-share-buttons&source=platform" async="async"></script>
+<div class="sharethis-inline-share-buttons"></div><p class="lead">(<strong>Nguồn:</strong> <em>Wikipedia</em>)</p><div class="clearfix"></div>    </div>
+
+        
+        
+<nav class="pagenavigation" aria-label="Page Navigation">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/nhan-vat/ta-dinh-de" rel="prev">
+            <span class="visually-hidden">
+                Bài viết trước: Tạ Đình Đề            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Trước</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/nhan-vat/tan-thuy-hoang-de" rel="next">
+            <span class="visually-hidden">
+                Bài viết kế tiếp: Tần Thủy Hoàng Đế            </span>
+            <span aria-hidden="true">Tiếp tục</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        <script>
+	jQuery(document).ready(function(){
+		if(!jQuery('#fb-root').length){
+			jQuery('body').prepend('<div id="fb-root"></div>');
+
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.4&appId=2081513905238192";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		}
+	});
+</script>
+
+<div class="fb-comments" data-width="100%" data-colorscheme="light" data-href="https://nguoikesu.com/nhan-vat/tan-thuy-hoang" data-numposts="10" data-order-by="social"></div></div>
+<div>
+  <div class="ja-module module mt-5 " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Bài viết cùng thư mục</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/kinh-duong-vuong" class="mod-articles-category-title ">Kinh Dương Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/lac-long-quan" class="mod-articles-category-title ">Lạc Long Quân</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-chu" class="mod-articles-category-title ">nhà Chu</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-si-lien" class="mod-articles-category-title ">Ngô Sĩ Liên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-thuong" class="mod-articles-category-title ">nhà Thương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-duong" class="mod-articles-category-title ">nhà Đường</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-viet-vuong" class="mod-articles-category-title ">Triệu Việt Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nha-tan" class="mod-articles-category-title ">nhà Tần</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/trieu-da" class="mod-articles-category-title ">Triệu Đà</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div></div>
+        </main>
+        <!-- // Content -->
+
+								<!-- Sidebar 1-->
+				<div class="sidebar sidebar-1 span4">
+					<div class="sidebar-inner">
+						<div class="ja-module module " id="Mod106"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom106" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9420377636651127"
+     data-ad-slot="9362861924"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>
+
+<!--<a href="https://danhmucbds.com" target="_blank" title="DanhMucBDS.com - Kênh thông tin bất động sản, mua bán nhà đất.">
+  <img src="/images/banners/danhmucbds-intro.jpg" alt="DanhMucBDS.com"/>
+</a>--></div>
+</div></div></div><div class="ja-module module title-star-ms " id="Mod88"><div class="module-inner"><h3 class="module-title "><span>CÁC THỜI KỲ LỊCH SỬ </span></h3><div class="module-ct"><ul class="mod-articlescategories categories-module mod-list">
+    <li>         <a href="/dong-lich-su/hong-bang-va-van-lang">
+        Hồng Bàng & Văn Lang                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/au-lac-va-nam-viet">
+        Âu Lạc & Nam Việt                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat">
+        Bắc thuộc lần I                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trung-nu-vuong">
+        Trưng Nữ Vương                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-hai">
+        Bắc thuộc lần II                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu">
+        Nhà Lý & Nhà Triệu                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-tien-ly">
+        Nhà Tiền Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-trieu">
+        Nhà Triệu                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly-va-nha-trieu/nha-hau-ly">
+        Nhà Hậu Lý                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-ba">
+        Bắc thuộc lần III                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu">
+        Thời kỳ xây nền tự chủ                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/thoi-ky-xay-nen-tu-chu/ho-khuc">
+        Họ Khúc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-ngo">
+        Nhà Ngô                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-dinh">
+        Nhà Đinh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tien-le">
+        Nhà Tiền Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ly">
+        Nhà Lý                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-tran">
+        Nhà Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-ho">
+        Nhà Hồ                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-tran">
+        Nhà Hậu Trần                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/bac-thuoc-lan-thu-tu">
+        Bắc thuộc lần IV                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-hau-le">
+        Nhà Hậu Lê                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu">
+        Nam Bắc Triều                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nam-bac-trieu/nha-mac">
+        Nhà Mạc                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh">
+        Trịnh Nguyễn Phân Tranh                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/nha-le-trung-hung">
+        Nhà Lê Trung Hưng                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-trinh">
+        Chúa Trịnh                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/trinh-nguyen-phan-tranh/chua-nguyen">
+        Chúa Nguyễn                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/nha-tay-son">
+        Nhà Tây Sơn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc">
+        Pháp Thuộc                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/phap-thuoc/nha-nguyen">
+        Nhà Nguyễn                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/khoi-nghia-chong-phap">
+        Những cuộc khởi nghĩa chống thực dân Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/phap-thuoc/dang-cong-san-viet-nam">
+        Đảng Cộng Sản Việt Nam                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa">
+        Việt Nam Dân Chủ Cộng Hoà                    </a>
+
+                            <ul>                                        <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-phap">
+        Kháng chiến chống Pháp                    </a>
+
+                    </li>
+    <li>         <a href="/dong-lich-su/viet-nam-dan-chu-cong-hoa/khang-chien-chong-mi">
+        Kháng chiến chống Mĩ                    </a>
+
+                    </li>
+                        </ul>            </li>
+    <li>         <a href="/dong-lich-su/viet-nam-xhcn">
+        Cộng hoà xã hội chủ nghĩa Việt Nam                    </a>
+
+                    </li>
+</ul>
+</div></div></div><div class="ja-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom157" class="mod-custom custom">
+    <!--<div>
+  <a href="https://luvpet.vn" target="_blank" title="LuvPet.vn - Nền tảng kết nối người nuôi với trung tâm chăm sóc thú cưng">
+  	<img src="/images/logo-luvpet.jpg" alt=""/>
+  </a>
+</div>-->
+
+<div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4761271936"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div><div class="ja-module module  title-star-ms jm-red " id="Mod121"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-tranh-bien-gioi-tay-nam-nam-1975-1978" class="mod-articles-category-title ">Chiến tranh biên giới Tây Nam năm 1975 - 1978</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-mua-xuan-nam-1975" class="mod-articles-category-title ">Chiến dịch Mùa Xuân năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/hai-chien-truong-sa-nam-1988" class="mod-articles-category-title ">Hải chiến Trường Sa năm 1988</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-duong-14-phuoc-long-nam-1974-1975" class="mod-articles-category-title ">Chiến dịch Đường 14 - Phước Long năm 1974 - 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-tay-nguyen-nam-1975" class="mod-articles-category-title ">Chiến dịch Tây Nguyên năm 1975</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-mau-than-tai-hue-nam-1968" class="mod-articles-category-title ">Trận Mậu Thân tại Huế năm 1968</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-doi-chieu-cac-trieu-dai-viet-nam-va-cac-trieu-dai-trung-quoc" class="mod-articles-category-title ">Bảng đối chiếu các triều đại Việt Nam và các triều đại Trung Quốc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/binh-ngo-dai-cao-ban-tuyen-ngon-doc-lap-thu-hai" class="mod-articles-category-title ">Bình Ngô đại cáo - bản tuyên ngôn độc lập thứ hai</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-doi-thit-bam-nam-1969" class="mod-articles-category-title ">Trận Đồi Thịt Băm năm 1969</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/chien-dich-dak-to-nam-1972" class="mod-articles-category-title ">Chiến dịch Đắk Tô năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/nam-quoc-son-ha-ban-tuyen-ngon-doc-lap-dau-tien" class="mod-articles-category-title ">Nam quốc sơn hà - Bản tuyên ngôn độc lập đầu tiên</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/tuyen-ngon-doc-lap-viet-nam-dan-chu-cong-hoa" class="mod-articles-category-title ">Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ban-dong-nam-1971" class="mod-articles-category-title ">Trận Bản Đông năm 1971</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lich-su-chu-viet-tieng-viet" class="mod-articles-category-title ">Lịch sử Chữ viết tiếng Việt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/tac-pham/hich-tuong-si-du-chu-ty-tuong-hich-van" class="mod-articles-category-title ">Hịch tướng sĩ - Dụ chư tỳ tướng hịch văn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/hoi-nghi-paris-mat-tran-ngoai-giao-nam-1968-1972" class="mod-articles-category-title ">Hội nghị Paris, mặt trận ngoại giao năm 1968-1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div><div class="ja-module module  title-star-ms latestnews " id="Mod101"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hung-vuong" class="mod-articles-category-title ">Hùng Vương</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thai-to" class="mod-articles-category-title ">Lý Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-nam-de" class="mod-articles-category-title ">Lý Nam Đế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-thai-to" class="mod-articles-category-title ">Lê Thái Tổ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+					</div>
+
+				</div>
+				<!-- // Sidebar 1-->
+				
+							</div>
+		</div>	</div>
+	<!-- // MAIN BODY -->
+	
+	
+
+<div id="botsl-1" class="bot-sl section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<div id="mod-custom110" class="mod-custom custom">
+    <div class="ads-container">
+  <!--<span class="ads-text">Quảng cáo</span>-->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9420377636651127"
+       data-ad-slot="4244769755"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+</div></div>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+
+<div id="bot-2" class="bot-sl section grey-bg">
+<div class="container">
+
+<div class="row">
+
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-calendar " id="Mod93"><div class="module-inner"><h3 class="module-title "><span>Anh Hùng Dân Tộc Tiêu Biểu</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/nhan-vat/hai-ba-trung" class="mod-articles-category-title ">Hai Bà Trưng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-hung-dao" class="mod-articles-category-title ">Trần Hưng Đạo</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/dinh-tien-hoang" class="mod-articles-category-title ">Đinh Tiên Hoàng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-hue" class="mod-articles-category-title ">Nguyễn Huệ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/nguyen-trai" class="mod-articles-category-title ">Nguyễn Trãi</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/le-dai-hanh" class="mod-articles-category-title ">Lê Đại Hành</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ngo-quyen" class="mod-articles-category-title ">Ngô Quyền</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ly-thuong-kiet" class="mod-articles-category-title ">Lý Thường Kiệt</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/tran-nhan-tong" class="mod-articles-category-title ">Trần Nhân Tông</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/nhan-vat/ho-chi-minh" class="mod-articles-category-title ">Hồ Chí Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-file " id="Mod98"><div class="module-inner"><h3 class="module-title "><span>Tư Liệu Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/tu-lieu/bang-giao/van-de-bien-gioi-viet-trung-thoi-mac" class="mod-articles-category-title ">Vấn đề biên giới Việt-Trung thời Mạc</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-tay-son" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Tây Sơn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bieu-do-cac-nhan-vat-lich-su-theo-dong-thoi-gian" class="mod-articles-category-title ">Biểu đồ các nhân vật lịch sử theo dòng thời gian</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/danh-sach-trang-nguyen-viet-nam" class="mod-articles-category-title ">Danh sách Trạng nguyên Việt Nam</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/bang-giao/ngoai-giao-viet-nam-thoi-nguyen" class="mod-articles-category-title ">Ngoại giao Việt Nam thời Nguyễn</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-dien-bien-phu-tren-khong-nam-1972" class="mod-articles-category-title ">Trận Điện Biên Phủ trên không năm 1972</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-ngoc-hoi-dong-da-nam-1789" class="mod-articles-category-title ">Trận Ngọc Hồi - Đống Đa năm 1789</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-cam-sa-nam-1775" class="mod-articles-category-title ">Trận Cẩm Sa năm 1775</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785" class="mod-articles-category-title ">Trận Rạch Gầm – Xoài Mút năm 1785</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/tu-lieu/lanh-tho-viet-nam-qua-tung-thoi-ky" class="mod-articles-category-title ">Lãnh thổ Việt Nam qua từng thời kỳ</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+		<div class="span4">
+		<div class="ja-module module latestnews title-box-ms color1-ms jmico-camera " id="Mod99"><div class="module-inner"><h3 class="module-title "><span>Di Tích Lịch Sử</span></h3><div class="module-ct"><ul class="mod-articlescategory category-module mod-list">
+                    <li>
+                                    <a href="/dia-danh/chua-pho-minh" class="mod-articles-category-title ">chùa Phổ Minh</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/chien-khu-tan-trao" class="mod-articles-category-title ">Chiến khu Tân Trào</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-danh-thang-yen-tu" class="mod-articles-category-title ">Quần thể di tích danh thắng Yên Tử</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/van-mieu-quoc-tu-giam" class="mod-articles-category-title ">Văn Miếu - Quốc Tử Giám</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/den-hung" class="mod-articles-category-title ">Đền Hùng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-luu-niem-chu-tich-ton-duc-thang" class="mod-articles-category-title ">Khu lưu niệm Chủ tịch Tôn Đức Thắng</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/quan-the-di-tich-co-do-hue" class="mod-articles-category-title ">Quần thể di tích Cố đô Huế</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/khu-di-tich-chu-tich-ho-chi-minh-tai-phu-chu-tich" class="mod-articles-category-title ">Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/ho-hoan-kiem" class="mod-articles-category-title ">Hồ Hoàn Kiếm</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+<li>
+                                    <a href="/dia-danh/thanh-co-quang-tri" class="mod-articles-category-title ">Thành cổ Quảng Trị</a>    
+    
+    
+    
+    
+    
+    
+    </li>
+    </ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div>
+	
+	
+</div>
+
+<!-- FOOTER -->
+
+
+<div id="footer" class="footer-section section">
+<div class="container">
+
+<div class="row">
+
+		<div class="span12">
+		<div class="ja-module module horizontal-ms text-center " id="Mod91"><div class="module-inner"><div class="module-ct"><ul class="mod-menu mod-list nav ">
+<li class="nav-item item-108"><a href="/gioi-thieu" >Giới thiệu</a></li><li class="nav-item item-158"><a href="/quyen-rieng-tu" >Quyền riêng tư</a></li><li class="nav-item item-109"><a href="/lien-he" >Liên hệ</a></li><li class="nav-item item-105"><a href="/dia-danh" >Địa Danh</a></li><li class="nav-item item-112"><a href="https://www.facebook.com/nguoikesu/" target="_blank" rel="noopener noreferrer">Trang Facebook</a></li><li class="nav-item item-351"><a href="https://danhmucbds.com" target="_blank" rel="noopener noreferrer">DanhMucBDS.com</a></li><li class="nav-item item-349"><a href="https://hoctotnguvan.com" target="_blank" rel="noopener noreferrer">HocTotNguVan.com</a></li></ul>
+</div></div></div>
+	</div>
+	
+</div>
+
+</div></div><!-- // FOOTER -->
+
+
+
+
+
+<!-- Custom code -->
+<!-- // Custom code -->
+
+</body>
+
+</html>
